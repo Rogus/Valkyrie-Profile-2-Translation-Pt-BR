@@ -56,3 +56,10 @@ Menu. includes character's background/profile, item/spells/attacks/skill name an
 ![Menu](images/menu.png)
 
 ![Character Background](images/character-background.png)
+
+## Dub
+Working text-to-speech generated dub, as proof of concept
+
+
+https://github.com/user-attachments/assets/e3ffbda2-0f37-4fec-a5cf-d1db6875e984
+
