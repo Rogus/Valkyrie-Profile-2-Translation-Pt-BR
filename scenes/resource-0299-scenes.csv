@@ -1,0 +1,8 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,299,1,0,,,,,Crawsus Forest Ruins,クローサス森林遺跡,,
+1,2,299,2,0,,,,,Exit,出口,,
+1,3,299,3,0,,,,,"Leave the Crawsus Forest Ruins?
+Sealstone return to original places.",クローサス森林遺跡から出ます〓封印石の〓置は〓期化されます〓,,
+1,4,299,4,0,,,,,Yes,はい,,
+1,5,299,5,0,,,,,No,いいえ,,
+1,6,299,6,0,,,,,,クローサス森林遺跡,,

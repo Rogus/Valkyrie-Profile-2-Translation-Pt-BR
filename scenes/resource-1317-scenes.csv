@@ -1,0 +1,49 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1317,1,2956,630,0,,Rufus,We're here <PART> ---- <PART> now give us back Silmeria!,シルメリアを返してもらいに来たぜ！,,
+1,2,1317,2,5700,630,1,,Arngrim,What do you have to say for yourself!?,黙ってないで何とか言ったらどうだ！？,,
+1,3,1317,3,12048,630,2,,Brahms,Silmeria!?,…シルメリア！？,,
+1,4,1317,5,12336,630,4,,Lenneth,I believe that is a homunculus.,あれはおそらく木ムンクルスよ,,
+1,5,1317,6,13580,630,5,,Alicia,But the soul... It is still Silmeria's.,魂は… シルメリアそのものなのですね？,,
+1,6,1317,7,15204,630,6,,Brahms,Then we need only take it back!,ならば奪い返すのみッ！,,
+2,1,1317,2757,43968,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1317,2758,44456,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1317,2759,44988,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1317,2760,45476,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1317,2761,46252,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1317,2762,46976,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1317,2763,47364,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1317,2764,47692,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1317,2765,48080,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1317,2243,53640,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1317,2244,53776,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1317,2245,53912,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1317,2629,61996,640,0,,Brahms,Silmeria!,シルメリア！,,
+4,2,1317,2617,63332,640,1,,Rufus,Maybe she faded away?,…消えちまったのか？,,
+4,3,1317,2618,64288,640,2,,Alicia,( Silmeria... ),（ シルメリア… ）,,
+4,4,1317,2619,64720,640,3,,Alicia,"( If you're here, answer me. )",（ いるなら〓えてちょうだい… ）,,
+4,5,1317,2620,68860,640,4,,Alicia,Silmeria!,シルメリア…,,
+4,6,1317,2630,70128,640,5,,Alicia,"At last, we meet again.",…やっと会えたわね,,
+4,7,1317,2627,70632,640,6,,Silmeria,It's been a while.,…久しぶり,,
+4,8,1317,2621,71136,640,7,,Silmeria,It's like looking in a mirror...,…〓を見ているよう,,
+4,9,1317,2622,73396,640,9,,Alicia,Yes...,…ええ,,
+4,10,1317,2623,74052,640,10,,Silmeria,Alicia...you've changed.,あなた… 変わったわ,,
+4,11,1317,2631,74564,640,11,,Alicia,Thank you.,ありがとう,,
+4,12,1317,2624,74708,640,12,,Silmeria,We should go.,行きましょう,,
+4,13,1317,2625,75576,640,13,,Silmeria,"Lezard has already melded Odin's soul
+together with his own.",既にレザードは オーディンの魂を自らに〓合させているわ,,
+4,14,1317,2626,76888,640,14,,Hrist,"So not only has he attained the power of
+a god <PART> ---- <PART> he has become one.",神の力を得たばかりでなく神そのものになったという事か…,,
+4,15,1317,2628,86556,640,8,,Silmeria,I see you can materialize now.,マテリアライズができるようになったのね,,
+5,1,1317,10,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1317,11,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1317,12,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1317,13,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1317,14,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1317,2657,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1317,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,8,1317,2753,,,,,,Arngrim,アリューゼ,,not displayed by the event script
+5,9,1317,2754,,,,,,Brahms,ブラムス,,not displayed by the event script
+5,10,1317,2755,,,,,,Lenneth,レナス,,not displayed by the event script
+5,11,1317,2756,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,12,1317,2766,,,,,,Silmeria,シルメリア,,not displayed by the event script
+5,13,1317,2767,,,,,,Hrist,アーリィ,,not displayed by the event script

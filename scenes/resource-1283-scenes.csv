@@ -1,0 +1,74 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1283,1,3940,390,0,,Alicia,Who?,…これは？,Quem?,
+1,2,1283,2,4812,390,2,,Dipan Guard,has taken her own life.,…ご自害なされました,tirou a própria vida.,
+1,3,1283,3,12712,390,3,,Dylan,Was it you? Did you do this!?,…まさか 貴様の仕業か！？,Foi você? Você fez isso!?,
+1,4,1283,4,13124,390,4,,Hrist,"I would have, but she died before I got
+to her.",そうしたかったが その女は勝手に死んだ,"Eu teria feito, mas ela morreu antes que eu chegasse até ela.",
+1,5,1283,5,14008,390,5,,Alicia,You're a murderer all the same!,あなたが殺したも同じよッ！,"Mesmo assim, você é uma assassina!",
+1,6,1283,18,14356,390,6,,Hrist,Believe whatever you like.,そう思いたければ思うがいい…,Acredite no que quiser.,
+1,7,1283,6,17356,390,8,,Alicia,Uagh! Uaaaaaaaaagh!,ウッ… ウワーッ！！,Uagh! Uaaaaaaaaagh!,
+1,8,1283,7,23624,390,9,,Alicia,Why!? Why do you side with her!?,…どうして！？ …あなたまで？,por quê!? por que você está do lado dela!?,
+1,9,1283,8,23912,390,10,,Arngrim,"The bottom line is that I work for Odin
+now. A conscience is a luxury I can't
+afford.",今の俺はつまるところオーディンの傭兵だシタバタしたって始まらない <PART> 一一,A consciência é um luxo que não posso bancar.,
+1,10,1283,24,25572,390,11,,Dylan,You traitor!,見損なったぞッ！,Seu traidor!,
+1,11,1283,19,26028,390,12,,Arngrim,What could the few of you ever do?,この人数で何ができるッ！？,O que esse punhado de vocês poderia fazer?,
+1,12,1283,10,27288,390,13,,Silmeria,"It's always the same with you,
+justifying your sins in Odin's name.",…あなたはいつもそう二言目にはオーディン様…,"Sempre o mesmo com você, justificando seus pecados em nome de Odin.",
+1,13,1283,12,28884,390,15,,Hrist,Listen to yourself!,…何を言う？,Ouça a si mesma!,
+1,14,1283,25,33704,390,16,,Hrist,"You've forgotten that serving Odin is
+the substance of our being!",我らはオーディン様に使役される身である事を忘れるな！,Você esqueceu que servir a Odin é a essência do nosso ser!,
+1,15,1283,11,41148,390,14,,Silmeria,"I'm sick of hearing about the will of
+Odin. I want to hear what you think!",オーディンの考えは聞き飽きたわ私はあなたの考えが聞きたい,Estou farta de ouvir sobre a vontade de Odin. Quero ouvir o que você pensa!,
+1,16,1283,16,44224,390,7,,Hrist,"All is as Lord Odin wills it. What's wrong
+with gods reincarnating souls?",すべては主神オーディン様の思し召し神が魂を輪廻させて何が悪い？,Tudo é como Lorde Odin deseja. O que há de errado em os deuses fazerem as almas reencarnarem?,
+1,17,1283,20,57860,390,19,,Hrist,Then you shall have it.,…相手になってやろう,Então serei sua oponente.,
+1,18,1283,17,58048,390,1,,Dipan Guard,Her Majesty <PART> ----,王妃様は <PART> 一一,Sua Majestade <PART> ----,
+1,19,1283,21,62736,390,18,,Hrist,You seek the ephemeral solace of combat?,戦いに一時の慰めを求めるか…,Você busca o consolo efêmero do combate?,
+1,20,1283,23,63492,390,17,,Silmeria,"No! Nothing gives the gods the right to
+toy with human lives!",もうたくさんよッ！ 神々が人間を愚弄していいという道理はないわッ！,Não! Nada dá aos deuses o direito de brincar com vidas humanas!,
+2,1,1283,2758,80844,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1283,2759,81332,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1283,2760,81864,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1283,2761,82352,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1283,2762,83128,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1283,2763,83852,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1283,2764,84240,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1283,2765,84568,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1283,2766,84956,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1283,1609,87448,,,,Walther,Now!,今じゃ！,Agora!,
+3,2,1283,1610,87488,,,,Hrist,Wha-!?,なっ…,O quê-!?,
+3,3,1283,1611,87528,,,,Silmeria,Unnngh...,んんッ…,Unnngh...,
+3,4,1283,1612,87568,,,,Rufus,What is it?,なんだ！？,O que foi?,
+3,5,1283,1613,87608,,,,Dylan,The Sovereign's Rite!,“王呼の秘法”だッ！,O Rito Soberano!,
+3,6,1283,1614,87648,,,,Walther,The Lord of the Undead!?,…不死者王！？,O Senhor dos Mortos Vivos!?,
+3,7,1283,1615,87688,,,,Gyne,Brahms!?,…ブラムス！？,Brahms!?,
+3,8,1283,1616,87728,,,,Freya,Those humans... How could they?,人間が… なんという事を…,Os humanos... como puderam...?,
+3,9,1283,1617,87768,,,,Odin,Who will the Lord of the Undead side with?,不死者王はどちらに味方する…？,De que lado ficará o Senhor dos Mortos Vivos...?,
+3,10,1283,1618,87808,,,,Brahms,It's my turn to save you!,今度は私が助けてやるッ！,Desta vez sou eu quem salva vocês!,
+3,11,1283,1619,87848,,,,Silmeria,Behind you!,いけないッ！,Atrás de você!,
+3,12,1283,1620,87888,,,,Freya,What!?,何ッ！？,O quê!?,
+3,13,1283,1621,87928,,,,Silmeria,Ugh...,ウッ…,Ugh...,
+3,14,1283,1622,87968,,,,Brahms,Urgh!,ぐはッ…！,Argh!,
+3,15,1283,1623,88008,,,,Freya,This distortion... that lattice?,この歪み… この方陣は…！？,Essa distorção... esse círculo mágico...?,
+4,1,1283,2366,92384,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1283,2367,92520,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1283,2368,92656,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1283,28,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1283,29,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1283,30,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1283,31,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1283,32,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1283,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1283,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,8,1283,2753,,,,,,Dipan Guard,ディパン衛兵長,,not displayed by the event script
+5,9,1283,2754,,,,,,Dylan,ディラン,,not displayed by the event script
+5,10,1283,2755,,,,,,Hrist,アーリィ,,not displayed by the event script
+5,11,1283,2756,,,,,,Arngrim,アリューゼ,,not displayed by the event script
+5,12,1283,2757,,,,,,Silmeria,シルメリア,,not displayed by the event script
+5,13,1283,2767,,,,,,Walther,ウォルザ,,not displayed by the event script
+5,14,1283,2768,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,15,1283,2769,,,,,,Gyne,ガイン,,not displayed by the event script
+5,16,1283,2770,,,,,,Freya,フレイ,,not displayed by the event script
+5,17,1283,2771,,,,,,Odin,オーディン,,not displayed by the event script
+5,18,1283,2772,,,,,,Brahms,ブラムス,,not displayed by the event script

@@ -1,0 +1,44 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1209,2752,12664,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+1,2,1209,2753,13152,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+1,3,1209,2754,13684,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+1,4,1209,2755,14172,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+1,5,1209,2756,14948,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+1,6,1209,2757,15672,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+1,7,1209,2758,16060,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+1,8,1209,2759,16388,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+1,9,1209,2760,16776,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+2,1,1209,688,20624,340,0,,Rufus,"Hey, what's the matter?",おい どうした！？,,
+2,2,1209,689,20756,340,1,,Alicia,I can't take it anymore.,もう 〓えられない…,,
+2,3,1209,690,21240,340,2,,Alicia,"We're not even close, but all the town
+gossip is nothing but bad news about
+Dipan.",こんな遠くにいるのに 街の噂はディパンの悪い知らせばかりだなんて…,,
+2,4,1209,691,21448,340,3,,Dylan,It's only talk.,…噂は噂だ,,
+2,5,1209,692,21952,340,4,,Rufus,Let's not kid ourselves.,気〓め言うなよ…,,
+2,6,1209,694,22400,340,6,,Lezard,The teleport spell?,…〓送方陣ですか？,,
+2,7,1209,695,22812,340,7,,Rufus,"Yeah, that's it!",それだよ それ！,,
+2,8,1209,696,23340,340,9,,Rufus,"C'mon, why not?",なんでだよ！？,,
+2,9,1209,697,23752,340,10,,Lezard,"Actually, I already tried it.",…実はもう〓してみたのです,,
+2,10,1209,698,24224,340,11,,Lezard,"But a powerful force field now surrounds
+Dipan.",しかしディパンには強い結界が張られていました,,
+2,11,1209,699,24464,340,12,,Lezard,"I am truly sorry, but it is beyond the
+extent of my power.",申し訳ありませんが 私の力では〓〓 及びません,,
+2,12,1209,700,24972,340,13,,Dylan,"Well, let's hope at least the ships are
+sailing.",…せめて船が出ている事を祈ろう,,
+2,13,1209,701,25260,340,14,,Rufus,Back to Solde again...,またソルデか…,,
+2,14,1209,702,30168,340,8,,Lezard,Well...,残念ながら…,,
+2,15,1209,703,32500,340,5,,Rufus,"Hey, can't we use that <PART> ---- <PART> what did you call it?
+Tell-apart magic?",なあ あれ使えないのか？…〓送魔法だっけ？,,
+3,1,1209,2366,37880,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1209,2367,38016,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1209,2368,38152,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1209,3,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1209,4,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1209,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1209,6,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1209,7,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1209,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1209,2761,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,8,1209,2762,,,,,,Alicia,アリーシャ,,not displayed by the event script
+4,9,1209,2763,,,,,,Dylan,ディラン,,not displayed by the event script
+4,10,1209,2764,,,,,,Lezard,レザード,,not displayed by the event script

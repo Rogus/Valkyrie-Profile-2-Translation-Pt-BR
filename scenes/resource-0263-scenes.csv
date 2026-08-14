@@ -1,0 +1,8 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,263,2,1296,,,,,A deadly presence lurks beyond...,この先から〓ならぬ気配を感じる…,,
+1,2,263,6,2048,,,,,"With the <PART> Divine Time Giver <PART> , you may
+exceed the preset number of attacks. <PART> Note AP cost doubles after the first set.",時〓りの神器 <PART> を入手した事で、〓定〓〓〓上の〓〓が〓〓になりました。 <PART> た〓しセット目からの〓〓は、〓〓〓〓が〓になります。,,
+2,1,263,3,,,,,,Proceed.,先へ〓〓,,not displayed by the event script
+2,2,263,4,,,,,,Stay out.,〓る,,not displayed by the event script
+2,3,263,34,,,,,,Audoula Temple on the Lake,アウドゥーラ水上神殿,,not displayed by the event script
+2,4,263,2774,,,,,,Acquired <PART> Crystal Chainmail,クリスタル〓ェイン <PART> を手に入れた,,not displayed by the event script

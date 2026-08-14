@@ -1,0 +1,49 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1261,1,4388,270,0,,Alicia,"So, does it still hurt?",まだどこか痛むのですか？,,
+1,2,1261,10,5808,270,3,,Alicia,"I hope that you won't take this the
+wrong way,",こんな事を言うのは失礼ですが <PART> 一一,,
+1,3,1261,9,6324,270,5,,Alicia,We have the same problem...,私と同じだ と…,,
+1,4,1261,11,6624,270,6,,Rufus,You think it's the same?,同じなもんかッ…,,
+1,5,1261,12,7280,270,7,,Rufus,"Ha, you've got it so much worse than I do.",あんたのほうが よっぱど大変だろ…,,
+1,6,1261,13,7432,270,9,,Alicia,"I wondered what would happen if she were
+summoned while I slept at night.",もし私が〓ている間にシルメリアが召喚されたら <PART> 一一,,
+1,7,1261,5,8168,270,10,,Alicia,"Would I never wake up? Would I just
+disappear? I couldn't sleep.",私は二度と目覚める事がないまま消えると思うと 〓れませんでした,,
+1,8,1261,6,8456,270,11,,Alicia,"How would it feel if your soul faded
+away?",魂が消えるって…どんな感じでしょうか？,,
+1,9,1261,7,8856,270,12,,Rufus,Stop it!,やめてくれッ！,,
+1,10,1261,15,10248,270,13,,Alicia,I'm sorry.,…すみません,,
+1,11,1261,14,10436,270,14,,Rufus,"Maybe you got over it, but I'm still
+afraid to close my eyes at night.",あんたは達〓したのかもしれないけど俺は今でも〓るのが怖いぜ…,,
+1,12,1261,8,10724,270,15,,Alicia,"I don't think the gods will ever grant
+us peace.",神は私達に安らぎを与えてはくれないのですね…,,
+1,13,1261,16,11268,270,16,,Rufus,"Let's just give it a rest, okay?",もうよそうぜ こんな話…,,
+1,14,1261,18,12084,270,17,,Rufus,"We've gotta find that orb and give Odin
+a taste of his own medicine!",とっととオーブ見つけて オーディンに一〓吹かせてやろうじゃねえの！,,
+1,15,1261,2,17020,270,2,,Alicia,"I thought I was the only one. The only one
+in the world tormented by the gods.",…この世界で神に〓弄されているのは私だけだと思っていました,,
+1,16,1261,3,17140,270,1,,Rufus,I'm alright.,…いいや,,
+1,17,1261,4,17580,270,8,,Alicia,"When I first realized Silmeria was with
+me, I was afraid to fall asleep.",シルメリアの事がわかり始めた頃〓 〓るのがとても怖かった…,,
+1,18,1261,19,21984,270,4,,Alicia,"but, hearing what you said made me feel
+a lot better.",あなたの話を聞いて 正直少しだけ楽になりました,,
+2,1,1261,2754,35676,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1261,2755,36164,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1261,2756,36696,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1261,2757,37184,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1261,2758,37960,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1261,2759,38684,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1261,2760,39072,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1261,2761,39400,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1261,2762,39788,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1261,2267,45348,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1261,2268,45484,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1261,2269,45620,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1261,23,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1261,24,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1261,25,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1261,26,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1261,27,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1261,2722,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1261,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
+4,8,1261,2753,,,,,,Rufus,ルーファス,,not displayed by the event script

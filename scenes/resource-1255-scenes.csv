@@ -1,0 +1,75 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1255,36,5540,260,0,,Rufus,Aaagh!,ぐおッ！,,
+2,1,1255,2,8784,260,1,,Alicia,Rufus!,ルーファス！,,
+2,2,1255,3,11192,260,2,,Silmeria,"Quickly! The ring <PART> ---- <PART> put it back on his
+finger!",指輪よ！ 急いではめてあげて！,,
+2,3,1255,4,13832,260,3,,Dylan,What just happened!?,何が起きたんだ！？,,
+2,4,1255,5,14208,260,4,,Lezard,"A powerful force field surrounds the
+dais, but it should never cause harm
+to a human...",〓〓には強い結界が張られていますが決して人間に害を及ぼさないはず <PART> 一一,,
+2,5,1255,6,16584,260,7,,Lezard,"A god's flesh. The ""vessel of the gods""...",神と同じ肉体 〓ち“神の器”…,,
+2,6,1255,35,17360,260,8,,Rufus,"Yeah, whatever...",何とでも言え…,,
+2,7,1255,7,18304,260,9,,Rufus,I suppose you knew all along.,やっぱりあんたは 気づいてたんだな…,,
+2,8,1255,34,19340,260,10,,Alicia,"What do you mean? This doesn't make
+sense to me!",どういう事なのですか？私にはわかりません！,,
+2,9,1255,28,19776,260,11,,Rufus,"My body is a spare reserved
+exclusively for Odin.",俺はオーディン〓用の〓備の肉体なんだよッ！,,
+2,10,1255,9,20176,260,12,,Rufus,"The ring prevents me from aging. It
+keeps me young so he can transfer into
+me whenever he needs.",奴に何かあれば すぐ乗り〓れるようにこの指輪で成長も老化も止められてるんだ,,
+2,11,1255,10,21108,260,13,,Dylan,"So, what would have happened if you
+hadn't put it back on?",もし… あのまま外していればどうなっていたんだ？,,
+2,12,1255,11,22060,260,14,,Rufus,"I've been told my soul will just burn
+away.",魂が消えると聞かされている…,,
+2,13,1255,12,22460,260,15,,Rufus,"This ring keeps me alive <PART> ---- <PART> with no hope
+of rebirth.",輪廻する事も叶わず俺はこの指輪に生かされ続けてるんだ,,
+2,14,1255,13,23500,260,16,,Silmeria,"I stayed silent about your secret, only
+for you to go and reveal it yourself.",せっかく黙っておいてあげた正体を自らの不注意で〓すとは…,,
+2,15,1255,14,24552,260,17,,Dylan,"That's no way to talk to him. After all,
+he's fighting for your sake!",あんたらのために戦ってるんだそういう言い方はないんじゃないか？,,
+2,16,1255,15,25084,260,18,,Silmeria,"Oh, really?",どうだか…,,
+2,17,1255,29,25508,260,19,,Silmeria,"You came all this way, because you
+need us to succeed.",我々に期するところあればこそここまでついてきたのでしょう？,,
+2,18,1255,17,26424,260,20,,Rufus,"Can't keep anything from you, can I?",ヘッ… あんたに隠し事はできないな,,
+2,19,1255,30,27192,260,21,,Rufus,"Yes, I have a personal stake in your
+success.",確かに俺は あんたらに〓けてた <PART> 一一,,
+2,20,1255,18,27324,260,22,,Rufus,"If you do manage to take Odin down, then
+my fate might also change.",オーディンの野郎を倒せば 俺の運命も変えられるかもしれないからな,,
+2,21,1255,19,27840,260,23,,Rufus,"I've had enough <PART> ---- <PART> I've had enough of
+living like a farm animal in the Forest
+of Spirits.",精霊の森で家〓みたいに暮らすのはもうウンザリだったんだ…,,
+2,22,1255,20,28300,260,24,,Dylan,Your secret is out now.,バレたものはしょうがない…,,
+2,23,1255,21,28576,260,25,,Dylan,"So, do you have any problems with
+everyone here knowing?",だいたいこのメンバーに知れたところで何も困る事はないだろう？,,
+2,24,1255,22,29132,260,26,,Lezard,"There is no fate in this world that is
+unalterable. We are all on your side.",抗えない運命など この世にありません我々は皆 味方ですよ,,
+2,25,1255,23,29816,260,27,,Rufus,Spare me your sympathy.,気〓めはたくさんだ…,,
+2,26,1255,31,30684,260,28,,Silmeria,"The orb was taken in the direction of
+Kalstad.",オーブはカルスタッドの方向に運ばれてるわ,,
+2,27,1255,37,32096,260,29,,Leone,O sad slaves of the gods...,悲しき神の奴〓よ…,,
+2,28,1255,24,44244,260,6,,Rufus,I'm actually half elf.,…ハーフエルフさ,,
+2,29,1255,33,61316,260,5,,Rufus,"Yeah, well, I'm not quite human...",俺は <PART> 人間じゃない…,,
+3,1,1255,2758,77972,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+3,2,1255,2759,78460,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+3,3,1255,2760,78992,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+3,4,1255,2761,79480,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+3,5,1255,2762,80256,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+3,6,1255,2763,80980,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+3,7,1255,2764,81368,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+3,8,1255,2765,81696,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+3,9,1255,2766,82084,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+4,1,1255,2366,102372,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1255,2367,102508,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1255,2368,102644,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1255,40,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1255,41,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1255,42,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1255,43,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1255,44,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1255,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1255,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,8,1255,2753,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,9,1255,2754,,,,,,Silmeria,シルメリア,,not displayed by the event script
+5,10,1255,2755,,,,,,Dylan,ディラン,,not displayed by the event script
+5,11,1255,2756,,,,,,Lezard,レザード,,not displayed by the event script
+5,12,1255,2757,,,,,,Leone,レオーネ,,not displayed by the event script

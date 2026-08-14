@@ -1,0 +1,49 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1275,1,4396,310,0,,Silmeria,"It has been taken to the Palace of the
+Venerated Dragon.",〓竜殿… という場所に運ばれたようね,,
+1,2,1275,2,7700,310,1,,Undead,...!,！,,
+1,3,1275,3,8900,310,2,,Undead,...!,！！,,
+1,4,1275,4,9188,310,3,,Silmeria,"Demon that desecrates this hallowed
+ground <PART> ---- <PART> you will find no refuge here!",神聖なる〓〓を〓す不死者 <PART> 一一 <PART> ここを貴様の安住の地にはさせぬ！,,
+1,5,1275,5,12512,310,4,,Arngrim,That's a new one.,…何だ ありゃ？,,
+1,6,1275,6,12860,310,5,,Rufus,"Huh. Timid little demon, ain't he?",不死者のくせに気が弱いというか…,,
+1,7,1275,7,13024,310,6,,Leone,"I've heard there are, in rare cases,
+tame undead that prefer not to fight.",ごく〓に 戦いを好まない〓和な不死者もいるそうだけど…,,
+1,8,1275,8,13576,310,7,,Leone,But I've never actually seen one until now.,…実際に見たのは私も初めてよ,,
+1,9,1275,15,14968,310,8,,Dylan,Whatever. Let's go.,ともあれ先を急ごう,,
+1,10,1275,10,15828,310,9,,Freya,"What are you looking at, my lord?",…あなたは何を見ているの？,,
+1,11,1275,16,16812,310,10,,Odin,This is no small matter.,そう責められたものでもない,,
+1,12,1275,11,17680,310,11,,Odin,"Do not underestimate the Lord of the
+Undead. Our lesser deity may not be
+enough to stop him.",不死者王の力は〓れぬ下〓神では見〓けぬのも無理はない,,
+1,13,1275,12,18572,310,12,,Freya,"What shall we do, then?",…いかがいたしますか？,,
+1,14,1275,13,19404,310,13,,Odin,"I deem we wait and watch over them for now.
+All will become clear before long.",しばらくこのまま見守ろうではないかすべて見届けてからでも遅くはない,,
+1,15,1275,14,20416,310,14,,Odin,"In the meantime, be happy we've found our
+replacement for the orb.",まずはオーブの代わりが見つかって良しとしよう <PART> 一一,,
+2,1,1275,2760,47336,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1275,2761,47824,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1275,2762,48356,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1275,2763,48844,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1275,2764,49620,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1275,2765,50344,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1275,2766,50732,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1275,2767,51060,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1275,2768,51448,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1275,2309,57008,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1275,2310,57144,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1275,2311,57280,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1275,19,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1275,20,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1275,21,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1275,22,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1275,23,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1275,2683,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1275,2752,,,,,,Silmeria,シルメリア,,not displayed by the event script
+4,8,1275,2753,,,,,,Undead,不死者,,not displayed by the event script
+4,9,1275,2754,,,,,,Arngrim,アリューゼ,,not displayed by the event script
+4,10,1275,2755,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,11,1275,2756,,,,,,Leone,レオーネ,,not displayed by the event script
+4,12,1275,2757,,,,,,Dylan,ディラン,,not displayed by the event script
+4,13,1275,2758,,,,,,Freya,フレイ,,not displayed by the event script
+4,14,1275,2759,,,,,,Odin,オーディン,,not displayed by the event script

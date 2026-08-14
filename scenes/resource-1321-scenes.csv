@@ -1,0 +1,81 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1321,44,1936,680,0,,Arngrim,"Hey, are you alright?",大丈夫か おい…,,
+1,2,1321,38,2056,680,1,,Brahms,I feel pain...,…痛みを感じる,,
+1,3,1321,39,2456,680,2,,Rufus,Come on! That doesn't sound very undead!,しっかりしろよ 不死者らしくないぜ,,
+1,4,1321,43,4444,680,3,,Brahms,We need to hurry. Lenneth is in danger...,急がねば レナスが危ない…,,
+1,5,1321,1,4904,680,4,,Rufus,"Yeah, sure. But what the heck can we do?
+Look at the state we're in.",そうは言っても今の俺達じゃ同じ事の繰り返しだろ？,,
+1,6,1321,40,5096,680,5,,Arngrim,"And I don't think these two will be any
+help.",こいつらも頼りにならないしな…,,
+1,7,1321,4,5924,680,7,,Brahms,It's useless. These aren't floating souls.,無駄だ そいつらは浮〓する魂とは違う,,
+1,8,1321,41,6280,680,8,,Brahms,"These are displaced valkyrie spirits that
+can't escape the Sovereign's Rite.",“王呼の秘法”の〓縛から逃れられない行き場を失ったヴァルキリーの精神だ,,
+1,9,1321,5,6688,680,9,,Brahms,They will fade away...,いずれ消えゆく…,,
+1,10,1321,6,7012,680,10,,Arngrim,"So it's just down to us now, huh?",戦力は残された俺達だけって事か…,,
+1,11,1321,7,7168,680,11,,Brahms,"No. If we regain Lenneth's soul, that will
+give us a new weapon.",いや レナスの魂を取り戻せば新たな戦力を生み出せる <PART> 一一,,
+1,12,1321,8,8236,680,12,,Brahms,Lezard is intent on melding with Lenneth.,レザードはレナスと〓合する気でいた…,,
+1,13,1321,9,8896,680,13,,Brahms,"Before he can do that, I shall become
+the vessel of the three valkyries,
+concentrating their power into one!",その前に私を器にして三姉〓の魂を〓合させヴァルキリーの力を一つにするのだ！,,
+1,14,1321,10,9716,680,14,,Brahms,"Only then will we stand a chance of
+opposing Lezard.",その力ならばレザードに対抗できる…,,
+1,15,1321,11,10376,680,15,,Rufus,Are you sure that's the only way?,…そこまでしなきゃならないのか？,,
+1,16,1321,12,10520,680,16,,Brahms,"You saw for yourself! We face a god who
+surpasses Odin!",みんな見たはずだ敵はオーディンを〓ぐ神なのだ,,
+1,17,1321,13,11376,680,17,,Alicia,Let me...,…私を,,
+1,18,1321,14,11520,680,18,,Alicia,Let me be the vessel!,私を器にさせてください！,,
+1,19,1321,15,12220,680,19,,Rufus,Are all of you people crazy?,何を言い出すかと思えば…,,
+1,20,1321,16,13056,680,20,,Brahms,"It won't be the same as sharing your
+body with Silmeria.",シルメリアを肉体に宿すのとはわけが違うぞ！,,
+1,21,1321,17,13248,680,21,,Brahms,"All four souls, including the vessel's, will
+be fused to create an entirely new being!",器も〓め四つの魂を〓合させ 全く別の魂を持つ存在に生まれ変わるのだ！,,
+1,22,1321,18,16044,680,22,,Brahms,"Much as I once melded with a man named
+Dylan and concealed my identity...",かつて私がディランという男と〓合し自らの存在を隠したようにな…,,
+1,23,1321,19,16572,680,23,,Alicia,"I can create the future I want by becoming
+one with them. If I can do that...",彼女達と一つになる事で私が望む未来を得られるのなら <PART> 一一,,
+1,24,1321,20,17688,680,24,,Alicia,"Then I don't care what happens to me.
+Even if I lose my personality and can't
+go back!",私の人格が〓み込まれ元に戻れなくなっても構いません！,,
+1,25,1321,21,19012,680,25,,Brahms,"The strain on your body will be too much.
+You won't be able to sustain it for long.",その肉体では負〓が大き過ぎる長くは持たないだろう,,
+1,26,1321,22,19472,680,26,,Alicia,Neither can you! You're injured.,〓を負ったあなたでは〓更です！,,
+1,27,1321,23,19932,680,27,,Brahms,"When your body fails, the soul will fade.",…肉体が崩壊すれば魂も消滅するぞ,,
+1,28,1321,24,20524,680,28,,Alicia,I don't care!,構いません！,,
+1,29,1321,25,20744,680,29,,Rufus,How can you say you don't care!?,軽々しく言うんじゃねぇッ！,,
+1,30,1321,26,22932,680,30,,Rufus,"Please, think about what you're saying!
+Think of everything you and I have been
+through to reach this place!",俺とお前と どれだけ辛い思いをしてここまで来たか よく考えろよ…,,
+1,31,1321,27,23720,680,31,,Alicia,I have.,…考えたの,,
+1,32,1321,28,24300,680,32,,Alicia,I've been thinking about it a long time.,考えてたのよ ずっと…,,
+1,33,1321,29,25168,680,33,,Alicia,"Ever since I was little, I always wanted
+to be separate from Silmeria.",小さい頃からずっと シルメリアから離れたいと思っていたのに <PART> 一一,,
+1,34,1321,30,25528,680,34,,Alicia,"but once it happened, I felt so empty.",その願いが叶った時 私は空っぱだった…,,
+1,35,1321,31,26168,680,35,,Alicia,And that was when I realized...,その時… 初めて思ったの,,
+1,36,1321,32,26384,680,36,,Alicia,I need Silmeria.,シルメリアが必要だ って…,,
+1,37,1321,33,28272,680,37,,Brahms,I see you're ready.,覚悟はわかった,,
+1,38,1321,34,29344,680,38,,Alicia,Rufus...,…ルーファス,,
+1,39,1321,35,29472,680,39,,Rufus,You don't have to say it... I know.,もう言うな… 俺もわかった,,
+1,40,1321,36,31660,680,40,,Alicia,Let's do it.,…行きましょう！,,
+2,1,1321,2756,60256,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1321,2757,60744,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1321,2758,61276,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1321,2759,61764,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1321,2760,62540,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1321,2761,63264,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1321,2762,63652,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1321,2763,63980,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1321,2764,64368,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1321,2366,69964,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1321,2367,70100,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1321,2368,70236,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1321,47,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1321,48,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1321,49,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1321,50,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1321,51,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1321,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1321,2752,,,,,,Arngrim,アリューゼ,,not displayed by the event script
+4,8,1321,2753,,,,,,Brahms,ブラムス,,not displayed by the event script
+4,9,1321,2754,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,10,1321,2755,,,,,,Alicia,アリーシャ,,not displayed by the event script

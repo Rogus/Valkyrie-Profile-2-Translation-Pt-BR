@@ -1,0 +1,7 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,331,10,904,,,,,"There's a depression in the statue,
+as if something could be placed there.",女性像に何かをはめこむための〓が開いている。,,
+2,1,331,1,,,,,,,,,not displayed by the event script
+2,2,331,3,,,,,,,,,not displayed by the event script
+2,3,331,13,,,,,,Palace of the Venerated Dragon,奉竜殿,,not displayed by the event script
+2,4,331,14,,,,,,Acquired <PART> Eclipse Stone,〓食の石 <PART> を手に入れた,,not displayed by the event script

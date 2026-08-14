@@ -1,0 +1,42 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1263,1,6708,280,1,,Leone,Such a waste.,気の毒に…,,
+1,2,1263,2,7644,280,2,,Alicia,Was it someone you knew?,…お知り合いですか？,,
+1,3,1263,14,8372,280,3,,Leone,No...,いや…,,
+1,4,1263,15,8624,280,4,,Leone,Just sympathy for one of my kind.,…同〓 相〓れむってとこよ,,
+1,5,1263,12,9072,280,6,,Arngrim,"to worry about digging his grave
+tomorrow.",のんびり墓を〓ててる暇はないぜ,,
+1,6,1263,4,9316,280,7,,Leone,Don't be so cold towards the dead.,そう言わず手〓く〓ってあげないと…,,
+1,7,1263,5,10272,280,8,,Leone,Someday it might be you.,あなたが〓が一の時にもね,,
+1,8,1263,6,11192,280,9,,Arngrim,Yeah? So what?,…興味ないな,,
+1,9,1263,7,12028,280,10,,Alicia,"If you don't mind, I'll help you.",私もお手伝いします,,
+1,10,1263,16,12568,280,11,,Leone,Don't worry about it.,いいのよ,,
+1,11,1263,8,14352,280,12,,Leone,You go on ahead. I'll catch up.,先を急いで 私もすぐ後を追うわ,,
+1,12,1263,9,16740,280,14,,Lezard,Let's go.,参りましょう,,
+1,13,1263,17,17344,280,15,,Alicia,Yeah...,ええ…,,
+1,14,1263,18,18432,280,13,,Alicia,"Um, alright.",…そうですか,,
+1,15,1263,10,31400,280,0,,Silmeria,"The orb was taken in the direction of
+Crell Monferaigne.",オーブはクレルモンフェランの方向に運ばれてるわ,,
+1,16,1263,13,38556,280,5,,Arngrim,I'll be too busy trying to stay alive,明日は我が身…,,
+2,1,1263,2757,57068,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1263,2758,57556,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1263,2759,58088,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1263,2760,58576,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1263,2761,59352,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1263,2762,60076,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1263,2763,60464,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1263,2764,60792,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1263,2765,61180,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1263,2366,66776,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1263,2367,66912,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1263,2368,67048,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1263,21,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1263,22,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1263,23,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1263,24,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1263,25,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1263,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1263,2752,,,,,,Leone,レオーネ,,not displayed by the event script
+4,8,1263,2753,,,,,,Alicia,アリーシャ,,not displayed by the event script
+4,9,1263,2754,,,,,,Arngrim,アリューゼ,,not displayed by the event script
+4,10,1263,2755,,,,,,Lezard,レザード,,not displayed by the event script
+4,11,1263,2756,,,,,,Silmeria,シルメリア,,not displayed by the event script

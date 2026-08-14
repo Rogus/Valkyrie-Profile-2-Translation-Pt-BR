@@ -1,0 +1,4 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1065,62,0,,,,,Seraphic Gate,セラフィックゲート,,
+1,2,1065,150,0,,,,,Acquired <PART> Second Ruin,セカンドルーイン <PART> を手に入れた,,
+1,3,1065,151,0,,,,,,〓戦士の知識 <PART> を手に入れた,,

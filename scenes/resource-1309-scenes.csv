@@ -1,0 +1,62 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1309,1,2500,510,0,,Alicia,Shouldn't we rest a bit?,少し〓まない？,,
+1,2,1309,2,3220,510,1,,Rufus,"Yeah, I guess so.",ああ… そうだな,,
+1,3,1309,3,4332,510,2,,Alicia,Are you okay?,…どうかしたの？,,
+1,4,1309,4,4500,510,3,,Alicia,You haven't said a word.,ずっと黙っているけど…,,
+1,5,1309,5,7668,510,4,,Rufus,I'm fine.,いや…,,
+1,6,1309,6,7812,510,5,,Rufus,"I never thought I'd live to see a view
+like this with my own eyes... Incredible.",こんな〓色をこの目で見られる日が来るなんて… まだ信じられなくて…,,
+1,7,1309,7,8996,510,6,,Rufus,I owe it all to you.,…〓のおかげだよ,,
+1,8,1309,8,9296,510,7,,Alicia,I feel the same...,私こそ…,,
+1,9,1309,9,10916,510,8,,Alicia,"If it weren't for you, I'd never have
+made it this far.",…ここにこうしていられるのは全部あなたのおかげ…,,
+1,10,1309,10,11204,510,9,,Rufus,"You can throw that ring away, you know.",捨てちまえよ そんな物…,,
+1,11,1309,11,11468,510,10,,Rufus,"In Asgard, time is eternal. You won't
+age at all while you're here.",アスガルドには永遠の時が流れているからここじゃ〓をとる事もない,,
+1,12,1309,12,12132,510,11,,Rufus,Go ahead. It's safe for you to take it off.,外しても不死者になる心配はないぜ,,
+1,13,1309,13,13036,510,12,,Alicia,I know...,いいの <PART> 一一,,
+1,14,1309,14,13300,510,13,,Alicia,"But, it's become my good luck charm.",これは私の 幸運のお守り,,
+1,15,1309,15,14408,510,14,,Rufus,It's too big. It looks silly on you.,…似合ってねえぞ ブカブカだし,,
+1,16,1309,16,16096,510,15,,Rufus,"Alright, I'm heading for the top from
+here. You go to Valhalla.",俺はこのまま頂上を目指す〓はヴァルハラを目指せ,,
+1,17,1309,17,16860,510,16,,Alicia,What? We're splitting up?,…ここで別れるの！？,,
+1,18,1309,18,17148,510,17,,Rufus,"Odin's no fool. He knows we're here.
+He's going to be looking for us.",オーディンは〓〓じゃない俺達の動きに気づいてないわけがない,,
+1,19,1309,19,17656,510,18,,Rufus,"If I know him, he'll want his vengeance.",…この先 必ず潰しに来る,,
+1,20,1309,20,18720,510,19,,Alicia,Then all the more reason <PART> ----,だったら〓更 <PART> 一一,,
+1,21,1309,21,20088,510,20,,Rufus,I don't want you to get hurt!,〓き〓えにしたくないんだ！,,
+1,22,1309,22,20680,510,21,,Rufus,"I don't care if I die. I would welcome
+death.",…俺は殺されたって構わないむしろ本望だ,,
+1,23,1309,23,20800,510,22,,Rufus,But not you. Not now.,でも 〓は違うはずだ…,,
+1,24,1309,24,21224,510,23,,Rufus,"You still have to get the Dragon Orb.
+Doesn't that matter more?",ドラゴンオーブを取り返す大事な仕事が残ってるだろ？,,
+1,25,1309,25,21928,510,24,,Alicia,I can't do it alone...,私 独りじゃ…,,
+1,26,1309,26,23020,510,25,,Alicia,I <PART> ----,私は <PART> 一一,,
+1,27,1309,27,23176,510,26,,Alicia,I'll take my chances with you.,あなたに〓けてみたいの,,
+1,28,1309,28,23464,510,27,,Alicia,"I want to be watching when you become
+a god.",あなたが神になるのを見届けたいの,,
+1,29,1309,29,24472,510,28,,Alicia,"Then, we can go retrieve the orb
+together after that.",その後でオーブを取り返しに行くんじゃ…,,
+1,30,1309,30,24712,510,29,,Alicia,Can't we?,…駄目？,,
+1,31,1309,31,25476,510,30,,Rufus,"Alright, then.",…わかった,,
+1,32,1309,32,25984,510,31,,Rufus,Let's stick together.,見ててくれ！,,
+2,1,1309,2754,64072,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1309,2755,64560,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1309,2756,65092,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1309,2757,65580,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1309,2758,66356,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1309,2759,67080,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1309,2760,67468,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1309,2761,67796,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1309,2762,68184,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1309,2366,73780,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1309,2367,73916,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1309,2368,74052,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1309,35,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1309,36,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1309,37,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1309,38,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1309,39,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1309,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1309,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
+4,8,1309,2753,,,,,,Rufus,ルーファス,,not displayed by the event script

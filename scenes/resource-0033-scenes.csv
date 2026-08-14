@@ -1,0 +1,120 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,33,14,5528,,,,Boy,"Did you know? Dipan is lit by magic light,
+so it's bright even after sunset. <PART> ---
+If I were there, they'd probably
+just make me study even later...",知ってる？ ディパンは魔法の光が街を〓らしているから〓もとっても明るいんだって！ <PART> まあ その分 遅くまで〓強しろって言われそうだけどね…,,
+1,2,33,15,5620,,,,Boy,"I'd love to study magic in Dipan. There's
+only so much you can learn in Solde.",ディパンで魔法の〓強したいなあ…ソルデみたいな街じゃ 学べる事も限られてるし,,
+1,3,33,16,5912,,,,Gentleman,"I actually caught a glance of the guys
+raiding the ships. <PART> ---
+They looked more like mercenaries
+than pirates to me.",実は俺 船を襲った奴ちょっとだけ見たんだけどさ <PART> 海賊っていうより傭兵みたいな格好してたんだよなあ…,,
+1,4,33,17,6004,,,,Gentleman,"Pirates are the bearded guys who
+wear the big hats, right?",海賊っていうと やっぱりデカイ〓を被った〓のオヤシっていう感じだよな？,,
+1,5,33,18,6192,,,,Townsperson,"All the cargo is sunk!
+I'm going to starve to death! <PART> ---
+I wonder if another country is behind
+this, trying to ruin Dipan's commerce.",〓〓が全て〓んじまったよこれじゃメシの食い上げだ！ <PART> もしかして ディパンの〓〓を潰そうとしてどっかの国が手引きしてるんじゃねえか？,,
+1,6,33,19,6284,,,,Townsperson,"I need a way to put food on the table
+until trade resumes. Curse those pirates!",〓〓が再開されるまで何とか食い繋ぐ手段を見つけにゃならん これも全て海賊のせいだ！,,
+1,7,33,20,6472,,,,Gentleman,"This isn't good.
+When exactly will the liners sail again? <PART> ---
+It's costing me to store my cargo here.
+If I don't get it to Dipan, I'll go broke.",ああ まいったな一体いつになったら定期船は復航するんだろうな <PART> 〓〓だって保管料がかかるんだディパンへ持って行けなきゃ大損だよ,,
+1,8,33,21,6564,,,,Gentleman,"Solde needs Dipan's trade to thrive.
+What will we do without it?",ソルデの〓栄は ディパンとの〓〓のお陰なんだそれなのに その〓〓ができないなんて…,,
+1,9,33,22,7380,,,,Townsperson,"I think it's about time Dipan contacted
+us with some kind of update. <PART> ---
+What is King Barbarossa doing?
+People there must be worried, too.",そろそろディパンから何かしらの連〓があってもいい頃だと思うんだがなあ <PART> バルバロッサ王は何をしているんだ？あっちの住人も困ってるだろうに,,
+1,10,33,23,7472,,,,Townsperson,"Have they gotten rid of the pirates yet?
+There was one big guy with a huge sword.",もう海賊は退治されたのか？ 何でもバカでかい剣を持った大男だったらしいが…,,
+1,11,33,24,7932,,,,Townsperson,"It's no use <PART> ---- <PART> they don't tell us anything.
+If only we had a land route, at least... <PART> ---",ダメだね ディパンから情報が入ってこないよせめて陸〓があれば話は別なんだろうけどねえ…,,
+1,12,33,25,8380,,,,Gentleman,"Just as the ships were about to sail again,
+Dipan declared a moratorium on travel. <PART> ---
+What exactly is King Barbarossa thinking?
+Solde will be ruined!",やっと船が復航したかと思ったら今度はディパンからの渡航〓否〓言だと <PART> 一体バルバロッサ王は何を考えてるんだこれじゃソルデが潰れちまう！,,
+1,13,33,26,8472,,,,Gentleman,"If trade stays frozen, Solde's done for.
+What the heck is Dipan thinking!?",このまま〓〓が止まれば ソルデは…くそっ！ 何考えてんだディパンは！,,
+1,14,33,27,8752,,,,Townsperson,"They've suspended the liners again...
+and just when they'd started up again, too. <PART> ---
+Maybe Dipan will close off its borders.
+Hah! Right, they'd never do that!",定期船 また差止めなんだとさ動いた途端に止まるなんて… 嫌な感じだねえ <PART> このままディパンは国〓を閉ざすつもりじゃ…ま まさかね そんなわけないよねえ,,
+1,15,33,28,8844,,,,Townsperson,"What would Dipan close off its borders
+for? Could it be...a war or something?",もし ディパンが国〓を閉ざすつもりなら…一体何のために？ まさか…戦争…かねえ…,,
+1,16,33,29,9004,,,,Lady,"One ship actually left Dipan recently,
+but now they've all stopped again.",ディパンから船が出たのよ 出たんだけど…これが最後の船だって…,,
+1,17,33,30,9832,,,,Townsperson,"It's the first time Dipan's banned travel.
+They're essentially ending foreign trade. <PART> ---
+This kind of market is pretty much
+a clear indication of war. <PART> ---
+But who is there for them to fight?
+None on Midgard can rival them.",ディパンからの渡航〓否〓言なんて初めてだ実〓他との国〓を閉ざしたようなもんじゃねえか <PART> こういう場合の相場ってのは大〓戦争と決まっているがよ <PART> 今更どこと戦するってんだ？ ミッドガルドじゃもう敵はいないだろうに,,
+1,18,33,31,9924,,,,Townsperson,"I remember rumors about strange research
+in Dipan, but is that related to the ban?",そういやディパンが怪しい研究をしてるって噂が流れてたが 渡航〓否と何か関係あるのかね？,,
+1,19,33,32,11328,,,,Gentleman,"The smoke rising from the other shore <PART> ---- <PART> that's Dipan, right? Are they under attack?",向こう〓の〓 あれは間違いなくディパンだよな？襲撃受けてんのか！？ あのディパンが！？,,
+1,20,33,33,11408,,,,Townsperson,"If Dipan disappears,
+what's going to happen to Solde? <PART> ---
+What else is there for us besides trade?
+There's no way we can survive!",もしディパンが無くなったら…このソルデはどうなるんだ？ <PART> 〓〓以外で どんな道を探れってんだ他に〓って行ける手段なんか無いんだぞ！,,
+1,21,33,34,11488,,,,Townsperson,"I saw it <PART> ---- <PART> a sudden flash above Dipan! It
+was the gods' power...the wrath of the gods!",私見たんだよ！ 突然ディパンの上空に光が…！あれは神の力だよ 神がお怒りになったんだよ！,,
+1,22,33,35,12504,,,,Gentleman,"There used to be a path that only
+the royal family of Dipan knew about. <PART> ---
+King Barbarossa revealed it ahead of
+time so that the people could escape. <PART> ---",ディパン王家の者しか知らない地下道があったんだってな <PART> バルバロッサ王は そこから民を逃がすよう真っ先に指〓したらしいぜ…,,
+1,23,33,36,12596,,,,Gentleman,"King Barbarossa was indeed a great king,
+but opposing the gods is madness.",バルバロッサ王は 確かに名〓だったけどさ神に逆らおうなんて考えちゃいけなかったんだ…,,
+1,24,33,37,12784,,,,Townsperson,"However proud the man, trying to exceed
+the human condition carries a punishment. <PART> ---
+The king was too great for mere mortality.
+Nevertheless, the gods' rule is absolute.",いかに名〓の〓れが高くてもやはり人の分を超えれば罰は下るもんさ <PART> バルバロッサ王は非〓過ぎたんだろうな…人は神の支配からは逃れられないってのによ,,
+1,25,33,38,12876,,,,Townsperson,"Dipan is as good as gone.
+And with that, Solde is soon to follow.",ディパンは滅びたも同然だそうなると このソルデも…もう…,,
+1,26,33,39,13064,,,,Townsperson,"This town was built upon trade with Dipan.
+We're literally in the same boat as them. <PART> ---
+Our trade with other countries is paltry.
+We won't be able to live off of that.",この街はディパンとの〓〓で成り立っていたんだいわばディパンとは運命共同体だったんだよ <PART> 他の国との〓〓なんて 〓々たる〓ぎさ食い繋ぐ手段にもなりゃしない…,,
+1,27,33,40,13156,,,,Townsperson,"This town doesn't stand a chance.
+Trade with Dipan is all it had.",ディパンとの〓〓以外に何も無いこの街がこの先 存続できるはずが無いよ…,,
+1,28,33,41,15664,,,,Lady,"I'm leaving Solde for Villnore.
+I don't think there's a life for me here. <PART> ---
+It was good while it lasted,
+but if Dipan's gone, then there's no hope.",ソルデを離れてヴィルノアに行くつもりなの多分 もうここでは生活が成り立たないから… <PART> ここでの暮らしは楽しかったけれどディパンが無くなったらどうしようもないし…,,
+1,29,33,42,15756,,,,Lady,"Everyone is getting ready to leave Solde.
+Without trade, there's nothing for us here.",皆 ソルデを離れる準備をしているわここはディパンとの〓〓以外に何も無いから…,,
+1,30,33,43,17108,,,,Gentleman,"Stay out of my way!
+I'm getting ready to make tracks. <PART> ---
+If Dipan's done for, so is Solde.
+There's no reason for me to be here.",邪魔をしないでくれ街を出る準備で忙しいんだ <PART> ディパンが滅んじゃ ソルデも終わりだよもうこの街にいる理由は無いんだ,,
+1,31,33,44,17200,,,,Gentleman,"Everybody is leaving for a better life.
+Someday there won't even be a town here.",皆 生活のために〓住の準備をしているいずれこの街は無くなるんだろうな,,
+1,32,33,45,17456,,,,Townsperson,"Solde exists because of trade with Dipan.
+How else could a harbor like this succeed? <PART> ---
+And now it's come to this.
+What am I supposed to do now?",ソルデはディパンとの〓〓で成り立ってたんだじゃなきゃ こんな港町が〓栄するもんか <PART> それなのに…こんな事になるなんてこれからどう暮らしていけば良いってんだい…,,
+1,33,33,46,17548,,,,Townsperson,"Young people go first, but soon everybody
+will leave. I guess it's the end for Solde.",若い人から どんどん街を出て行くよこのままソルデは滅びるのかねえ…,,
+1,34,33,47,18720,,,,Townsperson,"The only ones left in town now are
+patriots and elders with no place to go. <PART> ---
+Everyone disappeared so suddenly.
+That's what happens when a country falls.",この街に残っているのは行く当てのない年〓りか物好きだけさ <PART> 人がいなくなるのはあっという間だったよ一国が滅ぶというのは こういう事なんだねえ…,,
+1,35,33,48,18812,,,,Townsperson,"Dipan fell, and now the winds of anarchy
+are blowing like there's no tomorrow.",ディパンが滅んでタガが外れたのか不穏な空気が流れ始めたね…,"Dipan caiu, e agora os ventos da anarquia
+sopram como se não houvesse amanhã.",
+2,1,33,1,,,,,,To the port,港へ,,not displayed by the event script
+2,2,33,3,,,,,,Inn,〓〓,,not displayed by the event script
+2,3,33,4,,,,,,Armory,〓器〓〓〓,,not displayed by the event script
+2,4,33,5,,,,,,House,民家,,not displayed by the event script
+2,5,33,6,,,,,,,,,not displayed by the event script
+2,6,33,7,,,,,,_ <PART> Solde <PART> Soul Street,港町ゾルデ <PART> ソール通り,,not displayed by the event script
+2,7,33,8,,,,,,Exit,出口,,not displayed by the event script
+2,8,33,11,,,,,,Leave Solde?,港町ゾルデから出ます,,not displayed by the event script
+2,9,33,12,,,,,,Yes,はい,,not displayed by the event script
+2,10,33,13,,,,,,No,いいえ,,not displayed by the event script
+2,11,33,628,,,,,,Solde,港町ゾルデ,,not displayed by the event script
+2,12,33,2741,,,,,,Boy,〓〓,,not displayed by the event script
+2,13,33,2742,,,,,,Gentleman,〓〓,,not displayed by the event script
+2,14,33,2743,,,,,,Townsperson,ゾルデ住人,,not displayed by the event script
+2,15,33,2744,,,,,,Lady,街〓,,not displayed by the event script

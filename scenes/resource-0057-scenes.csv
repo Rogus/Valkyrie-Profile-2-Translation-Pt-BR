@@ -1,0 +1,22 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,57,1,528,,,,Dipan Soldier,"This area is off-limits to the public. <PART> ---
+File a request and come back in the daytime
+if you have business in the castle.",この先は一般の方は立ち入り〓止となっております <PART> 城に用ならば 正式な手続きを踏んでから〓間にお〓し下さい,,
+1,2,57,2,764,,,,Dipan Soldier,"We have to switch with the guards
+at the postern gate soon.",そろそろ 裏口と〓備の〓代をしないと,,
+1,3,57,3,820,,,,Dipan Soldier,"I say we go grab a bite to eat!
+Who cares if we're a little late? <PART> ---",その前に 腹ごしらえをして行かないか？少しくらい裏の〓備を空けたって大丈夫だろ,,
+1,4,57,5,876,,,,Dipan Soldier,"Think about it <PART> ---- <PART> nobody goes round to the rear,
+so we might as well take a break, right?",…そうですね 人なんてほとんど来ないし少しくらい〓備に遅れても大丈夫ですよね,,
+1,5,57,6,1072,,,,Dipan Soldier,"It used to be that even commoners
+were allowed to enter freely. <PART> ---
+But since Princess Alicia passed away,
+the royal chambers remain firmly shut. <PART> ---
+I don't usually chat like this, but you
+just look so much like the princess...",以前は一般人でも気軽に立ち入れたものでしたが… <PART> アリーシャ王女が亡くなって以来すっかり閉ざされた王〓となってしまいまして <PART> ああ このような話を申し訳ありません貴方が王女に似ていたもので つい…,,
+1,6,57,7,1164,,,,Dipan Soldier,"Just looking at you makes me feel like
+I'm talking to the princess all grown up.",貴方を見ていると まるで成長した王女にお会いできたような気さえします…,,
+2,1,57,4,,,,,,_ <PART> Dipan <PART> Dipan Castle Gates,ディパン城下町 <PART> 城正〓前,,not displayed by the event script
+2,2,57,30,,,,,,Dipan,ディパン城下町,,not displayed by the event script
+2,3,57,31,,,,,,Dipan Soldier,ディパン兵士,,not displayed by the event script
+2,4,57,32,,,,,,Dipan Soldier,ディパン兵士,,not displayed by the event script

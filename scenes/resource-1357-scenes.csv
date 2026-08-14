@@ -1,0 +1,60 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1357,2752,10324,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+1,2,1357,2753,10812,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+1,3,1357,2754,11344,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+1,4,1357,2755,11832,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+1,5,1357,2756,12608,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+1,6,1357,2757,13332,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+1,7,1357,2758,13720,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+1,8,1357,2759,14048,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+1,9,1357,2760,14436,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+2,1,1357,751,22844,420,3,,Rufus,How am I supposed to know? Don't ask me.,…俺にもわかんねぇよ,,
+2,2,1357,752,22988,420,4,,Alicia,Where's everyone?,みんなは？,,
+2,3,1357,753,23156,420,5,,Rufus,They're gone.,消えた…,,
+2,4,1357,754,23492,420,6,,Alicia,Huh!?,えっ！？,,
+2,5,1357,755,23780,420,7,,Rufus,"What, you missed that part?",…見てなかったのか？,,
+2,6,1357,775,24328,420,8,,Alicia,Silmeria!?,…シルメリア！？,,
+2,7,1357,756,24708,420,9,,Alicia,Where are you!?,…どこにいるの！？,,
+2,8,1357,757,24996,420,10,,Rufus,"I think she was transferred by that
+Sovereign's Rite or whatever.",転生しちまったんだろ？“王呼の秘法”とかいう術で…,,
+2,9,1357,771,25116,420,11,,Alicia,You mean...the research was complete!?,研究が… 完成していたの！？,,
+2,10,1357,758,25516,420,12,,Rufus,"Yeah... Dammit! Turns out everybody was
+hiding something.",…まったく どいつもこいつも隠し事ばっかりしやがって…,,
+2,11,1357,759,26088,420,13,,Alicia,Father and Dallas... They never knew.,お父様もダレスも… 知らなかったのね,,
+2,12,1357,760,26692,420,15,,Rufus,"I'm guessing the two of them are
+floating around Valhalla now.",二人とも今頃 ヴァルハラで求ヤいてんじゃねえのか？,,
+2,13,1357,761,27048,420,16,,Alicia,"Do you think they were turned into
+einherjar against their will?",なす術なく エインフェリアにされてしまったというの…,,
+2,14,1357,762,27236,420,17,,Rufus,"I don't know. Lezard hung in there,
+mumbling some spell or something until
+the end.",レザードの奴 〓〓か何か〓いて最後までブツブツ頑張ってたけどな,,
+2,15,1357,763,27356,420,18,,Rufus,"Guess it didn't work, huh?",…ダメだったんだろうな,,
+2,16,1357,764,27676,420,19,,Rufus,"Dylan looked like he was about to
+unleash something massive, but nothing
+happened.",ディランのほうがよっぱど強そうな術見せてくれそうだと思ったのに <PART> 一一,,
+2,17,1357,765,27964,420,20,,Rufus,"Turns out he's Brahms, Lord of the
+Undead. The skeleton in his closet was
+bigger than Leone's!",不死者王 ブラムスだったなんて…レオーネより性〓が悪いぜ…,,
+2,18,1357,766,28104,420,21,,Alicia,"So, what are we supposed to do now?",これから… どうすれば？,,
+2,19,1357,767,28928,420,22,,Rufus,That's what I wanna know!,こっちが聞きたいよ！,,
+2,20,1357,768,30668,420,24,,Rufus,"Hey, maybe the two of us should go look
+for the orb.",二人でまたオーブでも探しに行くか？,,
+2,21,1357,769,30824,420,25,,Rufus,"That is, unless you don't think you can
+rely on me...",…俺一人じゃ頼りになんねぇか？ハハ…,,
+2,22,1357,772,41200,420,14,,Alicia,What about Dylan and Lezard?,ディランとレザードは？,,
+2,23,1357,774,42584,420,2,,Alicia,What happened back there?,何が起きたのか…,,
+2,24,1357,776,46304,420,1,,Alicia,Is everything alright?,…大丈夫ですか？,,
+2,25,1357,777,47820,420,23,,Rufus,Sorry...,…ごめん,,
+2,26,1357,778,47980,420,0,,Alicia,Rufus...,ルーファス…,,
+2,27,1357,779,48200,420,26,,Rufus,Let's get out of here.,…城を出てみようぜ,,
+3,1,1357,2366,53232,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1357,2367,53368,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1357,2368,53504,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1357,3,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1357,4,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1357,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1357,6,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1357,7,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1357,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1357,2761,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,8,1357,2762,,,,,,Alicia,アリーシャ,,not displayed by the event script

@@ -1,0 +1,8 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,543,1,0,,,,,Hall of Valhalla,ヴァルハラ宮殿,,
+1,2,543,7,0,,,,,Acquired <PART> Warrior's Wits,〓戦士の知識 <PART> を手に入れた,,
+1,3,543,8,0,,,,,Acquired <PART> Ambrosia,アンブロシア <PART> を手に入れた,,
+1,4,543,9,0,,,,,Acquired <PART> Thief's Thoughts,〓〓の知識 <PART> を手に入れた,,
+1,5,543,10,0,,,,,Acquired <PART> Sorcerer's Savvy,魔術〓の知識 <PART> を手に入れた,,
+1,6,543,11,0,,,,,Acquired <PART> Archer's Aptitude,〓〓士の知識 <PART> を手に入れた,,
+1,7,543,12,0,,,,,,〓士の知識 <PART> を手に入れた,,

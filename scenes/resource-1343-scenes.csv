@@ -1,0 +1,19 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1343,2740,2204,,,,,"Because of what you did,
+Valhalla has been thrown into chaos.",貴方達のおかげで <PART> ヴァルハラは滅茶苦茶よ,,
+1,2,1343,2746,2900,,,,,Just a lowly mortal. The lowest of the low.,世界の〓辺で〓く <PART> 人の子の分際で,,
+1,3,1343,2741,3548,,,,Dog Freya,Hmph... <PART> I hope you're pleased with yourself!,まったく… <PART> 〓められたものではないわね！,,
+1,4,1343,2742,3668,,,,Dog Freya,"That big baby in pajamas is useless...
+I will take charge of this world.",あのパシャマも役に立たないし <PART> この世界は私が管理する,,
+1,5,1343,2743,3788,,,,Dog Freya,Hmph... <PART> I hope you're pleased with yourself!,まったく… <PART> 〓められたものではないわね！！,,
+1,6,1343,2749,3932,,,,Dog Freya,"It will require might to restore
+order to Valhalla.",ヴァルハラを立て直すための戦力が必要なのよ,,
+1,7,1343,2744,4076,,,,Dog Freya,Prepare to suffer divine retribution!,覚悟を決めなさい！！！,,
+1,8,1343,2748,4272,,,,Freya,Don't think I don't have retribution for you!,当然 <PART> お前の覚悟も決まっているわね！,,
+1,9,1343,2745,5304,,,,,Hmph... <PART> I hope you're pleased with yourself.,まったく… <PART> 〓められたものではないわね,,
+1,10,1343,2747,5424,,,,Freya,"You! <PART> Low, filthy beast!",〓汚い <PART> 獣ふぜいが…,,
+1,11,1343,2754,12640,,,,,Freya <PART> has joined the party.,フレイ <PART> が仲間に加わりました,,
+1,12,1343,2750,16960,,,,Freya,Hmph.,…まったく,,
+2,1,1343,2751,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+2,2,1343,2752,,,,,,Dog Freya,〓フレイ,,not displayed by the event script
+2,3,1343,2753,,,,,,Freya,フレイ,,not displayed by the event script

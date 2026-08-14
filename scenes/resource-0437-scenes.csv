@@ -1,0 +1,13 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,437,2,828,,,,Roussalier,"Remember the thick mist on the way here? <PART> ---
+That area has an illusory field in
+place to keep invaders out. <PART> ---
+Use the white flowers to find your path
+whenever you need to return here.",来る途中に〓の深い場所があったでしょう <PART> あの場所は〓入者を〓むための迷いの結界が施されているわ <PART> もう一度 ここに戻りたいのなら白い花を目印に歩きなさい,,
+1,2,437,3,920,,,,Roussalier,"Use the white flowers to find your path
+whenever you need to return here.",もう一度 ここに戻りたいのなら白い花を目印に歩きなさい,,
+2,1,437,1,,,,,,,,,not displayed by the event script
+2,2,437,4,,,,,,HTalk,〓す,,not displayed by the event script
+2,3,437,11,,,,,,Forest of Spirits,精霊の森,,not displayed by the event script
+2,4,437,12,,,,,,Acquired <PART> Foolproof Talisman,〓〓のタリスマン <PART> を手に入れた,,not displayed by the event script
+2,5,437,13,,,,,,Roussalier,ルザリエ,,not displayed by the event script

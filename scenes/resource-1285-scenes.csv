@@ -1,0 +1,51 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1285,1,2724,810,0,,Rufus,Okay...,…なあ,,
+1,2,1285,2,2916,810,1,,Rufus,"So basically, in order to save Midgard,
+we need to defeat Odin?",この先ミッドガルドを救うってのはつまり オーディンを倒すって事か？,,
+1,3,1285,3,3216,810,2,,Dylan,No.,いや…,,
+1,4,1285,4,3468,810,3,,Dylan,"Restoring the Dragon Orb to Midgard will
+avert the crisis at hand.",ドラゴンオーブを取り返して地上に安置できれば 当〓をしのげる,,
+1,5,1285,5,3768,810,4,,Lezard,"However, if Odin himself is guarding it...",しかしオーディン自らドラゴンオーブを守護していたとしたら <PART> 一一,,
+1,6,1285,6,4772,810,5,,Dylan,We'll cross that bridge when we come to it.,一一 <PART> 行き掛かり上 〓けて通れないな,,
+1,7,1285,7,4904,810,6,,Rufus,"Do you know what you're saying? That
+would be like us starting Ragnarok and
+winning.",それって俺達がラグナロクを起こして勝利するみたいなもんだろ…,,
+1,8,1285,8,5424,810,7,,Rufus,Aren't we getting a little carried away?,無茶にも程があるぜ…,,
+1,9,1285,9,5556,810,8,,Lezard,"Rufus, we can't have you losing heart on us.",困りますね あなたがそんな弱気では…,,
+1,10,1285,10,6280,810,9,,Lezard,"You are the sole person in this world
+with any hope of rivaling Odin.",あなたはこの世界で唯一人オーディンに手が届く立場にあるのです,,
+1,11,1285,16,6944,810,10,,Lezard,"One could say you possess a greater potential
+to oppose Odin than even Lady Silmeria...",ある意味 シルメリア殿よりもオーディンに対抗できる可能性を秘めている,,
+1,12,1285,17,8448,810,12,,Dylan,"Odin's knowledge can be assimilated into
+Rufus.",オーディンの〓〓をルーファスの中に取り込むってのか,,
+1,13,1285,12,9408,810,13,,Rufus,"You think I'm just some brainless
+""vessel of the gods""?",俺が“神の器”だからってバカにしてんのかッ！,,
+1,14,1285,13,10756,810,14,,Lezard,"No, I have respect for you.",いえ これはむしろ〓意です,,
+1,15,1285,14,11252,810,15,,Lezard,You may be mankind's only hope now.,人間はもはや あなたにすがるしかないのかもしれない <PART> 一一,,
+1,16,1285,19,13972,810,17,,Silmeria,I understand what you're saying...,なるほど 興味深い…,,
+1,17,1285,15,14240,810,18,,Silmeria,"But until Rufus acquires the courage, skills,
+and strength, it's all speculation.",でもルーファスにそれだけの度〓と技量力量が〓わぬ限り 〓上の空論でしかない,,
+1,18,1285,11,22368,810,11,,Dylan,I see.,なるほど…,,
+1,19,1285,18,24488,810,16,,Lezard,Not as a vessel <PART> ---- <PART> but as a true god.,器でなく 本物の神として…,,
+2,1,1285,2756,36812,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1285,2757,37300,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1285,2758,37832,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1285,2759,38320,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1285,2760,39096,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1285,2761,39820,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1285,2762,40208,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1285,2763,40536,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1285,2764,40924,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1285,2366,46520,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1285,2367,46656,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1285,2368,46792,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1285,22,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1285,23,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1285,24,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1285,25,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1285,26,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1285,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1285,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,8,1285,2753,,,,,,Dylan,ディラン,,not displayed by the event script
+4,9,1285,2754,,,,,,Lezard,レザード,,not displayed by the event script
+4,10,1285,2755,,,,,,Silmeria,シルメリア,,not displayed by the event script

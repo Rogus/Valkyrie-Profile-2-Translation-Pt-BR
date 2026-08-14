@@ -1,0 +1,38 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1387,2752,5352,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+1,2,1387,2753,5840,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+1,3,1387,2754,6372,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+1,4,1387,2755,6860,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+1,5,1387,2756,7636,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+1,6,1387,2757,8360,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+1,7,1387,2758,8748,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+1,8,1387,2759,9076,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+1,9,1387,2760,9464,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+2,1,1387,1044,11208,,,,Odin,Ugh!,クッ…！,,
+2,2,1387,1047,11248,,,,Freya,"---
+Lord Odin!",オーディン様ッ！！,,
+2,3,1387,1045,11288,,,,Freya,The distortion I felt <PART> ---- <PART> it is him!,あの人間こそが“歪み”の源 <PART> 一一,,
+2,4,1387,1048,11328,,,,Freya,Uaaagh!,うわッ！,,
+2,5,1387,1046,11368,,,,Odin,Freya!,フレイ！,,
+2,6,1387,1060,11416,,,,Odin,Gwaaaaaaaaaaah!,ぐおおおーッ！,,
+2,7,1387,1059,11456,,,,Odin,Soul transfusion...,〓魂の〓…,,
+2,8,1387,1058,11496,,,,Odin,How can a mere mage wield the power of a god?,一介の魔導師が… なぜ神の力を…,,
+2,9,1387,1057,11536,,,,Lezard,This is no mere mage...,我は一介の魔導師にあらず <PART> 一一,,
+2,10,1387,1056,11576,,,,Odin,Silmeria!?,…シルメリア！？,,
+2,11,1387,1049,11616,,,,Lezard,"Foolish god, blinded by the Dragon Orb's
+shine! Your grip upon Gungnir fades.",ドラゴンオーブの輝きに目を奪われグングニルを御する力をも鈍らせた愚神 <PART> 一一,,
+2,12,1387,1050,11656,,,,Lezard,That which does not grow falls into decay.,成長を〓れば 〓退に転じるは世の習い,,
+2,13,1387,1051,11696,,,,Lezard,The hand worthy of wielding this divine lance...,この神槍を手にするに相応しきは <PART> 一一,,
+2,14,1387,1052,11736,,,,Lezard,...is mine.,一一 <PART> 我なり,,
+3,1,1387,2366,16504,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1387,2367,16640,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1387,2368,16776,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1387,3,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1387,4,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1387,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1387,6,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1387,7,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1387,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1387,2761,,,,,,Odin,オーディン,,not displayed by the event script
+4,8,1387,2762,,,,,,Freya,フレイ,,not displayed by the event script
+4,9,1387,2763,,,,,,Lezard,レザード,,not displayed by the event script

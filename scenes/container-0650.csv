@@ -1,0 +1,2600 @@
+﻿resource,message_id,kind,offset,byte_length,original_en,original_jp,translated
+650,1,codepage,0,3,LV,〓〓,
+650,0,codepage,0,3,LV,〓〓,
+650,2,codepage,3,3,HP,〓〓,
+650,3,codepage,6,2,/,〓,
+650,4,codepage,8,5,Exp.,〓〓〓,
+650,5,codepage,13,5,Next,〓〓〓〓,
+650,6,codepage,18,8,Free LV,〓〓〓〓,
+650,7,codepage,26,4,STR,〓〓〓,
+650,8,codepage,30,4,INT,〓〓〓,
+650,9,codepage,34,4,DEX,〓〓〓,
+650,10,codepage,38,4,AGL,〓〓〓,
+650,11,codepage,42,4,CON,〓〓〓,
+650,12,codepage,46,4,ATK,〓〓〓,
+650,13,codepage,50,4,MAG,〓〓〓,
+650,14,codepage,54,4,HIT,〓〓〓,
+650,15,codepage,58,4,AVD,〓〓〓,
+650,16,codepage,62,4,RDM,〓〓〓,
+650,17,codepage,66,4,RST,〓〓〓,
+650,18,codepage,70,10,Tolerance,属〓〓〓,
+650,19,codepage,80,5,Fire,炎,
+650,20,codepage,85,4,Ice,〓,
+650,21,codepage,89,10,Lightning,雷,
+650,22,codepage,99,6,Earth,土,
+650,23,codepage,105,5,Holy,聖,
+650,24,codepage,110,9,Darkness,〓,
+650,25,codepage,119,11,Resistance,〓〓異常〓〓,
+650,26,codepage,130,6,Curse,〓い,
+650,27,codepage,136,10,Paralysis,〓〓,
+650,28,codepage,146,8,Silence,〓〓,
+650,29,codepage,154,7,Poison,〓,
+650,30,codepage,161,5,Doom,〓死,
+650,31,codepage,166,7,Freeze,〓結,
+650,32,codepage,173,10,Confusion,〓乱,
+650,33,codepage,183,6,Stone,石化,
+650,34,codepage,189,6,Faint,気絶,
+650,35,codepage,195,8,Frailty,〓〓,
+650,36,codepage,203,9,Transfer,〓送,
+650,37,codepage,212,2,%,,
+650,38,codepage,214,7,Weapon,〓〓〓〓〓〓,
+650,39,codepage,221,5,Head,〓〓〓〓,
+650,40,codepage,226,5,Body,〓〓〓〓,
+650,41,codepage,231,5,Arms,〓〓〓,
+650,42,codepage,236,5,Legs,〓〓〓〓,
+650,43,codepage,241,7,Acc. 1,〓〓〓〓〓,
+650,44,codepage,248,7,Acc. 2,〓〓〓〓〓,
+650,45,codepage,255,7,Acc. 3,〓〓〓〓〓,
+650,46,codepage,262,7,Acc. 4,〓〓〓〓〓,
+650,47,codepage,269,6,Class,クラス,
+650,48,codepage,275,4,Age,〓〓,
+650,49,codepage,279,7,Gender,〓〓,
+650,50,codepage,286,5,Born,〓生〓,
+650,51,codepage,291,5,Died,〓〓,
+650,52,codepage,296,5,Size,サイズ,
+650,53,codepage,301,5,Male,〓,
+650,54,codepage,306,7,Female,女,
+650,55,codepage,313,17,Check abilities.,〓力〓を〓〓します,
+650,56,codepage,330,17,Check equipment.,〓〓を〓〓します,
+650,57,codepage,347,22,Check learned skills.,〓〓〓みスキルを〓〓します,
+650,58,codepage,369,30,Check learned normal attacks.,〓〓〓み〓常〓〓技を〓〓します,
+650,59,codepage,399,22,Check learned spells.,〓〓〓み魔法を〓〓します,
+650,60,codepage,421,15,Check profile.,プロフィールを〓〓します,
+650,61,codepage,436,18,Check background.,経〓を〓〓します,
+650,62,codepage,454,12,<8099>-<8099>+Char.,キャラ,
+650,63,codepage,466,20,<8099>@Info <8099>-<8099>+Char.,〓〓〓キャラ,
+650,64,codepage,486,23,<8099>8<8099>9Page <8099>-<8099>+Char.,ページ〓キャラ,
+650,65,codepage,509,23,<8099>8<8099>9Page <8099>-<8099>+Char.,ページ〓キャラ,
+650,66,codepage,532,5,None,なし,
+650,67,codepage,537,11,Long Sword,ロングソード,
+650,68,codepage,548,7,Rapier,レイピア,
+650,69,codepage,555,9,Shamshir,シャムシール,
+650,70,codepage,564,13,Viking Sword,ヴィーキングソード,
+650,71,codepage,577,9,Falchion,ファルシオン,
+650,72,codepage,586,14,Walloon Sword,〓ルーンソード,
+650,73,codepage,600,9,Karsnaut,霊剣カールスナウト,
+650,74,codepage,609,17,Sabertooth Saber,名刀〓切り,
+650,75,codepage,626,9,Pallasch,パラッシュ,
+650,76,codepage,635,15,Sinclair Saber,シンクレアーサーベル,
+650,77,codepage,650,10,Frostbane,フロストペイン,
+650,78,codepage,660,6,Harpe,〓刀ハルペー,
+650,79,codepage,666,15,Spider Fighter,名刀〓〓切り,
+650,80,codepage,681,15,Lightning Edge,ライトニングエッジ,
+650,81,codepage,696,13,Icicle Sword,アイシクルソード,
+650,82,codepage,709,11,Runeslayer,ルーンスレイヤー,
+650,83,codepage,720,15,Flare Baselard,フレアバゼラード,
+650,84,codepage,735,13,Lotus Slicer,名刀〓〓ち,
+650,85,codepage,748,11,Holy Sword,ホーリィソード,
+650,86,codepage,759,11,Sun Shower,名刀五月雨,
+650,87,codepage,770,10,Arondight,名剣アロンダイト,
+650,88,codepage,780,17,Sword of Silvans,〓刀シルヴァンス,
+650,89,codepage,797,5,Gram,魔剣グラム,
+650,90,codepage,802,8,Ascalon,聖剣アスカロン,
+650,91,codepage,810,9,Moonfalx,名剣ムーンファルクス,
+650,92,codepage,819,15,Glance Reviver,神剣グランス・リヴァイバー,
+650,93,codepage,834,9,Dainslef,魔剣ダインスレイヴ,
+650,94,codepage,843,24,"Demon Sword ""Levantine""",魔剣レヴァンテイン,
+650,95,codepage,867,14,Helgi's Sword,〓剣ヘルギ,
+650,96,codepage,881,13,Angel Slayer,〓人の剣〓神を〓〓〓し者〓,
+650,97,codepage,894,14,Bastard Sword,バスタードソード,
+650,98,codepage,908,17,Two-Handed Sword,トゥハンデッドソード,
+650,99,codepage,925,15,Striking Sword,ストライキングソード,
+650,100,codepage,940,15,Elemental Edge,エレメンタルエッジ,
+650,101,codepage,955,6,Screp,スクレップ,
+650,102,codepage,961,9,Claymore,クレイモア,
+650,103,codepage,970,9,Hrunting,フルンティング,
+650,104,codepage,979,10,Flamberge,フランベルジュ,
+650,105,codepage,989,11,Zweihander,ツヴァイハンダー,
+650,106,codepage,1000,11,Vainslayer,名剣ヴェインスレイ,
+650,107,codepage,1011,14,Dragon Slayer,ドラゴンスレイヤー,
+650,108,codepage,1025,12,Kraadicator,シルバークラッド,
+650,109,codepage,1037,12,Grand Sting,蒼剣グランスティング,
+650,110,codepage,1049,10,Arectaris,精王剣アレクタリス,
+650,111,codepage,1059,9,Durandal,〓剣デュランダル,
+650,112,codepage,1068,9,Caliburn,カリバーン,
+650,113,codepage,1077,12,Gjallarhorn,神剣ギャラルホルン,
+650,114,codepage,1089,15,Claiomh Solais,光剣クラウソナス,
+650,115,codepage,1104,14,Vampire Sword,ヴァンパイアソード,
+650,116,codepage,1118,13,Ignite Sword,イグニートソード,
+650,117,codepage,1131,24,"Demon Sword ""Nefarious""",魔剣アクターネファリウス,
+650,118,codepage,1155,8,Tyrfing,壊剣ティルフング,
+650,119,codepage,1163,8,Gungnir,神槍グングニル,
+650,120,codepage,1171,16,Saint's Halberd,聖槍セントハルバード,
+650,121,codepage,1187,17,"Spear ""Basilisk""",〓〓バシリスク,
+650,122,codepage,1204,15,Lunar Bardiche,裂槍ルーンバルディーチェ,
+650,123,codepage,1219,23,"Great Spear ""Dinosaur""",〓槍ダイナソア,
+650,124,codepage,1242,10,Short Bow,シヨートボウ,
+650,125,codepage,1252,9,Crossbow,クロスボウ,
+650,126,codepage,1261,9,Long Bow,ロングボウ,
+650,127,codepage,1270,13,Strength Bow,ストレングスボウ,
+650,128,codepage,1283,17,Supreme Crossbow,スプリームクロスボウ,
+650,129,codepage,1300,15,Heavy Crossbow,ヘビークロスボウ,
+650,130,codepage,1315,18,Composite Longbow,コンポジットロング,
+650,131,codepage,1333,16,Greenery Slayer,グリナリースレイヤー,
+650,132,codepage,1349,9,Arbalest,アーバレスト,
+650,133,codepage,1358,18,Serstine-lock-gun,セルスタインロックガン,
+650,134,codepage,1376,12,Mage Slayer,メイジスレイヤー,
+650,135,codepage,1388,12,Doublecross,〓弓ダブルクロス,
+650,136,codepage,1400,9,Elvenbow,霊弓エルヴンボウ,
+650,137,codepage,1409,14,Shiny Rupture,シャイニィラプチャー,
+650,138,codepage,1423,10,Blue Gale,〓弓ブルーゲイル,
+650,139,codepage,1433,11,Misteltein,〓弓ミステルテイン,
+650,140,codepage,1444,15,Crescent Arrow,クレセントアロー,
+650,141,codepage,1459,13,Wild Chalice,〓イルドカリス,
+650,142,codepage,1472,8,Tathlum,魔〓タスラム,
+650,143,codepage,1480,11,Soulslayer,ソウルスレイヤー,
+650,144,codepage,1491,15,Soothsayer Bow,魔弓レイザーフォーテル,
+650,145,codepage,1506,11,Sylvan Bow,神弓シルヴァンボウ,
+650,146,codepage,1517,21,Elhanan's Fingertips,エルハナンの指先,
+650,147,codepage,1538,10,Ruby Mace,ルビーメイス,
+650,148,codepage,1548,13,Crystal Wand,クリスタル〓ンド,
+650,149,codepage,1561,18,Mystic Cult Staff,秘密教〓の杖,
+650,150,codepage,1579,13,Infinity Rod,インフィニティロッド,
+650,151,codepage,1592,13,Mithril Wand,ミスリル〓ンド,
+650,152,codepage,1605,11,Lotus Wand,ロータス〓ンド,
+650,153,codepage,1616,13,Alchemy Wand,アルケミー〓ンド,
+650,154,codepage,1629,11,Dragonlore,竜杖ドラゴンロア,
+650,155,codepage,1640,9,Holy Rod,ホーリィロッド,
+650,156,codepage,1649,15,Deluge Scepter,デルージュセプター,
+650,157,codepage,1664,15,Unicorn's Horn,聖杖ユニコーンズホーン,
+650,158,codepage,1679,14,Ether Scepter,エーテルセプター,
+650,159,codepage,1693,9,Caduceus,〓杖ケーリュケイオン,
+650,160,codepage,1702,19,Wand of Apocalypse,魔杖アポカリプス,
+650,161,codepage,1721,19,Holy Wand of Telos,聖杖ミリオンテラー,
+650,162,codepage,1740,15,Bloody Knuckle,ブラッディナックル,
+650,163,codepage,1755,13,Bloody Nails,ブラッディフロウ,
+650,164,codepage,1768,12,Bloody Claw,ブラッディクロー,
+650,165,codepage,1780,14,Bloody Duster,ブラッディダスター,
+650,166,codepage,1794,14,Bloody Murder,ブラッディアッシュ,
+650,167,codepage,1808,13,Leather Mail,レザーメイル,
+650,168,codepage,1821,10,Chainmail,チェインメイル,
+650,169,codepage,1831,8,Cuirass,キュイラス,
+650,170,codepage,1839,18,Crystal Chainmail,クリスタルチェイン,
+650,171,codepage,1857,15,Silver Cuirass,シルバーキュイラス,
+650,172,codepage,1872,14,Silver Scales,シルバースケイル,
+650,173,codepage,1886,11,Duel Armor,デュエルアーマー,
+650,174,codepage,1897,12,Flame Armor,フレイムアーマー,
+650,175,codepage,1909,10,Kraadmail,クラッドメイル,
+650,176,codepage,1919,12,Silver Mail,シルバーメイル,
+650,177,codepage,1931,13,Icicle Plate,アイシクルプレート,
+650,178,codepage,1944,13,Dragon Armor,ドラゴンアーマー,
+650,179,codepage,1957,12,Valor Armor,ヴァローアーマー,
+650,180,codepage,1969,11,Full Plate,フルプレート,
+650,181,codepage,1980,14,Valiant Armor,ヴァリアントアーマー,
+650,182,codepage,1994,13,Silver Plate,シルバープレート,
+650,183,codepage,2007,14,Reflect Armor,鏡鎧リフレックス,
+650,184,codepage,2021,14,Mithril Plate,ミスリルプレート,
+650,185,codepage,2035,18,Conquerer's Armor,覇王の鎧,
+650,186,codepage,2053,15,Armor of Aleph,聖鎧アレフストレイン,
+650,187,codepage,2068,20,Infinite Admiration,煌鎧インフィネイトアドマイア,
+650,188,codepage,2088,14,Alicia's Robe,アリーシャのローブ,
+650,189,codepage,2102,6,Cloak,クローク,
+650,190,codepage,2108,13,Silver Cloak,シルバークローク,
+650,191,codepage,2121,14,Leather Cloak,レザークローク,
+650,192,codepage,2135,12,Noble Cloak,ノーブルクローク,
+650,193,codepage,2147,15,Anointed Cloak,アノイントクローク,
+650,194,codepage,2162,13,Supreme Garb,スプリームガーブ,
+650,195,codepage,2175,12,Mirage Robe,幻衣ミラージュローブ,
+650,196,codepage,2187,13,Crystal Garb,〓衣クリスタルガーブ,
+650,197,codepage,2200,14,Elfin Taffeta,エルヴンタフタ,
+650,198,codepage,2214,11,Fairy Garb,フェアリィガーブ,
+650,199,codepage,2225,11,Flame Mist,炎衣フレイムミスト,
+650,200,codepage,2236,13,Phoenix Garb,神衣フェニックスガーブ,
+650,201,codepage,2249,17,Robe of Bryttain,聖衣ブリタニアガーブ,
+650,202,codepage,2266,13,Sylphan Robe,聖衣シルフレッド,
+650,203,codepage,2279,12,Floral Garb,縫衣フローレスガーブ,
+650,204,codepage,2291,14,Eternal Shine,〓衣エターナルシャイン,
+650,205,codepage,2305,7,Sallet,サレット,
+650,206,codepage,2312,14,Silver Sallet,シルバーサレット,
+650,207,codepage,2326,10,Iron Helm,アイアンヘルム,
+650,208,codepage,2336,10,Duel Helm,デュエルヘルム,
+650,209,codepage,2346,13,Crystal Helm,クリスタルヘルム,
+650,210,codepage,2359,12,Silver Helm,シルバーヘルム,
+650,211,codepage,2371,15,Golem Headwear,ゴーレムヘッド,
+650,212,codepage,2386,11,Valor Helm,ヴァローヘルム,
+650,213,codepage,2397,13,Valiant Helm,ヴァリアントヘルム,
+650,214,codepage,2410,10,Rune Helm,ルーンヘルム,
+650,215,codepage,2420,13,Mithril Helm,ミスリルヘルム,
+650,216,codepage,2433,11,Ether Helm,エーテルヘルム,
+650,217,codepage,2444,12,Metal Crown,メタルクラウン,
+650,218,codepage,2456,12,Olive Crown,オリーブクラウン,
+650,219,codepage,2468,15,Anointed Crown,アノイントクラウン,
+650,220,codepage,2483,15,Magician's Hat,マジシャンハット,
+650,221,codepage,2498,26,Tiara of the Holy Empress,聖〓〓のティアラ,
+650,222,codepage,2524,16,Empress Coronet,エンプレスコロネット,
+650,223,codepage,2540,11,Rune Crown,ルーンクラウン,
+650,224,codepage,2551,14,Supreme Crown,スプリームクラウン,
+650,225,codepage,2565,14,Mithril Crown,ミスリルクラウン,
+650,226,codepage,2579,12,Ether Crown,エーテルクラウン,
+650,227,codepage,2591,9,Gauntlet,ガントレット,
+650,228,codepage,2600,14,Metal Buckler,メタルバックラー,
+650,229,codepage,2614,15,Sacred Guarder,セイクリッドガーダー,
+650,230,codepage,2629,15,Silver Buckler,シルバーバックラー,
+650,231,codepage,2644,13,Duel Guarder,デュエルガーダー,
+650,232,codepage,2657,15,Valor Gauntlet,ヴァローガントレット,
+650,233,codepage,2672,14,Holy Gauntlet,ホーリィガントレット,
+650,234,codepage,2686,17,Mithril Gauntlet,ミスリルガントレット,
+650,235,codepage,2703,13,Ether Shield,エーテルシールド,
+650,236,codepage,2716,14,Extreme Guard,エクストリームガード,
+650,237,codepage,2730,11,Star Guard,スターガード,
+650,238,codepage,2741,14,Leather Glove,レザーグローブ,
+650,239,codepage,2755,12,Magic Glove,マジックグローブ,
+650,240,codepage,2767,11,Wind Glove,ウインドグローブ,
+650,241,codepage,2778,13,Vein Greaves,ヴェイングリーブ,
+650,242,codepage,2791,16,Valiant Greaves,ヴァリアントグリーブ,
+650,243,codepage,2807,13,Rune Greaves,ルーングリーブ,
+650,244,codepage,2820,16,Mithril Greaves,ミスリルグリーブ,
+650,245,codepage,2836,14,Ether Greaves,エーテルグリーブ,
+650,246,codepage,2850,14,Metal Greaves,メタルグリーブ,
+650,247,codepage,2864,13,Duel Greaves,デュエルグリーブ,
+650,248,codepage,2877,15,Silver Greaves,シルバーグリーブ,
+650,249,codepage,2892,14,Valor Greaves,ヴァローグリーブ,
+650,250,codepage,2906,12,Suede Boots,スエードブーツ,
+650,251,codepage,2918,12,Elfin Boots,エルヴンブーツ,
+650,252,codepage,2930,10,Red Boots,レッドブーツ,
+650,253,codepage,2940,11,Guard Ring,ガードリング,
+650,254,codepage,2951,13,Protect Ring,プロテクトリング,
+650,255,codepage,2964,9,Hit Ring,ヒットリング,
+650,256,codepage,2973,11,Magic Ring,マジックリング,
+650,257,codepage,2984,11,Flame Ring,フレイムリング,
+650,258,codepage,2995,9,Ice Ring,アイスリング,
+650,259,codepage,3004,13,Thunder Ring,サンダーリング,
+650,260,codepage,3017,12,Poison Ring,ポイズンリング,
+650,261,codepage,3029,11,Light Ring,ライトリング,
+650,262,codepage,3040,10,Dark Ring,ダークリング,
+650,263,codepage,3050,12,Dragon Ring,ドラゴンリング,
+650,264,codepage,3062,11,Demon Ring,デーモンリング,
+650,265,codepage,3073,12,Mirage Ring,ミラージュリング,
+650,266,codepage,3085,11,Giant Ring,ジャイアントリング,
+650,267,codepage,3096,16,Goddess Pendant,戦乙女のペンダント,
+650,268,codepage,3112,11,tri-Emblem,トライエンブレム,
+650,269,codepage,3123,14,Flare Crystal,フレアクリスタル,
+650,270,codepage,3137,12,Ice Crystal,アイスクリスタル,
+650,271,codepage,3149,14,Earth Crystal,アースクリスタル,
+650,272,codepage,3163,16,Thunder Crystal,サンダークリスタル,
+650,273,codepage,3179,13,Holy Crystal,ホーリィクリスタル,
+650,274,codepage,3192,15,Shadow Crystal,シャドウクリスタル,
+650,275,codepage,3207,14,Prism Crystal,プリズムクリスタル,
+650,276,codepage,3221,10,Flare Gem,フレアジェム,
+650,277,codepage,3231,8,Ice Gem,アイスジェム,
+650,278,codepage,3239,12,Thunder Gem,サンダージェム,
+650,279,codepage,3251,10,Earth Gem,アースジェム,
+650,280,codepage,3261,9,Holy Gem,ホーリィジェム,
+650,281,codepage,3270,11,Shadow Gem,シャドウジェム,
+650,282,codepage,3281,10,Prism Gem,プリズムジェム,
+650,283,codepage,3291,21,Holy Water of Mithra,ミトラの聖水,
+650,284,codepage,3312,11,Red Liquid,〓の〓〓,
+650,285,codepage,3323,16,Tome of Anarchy,〓乱の書,
+650,286,codepage,3339,16,Tome of Alchemy,錬金術の書,
+650,287,codepage,3355,18,Warrior's Arcanum,戦士の秘薬,
+650,288,codepage,3373,21,Apothecary's Arcanum,薬士の秘薬,
+650,289,codepage,3394,16,Witch's Arcanum,魔女の秘薬,
+650,290,codepage,3410,15,Sage's Arcanum,賢者の秘薬,
+650,291,codepage,3425,15,Dwarf Tincture,小人の霊薬,
+650,292,codepage,3440,15,Fairy Tincture,妖精の霊薬,
+650,293,codepage,3455,16,Spirit Tincture,精霊の霊薬,
+650,294,codepage,3471,17,Goddess Tincture,女神の霊薬,
+650,295,codepage,3488,7,Elixir,エリクサー,
+650,296,codepage,3495,13,Prime Elixir,プライムエリクサー,
+650,297,codepage,3508,13,Noble Elixir,ノーブルエリクサー,
+650,298,codepage,3521,12,Union Plume,ユニオンプラム,
+650,299,codepage,3533,11,Holy Water,聖水,
+650,300,codepage,3544,11,Holy Grail,聖〓,
+650,301,codepage,3555,14,Idun's Apples,イズンの林〓,
+650,302,codepage,3569,11,Soft Stone,やわらかな石,
+650,303,codepage,3580,13,Aspect Stone,方位石,
+650,304,codepage,3593,17,Horoscope Tablet,〓〓みの石〓,
+650,305,codepage,3610,18,Fireproof Trinket,耐炎の護符,
+650,306,codepage,3628,17,Iceproof Trinket,防寒の護符,
+650,307,codepage,3645,19,Earthproof Trinket,砕土の護符,
+650,308,codepage,3664,23,Lightningproof Trinket,避雷の護符,
+650,309,codepage,3687,18,Foolproof Trinket,無欠の護符,
+650,310,codepage,3705,19,Fireproof Talisman,耐炎のタリスマン,
+650,311,codepage,3724,18,Iceproof Talisman,防寒のタリスマン,
+650,312,codepage,3742,20,Earthproof Talisman,砕土のタリスマン,
+650,313,codepage,3762,24,Lightningproof Talisman,避雷のタリスマン,
+650,314,codepage,3786,19,Foolproof Talisman,無欠のタリスマン,
+650,315,codepage,3805,14,Nectar Potion,リキュールポーシヨン,
+650,316,codepage,3819,13,Charge Break,チャージブレイク,
+650,317,codepage,3832,13,Might Potion,マイトポーシヨン,
+650,318,codepage,3845,13,Guard Potion,ガードポーシヨン,
+650,319,codepage,3858,13,Spell Potion,スペルポーシヨン,
+650,320,codepage,3871,10,Overdrive,オーバードライブ,
+650,321,codepage,3881,22,Tome of Teleportation,〓〓の書,
+650,322,codepage,3903,17,Wand of Exchange,〓〓の杖,
+650,323,codepage,3920,9,Rose Gem,〓炎石,
+650,324,codepage,3929,10,Azure Gem,蒼炎石,
+650,325,codepage,3939,9,Jade Gem,〓炎石,
+650,326,codepage,3948,20,Expert's Experience,識者の経験,
+650,327,codepage,3968,9,Ambrosia,アンブロシア,
+650,328,codepage,3977,21,Fencer's Familiarity,剣士の知識,
+650,329,codepage,3998,17,Sorcerer's Savvy,魔術師の知識,
+650,330,codepage,4015,18,Archer's Aptitude,弓闘士の知識,
+650,331,codepage,4033,17,Thief's Thoughts,盗賊の知識,
+650,332,codepage,4050,15,Warrior's Wits,重戦士の知識,
+650,333,codepage,4065,11,Golden Egg,金の卵,
+650,334,codepage,4076,14,Eye of Heaven,天空の〓,
+650,335,codepage,4090,13,Double-check,ダブルサーチ,
+650,336,codepage,4103,11,Spectacles,スペクタクルズ,
+650,337,codepage,4114,16,Gem of Illusion,幻〓の〓,
+650,338,codepage,4130,17,Tome of Godspeed,神〓の書,
+650,339,codepage,4147,16,Immense Incisor,巨大な〓〓,
+650,340,codepage,4163,16,Monstrous Molar,巨大な奥〓,
+650,341,codepage,4179,22,Colossal Canine Tooth,巨大な〓〓,
+650,342,codepage,4201,11,Troll Clay,トロルクレイ,
+650,343,codepage,4212,16,Rotted Bludgeon,〓った〓〓,
+650,344,codepage,4228,17,Skull Receptacle,ドクロの器,
+650,345,codepage,4245,16,Skeleton Goblet,がいこつの〓,
+650,346,codepage,4261,12,Black Skull,〓いドクロ,
+650,347,codepage,4273,14,Black Crystal,〓〓の結〓,
+650,348,codepage,4287,9,Bonemeal,骨クズ,
+650,349,codepage,4296,15,Fuchsia Spinel,〓炎の〓〓石,
+650,350,codepage,4311,12,Teal Spinel,蒼炎の〓〓石,
+650,351,codepage,4323,18,Chartreuse Spinel,〓炎の〓〓石,
+650,352,codepage,4341,14,Scarlet Alloy,〓雷の〓,
+650,353,codepage,4355,15,Cerulean Alloy,青雷の〓,
+650,354,codepage,4370,16,Verdigris Alloy,〓雷の〓,
+650,355,codepage,4386,17,Polished Red Ore,錬〓鉱,
+650,356,codepage,4403,18,Polished Blue Ore,錬青鉱,
+650,357,codepage,4421,19,Polished Green Ore,錬〓鉱,
+650,358,codepage,4440,12,Rose Quartz,〓〓〓,
+650,359,codepage,4452,14,Indigo Quartz,青〓〓,
+650,360,codepage,4466,12,Sage Quartz,〓〓〓,
+650,361,codepage,4478,13,Broken Blade,〓れた刀〓,
+650,362,codepage,4491,13,Broken Sword,〓れた剣,
+650,363,codepage,4504,9,Red Horn,レッドホーン,
+650,364,codepage,4513,14,Dragon's Horn,竜の〓,
+650,365,codepage,4527,9,Red Fang,レッドファング,
+650,366,codepage,4536,14,Dragon's Fang,竜の〓,
+650,367,codepage,4550,16,Dragon Sapphire,ドラゴンサファイア,
+650,368,codepage,4566,15,Dragon Emerald,ドラゴンエメラルド,
+650,369,codepage,4581,12,Dragon Ruby,ドラゴンルビー,
+650,370,codepage,4593,18,Dragon's Wingbone,竜の〓骨,
+650,371,codepage,4611,13,Emerald Horn,エメラルドホーン,
+650,372,codepage,4624,15,Dragon's Talon,竜の〓〓,
+650,373,codepage,4639,20,Dragonlord's Nerves,竜神の〓〓,
+650,374,codepage,4659,17,Dragon's Eyeball,竜の眼〓,
+650,375,codepage,4676,14,Dragon Scales,竜のうろこ,
+650,376,codepage,4690,15,Monster Scales,魔物のうろこ,
+650,377,codepage,4705,17,Evergreen Scales,〓〓のうろこ,
+650,378,codepage,4722,15,Rainbow Scales,〓〓のうろこ,
+650,379,codepage,4737,12,Worn Shield,ジャンクシールド,
+650,380,codepage,4749,6,Crown,クラウン,
+650,381,codepage,4755,15,Alligator Skin,〓ニ〓,
+650,382,codepage,4770,16,Sharp Spearhead,するどい〓先,
+650,383,codepage,4786,9,Bat Wing,こうもりの〓,
+650,384,codepage,4795,16,Black Wing Skin,〓い〓〓,
+650,385,codepage,4811,13,Bat Umbrella,こうもり〓,
+650,386,codepage,4824,8,Bat Ear,こうもりの〓,
+650,387,codepage,4832,18,Great Eagle Heart,大〓シの心〓,
+650,388,codepage,4850,13,Wing Feather,〓切〓,
+650,389,codepage,4863,20,Charged Tailfeather,封雷の尾〓,
+650,390,codepage,4883,22,Windswept Tailfeather,封〓の尾〓,
+650,391,codepage,4905,15,Raptor's Talon,〓〓の〓,
+650,392,codepage,4920,13,Beast's Fang,〓の〓,
+650,393,codepage,4933,13,Scarlet Fang,〓紅の〓,
+650,394,codepage,4946,16,Firebreath Core,ファイアブレスコア,
+650,395,codepage,4962,17,Blazebreath Core,ブレイズブレスコア,
+650,396,codepage,4979,17,Flamebreath Core,フレイムブレスコア,
+650,397,codepage,4996,15,Icebreath Core,アイスブレスコア,
+650,398,codepage,5011,17,Frostbreath Core,コールドブレスコア,
+650,399,codepage,5028,20,Blizzardbreath Core,ブリザードブレスコア,
+650,400,codepage,5048,15,Gasbreath Core,ガスブレスコア,
+650,401,codepage,5063,18,Poisonbreath Core,ポイズンブレスコア,
+650,402,codepage,5081,17,Toxicbreath Core,ハームブレスコア,
+650,403,codepage,5098,24,Pentachrome Breath Core,五〓のブレスコア,
+650,404,codepage,5122,11,Beast Pelt,〓の〓〓,
+650,405,codepage,5133,14,Beast's Flesh,〓肉,
+650,406,codepage,5147,12,Koboldapult,スリングトップ,
+650,407,codepage,5159,13,Koboldriller,コボルトランサー,
+650,408,codepage,5172,12,Koboldriver,コボルトハンマー,
+650,409,codepage,5184,12,Copper Coin,〓のコイン,
+650,410,codepage,5196,12,Silver Coin,銀のコイン,
+650,411,codepage,5208,10,Gold Coin,金のコイン,
+650,412,codepage,5218,10,Bolt Coin,〓〓のコイン,
+650,413,codepage,5228,9,Iron Ore,鉄鉱石,
+650,414,codepage,5237,16,Gargoyle's Arch,巨〓の手〓,
+650,415,codepage,5253,17,Gargoyle's Wings,巨〓の〓,
+650,416,codepage,5270,16,Crimson Feather,〓紅の〓〓,
+650,417,codepage,5286,18,Evergreen Feather,〓〓の〓〓,
+650,418,codepage,5304,17,Pure White Plume,〓〓の〓り〓,
+650,419,codepage,5321,13,Indigo Plume,〓〓の〓り〓,
+650,420,codepage,5334,5,Beak,くちばし,
+650,421,codepage,5339,8,Feather,〓〓,
+650,422,codepage,5347,7,Garnet,金〓石,
+650,423,codepage,5354,19,White Flower Petal,〓い花〓,
+650,424,codepage,5373,17,Red Flower Petal,〓い花〓,
+650,425,codepage,5390,12,Poison Seed,ポイズンシード,
+650,426,codepage,5402,11,Toxic Seed,ハームシード,
+650,427,codepage,5413,11,Nightshade,ベラドンナ,
+650,428,codepage,5424,15,Insect Stinger,虫のトゲ,
+650,429,codepage,5439,10,Hot Plate,ヒートプレート,
+650,430,codepage,5449,12,Beetle Horn,〓虫の〓,
+650,431,codepage,5461,13,Beetle Shell,〓虫の殻〓,
+650,432,codepage,5474,17,Blue Bubble Core,ブルーバブルコア,
+650,433,codepage,5491,18,Green Bubble Core,グリーンバブルコア,
+650,434,codepage,5509,16,Swordfish Snout,ソードホーン,
+650,435,codepage,5525,14,Narwhal Tooth,バンカーホーン,
+650,436,codepage,5539,8,Seafood,海鮮肉,
+650,437,codepage,5547,12,Gas Ejector,ガスバレル,
+650,438,codepage,5559,12,Jet Ejector,ジェットバレル,
+650,439,codepage,5571,12,Red Ejector,レッドバレル,
+650,440,codepage,5583,13,Stone Bullet,ストーンブリット,
+650,441,codepage,5596,17,Ammunition Shell,貝殻の〓〓,
+650,442,codepage,5613,14,Armor Piercer,アーマーピアス,
+650,443,codepage,5627,12,Black Pearl,〓〓〓,
+650,444,codepage,5639,9,Adhesive,〓〓〓,
+650,445,codepage,5648,15,Walkflower Leg,〓行花の〓,
+650,446,codepage,5663,16,Walkflower Root,〓行花の〓,
+650,447,codepage,5679,19,Walkflower Tendril,〓行花のツル,
+650,448,codepage,5698,17,Walkflower Blade,〓行花の剣,
+650,449,codepage,5715,10,Wax Clump,ロウの〓,
+650,450,codepage,5725,15,Vegetable Seed,〓物の〓,
+650,451,codepage,5740,14,Mask Fragment,〓面の欠〓,
+650,452,codepage,5754,10,Bone Mask,ボーンマスク,
+650,453,codepage,5764,12,Dark Amulet,ダークアミュレット,
+650,454,codepage,5776,12,Chaos Force,カオスフォース,
+650,455,codepage,5788,15,Desolation Gem,〓〓〓,
+650,456,codepage,5803,11,Aura Force,オーラフォース,
+650,457,codepage,5814,12,Bone Relief,ボーンレリーフ,
+650,458,codepage,5826,19,Tome of Necromancy,不死者の書,
+650,459,codepage,5845,10,Golem Eye,ゴーレムアイ,
+650,460,codepage,5855,20,Counterfeit Crystal,〓りの水〓,
+650,461,codepage,5875,11,Pixie Cube,ピクシーキューブ,
+650,462,codepage,5886,12,Golem Heart,ゴーレムハート,
+650,463,codepage,5898,10,METH Seal,〓〓〓〓の〓印,
+650,464,codepage,5908,11,Base Metal,〓金属,
+650,465,codepage,5919,15,Red Soul Flame,レッドソウルフレイム,
+650,466,codepage,5934,16,Blue Soul Flame,ブルーソウルフレイム,
+650,467,codepage,5950,14,Headless Doll,〓のない人〓,
+650,468,codepage,5964,10,Ice Jewel,〓の宝〓,
+650,469,codepage,5974,11,Hail Jewel,〓の宝〓,
+650,470,codepage,5985,17,Drilling Imprint,〓〓の〓印,
+650,471,codepage,6002,17,Piercing Imprint,〓〓の〓印,
+650,472,codepage,6019,16,Mirror Fragment,魔鏡の欠〓,
+650,473,codepage,6035,12,Evil Mirror,イビルミラー,
+650,474,codepage,6047,14,Copper Signet,〓〓の聖印,
+650,475,codepage,6061,17,Cask of Offering,〓の神器,
+650,476,codepage,6078,11,Pact Chain,〓〓の〓,
+650,477,codepage,6089,11,Demon Horn,デーモンホーン,
+650,478,codepage,6100,12,Diablo Horn,ディアブロホーン,
+650,479,codepage,6112,15,Dead Man's Gem,死者の宝〓,
+650,480,codepage,6127,11,Fool's Gem,〓者の宝〓,
+650,481,codepage,6138,15,Jet Black Wing,〓〓の〓,
+650,482,codepage,6153,17,Wing of Darkness,暗〓の〓,
+650,483,codepage,6170,14,Demon's Blaze,デモンズブレイズ,
+650,484,codepage,6184,14,Vampire Heart,ヴァンパイアハート,
+650,485,codepage,6198,14,Eternal Flame,不〓の炎,
+650,486,codepage,6212,13,Vampire Fang,ヴァンパイアファング,
+650,487,codepage,6225,18,Bloodsucking Fang,〓〓〓,
+650,488,codepage,6243,13,Vampire Claw,ヴァンパイアクロー,
+650,489,codepage,6256,20,Sharp Scissor Heart,シャープシザーハート,
+650,490,codepage,6276,19,Sharp Scissor Wing,シャープシザーの〓,
+650,491,codepage,6295,12,Scissorhand,シザーハンド,
+650,492,codepage,6307,8,Citrine,〓水〓,
+650,493,codepage,6315,13,Rose Imprint,バラの〓印,
+650,494,codepage,6328,14,Giant Pincers,大ばさみ,
+650,495,codepage,6342,21,Stonecutting Pincers,〓岩〓,
+650,496,codepage,6363,11,Geist Core,ガイストコア,
+650,497,codepage,6374,13,Gremlin Core,グレムリンコア,
+650,498,codepage,6387,11,Ram's Horn,ビッグラム,
+650,499,codepage,6398,21,Battering Ram's Horn,ブレイクラム,
+650,500,codepage,6419,11,Tail Armor,アーマーテイル,
+650,501,codepage,6430,17,Snakebelly Armor,〓〓の〓〓,
+650,502,codepage,6447,12,Empty Shell,〓ろの殻,
+650,503,codepage,6459,13,Hollow Shell,〓無殻,
+650,504,codepage,6472,17,Spiral Arrowhead,ら〓んの〓じり,
+650,505,codepage,6489,7,Baraka,バラカ,
+650,506,codepage,6496,13,Evil Eye Gem,魔眼の宝〓,
+650,507,codepage,6509,8,Eyeball,眼〓,
+650,508,codepage,6517,11,Heart Core,ハートコア,
+650,509,codepage,6528,19,Emerald Heart Core,エメラルドハートコア,
+650,510,codepage,6547,11,Thick Bone,堅〓骨,
+650,511,codepage,6558,10,Bone Mace,ボーンメイス,
+650,512,codepage,6568,14,Bonafide Bone,〓〓骨,
+650,513,codepage,6582,10,Tentacles,テンタクルス,
+650,514,codepage,6592,13,Goblin Tooth,小〓の〓,
+650,515,codepage,6605,22,Monsters Canine Tooth,〓魔の〓〓,
+650,516,codepage,6627,10,Drainwing,ドレインウイング,
+650,517,codepage,6637,10,Steelwing,スティールウイング,
+650,518,codepage,6647,18,Trickster Imprint,トリックスターの〓印,
+650,519,codepage,6665,19,Little Devil Heart,小〓魔の心〓,
+650,520,codepage,6684,15,Burgundy Flask,ポルト酒,
+650,521,codepage,6699,7,Legion,レギオン,
+650,522,codepage,6706,13,Crimson Wasp,クリムゾン〓スプ,
+650,523,codepage,6719,13,Platinum Eye,プラチナアイ,
+650,524,codepage,6732,11,Big Bugeye,大〓眼,
+650,525,codepage,6743,12,Giant Amber,ジャイアントアンバー,
+650,526,codepage,6755,11,Amber Core,アンバーコア,
+650,527,codepage,6766,11,Big Needle,ビッグニードル,
+650,528,codepage,6777,13,Lance Needle,ランサーニードル,
+650,529,codepage,6790,19,Insect King's Wing,王虫の〓,
+650,530,codepage,6809,12,Indigo Wing,〓〓の〓,
+650,531,codepage,6821,12,Royal Jelly,ロイヤルゼリー,
+650,532,codepage,6833,21,Vermillion Cartilage,〓紅の〓骨,
+650,533,codepage,6854,20,Verdigris Cartilage,〓〓の〓骨,
+650,534,codepage,6874,10,Mace Head,メイスヘッド,
+650,535,codepage,6884,12,Lamb's Horn,〓の〓,
+650,536,codepage,6896,12,Warped Horn,歪ん〓〓,
+650,537,codepage,6908,12,Shell Shade,シェルシェード,
+650,538,codepage,6920,17,Protection Shade,プロテクトシェード,
+650,539,codepage,6937,15,Falcon Imprint,〓の〓印,
+650,540,codepage,6952,17,Accuracy Imprint,〓中の〓印,
+650,541,codepage,6969,13,Lamb's Tooth,〓の〓〓,
+650,542,codepage,6982,13,Warped Teeth,歪ん〓〓〓,
+650,543,codepage,6995,18,Silverwork Orchid,〓の銀〓工,
+650,544,codepage,7013,18,Wyvern's Wingbone,〓竜の〓切骨,
+650,545,codepage,7031,18,Dragon Gallstones,竜〓石,
+650,546,codepage,7049,16,Red Dragon Bile,竜〓〓,
+650,547,codepage,7065,9,Tailclaw,テイルクロー,
+650,548,codepage,7074,11,Tailbanger,テイルバンカー,
+650,549,codepage,7085,18,Green Gallbladder,〓〓〓,
+650,550,codepage,7103,19,Draconic Gallstone,〓竜〓,
+650,551,codepage,7122,21,Brilliant Peacemaker,ブリリアントピースメーカー,
+650,552,codepage,7143,11,Trade Card,ジェントルカード,
+650,553,codepage,7154,14,Sacred O Part,セイクリッドオーパーツ,
+650,554,codepage,7168,14,Sacred Spinel,ホーリィスピネル,
+650,555,codepage,7182,11,Hemp Laces,〓の〓,
+650,556,codepage,7193,12,Core Spinel,コアスピネル,
+650,557,codepage,7205,14,Copper Splint,スプリントカッパー,
+650,558,codepage,7219,13,Core Emerald,コアエメラルド,
+650,559,codepage,7232,10,Core Ruby,コアルビー,
+650,560,codepage,7242,14,Silver Sconce,銀の〓〓,
+650,561,codepage,7256,16,Darkbreath Core,ダークブレスコア,
+650,562,codepage,7272,17,Blackbreath Core,ブラックブレスコア,
+650,563,codepage,7289,17,Verdigris Scales,〓〓のうろこ,
+650,564,codepage,7306,20,Electricbreath Core,エレキブレスコア,
+650,565,codepage,7326,19,Thunderbreath Core,サンダーブレスコア,
+650,566,codepage,7345,16,Boltbreath Core,ボルトブレスコア,
+650,567,codepage,7361,17,Ruby Breath Core,ルビーブレスコア,
+650,568,codepage,7378,18,Vermillion Scales,〓紅のうろこ,
+650,569,codepage,7396,19,Scarlet Exhalation,紅〓の〓〓,
+650,570,codepage,7415,19,Pentachrome Scales,五〓のうろこ,
+650,571,codepage,7434,10,Flare Ore,火炎鉱石,
+650,572,codepage,7444,16,Pyrotechnic Ore,〓炎鉱石,
+650,573,codepage,7460,13,Damascus Ore,ダマスカス鉱,
+650,574,codepage,7473,12,Mithril Ore,ミスリル鉱,
+650,575,codepage,7485,12,Solar Jewel,〓陽の宝〓,
+650,576,codepage,7497,15,Augite of Life,〓の〓石,
+650,577,codepage,7512,11,Adamantite,アダマンタイト,
+650,578,codepage,7523,14,Phosphate Ore,〓鉱,
+650,579,codepage,7537,13,Dragon Skull,竜のドクロ,
+650,580,codepage,7550,19,Undead Dragon Bone,〓竜骨,
+650,581,codepage,7569,14,Dragonmaggots,竜〓,
+650,582,codepage,7583,12,Dragonfleas,竜〓虫,
+650,583,codepage,7595,14,Rotted Scales,〓ったうろこ,
+650,584,codepage,7609,17,Blackened Scales,〓ずん〓うろこ,
+650,585,codepage,7626,14,Spectral Wing,〓〓〓,
+650,586,codepage,7640,17,Transparent Wing,〓〓〓,
+650,587,codepage,7657,23,Black Dragon Gallstone,〓の竜〓,
+650,588,codepage,7680,19,Sable Dragonscales,〓〓の竜〓,
+650,589,codepage,7699,14,Dark Carapace,暗〓殻,
+650,590,codepage,7713,19,Black Dragon Talon,竜の〓〓〓,
+650,591,codepage,7732,13,Platinum Fly,〓銀〓,
+650,592,codepage,7745,18,Noblewoman's Fire,〓人の炎,
+650,593,codepage,7763,22,Noblewoman's Phosphor,〓人の〓光,
+650,594,codepage,7785,18,Noblewoman's Ball,〓人の〓,
+650,595,codepage,7803,13,Crystal Mask,クリスタルマスク,
+650,596,codepage,7816,11,Soul Pearl,ソウルパール,
+650,597,codepage,7827,13,Cutting Claw,カッティングクロー,
+650,598,codepage,7840,12,Divine Cask,神器,
+650,599,codepage,7852,11,Holy Relic,聖遺物,
+650,600,codepage,7863,16,White Loincloth,〓〓の〓布,
+650,601,codepage,7879,13,Wisdom Jewel,〓知の宝〓,
+650,602,codepage,7892,12,Ether Laser,〓器エーテル・レイザー,
+650,603,codepage,7904,19,Full-color Lenneth,レナス人〓・フルカラー,
+650,604,codepage,7923,12,Gobligotchi,〓ぶりっち,
+650,605,codepage,7935,17,tri-Emblem Alpha,トライエンブレム〓,
+650,606,codepage,7952,16,tri-Emblem Beta,トライエンブレム〓,
+650,607,codepage,7968,12,Curse Check,カースチェック,
+650,608,codepage,7980,13,Freeze Check,フリーズチェック,
+650,609,codepage,7993,11,Stun Check,スタンチェック,
+650,610,codepage,8004,12,Stone Check,ストーンチェック,
+650,611,codepage,8016,15,Paralyze Check,パラライチェック,
+650,612,codepage,8031,13,Poison Check,ポイズンチェック,
+650,613,codepage,8044,14,Silence Check,サイレンスチェック,
+650,614,codepage,8058,14,Confuse Check,コンフューズチェック,
+650,615,codepage,8072,14,Frailty Check,ウィークチェック,
+650,616,codepage,8086,11,Fear Check,フィアーチェック,
+650,617,codepage,8097,13,Power Bangle,パ〓ーバングル,
+650,618,codepage,8110,13,Magic Bangle,マジックバングル,
+650,619,codepage,8123,16,Ring of Healing,ヒールリング,
+650,620,codepage,8139,4,Keg,〓酒,
+650,621,codepage,8143,15,Stagnant Water,〓ん〓水,
+650,622,codepage,8158,14,Broken Amulet,壊れたアミュレット,
+650,623,codepage,8172,11,Dead Ashes,死〓,
+650,624,codepage,8183,12,Pallid Mask,青〓の〓面,
+650,625,codepage,8195,18,Shrine Chronicles,〓〓書,
+650,626,codepage,8213,11,Meat Chops,骨付き肉,
+650,627,codepage,8224,12,Fish Scales,〓〓,
+650,628,codepage,8236,7,G-seed,〓シード,
+650,629,codepage,8243,17,Fairy-in-the-box,妖精の小〓,
+650,630,codepage,8260,20,Drilling Ram's Horn,ドリルラム,
+650,631,codepage,8280,14,Petrified Ash,トネリコの化石,
+650,632,codepage,8294,13,Busted Spear,壊れた槍,
+650,633,codepage,8307,13,Busted Sword,壊れた剣,
+650,634,codepage,8320,11,Busted Bow,壊れた弓,
+650,635,codepage,8331,18,Busted Greatsword,壊れた大剣,
+650,636,codepage,8349,13,Busted Staff,壊れた杖,
+650,637,codepage,8362,14,Busted Hammer,壊れた〓,
+650,638,codepage,8376,16,Honeysuckle Dew,金銀花の露,
+650,639,codepage,8392,15,Berserker Herb,ベルセルクの草〓,
+650,640,codepage,8407,17,The Cosmic Order,〓〓の原〓,
+650,641,codepage,8424,13,Bragi's Song,ブラギの〓〓,
+650,642,codepage,8437,11,Thaw Water,〓〓け水,
+650,643,codepage,8448,12,Pearl Grass,〓〓草,
+650,644,codepage,8460,15,Cockatrice Egg,コカトリスの卵,
+650,645,codepage,8475,16,Awakening Berry,〓〓の〓,
+650,646,codepage,8491,14,Dipan Pennant,ディパンのペナント,
+650,647,codepage,8505,16,Holybreath Core,ホーリィブレスコア,
+650,648,codepage,8521,19,Shiningbreath Core,シャイニングブレスコア,
+650,649,codepage,8540,20,Rotten Dragon Liver,〓竜〓,
+650,650,codepage,8560,11,Sabertooth,セイバートゥース,
+650,651,codepage,8571,12,Insect Claw,虫のカギ〓,
+650,652,codepage,8583,13,Insect Blade,インセクトブレイダー,
+650,653,codepage,8596,15,Banshee Scales,バンシースケイル,
+650,654,codepage,8611,12,Tuning Wing,〓〓〓,
+650,655,codepage,8623,12,Crest Estoc,クレストエストック,
+650,656,codepage,8635,6,Amber,〓〓,
+650,657,codepage,8641,10,Tough Fin,堅〓なヒレ,
+650,658,codepage,8651,10,Ray Force,レイフォース,
+650,659,codepage,8661,12,Broken Claw,〓れた〓,
+650,660,codepage,8673,10,Axe Crust,戦〓殻,
+650,661,codepage,8683,12,Sight Stone,〓〓,
+650,662,codepage,8695,11,Vision Orb,ビジヨンオーブ,
+650,663,codepage,8706,13,Bloody Patch,ブラッディクロス,
+650,664,codepage,8719,18,Evil Eyebrow Ring,魔眼のピアス,
+650,665,codepage,8737,16,Steel Horseshoe,鋼の〓鉄,
+650,666,codepage,8753,16,Symbol of Might,マイトシンボル,
+650,667,codepage,8769,13,Vortex Crest,〓〓の〓〓,
+650,668,codepage,8782,20,Rising Dragon Talon,〓〓〓,
+650,669,codepage,8802,12,Spiked Claw,スパイククロー,
+650,670,codepage,8814,12,Scythe Claw,サイズクロー,
+650,671,codepage,8826,14,Obsidian Claw,〓〓の〓,
+650,672,codepage,8840,11,Blade Claw,ブレイドクロー,
+650,673,codepage,8851,11,Dragon Rib,ドラゴンリブ,
+650,674,codepage,8862,18,Dragon Meat Paste,竜の肉味〓,
+650,675,codepage,8880,12,Arc-en-Ciel,アルカンシェル,
+650,676,codepage,8892,18,Evil Eye of Death,〓〓の魔眼,
+650,677,codepage,8910,18,Magic Dragon Horn,魔竜の大〓,
+650,678,codepage,8928,19,Orientation Scales,〓〓〓,
+650,679,codepage,8947,23,Unladen Swallow Scales,〓〓〓,
+650,680,codepage,8970,14,Homing Scales,ホーミングスケイル,
+650,681,codepage,8984,15,Crimson Scales,紅〓のうろこ,
+650,682,codepage,8999,14,Ghibli Scales,ギブリスケイル,
+650,683,codepage,9013,12,Bora Scales,ボーラスケイル,
+650,684,codepage,9025,15,Khamsin Scales,カムシーンスケイル,
+650,685,codepage,9040,12,Ymir's Tear,ユミルの涙,
+650,686,codepage,9052,12,Thor's Rage,トールレイジ,
+650,687,codepage,9064,10,Deep Doom,ディープドゥーム,
+650,688,codepage,9074,12,Blood Jewel,ブラッドジュエリー,
+650,689,codepage,9086,13,Firefly Fire,〓火,
+650,690,codepage,9099,12,Cursed Soul,〓〓の〓,
+650,691,codepage,9111,12,Dark Matter,ダークマター,
+650,692,codepage,9123,12,Abyss Cloak,暗〓のマント,
+650,693,codepage,9135,18,Demon's Right Arm,〓魔の〓〓,
+650,694,codepage,9153,17,Demon's Left Arm,〓魔の〓〓,
+650,695,codepage,9170,13,Demon's Hoof,〓魔のひ〓め,
+650,696,codepage,9183,15,Eternal Silver,不〓銀,
+650,697,codepage,9198,11,Orichalcum,オリハルコン,
+650,698,codepage,9209,14,Electric Bone,〓気骨,
+650,699,codepage,9223,16,Lightning Stone,〓〓石,
+650,700,codepage,9239,14,Sprinter Cell,スプリントセル,
+650,701,codepage,9253,12,Giant Pearl,大〓の〓〓,
+650,702,codepage,9265,12,Kraken Fang,クラーケンファング,
+650,703,codepage,9277,12,Metabolizer,メタボライザー,
+650,704,codepage,9289,16,Bullets of Evil,ブリッツオブイービル,
+650,705,codepage,9305,11,Moon Pearl,ムーンパール,
+650,706,codepage,9316,17,Pulverizing Bone,〓砕骨,
+650,707,codepage,9333,16,Assault Missile,アサルトミサイル,
+650,708,codepage,9349,21,Sylphide's Arrowhead,シルフィードアロートップ,
+650,709,codepage,9370,11,Lucky Tail,しっ〓ホルダー,
+650,710,codepage,9381,10,Empty Box,空の小〓,
+650,711,codepage,9391,14,Firemouse Fur,火ネズミの〓〓,
+650,712,codepage,9405,17,Demon's Parabola,〓魔のパラボラ,
+650,713,codepage,9422,10,Bat Cloak,こうもりのマント,
+650,714,codepage,9432,14,Griffon Talon,グリフォンの〓,
+650,715,codepage,9446,14,Drilling Beak,〓〓のくちばし,
+650,716,codepage,9460,18,Silver Vine Frame,銀〓のカズラ,
+650,717,codepage,9478,19,Mirror of the Lake,〓面の鏡,
+650,718,codepage,9497,14,Wind-up Screw,ネジ〓き,
+650,719,codepage,9511,11,Fatal Seed,フェイタルシード,
+650,720,codepage,9522,12,Tiny Flower,ちいさな花,
+650,721,codepage,9534,5,Lily,リリィ,
+650,722,codepage,9539,13,Weeping Lily,スズラン,
+650,723,codepage,9552,10,Gladiolus,グラジオラス,
+650,724,codepage,9562,14,Amber Lenneth,レナス人〓・アンバー,
+650,725,codepage,9576,17,Metallic Lenneth,レナス人〓・メタリック,
+650,726,codepage,9593,16,Crystal Lenneth,レナス人〓・クリスタル,
+650,727,codepage,9609,9,Truthade,トゥルサード,
+650,728,codepage,9618,8,Incense,インセンス,
+650,729,codepage,9626,12,Dragon Palm,竜の〓,
+650,730,codepage,9638,15,Prancing Horse,〓ね〓の〓〓,
+650,731,codepage,9653,14,Celadon Chick,青〓のひよこ,
+650,732,codepage,9667,14,Ruby-Eyed Bee,ルビーのミツバチ,
+650,733,codepage,9681,15,Beryl Bracelet,〓〓石の〓輪,
+650,734,codepage,9696,18,Red Copper Mirror,〓〓の鏡,
+650,735,codepage,9714,19,Blue Bronze Mirror,青〓の鏡,
+650,736,codepage,9733,10,Blue Doll,青い人〓,
+650,737,codepage,9743,14,Green Kittens,〓の〓〓,
+650,738,codepage,9757,11,Red Cherry,レッドチェリー,
+650,739,codepage,9768,11,Blue Apple,ブルーアップル,
+650,740,codepage,9779,16,Dark Votive Cup,〓の〓器,
+650,741,codepage,9795,15,Jade Sealpouch,〓の封〓器,
+650,742,codepage,9810,15,Rose Sealpouch,〓の封〓器,
+650,743,codepage,9825,16,Azure Sealpouch,〓の封〓器,
+650,744,codepage,9841,23,Map of the North Lands,大陸北部の地図,
+650,745,codepage,9864,22,Map of the West Lands,大陸西部の地図,
+650,746,codepage,9886,22,Map of the East Lands,大陸東部の地図,
+650,747,codepage,9908,14,Hildr's Sword,狩剣ヒルド,
+650,748,codepage,9922,12,Hauteclaire,誓剣オートクレイル,
+650,749,codepage,9934,14,Cloth Greaves,クロスグリーブ,
+650,750,codepage,9948,15,Knight Greaves,ナイトグリーブ,
+650,751,codepage,9963,14,Leather Boots,レザーブーツ,
+650,752,codepage,9977,12,Magic Boots,マジックブーツ,
+650,753,codepage,9989,11,Work Boots,〓ークブーツ,
+650,754,codepage,10000,6,Charm,お守り,
+650,755,codepage,10006,12,Royal Glove,ロイヤルグローブ,
+650,756,codepage,10018,18,Divine Time Giver,時〓りの神器,
+650,757,codepage,10036,9,Gandeeva,ガンデーヴァ,
+650,758,codepage,10045,18,Oreichalkos Staff,オレイカルコスの杖,
+650,759,codepage,10063,17,Thrud's Gauntlet,スルーズの手〓,
+650,760,codepage,10080,17,Randgrid's Blade,神剣ランドグリーズ,
+650,761,codepage,10097,15,Alvitr's Armor,アルヴィトの光鎧,
+650,762,codepage,10112,23,Allfather Kobold Shirt,〓〓のコボルトシャツ,
+650,763,codepage,10135,18,Double-sided Tape,〓面テープの欠〓,
+650,764,codepage,10153,11,Wisdom Wig,〓知の〓ラ,
+650,765,codepage,10164,9,Gungnear,クンクニル,
+650,766,codepage,10173,12,Bamboo Pole,〓〓,
+650,767,codepage,10185,20,Push-up Thingamajig,〓〓てあ〓るアレ,
+650,768,codepage,10205,12,Freya's Cap,フレイキャップ,
+650,769,codepage,10217,13,Crystal Ball,クリスタルボール,
+650,770,codepage,10230,21,Valkyrie Kobold Mail,戦乙女のコボルトメイル,
+650,771,codepage,10251,15,Die-cast Lance,ダイキャストランス,
+650,772,codepage,10266,21,Cypress Quarterstaff,ひのきのぼう,
+650,773,codepage,10287,17,Self-help Manual,〓用書,
+650,774,codepage,10304,10,Iron Pipe,鉄パイプ,
+650,775,codepage,10314,9,Ham-Star,ハム〓スター,
+650,776,codepage,10323,15,Sunflower Seed,ひまわりのたね,
+650,777,codepage,10338,14,Miracle Guard,ミラクルガード,
+650,778,codepage,10352,15,Phylactic Helm,フィラクトヘルム,
+650,779,codepage,10367,17,Ouroboros Symbol,ウロボロスシンボル,
+650,780,codepage,10384,11,Afro Puffs,アフロヘッド,
+650,781,codepage,10395,16,Antique Pendant,ふるびたペンダント,
+650,782,codepage,10411,7,Radish,大〓,
+650,783,codepage,10418,15,Steel Hairband,鋼鉄のヘアーバンド,
+650,784,codepage,10433,24,Depressing Kobold Shirt,ヘタれたコボルトシャツ,
+650,785,codepage,10457,12,Third Proof,〓〓目の〓,
+650,786,codepage,10469,16,Winded Bandanna,〓〓のバンダナ,
+650,787,codepage,10485,17,New Item Catalog,〓〓のガイドブック,
+650,788,codepage,10502,15,Wigged-out Wig,ツンツンの〓ラ,
+650,789,codepage,10517,14,Purple Mirror,〓の鏡,
+650,790,codepage,10531,10,Tiny Bugs,ちいさな虫,
+650,791,codepage,10541,15,Valkyrie Favor,ヴァルキリーフェイバー,
+650,792,codepage,10556,26,"Slashing Sword ""Farewell""",裂刀ファーウェル,
+650,793,codepage,10582,13,Bahamut Tear,バハムートティア,
+650,794,codepage,10595,22,Improved Dragonslayer,ドラゴンスレイヤー〓,
+650,795,codepage,10617,13,Undead Sword,不死者の剣,
+650,796,codepage,10630,21,Philosopher's Pebble,賢者の石の〓〓,
+650,797,codepage,10651,16,Homunculus Seed,ホムンクルスの〓,
+650,798,codepage,10667,18,Monster Manifesto,大いなる教書,
+650,799,codepage,10685,18,Dark Cleric Robes,〓の法衣,
+650,800,codepage,10703,18,Sword of the Meek,〓〓られし者の剣,
+650,801,codepage,10721,13,Hunted Mouse,狩られたネズミ,
+650,802,codepage,10734,16,Tailless Lizard,尻尾の切れたトカゲ,
+650,803,codepage,10750,18,Misfortunate Bird,不幸な青い鳥,
+650,804,codepage,10768,9,Cat Poop,ねこのふん,
+650,805,codepage,10777,12,Sucked Bone,しやぶった骨,
+650,806,codepage,10789,16,Chewed-up Shoes,かじった靴,
+650,807,codepage,10805,14,Squalid Cloth,ぼろぼろの布,
+650,808,codepage,10819,9,Dog Poop,いぬのふん,
+650,809,codepage,10828,13,Chicken Feed,ひよこのえさ,
+650,810,codepage,10841,17,Vegetable Debris,野菜くず,
+650,811,codepage,10858,15,Clamshell Chum,貝殻入りのえさ,
+650,812,codepage,10873,10,Bird Poop,とりのふん,
+650,813,codepage,10883,9,Cat Ring,〓の指輪,
+650,814,codepage,10892,9,Dog Ring,〓の指輪,
+650,815,codepage,10901,10,Bird Ring,鳥の指輪,
+650,816,codepage,10911,15,Solomon's Ring,ソロモンの指輪,
+650,818,codepage,10927,14,Fists of Iron,アイアンフィスト,
+650,819,codepage,10941,13,Mental Boost,マインドバースト,
+650,820,codepage,10954,17,Fortify Physique,ハードボディ,
+650,821,codepage,10971,13,Resist Magic,レジストマジック,
+650,822,codepage,10984,10,Adversity,アドヴァーシティ,
+650,823,codepage,10994,8,Heroism,ヒロイズム,
+650,824,codepage,11002,11,Psychosoma,フェイント,
+650,826,codepage,11014,10,Toughness,タフネス,
+650,827,codepage,11024,9,Training,トレーニング,
+650,828,codepage,11033,12,Observation,オブサベイシヨン,
+650,829,codepage,11045,18,Solitary Struggle,ソリタリィストラグル,
+650,830,codepage,11063,12,Mighty Blow,マイトブロウ,
+650,831,codepage,11075,9,Break Up,ブレイクアップ,
+650,832,codepage,11084,15,Spirit Control,スピリットコントロール,
+650,833,codepage,11099,8,Heat Up,ヒートアップ,
+650,834,codepage,11107,12,Double Edge,ダブルエッジ,
+650,835,codepage,11119,9,Overload,オーバーロード,
+650,836,codepage,11128,12,Triple Edge,トリプルエッジ,
+650,837,codepage,11140,9,Survival,ガッツ,
+650,838,codepage,11149,16,Reflex Movement,リフレックスムーブメント,
+650,839,codepage,11165,11,Magic Mail,プロテクトマジック,
+650,840,codepage,11176,15,Cure Condition,キュアコンディシヨン,
+650,841,codepage,11191,18,Force Field (100),〓〓リザーブ〓〓,
+650,842,codepage,11209,10,First Aid,ファーストエイド,
+650,843,codepage,11219,10,Free Item,フリーアイテム,
+650,844,codepage,11229,18,Regenerate Health,リジェネレーシヨンヒール,
+650,845,codepage,11247,19,Force Field (1000),〓〓リザーブ〓〓,
+650,846,codepage,11266,13,Guard Motion,ガードモーシヨン,
+650,847,codepage,11279,20,Victorious Vitality,バイタルアジャスメント,
+650,848,codepage,11299,19,Force Field (5000),〓〓リザーブ〓〓,
+650,849,codepage,11318,13,Reduce Magic,マジックコントロール,
+650,850,codepage,11331,19,Missile Protection,ミサイルプロテクシヨン,
+650,851,codepage,11350,10,Mind Lock,ロストエモーシヨン,
+650,852,codepage,11360,12,True Seeing,トゥルーシーイング,
+650,853,codepage,11372,15,Beast Bludgeon,ビーストスレイヤー,
+650,854,codepage,11387,13,Weed Whacker,プラントスレイヤー,
+650,855,codepage,11400,12,Bug Swatter,インセクトスレイヤー,
+650,856,codepage,11412,16,Magician Slayer,マジックスレイヤー,
+650,857,codepage,11428,16,Unholy Purifier,アンホーリィスレイヤー,
+650,858,codepage,11444,16,Descaling Might,スケイルスラッシャー,
+650,859,codepage,11460,13,Ghost Buster,ゴーストバスター,
+650,860,codepage,11473,13,Giant Killer,ジャイアントキラー,
+650,861,codepage,11486,14,Dragon Slayer,ドラゴンスレイヤー,
+650,862,codepage,11500,14,God Destroyer,ゴッドスレイヤー,
+650,863,codepage,11514,16,Demon Destroyer,デーモンスレイヤー,
+650,864,codepage,11530,10,Dismantle,ボディパッセージ,
+650,865,codepage,11540,19,Desperate Measures,デスパレーシヨン,
+650,866,codepage,11559,16,Precision Parry,ジャストガード,
+650,867,codepage,11575,16,Scramble Attack,スクランブルアタック,
+650,868,codepage,11591,15,Counter Attack,カウンターアタック,
+650,883,codepage,11620,37,Increases ATK to 120% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+650,884,codepage,11657,37,Increases MAG to 120% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+650,885,codepage,11694,37,Increases RDM to 150% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+650,886,codepage,11731,37,Increases RST to 150% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+650,887,codepage,11768,96,"Increases ATK, MAG, HIT, AVD, RDM, and RST for each extra
+enemy when they outnumber the party.",味方パーティーより〓のほうが多い場〓、その人〓の〓〓とに〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓が上〓する。,
+650,888,codepage,11864,62,Increases attack +20% for each enemy that dies during battle.,戦闘で〓が死亡するたびに〓に〓えるダメージが上〓する。,
+650,889,codepage,11926,55,Combines ATK and MAG values for attacks during battle.,戦闘中の〓〓の〓に、〓〓〓と〓〓〓の〓を〓して〓〓する事ができる。,
+650,891,codepage,11982,49,Doubles current HP and maximum HP during battle.,戦闘中の最大〓〓と〓〓を〓にする事ができる。,
+650,892,codepage,12031,103,"Reduces ATK, MAG, HIT, AVD, RDM, and RST by 20% in battle,
+but increases experience received to 150%.",戦闘中の〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓〓が〓下する。〓が戦闘で入手する経験〓は〓〓になる。,
+650,893,codepage,12134,93,"ATK, MAG, HIT, AVD, RDM, and RST values increase slightly
+per fixed interval during battle.",戦闘中に一定の時間が経〓するたびに〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓の〓が〓しずつ上〓する。,
+650,894,codepage,12227,82,"Increases ATK, MAG, HIT, AVD, RDM, and RST according to
+number of fallen allies.",死亡している味方の〓に〓〓して〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓の〓が上〓する。,
+650,895,codepage,12309,91,"Makes attacks cause enemy to faint. Further attacks are more likely
+to break enemy guard.",〓〓によって〓を気絶さ〓る事ができる。さらに〓〓によって〓のガードを〓壊しやすくなる。,
+650,896,codepage,12400,76,"Increases chances of entering Break Mode when part of enemy is
+broken off.",自〓の〓〓によって〓の部位を切〓した時にブレイクモードに〓入する〓〓が上〓する。,
+650,897,codepage,12476,65,Increases the amount of purple gems that appear after an attack.,自〓の〓〓によって出〓する〓炎石の量が〓加する。,
+650,898,codepage,12541,70,Increases the amount your special attack gauge rises after an attack.,自〓の〓〓によって上〓する〓め技ゲージの量が〓加する。,
+650,899,codepage,12611,39,Deals damage twice in a single attack.,〓の〓〓によってダメージを〓〓える事ができる。,
+650,900,codepage,12650,78,"Increases power of magic to 150%.
+However, magic will strike allies as well.",魔法の〓力が〓〓に上〓する。た〓し、味方にも魔法が〓中するようになる。,
+650,901,codepage,12728,40,Deals damage thrice in a single attack.,〓の〓〓によってダメージを〓〓える事ができる。,
+650,902,codepage,12768,105,"Leaves 1 HP after an otherwise fatal attack if character has at 
+least 10% of maximum HP to start with.",〓〓が〓上〓っていた場〓、〓〓が〓下になる〓〓を〓けても〓る。,
+650,903,codepage,12873,65,Enables blocking and evading of enemy attacks when knocked back.,〓の〓〓を〓けてのノックバックの最中にも防〓と〓避の〓定を行う事ができる。,
+650,904,codepage,12938,66,Enables guarding against and evading special magic-based attacks.,魔法〓の〓〓な〓〓をガードや〓避する事が〓〓になる。,
+650,905,codepage,13004,72,Enables quicker recovery than usual from status ailments during battle.,戦闘中、〓常よりも〓い時間で〓〓異常から〓〓する事ができる。,
+650,906,codepage,13076,64,Protects user with a force field that can withstand 100 damage.,の耐〓力を持つ結界で自〓を守る事ができる。,
+650,907,codepage,13140,69,May restore half the damage inflicted by an enemy attack afterwards.,〓から〓〓を〓けた場〓、一定の〓〓でそのときに〓けたダメージの半〓を〓〓する事ができる。,
+650,908,codepage,13209,40,Enables you to use items at no AP cost.,アイテムを〓用する〓に〓〓を〓〓しなくなる。,
+650,909,codepage,13249,46,Restores HP at fixed intervals during battle.,戦闘中、一定時間〓とに〓〓が〓〓するようになる。,
+650,910,codepage,13295,65,Protects user with a force field that can withstand 1000 damage.,の耐〓力を持つ結界で自〓を守る事ができる。,
+650,911,codepage,13360,119,"Reduces damage received by 20%. However, prohibits blocking and
+evading. Renders user susceptible to status ailments.",〓けるダメージを〓〓する事ができる。た〓し〓避と防〓は行えず、〓〓異常にかかりやすくなる。,
+650,912,codepage,13479,46,Restores HP to 100% when victory is achieved.,戦闘〓利時に〓〓を〓〓する事ができる。,
+650,913,codepage,13525,65,Protects user with a force field that can withstand 5000 damage.,の耐〓力を持つ結界で自〓を守る事ができる。,
+650,914,codepage,13590,67,"Halves efficacy of all magic received, whether damage or recovery.",自〓が〓ける魔法の〓果が〓〓・〓〓を問わず全て半〓になる。,
+650,915,codepage,13657,42,Guards against all projectiles frontally.,〓面からの〓び道〓を〓全にガードする事ができる。,
+650,916,codepage,13699,64,Renders the spirit impermeable to outside spiritual influences.,心を〓〓し、外部からの精神〓な〓〓を一切〓けなくする。,
+650,917,codepage,13763,45,Increases the occurence of critical attacks.,クリティカル〓〓の発生〓〓が上〓する。,
+650,918,codepage,13808,60,Enables attacks with massive effects against Beast enemies.,〓〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,919,codepage,13868,60,Enables attacks with massive effects against Plant enemies.,〓物〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,920,codepage,13928,61,Enables attacks with massive effects against Insect enemies.,虫〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,921,codepage,13989,60,Enables attacks with massive effects against Magic enemies.,魔術師〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,922,codepage,14049,61,Enables attacks with massive effects against Unholy enemies.,不〓な〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,923,codepage,14110,51,Increases power of attacks against Scaled enemies.,うろこに覆われた〓に〓して〓〓力が〓加する。,
+650,924,codepage,14161,55,Enables you to attack enemies without material bodies.,〓〓を持たない〓にも〓〓を〓える事ができる。,
+650,925,codepage,14216,50,Increases power of attacks against Giant enemies.,巨大な〓に〓して〓〓力が〓加する。,
+650,926,codepage,14266,61,Enables attacks with massive effects against Dragon enemies.,竜〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,927,codepage,14327,61,Enables attacks with massive effects against Divine enemies.,神〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,928,codepage,14388,60,Enables attacks with massive effects against Demon enemies.,〓魔〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+650,929,codepage,14448,47,Splits an enemy in two with a critical attack.,クリティカル〓〓によって、〓の〓を一刀のもとに切〓する事ができるようになる。,
+650,930,codepage,14495,100,"Splits an enemy in two with an attack.
+However, the bearer of this skill's maximum HP is set to 1.",〓〓によって〓の〓を切〓する事ができるようになる。た〓し、このスキルをつけている〓人の最大〓〓はになる。,
+650,931,codepage,14595,98,"Performs guard when the button of the attacked character
+is pressed at the moment of the attack.",〓の〓〓を〓けた〓間に、そのキャラクターに〓〓するボタンをタイミングよく〓す事で〓〓をガードできる。,
+650,932,codepage,14693,113,"Set special input for normal attack, to be performed by
+pressing a button while holding the directional button.",方〓キーを〓しながらボタンを入力する事で出〓る〓〓入力の〓常〓〓をセットできるようになる。,
+650,933,codepage,14806,96,"Displays icon after character is attacked. Press the
+button when you see it to counter attack.",〓の〓〓を〓避した〓にアイコンが出〓、タイミングよくボタンを〓す事で〓〓をする事ができる。,
+650,948,codepage,14916,11,Dual Tusks,デュアルタスク,
+650,949,codepage,14927,9,Stardust,スターダスト,
+650,950,codepage,14936,12,Aiming Wisp,エイミングウィスプ,
+650,951,codepage,14948,12,Rising Wisp,ライジングウィスプ,
+650,952,codepage,14960,19,Binding Distortion,リストリクトディストーシヨン,
+650,953,codepage,14979,11,Flame Shot,フレイムシュート,
+650,954,codepage,14990,12,Wave Motion,ウェイブモーシヨン,
+650,955,codepage,15002,13,Stony Decree,ウェザリングオーダー,
+650,956,codepage,15015,14,Target Throat,スロートシュート,
+650,957,codepage,15029,17,Rebellious Truth,リベリオントゥルース,
+650,964,codepage,15052,15,Bloody Knuckle,ブラッディナックル,
+650,965,codepage,15067,14,Ravaging Rush,バック〓ードフロウ,
+650,966,codepage,15081,12,Deadly Raid,デッドリーレイド,
+650,967,codepage,15093,12,Soul Shaker,ソウルシェイカー,
+650,968,codepage,15105,11,Overhammer,オーバーハンマー,
+650,969,codepage,15116,11,Blood Rain,ブラッドレイン,
+650,970,codepage,15127,12,Earth Break,アースブレイク,
+650,971,codepage,15139,14,Immortal Blow,イモータルブロウ,
+650,972,codepage,15153,16,Smashing Hammer,バスターハンマー,
+650,973,codepage,15169,13,Blood Chisel,ブラッドハーケン,
+650,980,codepage,15188,17,Three-way Attack,スリーウェイ,
+650,981,codepage,15205,14,Thunder Arrow,サンダーアロー,
+650,982,codepage,15219,14,Absolute Wave,アブソリュートウェイブ,
+650,983,codepage,15233,17,Shrapnel Shatter,フレークフラップ,
+650,984,codepage,15250,14,Killing Thorn,レイティングソーン,
+650,985,codepage,15264,13,Thunder Fall,サンダーフォール,
+650,986,codepage,15277,13,Stony Decree,ウェザリングオーダー,
+650,987,codepage,15290,15,Freezing Lance,フリージングランサー,
+650,988,codepage,15305,14,Thunder Break,サンダーブレイク,
+650,989,codepage,15319,12,Aiming Wisp,エイミングウィスプ,
+650,1012,codepage,15353,10,High Wind,ハイウインド,
+650,1013,codepage,15363,16,Wrenching Swing,レンチングスイング,
+650,1014,codepage,15379,22,Spinning Back-Knuckle,スピニングバックナックル,
+650,1015,codepage,15401,10,Total End,トータルエンド,
+650,1016,codepage,15411,11,Storm Edge,ストームエッジ,
+650,1017,codepage,15422,9,Dead End,デッドエンド,
+650,1018,codepage,15431,12,Double Wind,ダブルウインド,
+650,1019,codepage,15443,11,Wild Break,インクレブルエイク,
+650,1020,codepage,15454,10,Lost Life,ロストライフ,
+650,1021,codepage,15464,15,Hurricane Edge,ストリームエッジ,
+650,1028,codepage,15485,12,Heavyweight,ヘビーウェイト,
+650,1029,codepage,15497,13,Double Swing,ダブルスイング,
+650,1030,codepage,15510,16,Absolute Strike,アブソリュートグランス,
+650,1031,codepage,15526,12,Ground Edge,グランドエッジ,
+650,1032,codepage,15538,17,Dismember Legion,ディスメンバーレギオン,
+650,1033,codepage,15555,11,Full Swing,フルスイング,
+650,1034,codepage,15566,10,Spin Edge,スピンエッジ,
+650,1035,codepage,15576,14,Twister Swing,ツイスタースイング,
+650,1036,codepage,15590,11,High Spike,ハイエンドスパイク,
+650,1037,codepage,15601,11,Blast Kick,ブラストキック,
+650,1044,codepage,15618,14,Sunset Luster,サンセットラスター,
+650,1045,codepage,15632,13,Assault Step,アサルトステップ,
+650,1046,codepage,15645,17,Descending Sword,レイダウンソード,
+650,1047,codepage,15662,9,Overspin,オーバースピン,
+650,1048,codepage,15671,13,Mist Phantom,ミスティファントム,
+650,1049,codepage,15684,13,Sneaky Throw,サプライズスロー,
+650,1050,codepage,15697,12,Double Wind,ダブルウインド,
+650,1051,codepage,15709,12,Tri Crusade,トライクルセイド,
+650,1052,codepage,15721,12,Soul Pierce,ソウルピアシング,
+650,1053,codepage,15733,12,Second Ruin,セカンドルーイン,
+650,1060,codepage,15751,11,Sideswiper,サイドスイングカット,
+650,1061,codepage,15762,15,Hurricane Bolt,ハリケーンボルト,
+650,1062,codepage,15777,19,Trial of Existence,イグジスタンストライアル,
+650,1063,codepage,15796,15,Downward Split,スプリットダウン,
+650,1064,codepage,15811,11,Entrapment,クライムアトラクター,
+650,1065,codepage,15822,16,Furious Advance,アドヴァンスフューリアス,
+650,1066,codepage,15838,15,Hurricane Raid,ハリケーンレイド,
+650,1067,codepage,15853,12,Armor Break,アーマーブレイク,
+650,1068,codepage,15865,13,Endangerment,フォースアトラクター,
+650,1069,codepage,15878,9,Over Arc,オーバーアーク,
+650,1076,codepage,15893,11,Bolt Slash,ボルトスラッシュ,
+650,1077,codepage,15904,14,Vertical Raid,バーティカルレイド,
+650,1078,codepage,15918,15,Glowing Pierce,グロウイングピアス,
+650,1079,codepage,15933,11,Grim Force,グリムフォース,
+650,1080,codepage,15944,17,Succession Slide,サクセッシヨンスライド,
+650,1081,codepage,15961,13,Ptero Attack,ハイウインドラプター,
+650,1082,codepage,15974,16,Multiple Attack,マルチプルアタック,
+650,1083,codepage,15990,11,Code Break,コードブレイク,
+650,1084,codepage,16001,13,Moment Slide,モーメントスライド,
+650,1085,codepage,16014,13,Feather Sail,フェザーセイル,
+650,1092,codepage,16033,13,Cutting Edge,カッティングエッジ,
+650,1093,codepage,16046,14,Imperious Act,インプライリアクト,
+650,1094,codepage,16060,14,Spiral Pierce,スパイラルピアス,
+650,1095,codepage,16074,11,Gale Winds,ガストウインドウ,
+650,1096,codepage,16085,11,Turnaround,ターンアラウンド,
+650,1097,codepage,16096,14,Sky-high Edge,スカイハイエッジ,
+650,1098,codepage,16110,12,Tri Crusade,トライクルセイド,
+650,1099,codepage,16122,12,Cross Slash,クロスラッシュ,
+650,1100,codepage,16134,14,Mirage Pierce,ミラージュピアス,
+650,1101,codepage,16148,12,Deep Impact,ディープインパクト,
+650,1108,codepage,16166,13,Cutting Edge,カッティングエッジ,
+650,1109,codepage,16179,14,Imperious Act,インプライリアクト,
+650,1110,codepage,16193,14,Spiral Pierce,スパイラルピアス,
+650,1111,codepage,16207,11,Gale Winds,ガストウインドウ,
+650,1112,codepage,16218,11,Turnaround,ターンアラウンド,
+650,1113,codepage,16229,14,Sky-high Edge,スカイハイエッジ,
+650,1114,codepage,16243,12,Tri Crusade,トライクルセイド,
+650,1115,codepage,16255,12,Cross Slash,クロスラッシュ,
+650,1116,codepage,16267,14,Mirage Pierce,ミラージュピアス,
+650,1117,codepage,16281,12,Deep Impact,ディープインパクト,
+650,1140,codepage,16315,15,Crimson Strike,ルージュストライク,
+650,1141,codepage,16330,13,Flank Attack,サイドフラップ,
+650,1142,codepage,16343,13,Mobius Slide,メビウスライド,
+650,1143,codepage,16356,10,Smackdown,スラップビート,
+650,1144,codepage,16366,13,Mystic Chain,ミスティックチェイン,
+650,1145,codepage,16379,20,Heavenly Punishment,ヘブンリィパニッシュメント,
+650,1146,codepage,16399,13,Crisis Point,クライシスポイント,
+650,1147,codepage,16412,11,Burst Shot,バーストシヨット,
+650,1148,codepage,16423,14,Victory Sword,ビクトリーソード,
+650,1149,codepage,16437,15,Thunder Strike,サンダーストライク,
+650,1188,codepage,16490,14,Sunset Luster,サンセットラスター,
+650,1189,codepage,16504,13,Assault Step,アサルトステップ,
+650,1190,codepage,16517,17,Descending Sword,レイダウンソード,
+650,1191,codepage,16534,9,Overspin,オーバースピン,
+650,1192,codepage,16543,13,Mist Phantom,ミスティファントム,
+650,1193,codepage,16556,13,Sneaky Throw,サプライズスロー,
+650,1194,codepage,16569,11,Holy Smite,ホーリースマイト,
+650,1195,codepage,16580,16,Ascending Sword,レイアップソード,
+650,1196,codepage,16596,13,Energy Steal,エナジースティール,
+650,1197,codepage,16609,12,Shadow Snap,シャドウスナップ,
+650,1198,codepage,16621,11,Magic Lock,マジックロック,
+650,1199,codepage,16632,16,Resonating Pain,レゾネイトペイン,
+650,1200,codepage,16648,12,Soul Pierce,ソウルピアシング,
+650,1201,codepage,16660,12,Tri Crusade,トライクルセイド,
+650,1202,codepage,16672,12,Double Wind,ダブルウインド,
+650,1203,codepage,16684,12,Second Ruin,セカンドルーイン,
+650,1204,codepage,16696,11,Sideswiper,サイドスイングカット,
+650,1205,codepage,16707,16,Structural Shot,ストラクチャーシュート,
+650,1206,codepage,16723,11,Sweep Dive,スウィープダイブ,
+650,1207,codepage,16734,10,Iron Bash,アイアンバッシュ,
+650,1208,codepage,16744,14,Overhand Left,オーバーレフト,
+650,1209,codepage,16758,15,Spinal Current,カーレントスパイン,
+650,1210,codepage,16773,15,Bloody Cascade,ブラッディカスケード,
+650,1211,codepage,16788,11,Sonic Edge,ソニックエッジ,
+650,1212,codepage,16799,12,Arm Breaker,アームドブレイク,
+650,1213,codepage,16811,12,Disassemble,リムーブハード,
+650,1214,codepage,16823,12,Lower Split,ロウアースプリット,
+650,1215,codepage,16835,13,Forbid Sound,フォービッドノイズ,
+650,1216,codepage,16848,11,Quick Stab,クイックスタッブ,
+650,1217,codepage,16859,15,Dreaded Radius,ドレイディッドラディアス,
+650,1218,codepage,16874,11,Blast Kick,ブラストキック,
+650,1219,codepage,16885,15,Smashing Swing,バスタースイング,
+650,1220,codepage,16900,11,Dual Tusks,デュアルタスク,
+650,1221,codepage,16911,12,Poison Shot,ポイズンシュート,
+650,1222,codepage,16923,9,Stardust,スターダスト,
+650,1223,codepage,16932,12,Aiming Wisp,エイミングウィスプ,
+650,1224,codepage,16944,12,Rising Wisp,ライジングウィスプ,
+650,1225,codepage,16956,14,Smashing Shot,バスターシュート,
+650,1226,codepage,16970,19,Binding Distortion,リストリクトディストーシヨン,
+650,1227,codepage,16989,11,Flame Shot,フレイムシュート,
+650,1228,codepage,17000,12,Wave Motion,ウェイブモーシヨン,
+650,1229,codepage,17012,17,Shrapnel Shatter,フレークフラップ,
+650,1230,codepage,17029,17,Three-way Attack,スリーウェイ,
+650,1231,codepage,17046,12,Single Shot,シングルシヨット,
+650,1232,codepage,17058,13,Stony Decree,ウェザリングオーダー,
+650,1233,codepage,17071,12,Flare Blast,フレアシュート,
+650,1234,codepage,17083,14,Target Throat,スロートシュート,
+650,1253,codepage,17115,97,"Launches twin bolts of godspeed at great velocity.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",高〓で〓つ神〓の〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1254,codepage,17212,90,"Fires shockwave bearing the light of stars.
+Increase to Special Attack gauge: 3 <0065> 4 Hits",〓の光を〓〓た〓〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1255,codepage,17302,86,"Fires a bolt guided by a beam of light.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",光線〓の誘〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1256,codepage,17388,87,"A guided bolt flies to the very heavens.
+Increase to Special Attack gauge: 7 <0065> 2 Hits",天に〓け上がる誘〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1257,codepage,17475,102,"Ensnares enemy in a distortion of space itself.
+Increase to Special Attack gauge: 3 <0065> Number of Hits",空間の歪みで〓を〓〓する。〓め技ゲージ〓加量：〓〓〓〓〓,
+650,1258,codepage,17577,100,"Launches an arrow that explodes when it strikes home.
+Increase to Special Attack gauge: 16 <0065> 1 Hit",〓中すると〓発する〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1259,codepage,17677,72,"Unleashes focused energy.
+Increase to Special Attack gauge: 9 <0065> 2 Hits",〓〓さ〓た力を〓〓する。〓め技ゲージ〓加量：〓〓〓〓,
+650,1260,codepage,17749,90,"An enchanted arrow turns the enemy to stone.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓の〓を石化する魔法の〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1261,codepage,17839,88,"An attack that goes right for the throat.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓を〓い〓ました一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1262,codepage,17927,79,"Five rapid strikes to the front.
+Increase to Special Attack gauge: 4 <0065> 5 Hits",〓方への〓〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1269,codepage,18012,102,"A downward blow that strikes the top of the foe's head.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓上から〓り下ろす一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1270,codepage,18114,74,"A solid blow from close-up.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓に入り〓んでの一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1271,codepage,18188,90,"An upper cut that strikes into the heavens.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",天高く〓び上がるアッパー。〓め技ゲージ〓加量：〓〓〓〓,
+650,1272,codepage,18278,81,"Three blows slashing side-to-side.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",〓〓からの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1273,codepage,18359,94,"A powerful knockdown blow delivered from above.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",上空から〓き〓〓る〓力な一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1274,codepage,18453,73,"A torrent of magic energy.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",魔力の〓流による〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1275,codepage,18526,91,"Concentrated magic energy fissures the land.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",圧〓した魔力を〓き付け、地面を〓壊さ〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1276,codepage,18617,102,"A fist wrapped in magic energy strikes a heavenly blow.
+Increase to Special Attack gauge: 2 <0065> 8 Hits",魔力をまとった〓で〓を天空高く〓ち上〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1277,codepage,18719,104,"A leap into the air and an attack that strikes both
+arms. Increase to Special Attack gauge: 6 <0065> 2 Hits",空中に〓び上がり〓〓を〓き付ける〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1278,codepage,18823,82,"Hurls forth a mass of magic energy.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",魔力の〓を〓〓つける。〓め技ゲージ〓加量：〓〓〓〓,
+650,1285,codepage,18911,97,"Attacks in three directions, covering every angle.
+Increase to Special Attack gauge: 5 <0065> 3 Hits",〓の無い方〓への〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1286,codepage,19008,98,"Hurls an arrow infused with the power of lightning.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",雷の力を〓〓た〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1287,codepage,19106,72,"Unleashes focused energy.
+Increase to Special Attack gauge: 5 <0065> 4 Hits",〓〓さ〓た力を〓〓する。〓め技ゲージ〓加量：〓〓〓〓,
+650,1288,codepage,19178,98,"A countless scattering of bolts is hurled forward. 
+Increase to Special Attack gauge: 3 <0065> 8 Hits",無〓の〓〓を〓面に〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1289,codepage,19276,99,"A residual shockwave is hurled at the enemy.
+Increase to Special Attack gauge: 7 <0065> Number of Hits",〓された〓〓〓が〓を〓う。〓め技ゲージ〓加量：〓〓〓〓〓,
+650,1290,codepage,19375,101,"Three rapid blows are delivered downward from the sky.
+Increase to Special Attack gauge: 5 <0065> 3 Hits",上空から〓下する〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1291,codepage,19476,90,"An enchanted arrow turns the enemy to stone.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓の〓を石化する魔法の〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1292,codepage,19566,104,"Launches an icy javelin that freezes to the soul.
+Increase to Special Attack gauge: 3 <0065> Number of Hits",〓すらも〓りつか〓る〓の槍を〓つ。〓め技ゲージ〓加量：〓〓〓〓〓,
+650,1293,codepage,19670,102,"Three rapid blasts infused with the power of lightning.
+Increase to Special Attack gauge: 6 <0065> 3 Hits",雷の力を〓〓た〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1294,codepage,19772,86,"Fires a bolt guided by a beam of light.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",光線〓の誘〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1317,codepage,19880,80,"A mighty downward blow from high.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",上〓から大きく〓り下ろす一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1318,codepage,19960,99,"Horizontal sword slice. Hold button to launch enemy. 
+Increase to Special Attack gauge: 9 <0065> 1 Hit",剣を水平に〓るな〓〓い。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1319,codepage,20059,99,"Backhand with gauntlet. Hold button to launch enemy.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",ガントレットによる〓〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1320,codepage,20158,78,"Leg strike against nearby enemy.
+Increase to Special Attack gauge: 8 <0065> 1 Hit",〓くの〓元への〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1321,codepage,20236,84,"Rapid series of attacks like a storm.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",〓のような〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1322,codepage,20320,94,"Full force attack. Hold button to launch enemy.
+Increase to Special Attack gauge: 13 <0065> 1 Hit",全力を〓めた一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1323,codepage,20414,73,"A downward blow from high.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",上〓から〓り下ろす〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1324,codepage,20487,91,"A wild attack that relies on brute strength.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",力〓〓の乱〓な〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1325,codepage,20578,87,"Follow-up blow against knocked-down foe.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓れた〓への〓い〓ち。〓め技ゲージ〓加量：〓〓〓〓,
+650,1326,codepage,20665,88,"Rapid series of attacks like a hurricane.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",〓〓のような〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1333,codepage,20759,97,"Powerful, heavy blow. Hold button to launch enemy.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",〓いを〓〓た重い一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1334,codepage,20856,81,"Two strikes to the right and left.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",〓〓への〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1335,codepage,20937,86,"Downward strike with nothing held back.
+Increase to Special Attack gauge: 14 <0065> 1 Hit",〓〓の力で〓り下ろす一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1336,codepage,21023,77,"A sweeping strike at the legs.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓元を切り〓う〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1337,codepage,21100,82,"Uses giant body to smash the enemy.
+Increase to Special Attack gauge: 4 <0065> 8 Hits",巨〓を活かした〓〓たり。〓め技ゲージ〓加量：〓〓〓〓,
+650,1338,codepage,21182,99,"Attack from foe's side. Hold button to launch enemy.
+Increase to Special Attack gauge: 15 <0065> 1 Hit",横から〓を〓り〓う一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1339,codepage,21281,100,"Slicing, spinning attack that uses centrifugal force.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",遠心力を活かした〓〓切り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1340,codepage,21381,93,"Flips enemy and follows with a horizontal cut.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",〓を〓ね上〓てからの横切り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1341,codepage,21474,95,"An awesome stomping attack that crushes the foe.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓を踏み砕く〓引な踏み付け。〓め技ゲージ〓加量：〓〓〓〓,
+650,1342,codepage,21569,87,"A side kick that sends the enemy flying.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",〓を大きく〓き〓ばす横〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1349,codepage,21662,76,"A downwards attack from above.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",上〓からの〓り下ろし。〓め技ゲージ〓加量：〓〓〓〓,
+650,1350,codepage,21738,89,"A thrusting attack with the body kept low.
+Increase to Special Attack gauge: 3 <0065> 2 Hits",〓〓を〓くしての素〓い〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1351,codepage,21827,95,"Knocks the foe off-balance and strikes downward.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",〓〓を〓し上から切り〓〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1352,codepage,21922,86,"A spinning kick with nothing held back.
+Increase to Special Attack gauge: 13 <0065> 1 Hit",〓いを付けた〓〓〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1353,codepage,22008,88,"A snake-fast attack quicker than the eye.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",目にも〓まらない高〓の〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1354,codepage,22096,83,"Surprise attack with a hidden knife.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",隠し持ったナイフでの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1355,codepage,22179,73,"A downward blow from high.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",上〓から〓り下ろす〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1356,codepage,22252,87,"A leaping, slashing attack into the air.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",上空へと〓び上がる〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1357,codepage,22339,89,"A strike that aims for the foe's weak spot.
+Increase to Special Attack gauge: 8 <0065> 1 Hit",〓所を〓っての一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1358,codepage,22428,80,"Overwhelming sword flurry attack.
+Increase to Special Attack gauge: 2 <0065> 6 Hits",剣圧による〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1365,codepage,22514,96,"Strike from the side. Hold button to launch enemy.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",横からの切り〓い。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1366,codepage,22610,92,"Lifts the foe high into the air by the chest.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓から天高く〓り上〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1367,codepage,22702,77,"Three lightning-quick thrusts.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",素〓い〓〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1368,codepage,22779,96,"Single blow that looks to split the foe asunder. 
+Increase to Special Attack gauge: 3 <0065> 4 Hits",〓を〓〓〓んばかりの一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1369,codepage,22875,86,"An attack that hooks and drags the foe.
+Increase to Special Attack gauge: 4 <0065> 2 Hits",〓を引っ〓けて引き〓〓る〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1370,codepage,22961,88,"An extreme attack with nothing held back.
+Increase to Special Attack gauge: 18 <0065> 1 Hit",一〓に全てを〓けた究〓技。〓め技ゲージ〓加量：〓〓〓〓,
+650,1371,codepage,23049,104,"A two-stage attack that engulfs and then lifts the enemy.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",〓を〓き〓み〓き上〓る〓〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1372,codepage,23153,90,"A single blow that smashes the foe's armor.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓の〓〓を〓壊する一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1373,codepage,23243,83,"Ensnares the foe and drags it closer.
+Increase to Special Attack gauge: 7 <0065> 1 Hit",〓を〓らえて引き〓〓る〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1374,codepage,23326,68,"An attack from below.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",下からの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1381,codepage,23400,83,"A downward cutting attack from high.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",上〓からの切り下ろし。〓め技ゲージ〓加量：〓〓〓〓,
+650,1382,codepage,23483,90,"A slashing blow that cuts from low to high.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",下〓から〓で切り上〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1383,codepage,23573,87,"A sharp thrust aimed at the foe's front.
+Increase to Special Attack gauge: 5 <0065> 3 Hits",〓面目〓けての〓い〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1384,codepage,23660,98,"Cuts clear across foe. Hold button to launch enemy. 
+Increase to Special Attack gauge: 9 <0065> 1 Hit",水平に〓を〓〓する一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1385,codepage,23758,76,"Repeated attacks to the legs.
+Increase to Special Attack gauge: 4 <0065> 4 Hits",〓元への〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1386,codepage,23834,94,"Leaping attack crushes with entire body weight.
+Increase to Special Attack gauge: 13 <0065> 1 Hit",〓重を〓〓た上空からの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1387,codepage,23928,100,"Thrusts and withdraws the sword blade into the enemy.
+Increase to Special Attack gauge: 3 <0065> 4 Hits",〓に〓き〓した剣を引き〓く〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1388,codepage,24028,89,"A blow that severs the soul from its flesh.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓と肉〓を切り〓す一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1389,codepage,24117,76,"A sliding attack at the legs.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",〓元へのスライディング。〓め技ゲージ〓加量：〓〓〓〓,
+650,1390,codepage,24193,91,"A spinning kick that rises from low to high.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",下から上への〓〓〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1397,codepage,24290,84,"A decapitating blow aimed at the neck.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓〓を〓った切り下ろし。〓め技ゲージ〓加量：〓〓〓〓,
+650,1398,codepage,24374,74,"A lifting attack from below.
+Increase to Special Attack gauge: 8 <0065> 1 Hit",下〓からの〓ね上〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1399,codepage,24448,90,"A shattering thrust with a follow-up twist.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",〓りを加えた〓〓な〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1400,codepage,24538,88,"A vacuum-wave cutting attack at the feet.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",〓空〓による〓元への〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1401,codepage,24626,71,"A spinning sweep attack.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",〓〓しての〓〓い。〓め技ゲージ〓加量：〓〓〓〓,
+650,1402,codepage,24697,75,"A leaping blow from the air.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",上空に〓び上がっての一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1403,codepage,24772,87,"A leaping, slashing attack into the air.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",上空へと〓び上がる〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1404,codepage,24859,104,"The first strike lifts the foe; the second cuts him down.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",一刀目で〓を切り上〓、〓刀目で〓を切り〓〓る〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1405,codepage,24963,92,"An attack that penetrates the foe's defenses.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",〓の防〓をすり〓ける〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1406,codepage,25055,96,"A brutal side slash. Hold button to launch enemy.
+Increase to Special Attack gauge: 3 <0065> 2 Hits",力〓〓の横〓〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1413,codepage,25157,85,"A decapitating blow aimed at the neck.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓〓を〓った切り下ろし。〓め技ゲージ〓加量：〓〓〓〓,
+650,1414,codepage,25242,74,"A lifting attack from below.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",下〓からの〓ね上〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1415,codepage,25316,90,"A shattering thrust with a follow-up twist.
+Increase to Special Attack gauge: 5 <0065> 3 Hits",〓りを加えた〓〓な〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1416,codepage,25406,88,"A vacuum-wave cutting attack at the feet.
+Increase to Special Attack gauge: 5 <0065> 3 Hits",〓空〓による〓元への〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1417,codepage,25494,71,"A spinning sweep attack.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",〓〓しての〓〓い。〓め技ゲージ〓加量：〓〓〓〓,
+650,1418,codepage,25565,75,"A leaping blow from the air.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",上空に〓び上がっての一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1419,codepage,25640,87,"A leaping, slashing attack into the air.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",上空へと〓び上がる〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1420,codepage,25727,104,"The first strike lifts the foe; the second cuts him down.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",一刀目で〓を切り上〓、〓刀目で〓を切り〓〓る〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1421,codepage,25831,92,"An attack that penetrates the foe's defenses.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",〓の防〓をすり〓ける〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1422,codepage,25923,96,"A brutal side slash. Hold button to launch enemy.
+Increase to Special Attack gauge: 3 <0065> 2 Hits",力〓〓の横〓〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1445,codepage,26041,97,"Attack launches flames of judgment from right arm.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",〓〓から〓きの炎を〓き〓つ〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1446,codepage,26138,100,"Circles round the enemy to deliver a roundhouse kick.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",〓の〓後に〓り〓んでの〓し〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1447,codepage,26238,98,"Circles round the enemy to deliver a powerful blow.
+Increase to Special Attack gauge: 13 <0065> 1 Hit",〓の〓後に〓り〓んでの〓力な一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1448,codepage,26336,83,"A combination attack from the front.
+Increase to Special Attack gauge: 2 <0065> 5 Hits",〓面からの〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1449,codepage,26419,95,"A flurry attack of which mortals dare not speak.
+Increase to Special Attack gauge: 3 <0065> 5 Hits",あんまり〓く〓りたくない〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1450,codepage,26514,103,"Awesome flurry attack of which mortals dare not speak.
+Increase to Special Attack gauge: 10 <0065> 14 Hits",あんまり〓く〓りたくないスーパーな〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1451,codepage,26617,98,"Appears above the foe's head for a surprise attack.
+Increase to Special Attack gauge: 2 <0065> 5 Hits",〓の〓上に〓〓しての〓〓〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1452,codepage,26715,94,"Fires a magic bolt that explodes upon landing. 
+Increase to Special Attack gauge: 3 <0065> 4 Hits",地面に〓たると〓発する魔力の〓を〓ち出す。〓め技ゲージ〓加量：〓〓〓〓,
+650,1453,codepage,26809,92,"Summons a multitude of blades around the foe.
+Increase to Special Attack gauge: 2 <0065> 6 Hits",〓の〓〓に無〓の〓を生み出しての〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1454,codepage,26901,97,"Attack launches holy lightning from the right arm.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",〓〓から聖なる雷を〓き〓つ〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1493,codepage,27036,76,"A downwards attack from above.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",上〓からの〓り下ろし。〓め技ゲージ〓加量：〓〓〓〓,
+650,1494,codepage,27112,89,"A thrusting attack with the body kept low.
+Increase to Special Attack gauge: 3 <0065> 2 Hits",〓〓を〓くしての素〓い〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1495,codepage,27201,93,"Knocks the foe off-balance, then cuts it down.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",〓〓を〓し上から切り〓〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1496,codepage,27294,86,"A spinning kick with nothing held back.
+Increase to Special Attack gauge: 13 <0065> 1 Hit",〓いを付けた〓〓〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1497,codepage,27380,88,"A snake-fast attack quicker than the eye.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",目にも〓まらない高〓の〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1498,codepage,27468,83,"Surprise attack with a hidden knife.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",隠し持ったナイフでの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1499,codepage,27551,78,"A blow infused with holy power.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",聖なる力を〓めた一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1500,codepage,27629,94,"Knocks the foe off-balance and strikes upwards.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",〓〓を〓し下から切り上〓る。〓め技ゲージ〓加量：〓〓〓〓,
+650,1501,codepage,27723,100,"A single blow that robs the foe of its will to fight.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",〓手の活力を〓う一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1502,codepage,27823,92,"Restrains the foe by nailing down its shadow.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",〓を〓〓き行動を〓〓する。〓め技ゲージ〓加量：〓〓〓〓,
+650,1503,codepage,27915,91,"A blow that blocks the flow of magic energy.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",魔力の流れを〓〓する〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1504,codepage,28006,88,"A powerful thrust with nothing held back.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",〓いを付けた〓力な〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1505,codepage,28094,89,"A strike that aims for the foe's weak spot.
+Increase to Special Attack gauge: 8 <0065> 1 Hit",〓所を〓っての一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1506,codepage,28183,87,"A leaping, slashing attack into the air.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",上空へと〓び上がる〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1507,codepage,28270,73,"A downward blow from high.
+Increase to Special Attack gauge: 4 <0065> 2 Hits",〓〓から切り〓〓る〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1508,codepage,28343,80,"Overwhelming sword flurry attack.
+Increase to Special Attack gauge: 2 <0065> 6 Hits",剣圧による〓続〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1509,codepage,28423,97,"A blow from the side. Hold button to launch enemy.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",横からの一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1510,codepage,28520,86,"A blow that lifts the foe into the air.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",上空に〓ち上〓る〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1511,codepage,28606,77,"A sudden assault from the air.
+Increase to Special Attack gauge: 15 <0065> 1 Hit",上空からの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1512,codepage,28683,100,"Uses flat of the blade. Hold button to launch enemy. 
+Increase to Special Attack gauge: 12 <0065> 1 Hit",剣の〓で〓を〓き〓ばす。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1513,codepage,28783,95,"A smash from above. Hold button to launch enemy.
+Increase to Special Attack gauge: 14 <0065> 1 Hit",上からの〓りつけ。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1514,codepage,28878,90,"A heavy thrust that runs through the enemy.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",〓の〓を〓く重い〓き。〓め技ゲージ〓加量：〓〓〓〓,
+650,1515,codepage,28968,74,"A cascading volley of cuts.
+Increase to Special Attack gauge: 4 <0065> 2 Hits",流れるような〓続切り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1516,codepage,29042,96,"A horizontal attack. Hold button to launch enemy.
+Increase to Special Attack gauge: 7 <0065> 2 Hits",横〓りの〓〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1517,codepage,29138,85,"Horizontal attack aimed at the tendons.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓を〓った横〓りの〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1518,codepage,29223,87,"An attack that cuts away the foe's armor.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓の〓〓を〓〓とる〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1519,codepage,29310,100,"A strike seemingly powerful enough to bisect the foe.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",〓〓するかのような〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1520,codepage,29410,84,"An attack that prohibits incantations.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓〓を〓じる〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1521,codepage,29494,98,"Lightning-quick attack. Hold button to launch enemy.
+Increase to Special Attack gauge: 8 <0065> 1 Hit",素〓い一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1522,codepage,29592,99,"Mighty horizontal blow. Hold button to launch enemy.
+Increase to Special Attack gauge: 16 <0065> 1 Hit",横〓りの〓〓な一〓。〓〓〓ボタン長〓しで〓き〓ばし〓〓〓〓め技ゲージ〓加量：〓〓〓〓,
+650,1523,codepage,29691,87,"A side kick that sends the enemy flying.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",〓を大きく〓き〓ばす横〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1524,codepage,29778,83,"A huge swing relying on brute force.
+Increase to Special Attack gauge: 14 <0065> 1 Hit",力〓〓の大〓り。〓め技ゲージ〓加量：〓〓〓〓,
+650,1525,codepage,29861,97,"Launches twin bolts of godspeed at great velocity.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",高〓で〓つ神〓の〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1526,codepage,29958,85,"A blow that delivers poison to the foe.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓〓をまとった一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1527,codepage,30043,90,"Fires shockwave bearing the light of stars.
+Increase to Special Attack gauge: 3 <0065> 4 Hits",〓の光を〓〓た〓〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1528,codepage,30133,86,"Fires a bolt guided by a beam of light.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",光線〓の誘〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1529,codepage,30219,93,"A guided bolt flies to the heavens themselves.
+Increase to Special Attack gauge: 7 <0065> 2 Hits",天に〓け上がる誘〓〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1530,codepage,30312,88,"A mighty blow that sends out a shockwave.
+Increase to Special Attack gauge: 18 <0065> 1 Hit",〓〓〓を〓った〓力な一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1531,codepage,30400,102,"Ensnares enemy in a distortion of space itself.
+Increase to Special Attack gauge: 3 <0065> Number of Hits",空間の歪みで〓を〓〓する。〓め技ゲージ〓加量：〓〓〓〓〓,
+650,1532,codepage,30502,100,"Launches an arrow that explodes when it strikes home.
+Increase to Special Attack gauge: 16 <0065> 1 Hit",〓中すると〓発する〓を〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1533,codepage,30602,72,"Unleashes focused energy.
+Increase to Special Attack gauge: 9 <0065> 2 Hits",〓〓さ〓た力を〓〓する。〓め技ゲージ〓加量：〓〓〓〓,
+650,1534,codepage,30674,98,"A countless scattering of bolts is hurled forward. 
+Increase to Special Attack gauge: 3 <0065> 8 Hits",無〓の〓〓を〓面に〓つ。〓め技ゲージ〓加量：〓〓〓〓,
+650,1535,codepage,30772,96,"Attacks in three directions, covering every inch.
+Increase to Special Attack gauge: 5 <0065> 3 Hits",〓の無い方〓への〓〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1536,codepage,30868,74,"A supremely accurate attack.
+Increase to Special Attack gauge: 7 <0065> 1 Hit",〓い〓ました一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1537,codepage,30942,90,"An enchanted arrow turns the enemy to stone.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",〓の〓を石化する魔法の〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1538,codepage,31032,80,"A single shot engulfed in flames.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",炎をまとった一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1539,codepage,31112,88,"An attack that goes right for the throat.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",〓を〓い〓ました一〓。〓め技ゲージ〓加量：〓〓〓〓,
+650,1558,codepage,31218,11,Fire Storm,バーンストーム,
+650,1559,codepage,31229,14,Frigid Damsel,クールダンセル,
+650,1560,codepage,31243,15,Lightning Bolt,ライトニングボルト,
+650,1561,codepage,31258,12,Poison Blow,ポイズンブロウ,
+650,1562,codepage,31270,18,Prismatic Missile,プリズミックミサイル,
+650,1563,codepage,31288,12,Dark Savior,ダークセイヴァー,
+650,1564,codepage,31300,12,Astral Maze,アストラルメイズ,
+650,1565,codepage,31312,16,Spiritual Thorn,スピリチュアルソーン,
+650,1566,codepage,31328,5,Heal,キュアプラムス,
+650,1567,codepage,31333,10,Normalize,オーディナリーシェイプ,
+650,1568,codepage,31343,15,Invoke Feather,エヴォークフェザー,
+650,1569,codepage,31358,10,Sap Power,レデュースパ〓ー,
+650,1570,codepage,31368,10,Sap Guard,レデュースガード,
+650,1571,codepage,31378,13,Chaotic Rune,カオティックルーン,
+650,1572,codepage,31391,16,Might Reinforce,マイトレインフォース,
+650,1573,codepage,31407,16,Guard Reinforce,ガードレインフォース,
+650,1574,codepage,31423,16,Spell Reinforce,スペルレインフォース,
+650,1575,codepage,31439,16,Reflect Sorcery,リフレクトソーサリー,
+650,1576,codepage,31455,13,Dampen Magic,プリベントソーサリー,
+650,1577,codepage,31468,11,Trap Magic,,
+650,1578,codepage,31479,10,Explosion,エクスプロージヨン,
+650,1579,codepage,31489,17,Glacial Blizzard,グラシアルブリザード,
+650,1580,codepage,31506,12,Earth Grave,アースグレイブ,
+650,1581,codepage,31518,14,Thunder Storm,サンダーストーム,
+650,1583,codepage,31533,93,"A fire-element spell that engulfs a single foe in a spinning
+whirlwind of ascending flames.",〓炎を〓う上〓気流の中に〓〓〓を〓き〓〓炎属〓の魔法。,
+650,1584,codepage,31626,96,"An ice-element spell that summons ice spirits to attack a
+single enemy. May Freeze the target.",〓精を〓〓し、その〓の〓で〓〓〓を〓続〓〓さ〓る〓属〓の魔法。一定〓〓で〓を〓〓異常〓〓結〓にする。,
+650,1585,codepage,31722,97,"A lightning-element spell that launches a single thunderbolt
+at a foe. May Paralyze the target.",〓に〓して〓光を一〓線上に〓〓する雷属〓の魔法。一定〓〓で〓を〓〓異常〓〓〓〓にする。,
+650,1586,codepage,31819,81,"An earth-element spell that envelops a foe in toxic fog.
+May Poison the target.",〓〓〓の〓〓に〓〓を発生さ〓る土属〓の魔法。一定〓〓で〓を〓〓異常〓〓〓にする。,
+650,1587,codepage,31900,97,"A spell that launches arrows of light at multiple enemies.
+May inflict various status ailments.",光の〓を誘〓し、〓〓の〓を〓〓する魔法。一定〓〓で〓々な〓〓異常を引き〓こす。,
+650,1588,codepage,31997,90,"A darkness-element area spell that materializes a giant sword
+to strike a group of foes.",〓の〓〓に巨大な剣を出〓さ〓て〓き〓す〓属〓の魔法。,
+650,1589,codepage,32087,95,"Transfers the souls of enemies near the targeted area and
+banishes them from the battlefield.",目〓を中心とした一定〓〓〓の〓を〓〓異常〓〓送〓にし、戦場から〓〓する魔法。,
+650,1590,codepage,32182,42,A spell that renders one foe Unconscious.,〓〓〓を〓戦闘不〓〓にする魔法。,
+650,1591,codepage,32224,72,"A spell that restores HP to one ally. Restores 80% of target's
+max HP.",味方一人の〓〓を〓〓さ〓る魔法。〓〓最大〓のを〓〓する。,
+650,1592,codepage,32296,95,"A spell that cures one ally of Poison, Confusion, Silence, Freeze,
+Paralysis, Stone or Faint.",味方一人の〓〓異常を〓〓する魔法。〓〓、〓乱、〓〓、〓結、〓〓、石化、気絶〓を〓〓する。,
+650,1593,codepage,32391,52,A spell that restores one Unconscious ally to life.,味方一人を〓戦闘不〓〓から〓活さ〓る魔法。,
+650,1594,codepage,32443,82,"A spell that reduces the ATK of foes within a certain range of
+the spell target.",目〓を中心とした一定〓〓〓の〓の〓〓〓を〓〓さ〓る魔法。,
+650,1595,codepage,32525,82,"A spell that reduces the RDM of foes within a certain range of
+the spell target.",目〓を中心とした一定〓〓〓の〓の〓〓〓を〓〓さ〓る魔法。,
+650,1596,codepage,32607,106,"Reduces the ATK, MAG, HIT, AVD, RDM, and RST of foes within 
+a certain range of the spell caster by 20%.",自〓を中心とした〓〓〓の〓の〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓を〓〓さ〓る魔法。,
+650,1597,codepage,32713,73,"A spell that augments one ally's ATK to 150%.
+Effect is not cumulative.",味方一人の〓〓〓を〓〓に〓〓する魔法。重ねがけはできない。,
+650,1598,codepage,32786,86,"A spell that augments the RDM and RST of one ally to 150%.
+Effect is not cumulative.",味方一人の〓〓〓・〓〓〓を〓〓に〓〓する魔法。重ねがけはできない。,
+650,1599,codepage,32872,78,"A spell that augments the MAG of one ally to 150%.
+Effect is not cumulative.",味方一人の〓〓〓を〓〓に〓〓する魔法。重ねがけはできない。,
+650,1600,codepage,32950,98,"Conjures a barrier that reflects magic back at the original caster.
+The barrier works only once.",魔法〓果を術者に〓〓する防〓結界を生み出す魔法。一〓〓〓する事で結界は失われる。,
+650,1601,codepage,33048,93,"Seals one foe's magic chants within a veil of silence.
+May inflict Silence upon the target.",〓〓〓の〓〓を封じる魔法。一定〓〓で〓〓異常〓〓〓〓にする。,
+650,1603,codepage,33142,83,"A fire-element area spell that conjures a massive fireball in 
+the targeted area.",目〓を中心とした一定〓〓〓に巨大な〓炎を〓き〓こす炎属〓の〓〓魔法。,
+650,1604,codepage,33225,99,"An ice-element area spell that brings down a hail of dagger-sharp
+icicles onto the targeted area.",天から降り〓〓〓利な〓〓が、目〓を中心とした一定〓〓〓の〓を切り裂く〓属〓の〓〓魔法。,
+650,1605,codepage,33324,99,"An earth-element area spell that causes massive spears of rock
+to erupt around the targeted area.",大地から出〓した岩が巨大な槍と化し、目〓を中心とした一定〓〓〓の〓を〓く土属〓の〓〓魔法。,
+650,1606,codepage,33423,92,"A lightning-element area spell that engulfs the targeted area in a
+maelstrom of lightning.",帯〓した〓で目〓を中心とした一定〓〓〓を〓み〓み雷〓の〓に〓き〓〓雷属〓の〓〓魔法。,
+650,1608,codepage,33516,14,Battle Maiden,戦乙女,
+650,1609,codepage,33530,19,Lord of the Undead,不死者王,
+650,1610,codepage,33549,7,Archer,弓闘士,
+650,1611,codepage,33556,9,Sorcerer,魔〓師,
+650,1612,codepage,33565,10,Mercenary,〓兵,
+650,1613,codepage,33575,16,Knight of Dipan,元ディパン兵士,
+650,1614,codepage,33591,10,Mercenary,〓兵,
+650,1615,codepage,33601,14,Battle Maiden,戦乙女,
+650,1616,codepage,33615,14,Battle Maiden,創造神,
+650,1617,codepage,33629,14,Battle Maiden,戦乙女,
+650,1618,codepage,33643,18,Princess of Dipan,ディパン王女,
+650,1619,codepage,33661,18,Princess of Dipan,ディパン王女,
+650,1620,codepage,33679,16,Creator of Life,〓を創り〓すもの,
+650,1627,codepage,33701,19,Vessel of the Gods,神の器,
+650,1628,codepage,33720,10,Einherjar,エインフェリア,
+650,1637,codepage,33738,14,Light Warrior,〓戦士,
+650,1638,codepage,33752,14,Light Warrior,〓戦士,
+650,1639,codepage,33766,14,Light Warrior,〓戦士,
+650,1640,codepage,33780,14,Light Warrior,〓戦士,
+650,1641,codepage,33794,14,Light Warrior,〓戦士,
+650,1642,codepage,33808,14,Light Warrior,〓戦士,
+650,1643,codepage,33822,14,Light Warrior,〓戦士,
+650,1644,codepage,33836,14,Light Warrior,〓戦士,
+650,1645,codepage,33850,14,Light Warrior,〓戦士,
+650,1646,codepage,33864,14,Light Warrior,〓戦士,
+650,1647,codepage,33878,14,Heavy Warrior,重戦士,
+650,1648,codepage,33892,14,Heavy Warrior,重戦士,
+650,1649,codepage,33906,14,Heavy Warrior,重戦士,
+650,1650,codepage,33920,14,Heavy Warrior,重戦士,
+650,1651,codepage,33934,14,Heavy Warrior,重戦士,
+650,1652,codepage,33948,14,Heavy Warrior,重戦士,
+650,1653,codepage,33962,14,Heavy Warrior,重戦士,
+650,1654,codepage,33976,14,Heavy Warrior,重戦士,
+650,1655,codepage,33990,14,Heavy Warrior,重戦士,
+650,1656,codepage,34004,14,Heavy Warrior,重戦士,
+650,1657,codepage,34018,7,Archer,弓闘士,
+650,1658,codepage,34025,7,Archer,弓闘士,
+650,1659,codepage,34032,7,Archer,弓闘士,
+650,1660,codepage,34039,7,Archer,弓闘士,
+650,1661,codepage,34046,7,Archer,弓闘士,
+650,1662,codepage,34053,7,Archer,弓闘士,
+650,1663,codepage,34060,7,Archer,弓闘士,
+650,1664,codepage,34067,7,Archer,弓闘士,
+650,1665,codepage,34074,7,Archer,弓闘士,
+650,1666,codepage,34081,7,Archer,弓闘士,
+650,1667,codepage,34088,9,Sorcerer,魔術師,
+650,1668,codepage,34097,9,Sorcerer,魔術師,
+650,1669,codepage,34106,9,Sorcerer,魔術師,
+650,1670,codepage,34115,9,Sorcerer,魔術師,
+650,1671,codepage,34124,9,Sorcerer,魔術師,
+650,1672,codepage,34133,9,Sorcerer,魔術師,
+650,1673,codepage,34142,9,Sorcerer,魔術師,
+650,1674,codepage,34151,9,Sorcerer,魔術師,
+650,1675,codepage,34160,9,Sorcerer,魔術師,
+650,1676,codepage,34169,9,Sorcerer,魔術師,
+650,1678,codepage,34179,20,21 <0066>in human years<0067>,〓人間〓〓〓,
+650,1679,codepage,34199,8,Unknown,不〓,
+650,1680,codepage,34207,16,24 <0066>appearance<0067>,〓外見〓〓〓,
+650,1681,codepage,34223,8,Unknown,不〓,
+650,1682,codepage,34231,3,26,,
+650,1683,codepage,34234,3,28,,
+650,1684,codepage,34237,3,25,,
+650,1685,codepage,34240,20,25 <0066>in human years<0067>,〓人間〓〓〓,
+650,1686,codepage,34260,20,23 <0066>in human years<0067>,〓人間〓〓〓,
+650,1687,codepage,34280,8,Unknown,不〓,
+650,1688,codepage,34288,3,18,,
+650,1689,codepage,34291,3,18,,
+650,1690,codepage,34294,20,26 <0066>in human years<0067>,〓人間〓〓〓,
+650,1697,codepage,34320,16,24 <0066>appearance<0067>,〓外見〓〓〓,
+650,1698,codepage,34336,3,26,,
+650,1707,codepage,34347,3,22,,
+650,1708,codepage,34350,3,23,,
+650,1709,codepage,34353,3,27,,
+650,1710,codepage,34356,3,25,,
+650,1711,codepage,34359,3,27,,
+650,1712,codepage,34362,8,Unknown,不〓,
+650,1713,codepage,34370,3,32,,
+650,1714,codepage,34373,3,23,,
+650,1715,codepage,34376,3,24,,
+650,1716,codepage,34379,3,20,,
+650,1717,codepage,34382,3,25,,
+650,1718,codepage,34385,3,25,,
+650,1719,codepage,34388,3,35,,
+650,1720,codepage,34391,3,29,,
+650,1721,codepage,34394,3,32,,
+650,1722,codepage,34397,3,28,,
+650,1723,codepage,34400,3,28,,
+650,1724,codepage,34403,8,Unknown,不〓,
+650,1725,codepage,34411,3,32,,
+650,1726,codepage,34414,3,22,,
+650,1727,codepage,34417,3,25,,
+650,1728,codepage,34420,17,17 <0066>actually 58<0067>,〓〓〓は〓,
+650,1729,codepage,34437,8,Unknown,不〓,
+650,1730,codepage,34445,3,23,,
+650,1731,codepage,34448,3,22,,
+650,1732,codepage,34451,3,21,,
+650,1733,codepage,34454,3,24,,
+650,1734,codepage,34457,3,29,,
+650,1735,codepage,34460,3,19,,
+650,1736,codepage,34463,3,26,,
+650,1737,codepage,34466,3,34,,
+650,1738,codepage,34469,3,28,,
+650,1739,codepage,34472,3,27,,
+650,1740,codepage,34475,3,42,,
+650,1741,codepage,34478,3,27,,
+650,1742,codepage,34481,3,24,,
+650,1743,codepage,34484,3,38,,
+650,1744,codepage,34487,8,Unknown,不〓,
+650,1745,codepage,34495,3,23,,
+650,1746,codepage,34498,3,28,,
+650,1748,codepage,34502,8,Unknown,不〓,
+650,1749,codepage,34510,8,Unknown,不〓,
+650,1750,codepage,34518,8,Unknown,不〓,
+650,1751,codepage,34526,8,Unknown,不〓,
+650,1752,codepage,34534,9,915 C.C.,大陸〓〓,
+650,1753,codepage,34543,9,772 C.C.,大陸〓〓,
+650,1754,codepage,34552,8,Unknown,不〓,
+650,1755,codepage,34560,8,Unknown,不〓,
+650,1756,codepage,34568,8,Unknown,不〓,
+650,1757,codepage,34576,8,Unknown,不〓,
+650,1758,codepage,34584,9,923 C.C.,大陸〓〓,
+650,1759,codepage,34593,9,923 C.C.,大陸〓〓,
+650,1760,codepage,34602,8,Unknown,不〓,
+650,1767,codepage,34616,8,Unknown,不〓,
+650,1768,codepage,34624,9,915 C.C.,大陸〓〓,
+650,1777,codepage,34641,9,324 C.C.,大陸〓〓,
+650,1778,codepage,34650,9,445 C.C.,大陸〓〓,
+650,1779,codepage,34659,9,550 C.C.,大陸〓〓,
+650,1780,codepage,34668,9,556 C.C.,大陸〓〓,
+650,1781,codepage,34677,9,556 C.C.,大陸〓〓,
+650,1782,codepage,34686,9,562 C.C.,大陸〓〓,
+650,1783,codepage,34695,9,567 C.C.,大陸〓〓,
+650,1784,codepage,34704,9,636 C.C.,大陸〓〓,
+650,1785,codepage,34713,9,634 C.C.,大陸〓〓,
+650,1786,codepage,34722,9,704 C.C.,大陸〓〓,
+650,1787,codepage,34731,9,350 C.C.,大陸〓〓,
+650,1788,codepage,34740,9,464 C.C.,大陸〓〓,
+650,1789,codepage,34749,9,546 C.C.,大陸〓〓,
+650,1790,codepage,34758,9,548 C.C.,大陸〓〓,
+650,1791,codepage,34767,9,549 C.C.,大陸〓〓,
+650,1792,codepage,34776,9,553 C.C.,大陸〓〓,
+650,1793,codepage,34785,9,553 C.C.,大陸〓〓,
+650,1794,codepage,34794,9,582 C.C.,大陸〓〓,
+650,1795,codepage,34803,9,630 C.C.,大陸〓〓,
+650,1796,codepage,34812,9,754 C.C.,大陸〓〓,
+650,1797,codepage,34821,9,308 C.C.,大陸〓〓,
+650,1798,codepage,34830,9,564 C.C.,大陸〓〓,
+650,1799,codepage,34839,9,583 C.C.,大陸〓〓,
+650,1800,codepage,34848,9,627 C.C.,大陸〓〓,
+650,1801,codepage,34857,9,730 C.C.,大陸〓〓,
+650,1802,codepage,34866,9,748 C.C.,大陸〓〓,
+650,1803,codepage,34875,9,772 C.C.,大陸〓〓,
+650,1804,codepage,34884,9,773 C.C.,大陸〓〓,
+650,1805,codepage,34893,9,705 C.C.,大陸〓〓,
+650,1806,codepage,34902,9,555 C.C.,大陸〓〓,
+650,1807,codepage,34911,9,112 C.C.,大陸〓〓,
+650,1808,codepage,34920,9,390 C.C.,大陸〓〓,
+650,1809,codepage,34929,9,423 C.C.,大陸〓〓,
+650,1810,codepage,34938,9,539 C.C.,大陸〓〓,
+650,1811,codepage,34947,9,554 C.C.,大陸〓〓,
+650,1812,codepage,34956,9,562 C.C.,大陸〓〓,
+650,1813,codepage,34965,9,563 C.C.,大陸〓〓,
+650,1814,codepage,34974,9,573 C.C.,大陸〓〓,
+650,1815,codepage,34983,9,658 C.C.,大陸〓〓,
+650,1816,codepage,34992,9,724 C.C.,大陸〓〓,
+650,1823,codepage,35007,9,800 C.C.,大陸〓〓,
+650,1837,codepage,35029,9,941 C.C.,大陸〓〓,
+650,1838,codepage,35038,9,941 C.C.,大陸〓〓,
+650,1847,codepage,35055,9,346 C.C.,大陸〓〓,
+650,1848,codepage,35064,9,468 C.C.,大陸〓〓,
+650,1849,codepage,35073,9,577 C.C.,大陸〓〓,
+650,1850,codepage,35082,9,581 C.C.,大陸〓〓,
+650,1851,codepage,35091,9,583 C.C.,大陸〓〓,
+650,1852,codepage,35100,8,Unknown,不〓,
+650,1853,codepage,35108,9,599 C.C.,大陸〓〓,
+650,1854,codepage,35117,9,659 C.C.,大陸〓〓,
+650,1855,codepage,35126,9,658 C.C.,大陸〓〓,
+650,1856,codepage,35135,9,724 C.C.,大陸〓〓,
+650,1857,codepage,35144,9,375 C.C.,大陸〓〓,
+650,1858,codepage,35153,9,489 C.C.,大陸〓〓,
+650,1859,codepage,35162,9,581 C.C.,大陸〓〓,
+650,1860,codepage,35171,9,577 C.C.,大陸〓〓,
+650,1861,codepage,35180,9,581 C.C.,大陸〓〓,
+650,1862,codepage,35189,9,581 C.C.,大陸〓〓,
+650,1863,codepage,35198,9,581 C.C.,大陸〓〓,
+650,1864,codepage,35207,8,Unknown,不〓,
+650,1865,codepage,35215,9,662 C.C.,大陸〓〓,
+650,1866,codepage,35224,9,776 C.C.,大陸〓〓,
+650,1867,codepage,35233,9,333 C.C.,大陸〓〓,
+650,1868,codepage,35242,9,622 C.C.,大陸〓〓,
+650,1869,codepage,35251,8,Unknown,不〓,
+650,1870,codepage,35259,9,650 C.C.,大陸〓〓,
+650,1871,codepage,35268,9,752 C.C.,大陸〓〓,
+650,1872,codepage,35277,9,769 C.C.,大陸〓〓,
+650,1873,codepage,35286,9,796 C.C.,大陸〓〓,
+650,1874,codepage,35295,9,802 C.C.,大陸〓〓,
+650,1875,codepage,35304,9,724 C.C.,大陸〓〓,
+650,1876,codepage,35313,9,581 C.C.,大陸〓〓,
+650,1877,codepage,35322,9,146 C.C.,大陸〓〓,
+650,1878,codepage,35331,9,418 C.C.,大陸〓〓,
+650,1879,codepage,35340,9,450 C.C.,大陸〓〓,
+650,1880,codepage,35349,9,581 C.C.,大陸〓〓,
+650,1881,codepage,35358,9,581 C.C.,大陸〓〓,
+650,1882,codepage,35367,9,586 C.C.,大陸〓〓,
+650,1883,codepage,35376,9,601 C.C.,大陸〓〓,
+650,1884,codepage,35385,8,Unknown,不〓,
+650,1885,codepage,35393,9,681 C.C.,大陸〓〓,
+650,1886,codepage,35402,9,752 C.C.,大陸〓〓,
+650,1888,codepage,35412,12,<0068>80<0069><006A>54<0069><006B>80,〓〓〓〓〓,
+650,1894,codepage,35429,12,<0068>85<0069><006A>57<0069><006B>84,〓〓〓〓〓,
+650,1895,codepage,35441,12,<0068>85<0069><006A>57<0069><006B>84,〓〓〓〓〓,
+650,1896,codepage,35453,12,<0068>84<0069><006A>56<0069><006B>83,〓〓〓〓〓,
+650,1897,codepage,35465,29,Average of the three sisters,〓〓〓平〓〓,
+650,1898,codepage,35494,12,<0068>78<0069><006A>54<0069><006B>80,〓〓〓〓〓,
+650,1899,codepage,35506,12,<0068>78<0069><006A>54<0069><006B>80,〓〓〓〓〓,
+650,1900,codepage,35518,12,<0068>88<0069><006A>58<0069><006B>87,〓〓〓〓〓,
+650,1917,codepage,35546,12,<0068>83<0069><006A>60<0069><006B>85,〓〓〓〓〓,
+650,1918,codepage,35558,12,<0068>82<0069><006A>58<0069><006B>84,〓〓〓〓〓,
+650,1919,codepage,35570,12,<0068>86<0069><006A>60<0069><006B>85,〓〓〓〓〓,
+650,1920,codepage,35582,12,<0068>82<0069><006A>57<0069><006B>82,〓〓〓〓〓,
+650,1921,codepage,35594,12,<0068>87<0069><006A>61<0069><006B>85,〓〓〓〓〓,
+650,1922,codepage,35606,12,<0068>81<0069><006A>57<0069><006B>83,〓〓〓〓〓,
+650,1923,codepage,35618,12,<0068>79<0069><006A>55<0069><006B>80,〓〓〓〓〓,
+650,1924,codepage,35630,12,<0068>86<0069><006A>60<0069><006B>84,〓〓〓〓〓,
+650,1925,codepage,35642,12,<0068>79<0069><006A>55<0069><006B>78,〓〓〓〓〓,
+650,1926,codepage,35654,12,<0068>83<0069><006A>59<0069><006B>84,〓〓〓〓〓,
+650,1937,codepage,35676,12,<0068>87<0069><006A>61<0069><006B>85,〓〓〓〓〓,
+650,1938,codepage,35688,12,<0068>83<0069><006A>57<0069><006B>84,〓〓〓〓〓,
+650,1939,codepage,35700,12,<0068>83<0069><006A>57<0069><006B>84,〓〓〓〓〓,
+650,1940,codepage,35712,12,<0068>80<0069><006A>56<0069><006B>81,〓〓〓〓〓,
+650,1941,codepage,35724,12,<0068>84<0069><006A>58<0069><006B>85,〓〓〓〓〓,
+650,1942,codepage,35736,12,<0068>83<0069><006A>58<0069><006B>85,〓〓〓〓〓,
+650,1943,codepage,35748,12,<0068>88<0069><006A>62<0069><006B>86,〓〓〓〓〓,
+650,1944,codepage,35760,12,<0068>79<0069><006A>54<0069><006B>78,〓〓〓〓〓,
+650,1945,codepage,35772,12,<0068>81<0069><006A>57<0069><006B>83,〓〓〓〓〓,
+650,1958,codepage,35796,134,"One of the three valkyries, goddesses who govern
+fate.
+ 
+Silmeria was supposed to have been reborn as
+Alicia, Princess of Dipan<808C>",運〓の〓女神の〓女で、戦乙女ヴァルキリーの一人。〓生し、ディパン王女アリーシャとして生を〓けるはず〓ったが、ヴァルキリーの〓生を〓る〓法〓王〓の秘法〓が不〓全に発動したため、ヴァルキリーとしての〓〓と力の一部を所持したまま、〓時帯〓していたエインフェリア〓々、アリーシャの肉〓に〓生してしまった。そのため、一つの〓〓にアリーシャとシルメリアの〓つの〓が〓存するという、不〓な生を送る事になってしまう。アリーシャと〓存している時は、自らの〓思で〓識の〓〓に出て肉〓を〓〓する事もできたが、不〓定な存在〓え長く〓まる事はできなかった。肉〓を〓〓している時は、マテリアライズや光〓といったヴァルキリーとしての力を発〓する事もできた。,
+650,1959,codepage,36615,1060,"The most powerful of the undead, often referred
+to as the Lord of the Undead.
+ 
+Brahms has been targeted in Odin's quest for
+the Dragon Orb, one of the Four Treasures. They
+have fought and continue to fight many battles.
+ 
+If the Dragon Orb is away from Midgard for a
+long period of time, not only would there be
+chaos, but the world itself would be on the
+brink of destruction. Not wanting Midgard to
+be completely destroyed, Odin opted to replace
+the orb with a powerful soul, and though he
+realizes a replacement may not be able to stop
+the chaos, it should assist in keeping the world
+in order. Brahms was to serve as the replacement,
+but just as Brahms was about to be captured by
+Odin, Silmeria came to his rescue.
+ 
+Suffering from a near fatal wound, Brahms
+transferred his soul into Dylan, an einherjar of
+Silmeria's, in search of a place to rest and heal.
+After materializing as Dylan, he decided to
+accompany Silmeria, who shares his desire to
+punish Odin and to whom he owes his life, all
+the while concealing his identity.",不死者の中でも最〓の力を持つ者。それ〓え不死者王とも〓ばれている。〓宝の一つであるドラゴンオーブをその手に〓したオーディンにより〓われ、〓〓〓〓と無く戦いを〓り〓していた。そもそも、ミッドガルドを〓えるドラゴンオーブが長きに〓って失われた場〓、〓〓は〓乱が〓こるどころではなく、地上そのものが〓〓する〓〓〓があった。〓〓までは望んでいなかったオーディンは、オーブの〓用〓として〓力〓る者の〓〓を利用する事を〓え付く。〓用〓さえ地上にあれば、〓乱を〓める事はできなくとも、かろうじて地上を〓える事は〓〓〓と踏ん〓のである。そしてその〓〓として、不死者王であるブラムスを〓っていた。〓が戦いの最中、ブラムスはすんでのところでシルメリアに〓けられ、オーディンの〓は失〓に〓わる。〓死に一生を〓たブラムス〓ったが、〓わされた〓は〓〓〓上に〓く、〓すには場所と時が〓〓〓った。そのため、シルメリアのエインフェリアの一人〓ったディランに眼をつけ、密かに〓り〓り、シルメリアの中で〓かに時を〓っていた。ディランとしてマテリアライズされた後は、オーディンの横〓を〓めたいと〓うシルメリアと思〓が一〓している事と、オーディンの〓から〓がしてくれたという〓〓もあり、〓〓を〓〓たまま行動を〓にしていた。,
+650,1960,codepage,37675,242,"A young traveler who wanders the world as he
+pleases.
+ 
+While stuck in Solde on his way to Dipan, Alicia
+invites Rufus to join her (per Silmeria's orders).
+ 
+Rufus must have had a reason for heading to
+Dipan, but it remains unclear...",世界を気ままに〓〓する青〓。ディパンに〓かう途中、港町ゾルデで〓〓めを食っていたところ、シルメリアに指〓されたアリーシャに〓行を〓められる。〓かの目〓があって、ディパンに〓かう途中〓ったらしいが〓。,
+650,1961,codepage,37917,630,"A sorcerer who worked with the Three Mages,
+assisting in their various experiments.
+ 
+Lezard possessed power and knowledge equal to
+that of the mages, and their expectations for
+him were high.
+ 
+However, he began to worry and felt
+uncomfortable with the dangerous research
+they were conducting, and thus he began
+secretly working on a plan to disrupt their work.
+During this time, he caught wind of Alicia and her
+companions entering the castle.
+ 
+Seizing this opportunity, he saved Alicia and
+her friends by teleporting them and himself out
+of Dipan. He joins them on their journey in
+search of the Dragon Orb<808C>",ディパンの〓賢者の下で、研究に〓事していた魔〓師。その力と知識は〓賢者に〓るとも〓らず、〓〓でありながらかなりの期〓を〓〓られていた。しかし、神をも〓れぬ研究〓〓に次〓に〓れと不〓を〓き、〓める術を密かに〓〓していたところ、ディパン城〓にアリーシャ達が侵入してきたという〓を〓ける。これを〓機と見たレザードは、〓賢者に〓まる〓〓〓ったアリーシャ達の〓機を〓うと〓に、自〓もディパンから〓〓。研究を〓めるために、〓にドラゴンオーブを〓める旅に出る。,
+650,1962,codepage,38609,283,"A mercenary traveling alongside Leone.
+ 
+Although Arngrim claims to take on any paying
+job, he is dignified and contests any job in
+which he finds no merit.
+ 
+He has not known Leone very long, but respects
+her greatly, as he immediately recognized her
+strength as a warrior.",レオーネと行動を〓にする〓兵。口では〓金のためなら〓でもする〓とは言っているが、〓〓のいかない〓事は、〓い〓であれ〓〓を〓す気骨を持っている。レオーネとは出〓って間もないが、その戦士としての力を〓〓に見〓き、密かに一目を置いている。,
+650,1963,codepage,38892,456,"An einherjar materialized by Silmeria, and a loyal
+soldier of Dipan who lived approximately 150
+years ago.
+ 
+Dylan happened to be accompanying Silmeria
+when she was transmigrated by the Sovereign's
+Rite, and thus he came to reside within Alicia
+as well.
+ 
+While other transferred einherjar souls
+deteriorated, Dylan's remained strong, as did
+his body upon materialization. Thus, he was
+summoned forth to protect the princess of
+Dipan, Alicia.",シルメリアによってマテリアライズされたエインフェリア。元は〓〓〓のディパンに生きた〓〓の戦士。シルメリアが〓王〓の秘法〓で〓生さ〓られた時、たまたまエインフェリアとして帯〓していたために、一〓にアリーシャの肉〓に〓る事になってしまった。不〓全な〓生に〓き〓まれたエインフェリア達は〓が〓化してしまっていたが、ディランは〓の〓〓が〓く、マテリアライズされた〓後も〓〓の人間として不〓なく行動する事ができたため、ディパンの王女であるアリーシャの護衛を〓って出た。,
+650,1964,codepage,39348,407,"A female warrior traveling with Arngrim.
+Underneath Leone's friendly, feminine exterior
+lies a merciless warrior.
+ 
+However, with the world in its peaceful state,
+she puts her fighting skills to use by becoming
+a treasure hunter, journeying through ruins
+looking for riches.
+ 
+During her travels, she meets Alicia and the
+others and decides to accompany them in their
+pursuit for the Dragon Orb.",アリューゼと行動を〓にする女戦士。〓〓は気さくで〓らかな物〓〓が、一〓戦いが〓まれば〓け〓〓なく〓を〓〓する。〓が、長らく続いた平〓〓えかその〓を活か〓る場所が無く、トレジャーハンターとして〓宝を〓め、遺跡を〓っていた。その途中、〓〓の秘宝ドラゴンオーブを〓しに〓たアリーシャ達と出〓い〓味を〓し、行動を〓にするようになる。,
+650,1965,codepage,39755,970,"The eldest of the three goddesses of fate, and
+the present Valkyrie. A loyal subject of Odin.
+ 
+Hrist is ordered to search for the Dragon Orb in
+human form until Odin learns that Silmeria has
+awakened in an incomplete state on Midgard. She
+is ordered to look for her and bring her back to
+the heavens.
+ 
+When Odin finds out that Silmeria is pursuing
+the Dragon Orb to save Midgard, he changes his
+orders and has Hrist leave Silmeria be. Hrist
+assumes the human form of Leone, and encounters
+Alicia and friends accompanied by the mercenary
+Arngrim.
+ 
+Hrist was aware Silmeria could see through her
+guise, but continued to play the role of Leone
+after realizing Silmeria feared confrontation.
+She succeeded in seizing the Dragon Orb
+thereafter at the Palace of the Venerated
+Dragon.
+ 
+However, she later reflects on the time she
+spent with Alicia and company and elects to ally
+with them to save their world by going into
+Lezard's twisted realm.",運〓の〓女神の長女で、〓在のヴァルキリー。オーディンの〓に〓う〓〓な部下である。密〓により人間の〓を〓りてドラゴンオーブを〓〓していたが、ミッドガルドにてシルメリアが不〓全な〓〓をなした事を〓知したオーディンから、神界に〓れ〓すよう言い〓される。アーリィの手から〓れたシルメリアが、ミッドガルドを〓うためにドラゴンオーブを〓していると知ったオーディンは、しばらく〓が〓るよう指〓を〓〓。アーリィは人間レオーネを名〓り、〓兵アリューゼとともにアリーシャ一行に〓〓した。〓動を感じたシルメリアが、〓の〓〓を見〓っている事を〓知しながらも、〓〓〓〓を〓れていると見たアーリィはそのまま〓〓を続ける。そして奉竜殿にてドラゴンオーブの〓〓に〓〓した。しかし、アリーシャ達と〓に旅をした時間と〓いはアーリィの心を動かし、世界を〓うため、仲間としてレザードの創った世界に〓り〓〓事となった。,
+650,1966,codepage,40725,515,"The second of the three goddesses of fate.
+ 
+However, this is not the Lenneth of the present,
+rather another Lenneth from the future.
+ 
+Lenneth becomes the creator of the new era
+after Ragnarok, but begins to notice unexpected
+changes occurring to her world.
+ 
+When she realizes these changes were appearing
+due to incidents in the past, she suspects that
+the alchemist Lezard is behind it all.
+ 
+To save the world from destruction, she goes to
+the past to save the world of those she loves
+herself.",運〓の〓女神の次女。〓がこの時〓のレナスではなく、〓〓からやってきたもう一人のレナスである。神々の〓昏〓ラグナロク〓の後に世界を〓生し、〓たな時〓の創造神となったレナス〓ったが、その世界に異〓が〓こりつつあった。異〓の原〓が〓〓にあると知ったレナスは、その〓後に、かつて〓〓した錬金術師レザードの思〓を感じ〓る。間〓に〓った世界〓壊を〓〓し、〓する者達の世界をその手で守るため、レナスは自ら〓〓に〓り〓〓事を〓〓した。,"A segunda das três deusas do destino.
+ 
+No entanto, esta não é a Lenneth do presente, mas sim outra Lenneth vinda do futuro.
+ 
+Lenneth torna-se a criadora da nova era após o Ragnarok, mas começa a perceber mudanças inesperadas ocorrendo em seu mundo.
+ 
+Ao perceber que essas mudanças surgiam devido a acontecimentos no passado, ela suspeita que o alquimista Lezard esteja por trás de tudo.
+ 
+Para salvar o mundo da destruição, ela retorna ao passado para salvar, com as próprias mãos, o mundo daqueles que ama."
+650,1967,codepage,41240,197,"The one true valkyrie, created by combining
+Hrist, Lenneth, and Silmeria, the three
+goddesses of fate.
+ 
+Holds more power than multiple gods, and
+literally has the power to control even fate.",運〓の〓女神、アーリィ、レナス、シルメリアが〓〓した、言わば〓〓なるヴァルキリー〓。その力は〓多の神々を〓え、〓〓〓り運〓さえも〓える。,
+650,1968,codepage,41437,337,"The daughter born to King Barbarossa and Queen
+Malabeth of Dipan, and first in line to the throne.
+ 
+Alicia is cursed with a dual personality; her body
+serves as a host for the soul of the valkyrie
+Silmeria.
+ 
+Soon after Alicia's birth, Silmeria awoke and
+began to indoctrinate her. Alicia would then
+repeat what she was told<808C>",ディパン王バルバロッサと王〓マルベスの間に生を〓けた、ディパンの〓一王位継〓者。〓がその〓にはヴァルキリーであるシルメリアの〓までも〓っており、〓つの人〓を持って生きる運〓を〓いられた。生後間もなくシルメリアが〓〓してしまった事で、アリーシャは〓い〓から常にシルメリアの〓〓りかけ〓を〓け、無〓識のうちに不〓思〓な発言を〓り〓していた。〓〓は〓い〓えの言動と〓け〓っていたバルバロッサ〓ったが、〓も知らないはずのアリーシャがディパン王〓に〓わる〓〓を〓り〓したため、アリーシャがシルメリアである事を〓うようになる。やがてアリーシャが〓長すると、〓々にシルメリアの〓識が〓〓に出〓めた。そして、その〓異な〓力を発動さ〓るようになったため、〓〓の目を〓き〓〓ないと感じたバルバロッサにより、アリーシャは死ん〓ものとされてしまう。そして密かに遠方の地へと送り出され、旅〓つその時まで、〓〓に〓い生活を送っていた。,
+650,1969,codepage,42365,368,"First in line to the throne of Dipan, the city
+destroyed by the gods.
+ 
+When Silmeria leaves her, she is uncertain of
+her abilities, but she vows to retrieve the
+Dragon Orb and save Midgard so that a tragedy
+like Dipan's is never repeated.
+ 
+Alicia becomes determined to do whatever it
+takes, whether it means battling Odin or even
+sacrificing her own life.",神々により〓ぼされたディパンの〓一王女。常に〓にあったシルメリアとも引き裂かれ、心が〓れそうになりながらも、ディパンのような〓〓を〓〓と〓り〓してはいけないという〓いから、〓われたドラゴンオーブを〓り〓して、ミッドガルドを〓おうと〓〓する。そのためにはオーディンと闘う事も、そして自らの〓を〓〓にする事も〓わないという、〓い〓〓を〓に秘めている。,
+650,1970,codepage,42733,371,"A goddess who serves Odin.
+ 
+Freya has Odin's complete faith; he entrusts
+her to carry out all of his orders.
+ 
+People worship her as the Goddess of Fertility,
+as she has the power of creating matter from
+nothing.
+ 
+However, along with the power of creation, she
+also holds the power of destruction. Those who
+cross her are destined to kneel before her wrath.",常にオーディンの〓らに〓える女神。オーディンからの〓〓も〓く、全ての〓〓はフレイを〓して行われている。無から〓を〓り出す力を持つため、人々からは〓〓神と〓められている。〓が、生〓を創り出す力を持つ〓面、〓大な〓壊力をも〓しており、〓女に〓らった者は、その力の〓に〓ず〓を〓る事になる。,"Uma deusa que serve a Odin.
+ 
+Freya possui a total confiança de Odin; ele a encarrega de cumprir todas as suas ordens.
+ 
+As pessoas a veneram como a Deusa da Fertilidade, pois ela possui o poder de criar matéria a partir do nada.
+ 
+No entanto, além do poder da criação, ela também detém o poder da destruição. Aqueles que a desafiam estão destinados a se ajoelhar diante de sua ira."
+650,1977,codepage,43110,757,"A half-elf just like Odin, Rufus is a vessel of
+the gods.
+ 
+Half-elves are a rare breed; Rufus and Odin
+are currently the only ones of their race.
+His purpose as a vessel is to hold Odin's
+soul if the body of Odin should wither.
+ 
+As Odin's vessel, he is sealed deep within the
+Forest of Spirits by the other elves, but
+manages to escape and wanders the human land
+as he pleases.
+ 
+Yet on his finger shines the Ring of Mylinn,
+an irremovable reminder that he is the vessel
+of Odin.
+
+Resigning himself to his fate, Rufus continues
+his travels. One day, he hears a rumor of Dipan
+conducting research to retaliate against the
+gods and sees it as the chance to escape his fate.
+ 
+On his way to Dipan, he meets Alicia at the
+Solde harbor.",オーディンと〓じハーフエルフの〓を持つが〓えに、〓用の神の器とされてしまった青〓。ハーフエルフは〓〓で〓多に生まれる事は無く、〓在はオーディンとルーファスのみである。もしオーディンの〓〓が〓〓するような事〓になった場〓は、器であるルーファスに自動〓にオーディンの精神が〓動するようになっている。オーディン〓用の器のため、他のエルフ達の手によって精霊の森の奥〓くに〓じ〓められていたが、〓とか森を〓出し、その後は気の〓くまま人間界を〓〓している。〓がその手には、オーディンの器である事を〓す〓ミュリンの指輪〓が外れる事なく〓いている。運〓を〓〓し、〓〓の旅を続けていたルーファス〓ったが、ディパンが〓神に〓〓する研究を行っている〓との〓を〓き、もしかすると〓の運〓から〓れる事ができるかもしれないとの〓かな〓望を〓く。そしてディパンへ〓かう途中、港町ゾルデにてアリーシャと出〓った。,
+650,1978,codepage,43867,529,"A mercenary who carries a giant sword.
+ 
+When he realizes Leone is a valkyrie that had
+been using him all along, Arngrim defies her,
+but she destroys him easily and makes him an
+einherjar.
+ 
+He reluctantly becomes Hrist's einherjar for
+the raid on Dipan. Yet afterward, he grows
+displeased with the indifferent arrogance the
+gods bear towards mortals.
+ 
+It is at this time he bumps into Alicia and
+Rufus again, in Valhalla Hall. He respects
+their determination to fight Odin, and together
+they set out once again.",〓の〓ほどもある巨大な剣をふるう〓兵。行動を〓にしていたレオーネが〓は戦乙女であり、かつ自〓を利用していたと知って〓〓を〓すが、その圧〓〓な力の〓に〓れ〓ち、エインフェリアにされてしまった。その後はアーリィのエインフェリアとして、〓めにも〓た気持ちの中ディパン〓〓に〓戦したが、神の人間界に〓する〓〓さに、次〓に不〓を持ち〓める。〓る〓いを〓えていた〓、ヴァルハラ宮殿へ〓り〓んできたアリーシャ達と〓〓。〓神であるオーディンに戦いを〓ん〓事を知り、その心の〓さに〓をたれ、〓び〓に行動する事を〓い出た。,
+650,1987,codepage,44404,460,"A member of Truth, a band of treasure hunters
+spanning the entire continent.
+ 
+A treasure hunter through and through, Lwyn
+traveled with her father from a young age,
+slaying numerous monsters and discovering
+countless relics and ruins.
+ 
+She was last heard from in 346 C.C., in the
+desert region to the south of Artolia Pass.
+ 
+She disappeared soon after reporting to Truth
+Headquarters regarding her discovery of an
+ancient dynasty's royal tomb.",大陸全土を〓に〓けるトレジャーハンター〓〓トゥルースのメンバーの一人。〓き〓から〓と〓に〓〓を続け、〓〓もの魔物と〓り〓い〓多の遺跡を発見したという生〓のトレジャーハンター。大陸〓〓、アルトリア街道を〓に外れた砂漠地帯において、〓〓王〓時〓の国王の〓墓を発見したという〓〓をトゥルース〓部に入れたのを最後に〓〓を絶った。,
+650,1988,codepage,44864,308,"Raised by a merchant family in the Nethov region.
+ 
+A girl of such a prosperous upbringing should
+never have been exposed to the brutishness of the
+world, but one day her destiny took a sudden turn.
+Her father, the wealthiest man in the town, was
+ensnared in a trap that cost him his entire
+fortune<808C>",ネルソフ地方の商家の出〓。〓〓な商家に生まれ、〓〓ならば〓生〓い世界とは無〓の生活を〓〓はずの〓女であったが、ある日を〓に運〓が〓〓してしまう。町で一〓の〓〓であった〓が商〓〓に〓れられて、〓産を全て〓われた上に〓されたのである。家の〓〓によって、〓まっていた〓〓も〓〓となった〓女は、日々の〓を〓るために〓〓者の道を〓ぶ事になる。大陸〓〓、〓〓の最中に〓ち〓った遺跡で巨大な宝石を発見。その宝石が〓〓な竜を封じたものである事を知らない〓女はその宝石を外してしまうのであった。,
+650,1989,codepage,45526,810,"A captain of the Knights of the White Lily,
+Count Leon's royal guard. The count's domain
+was the western territory of what was once the
+Arkdain Kingdom, located in the northeast of
+the continent.
+ 
+Richelle was one of Camille's renowned
+""Seventeen Commanders"" in the War of Camille
+Hill, and was later dubbed ""Richelle of the
+Shimmering Samite."" In 574 C.C., under orders
+from the count, Richelle fought in the War of
+Camille Hill. Her superior swordsmanship saved
+a defensive line from the brink of collapse and
+drove the enemy back into the mountains,
+resulting in victory.
+ 
+She commanded the frontline patrols for two years
+following the war and was eventually ordered
+home in 577 C.C. However, on the way home, the
+entire guard went missing after visiting a town
+in the Gorhla region.",かつて大陸北西部に存在したアークダイン王国の西方地域を〓めていたレオン王領〓〓属の部〓である〓〓〓戦士〓の〓長で、カミール〓〓の大戦で最も〓名な〓であると言われるカミール〓の一人として〓〓銀のリシェル〓の〓つ名を持つ人物。大陸〓〓に、レオン王領〓の〓を〓け、カミール〓〓の大戦に〓戦。その〓〓した剣技によって〓壊しつつあった防衛線を〓え、山岳地帯の〓こうまで〓を〓し〓し〓利を〓めた。〓戦後、〓ほど〓線地域の指〓を執っていたが、大陸〓〓に〓国への〓〓〓〓を〓けて〓国。〓が〓国中に〓し〓かったゴーラ地方の街道において、部〓〓と行方不〓になった。,
+650,1990,codepage,46336,692,"A captain of the Knights of the White Lily,
+Count Leon's royal guard. Count Leon was the
+younger sibling of the King of Arkdain.
+The Arkdain kingdom once existed in the
+continent's northwest.
+ 
+In 579 C.C., Fraudir accompanied the count in
+revolting against the king and his corrupt ways.
+In the battles known as the Arkdain Uprising
+that raged until 581 C.C., she fought as Count
+Leon's right-hand guard.
+ 
+After invading central Arkdain, she faced a
+captain of the Knights of the Bloodsword in a
+duel. She lost her life without the chance to
+unsheathe her sword.
+ 
+However, she died with a content look on her
+face, knowing the count had succeeded in
+achieving his goal.",かつて大陸北西部に存在したアークダイン王国の王〓、レオン王領〓〓属の部〓である〓〓〓戦士〓の〓長であった女〓。大陸〓〓にレオン王領〓に付き〓い、〓〓な行いが多く見られるようになっていた国王に〓して〓〓を〓した。大陸〓〓まで続くアークダインの〓乱と〓ばれるこの戦いにおいて、王〓レオン王領〓の〓〓として戦い続けたのが〓女である。アークダイン王〓への侵〓を行った〓、国王の〓心である〓剣〓士〓の〓長との一〓〓ちを行い、その剣を〓るう事なく〓を〓とした。死の最中に王〓〓の〓利を〓〓したのか、その死に〓は〓やかであったという。,
+650,1991,codepage,47028,981,"Celes led the troops of Dipan in the War of
+Camille Hill from 573 C.C. to 576 C.C.
+ 
+Her myriad battle tactics earned her a position
+as one of the Seventeen Commanders of Camille,
+and also earned her the moniker ""Warrior
+Princess Celes.""
+ 
+After the war, she married the lord of Lassen
+and lived a peaceful life. However, in 581 C.C.,
+the Rosetta Dynasty, a power existing in the
+south of the continent, launched an invasion that
+resulted in her capture while her husband was
+away.
+ 
+This battle, known as the Lassen Invasion, was
+the cause of the Year-Long War, which ended with
+the whole continent's involvement. Celes
+participated in this war as Eclipse General of
+the Knights of the Sun. They fought against
+Dipan's navy, which was said to be ten times
+the size of their army.
+ 
+Near the end of the Year-Long War, she was
+wounded at the Battle of Rosetta by her birth
+sister Phyress, Queen of Dipan. She died two
+years later as a result of the wound.",全世界を〓き〓ん〓カミール〓〓の大戦に大陸〓〓から〓にわたってディパン〓国軍を〓いて〓戦。その〓多の戦〓に、大戦で最も〓名な〓であると言われるカミール〓の一人として〓えられ〓〓鉄〓セレス〓とまで〓されているのが〓女である。戦〓〓結後はラッセンの領〓と〓〓を結び平〓な日々を〓〓していたが、大陸〓〓、〓の不在時に、〓時大陸〓部に存在したロゼッタ王〓からの侵〓を〓け〓〓となってしまう。〓にラッセンの〓〓と〓ばれるこの戦いから、〓び大陸全土を〓き〓〓〓戦〓が〓まる事になるの〓が、〓降の戦いにはロゼッタ王〓の国家〓士〓であるナイトオブサンの〓光〓軍として〓加。〓とも言われるディパン〓国の水軍〓手に戦いを続ける。〓戦〓〓期、ロゼッタの戦いにおいて、〓の〓であるディパン王女フィレスから〓けた〓〓が元となり、〓後に死亡した。,
+650,1992,codepage,48009,1069,"An aristocrat from Gerabellum.
+ 
+Crescent was only ten years old when the
+neighboring city suddenly attacked in 572 C.C.
+She managed to escape with the help of a
+mercenary.
+ 
+This sudden attack began an era of war from
+what would later be called the War of Camille
+Hill, a battle that lasted four years. 
+However, because of her young age, Crescent was
+merely used as a bargaining chip by the kingdom
+for political purposes.
+ 
+After the war, she returned home, only to find
+her stepmother still holding reign over her
+father's land.
+ 
+The one she once called mother threatened her.
+She realized the attack itself was her
+stepmother's plot and exacted revenge.
+Afterwards, she and her heroic mercenary traveled
+the world. In 580 C.C., she enlisted with the
+Rosetta Dynasty, a power that once existed in
+the south of the continent.
+ 
+She joined the royal guard, the Knights of the
+Sun, and was appointed Meridian General. In
+581 C.C., she joined the Year-Long War.
+ 
+She vanished after the Battle of Artolia Pass.
+Her body was never found.",ジェラベルン地方の中〓〓〓の出〓。大陸〓〓、わずか〓の時に〓〓〓〓から〓然の〓〓を〓けた〓女は、〓時〓用していた〓兵の手によって一人〓け〓ち〓びる事に〓〓する。この〓然の〓〓から、後の世にカミール〓〓の大戦と〓ばれる〓にも〓ぶ戦乱の時〓が〓を〓けるの〓が、〓〓〓い〓女は大国によって〓利に〓われる〓〓の道〓としてしか存在〓〓を〓められなかった。戦〓が〓結し、かつて〓の領地であった土地に〓ってきた〓女が見たものは、〓〓と〓わらず〓として〓〓している継〓の〓であった。かつては〓と〓んでいた人物に剣を〓けられた〓女は、〓〓への〓〓そのものが継〓の手引きによるものであった事を知り〓〓を果たす。その後、〓の〓人に〓たる〓兵と〓に世界を〓〓。大陸〓〓に、〓時大陸〓部に存在したロゼッタ王〓に〓〓する。その後は、国家〓士〓であるナイトオブサンの〓光軍〓軍に〓〓され、大陸〓〓からの〓戦〓に〓戦する事になる。アルトリア街道の〓防の後、〓〓不〓。その遺〓は最後まで発見されなかった。,
+650,1993,codepage,49078,606,"An attendant of Dipan's Queen Phyress for as long
+as she can remember, Sylphide stood by the
+queen's side unquestioningly and ended up
+fighting in the year-long war that raged across
+the continent.
+ 
+Though not suited for war, the healing magic she
+wielded is said to have saved Queen Phyress from
+myriad dangers. 
+ 
+Sylphide almost lost her life near the war's end
+in the Battle of Rosetta, but was rescued from
+the clutches of death by a companion.
+ 
+Upon her return, she spent her days quietly in
+Dipan's chapel, but she was found murdered by the
+undead during the ""Mist of Nifleheim""<808C>",物心ついた時よりディパン王女フィレスの付き人をしており、そのままなし〓し〓に王女に付き〓い、大陸全土を〓き〓ん〓〓戦〓に〓加するはめになった人物。〓女自〓は戦には〓いていなかったが、〓女の〓う〓〓魔法は、フィレス王女の〓機を〓〓となく〓ったと〓えられている。〓戦〓〓期に発生したロゼッタの戦いにおいて〓を〓としかけるが、〓行していた仲間の力によってどうにか一〓を〓り〓めた。〓国後はディパンの教〓で〓かに〓〓していたが、大陸〓〓から〓まる〓ニブルヘイムの〓〓と〓ばれる暗〓時〓の最中のある日、不死者の手によって〓〓されている〓が発見された。,
+650,1994,codepage,49730,706,"Raised in Lassen, a town in the southwest of
+the continent.
+ 
+Tyrith claimed to be the descendent of the
+Warrior Princess Celes, a heroine who lived
+more than 100 years ago. She sided with Arkdain,
+which once existed in the northwest of the
+continent, and contributed tremendously in the
+battle against Villnore.
+ 
+She became as famous and as strong, if not
+stronger, than Celes, giving her soldiers courage
+to fight even at their most exhausted.
+ 
+In 658 C.C., during the Battle of the Lake
+Temple, the Villnore army's strategic plans
+sank the temple, killing Tyrith in the process.
+ 
+Although she claimed she was related to General
+Celes, she was actually a mere merchant's
+daughter.",大陸〓西にあるラッセンの町の出〓。〓〓上の〓〓である〓鉄〓セレスの〓〓を名〓って、かつて大陸北西に存在したアークダイン王国に士〓し、ヴィルノアとの戦〓に〓加した人物。アークダイン王国とヴィルノアとの戦いで〓々の〓〓をあ〓た。セレス〓軍の知名〓とそれに〓るとも〓らない〓女の戦いぶりに〓気付けられたアークダインの兵士は、どれほど〓れていようと〓び戦う力を〓り〓したと言われている。大陸〓〓、水上神殿の戦いにおいて〓戦するも、ヴィルノア軍の〓〓によって神殿〓と水〓さ〓られて死亡した。セレス〓軍の〓〓を名〓った〓女であったが、〓〓は〓のさえない商家の出〓であった。,
+650,1995,codepage,50436,408,"From the mines in the northwestern region of
+the continent. Circe was both a warrior and a
+legendary swordsmith.
+ 
+Using the Secret Law of Principles, it was said
+her swords could cut through the hardest of
+rock, and her armor could repel even the
+sharpest of arrows.
+ 
+One of the founders of Villnore. She died in
+battle at the age of 24 before she could pass
+on her knowledge of the Secret Law.",大陸北西にある鉱山の出〓。戦士でありながら〓〓に名を〓す刀〓でもある女〓。原〓の秘法と〓ばれる技術に〓じ、〓女によって〓えられた刀剣は岩をも切〓し、〓女によって〓られた鎧は弓〓を〓き〓したと〓えられている。ヴィルノア建国の〓役者の一人。〓が、その秘法を誰に〓える事もないまま、〓という〓さで戦死した。,
+650,1996,codepage,50844,549,"From the desert town Kalstad.
+ 
+Rasheeka was one of several heroes who protected
+the town from the spreading forces of the
+powerful Crell Monferaigne.
+ 
+With her knowledge of the land and by controlling
+the water supply, she managed to protect the
+town from the colossal Crell Monferaigne army.
+In 724 C.C., she received a fatal wound during
+the Fourth Kalstad Invasion and died in the
+arms of her lover.
+ 
+When the Crell Monferaigne army later heard of
+her demise, they immediately regretted missing
+the opportunity to take Kalstad.",砂漠の町カルスタッドの出〓。〓時、〓〓国家として〓力の〓大を続けていたクレルモンフェラン王国から町を守った〓〓の一人。地〓についての知識が広く、水〓を〓全に〓さえる事で、自〓たちより〓かに〓の多いクレルモンフェランの軍から町を守り続けた。大陸〓〓の〓次カルスタッド侵〓の〓に〓手を〓い、自〓がもっとも〓した人物に〓中を預けたまま死亡。後に〓女の死を知ったクレルモンフェランの軍は、カルスタッドを〓とす唯一無〓の機〓を〓したと言ったと〓えられている。,
+650,1997,codepage,51393,425,"An adventurer from the outskirts of Gerabellum.
+ 
+Blaming the undead for the death of his parents,
+Falx spent his entire life seeking vengeance by
+defeating Brahms, the Lord of the Undead.
+ 
+Falx not only excelled in wielding a sword, but
+also used his knowledge of contraptions and
+sorcery to his advantage in battles.
+ 
+After his extraordinary fighting skills finally
+caught Brahms's eye, he soon lost his life.",ジェラベルンの〓〓出〓の〓〓者。〓〓の〓である不死者を〓んでおり、不死者の王であるブラムスを〓〓する事にその一生を〓〓た人物。〓〓に剣の〓を〓く〓けではなく〓や〓術の知識をからめ、ありとあら〓る手〓を用いての戦いを〓〓としていた。その執〓が〓を結び、不死者王の〓味を引いた時に〓はその〓を〓とす事になってしまったのであるが。,
+650,1998,codepage,51818,186,"A warrior from Nethov, a town vital to the
+Principality of Paltierre, a power that ruled
+the northeast of the continent.
+ 
+Gerald was one of many who volunteered to slay
+a dragon<808C>",〓時大陸北東部に存在した、パルティア〓国の〓所であるネルソフの町出〓の戦士。〓は町の〓〓に出〓するようになったドラゴンを〓〓すべく、ネルソフの領〓が広く兵を〓〓した〓に、その〓びかけに〓じた一人である。〓を〓めた人の兵が竜の住処に〓かい戦いを〓ん〓。〓戦の〓に〓の剣が竜の〓を〓いた〓間、その心〓から〓い〓素を〓〓〓が流れ出し、その場にいた兵士達はおろか、ネルソフ一帯の生あるもの全てを死〓さ〓たと〓えられている。,
+650,1999,codepage,52329,589,"Guilm participated in the War of Camille Hill
+to aid Queen Celes, the leader of the Dipan
+army.
+ 
+He was considered one of the Seventeen
+Commanders, and was given the nickname
+""Baron Blade Guilm.""
+ 
+After the war, he resigned from his position
+as general, and served his country as a mere
+soldier. However, during Lassen's Invasions
+six years later, he participated in the battle
+alongside Queen Celes's sister, Queen Phyress.
+ 
+In 581 C.C., during the Battle of Rosetta near
+the end of the Year-Long War, he laid down his
+life to recover the life of a friend he had lost.",〓時のディパン〓国軍の指〓〓であったセレス王女の〓〓としてカミール〓〓の大戦に〓加。王女と〓にカミール〓に〓えられる〓〓を〓て〓〓〓のギルム〓の〓つ名で〓ばれた。その後、〓えられた〓軍の地位を〓り、一兵〓として国に〓えていたが、〓後のラッセンの〓〓より〓まる〓戦〓にはセレス王女の〓であるフィレス王女の〓として、〓〓〓戦する事になる。大陸〓〓、〓戦〓〓期のロゼッタの戦いにおいて、〓を〓とした仲間に〓し〓〓の法を行い、その生〓を〓じた。,
+650,2000,codepage,52918,689,"Captain of the Knights of the Bloodsword, crown
+defenders of the Arkdain Kingdom that once
+spanned the continent's northwest.
+ 
+Roland was one of Camille's renowned Seventeen
+Commanders in the War of Camille Hill, and was
+later dubbed ""Roland of the Thunder Cry.""
+ 
+In 574 C.C., by order of the king of Arkdain,
+Roland fought in the War of Camille Hill. His
+unparalleled strategic command saved a defensive
+line from the brink of collapse and drove the
+enemy back into the mountains.
+ 
+He commanded the frontline patrols for two years
+following the war and was eventually ordered
+home in 577 C.C. However, he went missing,
+and was last reported seen in the Gorhla region.",かつて大陸北西部に存在したアークダイン王国の国家〓士〓である〓剣〓士〓〓長で、カミール〓〓の大戦でもっとも〓名な〓であると言われるカミール〓の一人として〓雷〓のローランド〓の〓つ名を持つ人物。大陸〓〓にアークダイン国王の〓を〓け、カミール〓〓の大戦に〓戦。〓〓なき指〓〓力を発〓し、〓壊しつつあった防衛線を〓え、山岳地帯の〓こうまで〓を〓し〓す事に〓〓した。〓戦後、〓ほど〓線地方の指〓を執っていたが、大陸〓〓に〓国への〓〓〓〓を〓けて〓国。〓が、その旅〓の最中に、ゴーラ地方での〓〓を最後に行方不〓となった。,
+650,2001,codepage,53607,883,"Formerly working as a mercenary mainly in the
+Gerabellum region, Ehlen was part of the
+Gerabellum Liberation Army in the War of
+Camille Hill that began in 572 C.C.
+ 
+His name was often found at the top of the
+list of the Seventeen Commanders of Camille,
+which included only the mightiest warriors.
+He was a fighter who never gave up, and had
+been through much in his lifetime. People
+looked at him with awe and fear. Thus, he was
+given the nickname ""Demigod Ehlen.""
+ 
+He wandered the lands after the war, but in
+580 C.C., he sided with the Rosetta Dynasty,
+which once existed in the south of the continent.
+He was appointed as Horizon General of the royal
+guard, Knights of the Sun, and participated in
+the Year-Long War, which began the year after.
+ 
+He demonstrated his amazing fighting skills during
+the war as he held his own against the two major
+powers<808C>",元々はジェラベルン地方を中心に、〓兵をして生活をしていたが、大陸〓〓に〓まったカミール〓〓の大戦にジェラベルン〓〓軍として〓加。〓時の名〓を〓〓したカミール〓において、多くの場〓その〓〓として名をあ〓られており、最高の戦士とも〓されている人物である。どのような〓〓であっても〓める事なく、〓多の〓〓を覆してきた〓は、〓〓と〓〓の〓を〓めて〓天眼のエーレン〓と〓ばれている。大戦後はしばらく〓地を〓〓していたが、大陸〓〓に〓時大陸の〓方部に存在していたロゼッタ王〓に〓〓。す〓に国家〓士〓であるナイトオブサンの〓光〓軍に〓〓され、その〓〓からの〓戦〓に〓戦する事になる。〓戦〓においてもその〓力を発〓し、パルティア、ディパンという〓時の大国の〓〓軍に〓して一〓も引かない戦いを見〓ていたが、〓戦〓〓期のアルトリア街道の〓防において、不〓に〓れた不死者の〓〓から仲間を守るために、その〓を〓として〓を〓としてしまう。,
+650,2002,codepage,54635,817,"Formerly a stray mercenary.
+ 
+Adonis participated in the War of Camille Hill,
+where he became one of the Seventeen
+Commanders of Camille and earned the
+nickname ""Black Blade Adonis.""
+ 
+He often did not fight for a particular side,
+but he would often strike a deal with the troops
+of the area he happened to be in. It is said he
+once destroyed troops he sided with just two
+days prior. People regarded him as one of the
+strongest warriors of the time.
+ 
+He sided with the Rosetta Dynasty, which once
+existed in the south of the continent, after
+the War of Camille Hill. He led the Eclipse
+Troop of the Knights of the Sun.
+ 
+He was part of the invading troops during the
+Lassen Invasion.
+ 
+After a fierce duel, he was beheaded by Warrior
+Princess Celes, another one of the Seventeen
+Commanders.",元々は流れの〓兵。大陸〓〓に〓まったカミール〓〓の大戦にその〓一つで〓戦し、〓〓〓のアドニス〓としてカミール〓の一人に〓えられるまでになった人物。〓は〓定の国家に所属していたわけではなく、戦の〓に〓〓を〓わし〓多の軍を〓り〓いた。時にはつい日〓まで自〓が所属していた部〓に〓〓を〓〓け、壊〓さ〓た事もあったという。大戦〓時においての、最〓の戦士との〓び名も高い。カミール〓〓の大戦〓結後は、大陸〓部に存在していたロゼッタ王〓に所属。国家〓士〓であるナイトオブサンの〓光軍を〓いた。大陸〓〓に行われたラッセン〓〓には侵〓軍として〓戦。〓しい一〓〓ちの〓に、〓じくカミール〓の一人とされている〓鉄〓セレス〓軍に〓を〓とされて死亡した。,
+650,2003,codepage,55452,503,"A captain of the Knights of the Bloodsword, crown
+defenders of the Arkdain Kingdom that once
+spanned the continent's northwest.
+ 
+Even though he began to realize the king was
+eccentric, he was loyal to his duty as a knight
+and continued to wage war against the king's
+brother's troops.
+ 
+In 581 C.C., he killed a captain of the king's
+brother's troops, the Knights of the White Lily,
+in one-on-one melee. However, after the war, he
+refused treatment for his wounds and passed
+away quietly.",かつて大陸北西部に存在したアークダイン王国の国家〓士〓である〓剣〓士〓の〓長であった人物。〓は国王の乱心に気付きつつも、〓士としての〓〓を全うする為に〓士〓を〓いて王〓〓と戦い続けた。大陸〓〓、王〓に〓軍してきた王〓〓の〓〓戦士〓〓長と一〓〓ちを〓り広〓、これを〓ち〓る。〓が、〓はその戦いの後、この戦によって〓けた〓の一切の〓〓を拒み、そのまま〓を〓としたと〓えられている。,
+650,2004,codepage,55955,263,"A warrior priest from Dipan.
+ 
+Dyn was one of the heroes who became
+legendary for his contribution during the
+Mist of Nifleheim (beginning in 599 C.C.).
+ 
+According to town minstrels, he risked his life
+to close the passage between Nifleheim and
+Midgard.",ディパン〓国出〓の神〓戦士。大陸〓〓より〓まった〓ニブルヘイムの〓〓と〓ばれる暗〓時〓で名を〓〓た〓〓の一人。〓〓であるニブルヘイムの〓に一人〓り、ミッドガルドとニブルヘイムとを繋いでいた〓をその〓を〓けて〓じたのは〓であると町の〓遊〓人は〓る〓ろう。,
+650,2005,codepage,56218,566,"Hailing from a remote village on the north side
+of the continent, Kraad was one of the original
+founders of Villnore. They say his sword arm
+sliced down enemies, armor and all, while his
+steel-like body could repel speeding arrows.
+ 
+It is said that Villnore's first king gave Kraad
+his own sword and armor after gazing upon his
+battered arms, as repeated battles during the
+founding had taken their toll.
+ 
+Three years after the country was founded, Kraad
+was struck by a poison arrow while putting down a
+rebellion, ultimately leading to his death.
+",大陸北方の寒村の出〓で、ヴィルノア建国の〓役者の一人。〓を鎧〓と切〓する剣の〓と弓〓さえ〓き〓す鋼鉄の〓を持っていたと〓えられている。ヴィルノア王国建国時、〓重なる戦において、ボロボロとなっていた剣と鎧を〓につけた〓に〓し、ヴィルノアの〓〓国王は自らの剣と鎧を〓に〓えたといわれている。ヴィルノア王国の建国から〓後、地方の〓乱を〓〓に行った〓に〓けた〓に〓が〓られており、その時の〓が元で死亡した。,
+650,2006,codepage,56784,359,"An adventurer from Quiryl, a small town near
+Loahm Hill.
+ 
+Zunde became famous for discovering the
+legendary sword Grand Sting in an old shrine
+he passed on his journey.
+ 
+Later, as he and his friends traveled through
+Camille Hill, he received a request to slay
+the monsters in the area. He set out full of
+confidence, never to be heard from again.",ローム〓〓〓〓の小さな村であるキリル村出〓の〓〓者。旅の最中に〓ち〓った〓い神殿で、神々の〓器と〓えられる蒼剣グランスティングを見つけ、一〓〓名になる。その後、仲間と〓に旅先で〓ち〓ったカミール〓〓において魔物の〓〓を〓〓された〓は、いつものように〓気〓々と魔物の住処へと出発し、そのまま〓ってこなかったという。,
+650,2007,codepage,57143,598,"A member of the Tehm, a small tribe from the
+north of the continent.
+ 
+The tribe excelled in the ability to handle
+horses. They rode as fast as the wind and
+flew over mountains like birds.
+ 
+Tehm tribal custom calls for a Protector, one
+who is sacrificed for the blessings of the gods.
+However, the Protector of the time broke the
+laws of purity by bearing a child. Atrasia was
+this Protector.
+ 
+Without a Protector, the tribe was attacked
+by a group of undead and wiped out. Atrasia
+managed to escape to a nearby town with her
+child, but died of exhaustion and physical
+injuries.",大陸の北の方に住んでいたテムと〓ばれる〓〓部〓の出〓。この部〓は〓術に〓れ、平地を〓のように〓り山々を鳥のように〓び〓える事ができたと言われている。テムの部〓には守り手と〓ばれる存在がおり、神々にその〓を〓〓神からの加護を〓る事で部〓を守っていたが、〓時の守り手であった〓女が〓〓の〓を〓り〓どもを〓〓った事で、守り手としての資〓を喪失。守護者を失った部〓は不死者の一〓に〓われて全〓してしまう。〓い〓どもを〓えて〓くの町まで〓〓〓びはしたものの、〓〓と〓〓とによる〓〓が〓しく、そのまま〓を引き〓った。,
+650,2008,codepage,57741,904,"A former queen of Dipan.
+ 
+Phyress participated in the Year-Long War, which
+began in 581 C.C., with only two comrades. She
+was a heroine in the Battle of Paltierre, the
+Arkdain Uprising, the Battle of Artolia Pass,
+and the Battle of Rosetta. Were it not for her
+the surrounding four powers would have been
+unable to completely contain Rosetta.
+ 
+During the Battle of Rosetta near the end of the
+Year-Long War, she lost her arm and decided to
+give up the warrior life. She married her
+childhood friend King Cyphel of Paltierre. She
+supported her husband in governing the country,
+but in 622 C.C., she caught an endemic disease
+and passed away.
+ 
+Mourning his wife, the king of Paltierre died
+five years later. Phyress had possessed the skill
+and knowledge of a great bowyer. She also
+compiled the writings of alchemy scattered
+throughout the continent to create the Tome
+of Truths.",ディパンの王女であった人物。大陸〓〓から〓まり、最〓〓には大陸全土を〓き〓ん〓〓戦〓と〓に〓ばれる大戦に〓人の〓〓けを〓れて〓戦。パルティア〓防戦、アークダイン〓乱、アルトリア街道の〓防、ロゼッタの戦いと〓多の戦場に〓を見〓た〓〓の一人。〓女の存在が無ければ〓〓大国によるロゼッタ王〓〓〓〓は〓〓しなかったと言われている。〓戦〓の最後であるロゼッタの戦いにおいて〓〓を失って〓降は〓器を置き、〓なじみであるパルティア王シフェルの〓となり〓を〓えた。〓位したばかりの王を〓け国の〓定に〓事するが、大陸〓〓に〓土〓にかかり死亡。〓女を失って〓後にパルティア〓国は最後を〓える事になる。弓の技術〓けでなくその知識も広く、大陸に〓〓している〓多の錬金術師の技や〓書をまとめ〓〓〓の書〓として〓〓化も行った事でも知られている。,
+650,2009,codepage,58645,483,"The only daughter to King Cyphel of Paltierre.
+Paltierre once existed in the northeast of the
+continent.
+ 
+In 598 C.C., Chrystie left the country to pursue
+a minstrel who happened to drop by the palace.
+In 599 C.C., during the three-year Mist of
+Nifleheim, she and the minstrel traveled to
+many lands to seal and destroy the undead.
+ 
+However, she never returned to her country
+even after the door to Nifleheim was closed.
+She merely disappeared, never to be seen again.",かつて大陸北東に存在したパルティア〓国の王であるシフェルの一人〓。〓が〓女は、大陸〓〓に王宮を〓れた〓遊〓人を〓って、国を出〓してしまう。その〓〓の〓から〓間に〓る〓ニブルヘイムの〓〓と〓ばれた暗〓時〓において、〓女はその〓遊〓人らと〓に大陸の〓地を〓り、〓多の不死者を封印して〓ったとされている。しかし、ニブルヘイムへの〓が〓じられ、その〓〓が〓った後も〓女は国には〓らず、そのまま〓〓の〓〓〓から〓を〓してしまった。,
+650,2010,codepage,59128,629,"Hails from a nameless island far to the
+southwest of the continent. Clever with her
+hands, Sha-kon was the creator of mechanical
+dolls with various complex components.
+ 
+She traveled alone to the continent in hope of
+obtaining necromancy that enabled one to control
+a dead soul. Her desire was to fill her dolls
+with these souls, bringing them to life.
+ 
+After a long and painful journey, she succeeded
+in learning the spell. As the result of much
+experimentation, she managed to create a doll
+with a soul.
+ 
+...Or so she thought. Her final creation was
+merely a doll that used the soul as energy for
+mobility. ",大陸の〓西、海を〓えた〓方にある名もない〓の出〓。生まれながらに手先が器用で、無〓の機構を〓み〓ん〓カラクリ人〓の〓〓を生業としていた人物。海を〓った大陸に、〓霊術という〓を〓〓する〓法があると〓いた〓女は、それを利用する事で〓〓した人〓に〓を入れる事ができるのではと〓え、〓〓で海を〓った。〓〓の旅を〓り〓え、どうにか大陸にたどり〓いた〓女は〓霊術を〓び、〓の持つカラクリの技術と〓み〓わ〓、長い研究の〓に〓り出した人〓の中に〓を封じ〓める事に〓〓する。〓が、それは元となった人物の〓を動力にして動く〓〓な人〓〓を〓〓したに〓〓なかった。,
+650,2011,codepage,59757,628,"The daughter of a lord in Crell Monferaigne.
+Lylia was a holy child who received the
+blessings of Frei at birth.
+ 
+In 746 C.C., she was about to marry into the
+royal family, but ran out in the middle of the
+ceremony.
+ 
+Despite a thorough search for the new queen,
+she was nowhere to be found. Time passed, and
+people began to forget she ever existed. However,
+six years later in 752 C.C., mayhem broke out
+when she was spotted in the Salerno region.
+ 
+She returned to Crell Monferaigne, but in a
+fragile mental state. A while after her return,
+she threw herself from atop the castle walls
+in front of the king.",クレルモンフェランの地方領〓の〓で、〓生の時にフレイア神の〓〓を〓けて生まれたとされている聖女。大陸〓〓に〓〓を〓えたクレルモンフェラン王の下に〓〓事になった〓女は、〓の最中に〓のように王宮から〓を〓してしまい人々を〓か〓た。〓死の〓〓が行われたが〓王〓の〓は見つからず、月日は流れ、〓女の存在は人々の〓〓から〓え〓っていった。〓が〓後の〓、〓〓のサレルノの地において〓女の〓が発見され、大〓〓となる。精神〓〓が不〓定であった〓女は、クレルモンフェランに〓ってしばらくした後に、王の眼〓で城壁から〓を〓〓その〓を絶ったという。,
+650,2012,codepage,60385,585,"The daughter of the queen of Crell Monferaigne.
+Lydia's suffered shame and disdain, as she was
+not the legitimate daughter of the king.
+ 
+To find her purpose in life, she trained hard
+and demonstrated great skill on the battlefield
+from a young age.
+ 
+However, her younger brother-in-law, Prince
+Cain, was jealous of her skills as a warrior
+and hired a group of thieves to kill her.
+ 
+Although she died at a young age, her prowess as
+an archer was legendary. It is said that during
+one battle, she was able to save an ally by
+disarming an enemy one hundred meters away.",クレルモンフェラン王〓の〓でありながら、王の〓を引いていない不〓の〓として、〓〓と〓に〓てられた女〓。〓の存在〓〓を〓り出そうと〓〓に〓け暮れ、〓いうちから戦場に出て多くの〓を〓ち〓した。〓が、その〓〓が〓についたのか、〓〓の〓にあたるカイン王〓の手引きによって、夜盗の一〓に〓した〓〓に〓われ〓〓されてしまう。〓くして〓を〓としたが、その弓の〓は神がかっていたと言われており、戦のさなかに〓先で〓ち〓わされる〓器を〓〓き一〓〓ちを〓めたという〓〓が〓されている。,
+650,2013,codepage,60970,700,"Sophalla grew up in a poor neighborhood of
+Gerabellum.
+ 
+Sophalla was raised as an assassin by a thieves'
+guild, but caught the eye of the local lord
+and married at 16. Her life changed completely
+as she became a member of the upper class
+overnight.
+ 
+However, unable to erase her past, she received
+letters of threat and blackmail from the guild.
+After coming clean about her past to the lord,
+they devised a plan to destroy the guild.
+ 
+However, in 790 C.C., the lord was assassinated
+by a member of the guild. After this incident,
+Sophalla continued to fight the guild on her own.
+ 
+In 792 C.C., she was kidnapped by the guild, who
+crushed her throat and sold her as a slave.
+",ジェラベルン地方の〓民街出〓。盗賊ギルドに〓われ暗〓者として〓てられた〓女であったが、〓の時に時の領〓に見〓められて結〓。一〓して上流〓〓の一〓となる。〓が、〓の〓〓を〓す事はできず、〓女は盗賊ギルドからの〓〓や〓〓に日々〓まされる事になる。〓の〓〓の行為を全てを〓〓し、〓と〓に盗賊ギルドの〓〓に〓手した〓女〓ったが、大陸〓〓に、ギルドの手の者によって〓は暗〓されてしまう。その後、一人戦い続けた〓女であったが、大陸〓〓に盗賊ギルドによって〓〓され、〓を〓された〓〓で、〓〓として〓られてしまった。,
+650,2014,codepage,61670,213,"Millidia lived a simple life in Gerabellum with
+her elder sister. Her entire life changed when
+her sister caught the eye of their lord.
+ 
+From then on, she was able to live the life she
+had only dreamed of<808C>",〓と〓人、ジェラベルンの〓民街で暮らしていた〓女〓ったが、〓が領〓に見〓められて〓〓、その人生が一〓する。〓〓のある〓〓、〓日の〓の心〓をする〓〓の無い日々。それは〓のような暮らしであった。〓が他人にかしずかれる事に〓れなかった〓女は、〓〓に〓んで町の一〓に家を用〓してもらい、そこで〓ましく暮らしていく事を〓ぶ。〓女が〓の〓化に気付いたのは、それから〓ししての事であった。〓〓な生活に〓れていなかったためか、それとも〓の〓〓を〓し〓りたかったのか、〓は〓民街に〓して圧力をかけるようになっていった。〓に〓が亡くなってからはその行動が〓〓になり、〓の〓である〓女の事まで避けるようになったかと思うと、かつて暮らしていた〓民街に〓する〓き〓ちさえも行うようになったのである。〓の行為に心を〓めた〓女は、盗賊ギルドの手引きによって、〓と入れ〓わる事を〓〓する。その後、〓女によって〓〓される事になったジェラベルンは、〓々の〓〓の〓下と引き〓えに〓定の日々を〓える事になる。大陸〓〓、〓〓か盗賊ギルドのアジトに火を〓った〓女は、ギルドの大半のメンバーと〓に〓死。〓〓きには、〓〓びで〓かった〓〓場の火事に〓き〓まれたとして処〓された。,
+650,2015,codepage,62976,594,"Raised in the desert town of Kalstad, Arcana was
+one of the heroes who saved the town from Crell
+Monferaigne, a kingdom trying to spread its
+power over the continent.
+ 
+With her superior knowledge of weather patterns,
+she managed to avoid battles during the
+disadvantageous rainy season, and kept the
+Crell Monferaigne troops from taking the town.
+ 
+In 724 C.C. during the Fourth Kalstad Invasion,
+she suffered a deep wound and died in the arms
+of her most-trusted friend. Her death came at a
+young age, and it is said that even the Crell
+Monferaigne battalion mourned her death.",砂漠の町カルスタッドの出〓で、〓時〓力の〓大を続けていたクレルモンフェラン王国の侵〓から町を守った〓〓の一人。気〓についての知識が広く、雨〓に戦いを避けて、〓〓に戦いを〓〓事を〓底し、自〓達より〓かに〓の多いクレルモンフェランの軍から町を守り続けた。大陸〓〓の〓次カルスタッド侵〓の〓に〓手を〓い、自〓がもっとも〓〓する〓〓に〓中を預けたまま死亡。ま〓〓す〓る〓女の死は、〓国であるクレルモンフェランの〓兵にまで〓しまれたという。,
+650,2016,codepage,63570,684,"Ehrde was appointed the Twilight General of the
+Knights of the Sun of the Rosetta Dynasty,
+during the Year-Long War that began in 581 C.C.
+ 
+It was he who captured the feared Warrior
+Princess Celes during Lassen's Invasions.
+He stayed in Lassen and fought against the
+Arkdain troops from the northwest of the
+continent.
+ 
+However, after Artolia Pass to the east was
+overtaken by Paltierre forces, his troops became
+isolated. Although he fought valiantly, he lost
+his life.
+ 
+Ehrde not only achieved fame as a general, but
+also carried out many espionage missions for
+Rosetta. It is rumored that he was directly
+involved in the assassination of the king of
+Arkdain.",大陸〓〓に〓まった〓戦〓で、大陸〓部に存在していたロゼッタ王〓の国家〓士〓であるナイトオブサンの青光〓軍を〓めていた人物。ラッセン〓〓〓戦に軍を〓いて〓加し、〓鉄〓と〓れられたセレス〓軍を〓らえたのが〓である。その後制圧したラッセンに〓まり、大陸北西からラッセン〓〓の名目で〓軍をしてきたアークダイン王国軍を〓手に〓しい戦いを続ける。〓が、東方のアルトリア街道がパルティア王国軍によって制圧された事によって〓全に〓〓。〓戦も空しくその〓を〓とす。〓は〓軍としての〓の〓〓けでなく〓の世界での〓も持っており、ロゼッタ王〓の暗部に〓わる〓〓を〓多く行っていたと言われている。〓自〓がアークダイン王国の教〓暗〓に〓く〓〓していたという〓もあるくらいである。,
+650,2017,codepage,64254,740,"Led the military of Fraelgard, a country that
+existed on the island south of the continent from
+80 C.C. to 234 C.C.
+ 
+It is said Mithra was behind the construction of
+hidden fortresses at key points on the island that
+fended off would-be invaders from the continent.
+However, a mistake by a subordinate raised
+suspicions of treason against the king during a
+battle in 145 C.C. Mithra was left to die on the battlefield, and eventually captured.
+ 
+For the entire year he was held captive in a
+dungeon, Mithra was subjected to unspeakable
+tortures, yet never spoke a word. When his corpse
+was later delivered to Fraelgard without eyes,
+ears, or tongue, the king is said to have broken
+down in tears at his own shameful folly.",大陸〓〓から〓まで、〓方の〓に存在したフレアガルド国の〓軍。〓は〓の〓所に隠された〓を〓り、たびたび〓れる大陸からの侵〓者を〓い〓し続けたと〓えられている。〓が、大陸〓〓の戦いにおいて、部下の手〓いにより王に造〓を〓われ戦場で〓〓し、〓〓となってしまう。〓〓となってからの〓〓の間、〓中にていかなる〓問を〓けようとも、〓は〓一つ〓さなかったと言われている。後日フレアガルド国に〓〓された〓の死〓には、目も〓も〓さえも〓っておらず、それを見た王は〓き〓れ自らの不〓を〓じたと〓えられている。,
+650,2018,codepage,64994,535,"A sorcerer from Solde.
+ 
+Although originally a Dipan soldier, Aegis
+became widely known because of his extraordinary
+contribution in the battle against the Principality
+of Paltierre, which once existed in the northeast
+of the continent.
+ 
+A master of reading the ocean, it was said he
+could take on an any number of enemies at sea.
+However, despite being undefeatable on the water,
+he was not so invincible in it, as he couldn't
+swim. While skirmishing with pirates in 418 C.C.,
+he fell into the water and drowned at sea.",ゾルデの町出〓の魔術師。〓めはディパンの一兵士であったが、大陸北東にあったパルティア〓国との戦いで一〓名を〓〓た人物。海流を見る目に〓れており、船上の戦いであればどれほどの〓の船〓が〓手であっても〓〓の手を〓るように〓利したと〓えられている。それほどまでに〓れた〓〓運用術を持っていた〓であったが〓外にも〓〓事は全くできず、大陸〓〓に〓こった海賊との小〓り〓いの最中に〓って海に〓ちて〓死してしまった。,
+650,2019,codepage,65529,518,"A genius sorcerer from the Principality of Paltierre, which once existed in the northeast
+of the continent.
+ 
+Psoron created Fire Storm, the most widely used
+offensive magic spell, and Guard Reinforce, one
+of the most basic defensive magic spells.
+ 
+He was the court sorcerer for the king of
+Paltierre. After creating these two magic spells
+to fight the undead, he disappeared.
+ 
+More than half the magic spells in existence
+would not have been, were it not for the creation
+of Psoron's two basic spells.",かつて大陸の北東部に存在した、パルティア〓国出〓の天〓魔術師。今も〓用されている最もポピュラーな〓〓魔法の一つであるバーンストームと、一〓〓な防〓魔法であるガードレインフォースを〓り出したのが〓である。時のパルティア王に宮〓魔術師として〓かれた〓は、不死者に〓〓する術としてこの〓つの魔法を〓発して〓を〓した。〓の生み出したこの〓つの魔法が無かったならば世に知られている魔法の半〓が生まれなかった〓ろうとさえ言われている。,
+650,2020,codepage,66047,713,"Originally a mere lord of a small region of Gorhla,
+Khanon began to make frequent appearances in
+Arkdain after several casualties in the War of
+Camille Hill that began in 575 C.C. He eventually
+gained enough power to make decisions
+concerning state affairs.
+ 
+He created a neutral clerical faction that opposed
+both parties that caused the War of Camille Hill,
+the king's and his brother's. At the same time, he
+created the Division of the Sacred Cross, a troop
+with a church. This inalienable right gave his
+clergical faction solid political ground.
+ 
+In 581 C.C., Khanon was shot in the heart with
+an arrow while being anointed in the lake temple
+in the southwest region of the Arkdain Kingdom.",〓めはゴーラ地方の一地方領〓に〓〓なかったが、〓まで続いたカミール〓〓の大戦の後、多くの人〓を失い〓〓したアークダイン王国において〓々にその〓〓を〓し、最後には国〓まで〓〓するようになった人物。カミール〓〓の大戦後に発生した国王と王〓の〓いに〓〓して、中〓となる教〓〓を〓〓したのが〓である。〓時に教〓付きの部〓である聖〓〓師〓を〓〓、その〓〓を〓る事で名〓〓に教〓〓の中〓となる。大陸〓〓、アークダイン王国〓西部の水上神殿において教〓への〓〓〓を〓けている途中に心〓に〓を〓ち〓まれて暗〓された。,
+650,2021,codepage,66760,829,"Farant hailed from Lassen, a town in the
+southwest of the continent. 
+ 
+Farant created an organization which consisted
+of the remaining soldiers from the troops that
+participated in the Year-Long War from 581 C.C.
+The organization was formed to resist any powers
+that might try to assume control over Lassen.
+His troops used guerilla tactics and were
+victorious with only 100 soldiers against an
+army of 5000.
+ 
+Even the generals of the Rosetta Dynasty, which
+ruled over Lassen, feared Farant's power, and
+asked for reinforcements to help with this matter.
+ 
+During the Battle of Artolia Pass, near the end
+of the Year-Long War, he commanded a feint
+operation. Although the plan was a success, he
+was killed by the Meridian General of the Knights
+of the Sun.
+ 
+He died without ever seeing Lassen liberated.",大陸の〓西部にあるラッセンと〓ばれる〓〓の出〓。大陸〓〓に〓こった〓戦〓〓時、ロゼッタ王〓の〓然の侵〓で〓〓するラッセンの〓存部〓を〓めて〓〓し、制圧軍に〓する〓〓〓力を〓〓した人物。〓の〓いる部〓は神出〓〓で、わずか人の手〓で〓軍人の〓兵を手〓に〓ったと言われている。ラッセンの町の〓〓を行っていたロゼッタ王〓の〓軍でさえその存在に〓を〓めていたらしく、〓国に〓軍を〓う〓を〓した〓〓書が〓されている。〓戦〓〓期のアルトリア街道の〓防においては自ら陽動部〓を指〓。〓戦そのものは〓〓したものの、ロゼッタ王〓の国家〓士〓であるナイトオブサンの〓光〓軍の手によって〓ち〓られる。その〓〓月後に〓〓されるラッセンの〓を〓す事なく、その〓を〓じた。,
+650,2022,codepage,67589,707,"Xehnon was a servant of the Rosetta Dynasty, a
+dynasty that once existed in the south of the
+continent, in 578 C.C.
+ 
+He accidentally got hold of a divine book, the
+Manuscript of Manifestation, and became
+possessed by its strong, godly powers.
+ 
+Under its spell, he managed to become the court
+sorcerer to get close to the King of Rosetta.
+Eventually, he was able to persuade the king to
+invade the rest of the continent.
+ 
+Xehnon was possessed for three and a half years,
+until the book was burned by Queen Phyress of
+Dipan.
+ 
+Once freed, he began searching the lands for a
+means to rectify the state the world was in, but
+in 586 C.C., he was attacked and killed by a
+group of rioters.",大陸〓〓、〓時大陸〓方に存在していたロゼッタ王〓と〓ばれた国に〓えていた人物。宝物〓の中に眠っていた〓眼の〓〓と〓ばれる神々の〓を手にしてしまい、〓の持つ〓大な神気にあてられ、〓〓に〓られる事となってしまう。その〓大な魔力によって、〓は〓く間に宮〓魔術師の地位に〓ち、時のロゼッタ王に大陸侵〓の野望を〓か〓る事になった。大陸〓〓、ディパン〓国のフィレス王女の活〓によって〓眼の〓〓が〓やされるまでの〓半もの間、〓は〓に〓られ続けた。その後、〓〓された〓は大陸中を〓り、〓眼の〓〓により〓た知識を〓って〓〓の平定に〓めるが、大陸〓〓に〓〓の一〓に〓われて無〓にも〓されてしまう。,
+650,2023,codepage,68296,239,"The second prince of the Principality of
+Paltierre, which once ruled the northeastern
+region of the continent. 
+ 
+Alm was the son of Dragon Scale Sigmund, one of
+the Seventeen Commanders of Camille. His eyes
+were like his father's<808C>",かつて大陸の北東部を〓〓していたパルティア〓国の〓〓王〓。カミール〓の一人に〓えられる〓竜〓のジグムント〓の〓〓で、〓に〓く〓びた竜眼と〓ばれる〓と、〓まれな魔法の〓〓を持っていた事で知られている。大陸〓〓の〓戦〓時には〓国に〓り、〓と〓の不在の中、〓れる国〓を見事に〓めきった。その後大陸〓〓から〓まる〓ニブルヘイムの〓〓と〓ばれる暗〓時〓においては自ら軍を指〓し、国を〓う不死者との戦いを続けていたが、その戦いの最中に〓界の竜王に〓ち〓され、死亡した。,
+650,2024,codepage,68975,584,"Raised in Rand, a small town along Artolia Pass.
+ 
+During the Year-Long War that began in 581 C.C.,
+Rand was attacked by an opposition group. These
+groups had rapidly increased in number due to
+the decrease of public safety.
+ 
+Seluvia was Rand's lone survivor. He was rescued
+by a woman who later went on to become Queen
+Phyress of the Principality of Paltierre.
+ 
+In 593 C.C., he disappeared, fearing that his
+existence would cause a war to breakout among
+the heirs to the throne. He then became a minstrel
+and traveled many lands, sealing the undead along
+the way.
+",かつてアルトリア街道〓いに存在したランドと〓ばれる小さな村の出〓。大陸〓〓に〓まった〓戦〓〓時、〓〓の〓下によって〓加していた野盗の一〓がこの村を〓った。後のパルティア〓国の女王となるフィレス王女に発見され、村の唯一人の生き〓りとして〓女によって〓護されたのが〓である。〓人した〓は、自〓の存在によってパルティア〓国に後継者〓いが発生する事を〓れ、大陸〓〓にその〓を〓した。その後は〓遊〓人として世界〓地を〓っていたらしく、大陸のあちこちに〓の手によって不死者が封印されたという〓〓が〓されている。,
+650,2025,codepage,69559,615,"Masato hailed from a nameless island far to the
+southwest of the continent.
+ 
+Not only did Masato excel at magic, but he was
+also able to perform the secret art of
+inscribing runes to create barriers.
+ 
+He devised a plan to assassinate the tyrant who
+ruled at the time, but was betrayed by his best
+friend. He crossed the ocean to flee from his
+pursuers.
+ 
+After reaching the continent, he lived a peaceful
+life, while chasing away the undead who attacked
+villages. 
+ 
+However, his body began to wither as a
+repercussion of a failed spell. He eventually
+died, his body reduced to a mere skeleton.",大陸の〓西、海を〓えた〓方にある名もない〓の出〓。魔法のみならず、符とよばれる〓にルーンを〓したものを〓〓にする〓〓の秘術に〓れていたと〓えられている。圧制を行う時の〓力者に〓して暗〓を〓みるが〓〓の〓〓によりそれが発〓、〓っ手から〓れるために海を〓った。大陸に〓り〓いてからは〓かに暮らし、〓〓を〓う不死者の〓〓などを行っていたが、かつて失〓した〓〓の〓動によって次〓に〓〓。最後は骨のように〓〓こけその〓を〓とした。,
+650,2026,codepage,70174,430,"A ruthless alchemist who kidnapped the Queen of Crell Monferaigne in 746 C.C.
+ 
+Hiding out in the hinterland of Salerno, Woltar
+was rumored to have spent his days and nights
+engrossed in horrifying experiments.
+ 
+However, in 752 C.C., he was found and punished
+by officers from Crell Monferaigne. A month after
+the queen was rescued from her prison, she took
+her own life by throwing herself from atop the 
+castle wall.",大陸〓〓に、クレルモンフェラン王国の王〓を誘〓した〓〓な錬金術師。〓〓の地サレルノに〓み、夜な夜な〓るべき〓験を〓り〓していたと〓えられている。〓が、大陸〓〓にその所在を〓き〓めたクレルモンフェラン王国の〓〓〓により〓〓される事になる。〓出された王〓はその一月後、クレルモンフェランの城壁から〓を〓〓出してその〓を絶った。,

@@ -1,0 +1,4 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,199,3,0,,,,,Dipan Castle,ディパン城,,
+1,2,199,4,0,,,,,Acquired <PART> Dwarf Tincture,〓人の霊薬 <PART> を手に入れた,,
+1,3,199,5,0,,,,,,ユニオンプラム <PART> を手に入れた,,

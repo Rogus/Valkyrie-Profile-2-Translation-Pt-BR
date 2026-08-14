@@ -1,0 +1,70 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1313,30,6816,610,1,,Hrist,"You can thank me if you want,",そう取ってくれるのなら幸いだが <PART> 一一,,
+1,2,1313,2,7008,610,2,,Hrist,"but I did it to save the world, not you.
+It was the best available option.",助けたつもりはない これが世界を救う最〓の策と〓断したまでだ,,
+1,3,1313,3,7668,610,3,,Rufus,So...your heart still sides with Odin?,今も心はオーディンにあるってか？,,
+1,4,1313,4,9308,610,6,,Brahms,Gods don't belong to worlds.,世界があっての神 <PART> 一一,,
+1,5,1313,5,9500,610,7,,Brahms,"Nor do worlds belong to gods.
+You're finally starting to realize that.",神があっての世界ではないお前は今 それに気づきかけているのだ,,
+1,6,1313,6,12960,610,11,,Hrist,We should go.,先を急ごう,,
+1,7,1313,7,14084,610,14,,Rufus,"This is it. This entire world is laid
+out in front of us.",この世界じゃ まだ今いるこの場がすべてって事か…,,
+1,8,1313,33,14704,610,16,,Hrist,There is a way.,手は打ってある <PART> 一一,,
+1,9,1313,9,15564,610,17,,Alicia,Is that from the Water Mirror?,これは …水〓？,,
+1,10,1313,10,17088,610,20,,Brahms,"If you ask me, Odin wrought this upon himself.",私に言わせれば それはオーディンの自業自得だがな…,,
+1,11,1313,11,17360,610,21,,Rufus,"Even so, it's us who'll be sorry if
+everything's wiped out.",だからって全部なくなっちまったら俺もあんたも みんな困るんだぜ,,
+1,12,1313,12,18016,610,24,,Brahms,"The Dragon Orb is here with us, and
+Gungnir is with Lezard, right?",ドラゴンオーブはここに…グングニルはレザードの手にあるんだな？,,
+1,13,1313,13,20264,610,29,,Arngrim,Screw that.,…冗談じゃねえ,,
+1,14,1313,14,21972,610,31,,Hrist,But why here?,またか… でもなぜ…？,,
+1,15,1313,15,34808,610,18,,Hrist,"The sole window connecting the closed
+world with ours. Return is possible.",閉じた世界をつなぐ唯一の〓だいざとなれば戻る事はできる,,
+1,16,1313,16,34984,610,27,,Hrist,"Each time the stabilizing power is used
+for destruction, the orb grows weaker.",安定のための力を破壊に利用すればその度に力は〓えてゆく <PART> 一一,,
+1,17,1313,32,35148,610,22,,Hrist,Well spoken.,…そういう事だ,,
+1,18,1313,17,36404,610,12,,Hrist,Lezard must have already moved on.,おそらく レザードはこの先にいる <PART> 一一,,
+1,19,1313,18,36848,610,8,,Hrist,As if the undead would know.,不死者が知ったふうな事を…,,
+1,20,1313,19,36968,610,15,,Alicia,"There's no going back now.
+Not to Midgard, not to Asgard.",もうアスガルドへも ミッドガルドへも戻れないのね…,,
+1,21,1313,20,37088,610,19,,Hrist,"However, Asgard also faces inevitable
+destruction as we speak.",とはいえもはや アスガルドもさらなる荒廃を免れまい…,,
+1,22,1313,21,37220,610,25,,Hrist,"Meaning two of the Four Treasures that
+sustain our world are here in this one.",世界を護る四宝のうち 二つまでもがこの異世界にあるという事だ,,
+1,23,1313,22,37480,610,5,,Hrist,I don't know anymore.,…私にもよくわからない,,
+1,24,1313,34,37644,610,0,,Arngrim,"Looks like this time, you really did
+save me.",…今度ばかりは本当に助けてくれたみたいだな,,
+1,25,1313,23,37780,610,10,,Brahms,How right you are.,…そのとおりだな,,
+1,26,1313,24,43344,610,4,,Hrist,Well...,それは…,,
+1,27,1313,25,44192,610,9,,Alicia,"This is something we should be
+discussing with Odin and Lezard.",そういう話はオーディンとレザードにしてあげてください,,
+1,28,1313,26,44968,610,23,,Brahms,Hmph.,フッ…,,
+1,29,1313,27,45108,610,26,,Arngrim,"Is there a reason why we just don't burn
+this world to ash with the Dragon Orb?",いっそ今すぐオーブで 全部焼き払っちまうわけにいかねえのか？,,
+1,30,1313,28,45228,610,28,,Hrist,"If you're willing to say goodbye to
+Midgard, then go ahead.",ミッドガルドを見限る覚悟があればそれもいいが…,,
+1,31,1313,29,45992,610,30,,Hrist,I sense...Lenneth.,この波動は レナス…,,
+1,32,1313,35,49776,610,13,,Alicia,"Imagine, a new world...",創造されたばかりの世界…,,
+2,1,1313,2757,62604,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1313,2758,63092,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1313,2759,63624,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1313,2760,64112,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1313,2761,64888,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1313,2762,65612,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1313,2763,66000,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1313,2764,66328,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1313,2765,66716,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1313,2366,74048,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1313,2367,74184,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1313,2368,74320,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1313,38,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1313,39,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1313,40,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1313,41,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1313,42,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1313,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1313,2752,,,,,,Hrist,アーリィ,,not displayed by the event script
+4,8,1313,2753,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,9,1313,2754,,,,,,Brahms,ブラムス,,not displayed by the event script
+4,10,1313,2755,,,,,,Alicia,アリーシャ,,not displayed by the event script
+4,11,1313,2756,,,,,,Arngrim,アリューゼ,,not displayed by the event script

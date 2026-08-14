@@ -1,0 +1,9 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,961,1,0,,,,,,,,
+1,2,961,2,0,,,,,Tower of Lezard Valeth,レザード・ヴァレスの塔,,
+1,3,961,3,0,,,,,Exit,出口,,
+1,4,961,6,0,,,,,"Leave the Tower of Lezard Valeth?
+Sealstones return to original places.",レザード・ヴァレスの塔から出ます〓封印石の〓置は〓期化されます〓,,
+1,5,961,7,0,,,,,Yes,はい,,
+1,6,961,8,0,,,,,No,いいえ,,
+1,7,961,34,0,,,,,,レザード・ヴァレスの塔,,

@@ -1,0 +1,74 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1227,1,1116,90,2,,Dylan,"You watch your mouth! Don't you dare
+insult the princess like that...",貴様こそ王女を〓〓するかのようなその口の利き方 <PART> 一一,,
+1,2,1227,2,1260,90,3,,Dylan,Your whining's insufferable!,聞いていて不〓快だ,,
+1,3,1227,3,1840,90,5,,Dylan,"Swear allegiance to the princess or be on
+your way!",王女に〓〓を〓えぬのなら今すぐ引き返せ！,,
+1,4,1227,4,3780,90,8,,Rufus,"Guardian beasts?  So the king of Dipan
+keeps pet monsters?",守護獣って… ディパンの王族は化け物を〓ってるのか？,,
+1,5,1227,5,4240,90,10,,Silmeria,"These are souls who swore loyalty to Dipan,
+still bound to their country after death.",ディパンに〓〓を〓いし魂達が死してなお国を想い <PART> 一一,,
+1,6,1227,6,5376,90,12,,Silmeria,"I hope you're not too unnerved by this.
+I'd hate to think that I had misjudged
+your caliber.",この程度で取り乱したりして私の見込み違いでないといいけど…,,
+1,7,1227,7,6308,90,13,,Rufus,Hah!,クッ…！,,
+1,8,1227,8,8964,90,1,,Rufus,"Great. There you go again with your ""visions.""",あいかわらず他人事みたいな言い方だな,,
+1,9,1227,9,11672,90,6,,Silmeria,Enough!,やめなさい！,,
+1,10,1227,10,21584,90,4,,Rufus,Hey. She asked ME to come along.,俺はただ頼まれて <PART> 一一,,
+1,11,1227,11,21972,90,7,,Silmeria,"I sense a guardian beast. I trust you two
+still have some fight left in you.",守護獣の気配を感じるのあなた方の戦いぶりに期待するわ,,
+1,12,1227,12,22092,90,9,,Silmeria,They're not the king's.,王族とは関係ない,,
+1,13,1227,13,22256,90,11,,Silmeria,"They take the form of beasts to protect
+their land from invaders.",獣の姿を惜りて外敵の〓入を〓んでいる,,
+1,14,1227,14,26728,90,0,,Alicia,I think the entrance is close.,…出口が近いようです,,
+2,1,1227,2756,41832,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1227,2757,42320,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1227,2758,42852,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1227,2759,43340,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1227,2760,44116,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1227,2761,44840,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1227,2762,45228,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1227,2763,45556,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1227,2764,45944,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1227,486,50924,361,0,,Ull,"Long time, no see.",やあ 久しぶり,,
+3,2,1227,507,51412,361,1,,Alicia,Who are you?,…あなたは？,,
+3,3,1227,488,51556,361,2,,Ull,"Don't act like you don't know me!
+It's me, Ull of the Aesir.",イヤだなぁ… からかうなよアース神族のウルだよ,,
+3,4,1227,497,51908,361,3,,Ull,"Hrist asked me to help out. She told me
+to let no one near Dipan.",アーリィの手伝いを頼まれちゃってさ…誰一人 ディパンに近づけるなってね,,
+3,5,1227,498,52896,361,4,,Ull,"It's good to see you, Silmeria.",シルメリア 会えて嬉しいよ,,
+3,6,1227,500,54208,361,6,,Alicia,( Wait... Let me talk to him. ),（ 待って… 私に話させて ）,,
+3,7,1227,499,55368,361,5,,Ull,"Did you change your hairstyle?
+It looks great on you.",〓〓 変えたのかい？なかなか素敵じゃないか,,
+3,8,1227,489,56240,361,7,,Alicia,"Please, step aside.",道を空けてください,,
+3,9,1227,490,56888,361,8,,Ull,"Forget about that! I'll return you to
+Valhalla.",いいから 〓がヴァルハラまで送ってくよ,,
+3,10,1227,491,57008,361,9,,Alicia,Step aside.,空けてください,,
+3,11,1227,496,57200,361,11,,Ull,"I'd be dead meat if Odin found out. Besides,
+Dipan is as good as gone by now.",〓り道してちゃオーディン様に〓られるよディパンはもう滅んだも同然なんだし,,
+3,12,1227,492,57532,361,12,,Alicia,"That may be so. But I am a member of the
+royal family, and it is my duty to watch
+over Dipan until the very end.",たとえそうでも 私には王族の一〓としてディパンの最期を見届ける責務があります,,
+3,13,1227,506,58780,361,13,,Ull,You're not Silmeria?,シルメリア… じゃない？,,
+3,14,1227,501,58924,361,14,,Ull,Are you that human girl?,…ひょっとして人間のほう？,,
+3,15,1227,493,59896,361,15,,Alicia,I am.,そうです,,
+3,16,1227,503,61940,361,16,,Ull,"Butt out, human! I've nothing to say to you.
+Bring me Silmeria!",出しゃばるな 人間！お前に用はない シルメリアを出せ！,,
+3,17,1227,504,65676,361,17,,Ull,You wanna fight me?,…やる気か？,,
+3,18,1227,505,67880,361,18,,Ull,"Don't you realize that Hrist was just trying
+to save you unnecessary suffering?",余計な悲しみを背負わせまいってアーリィの気〓いがわからないのか…,,
+3,19,1227,495,68868,361,10,,Ull,You know I can't do that.,ダメだってば…,,
+4,1,1227,2366,81092,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1227,2367,81228,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1227,2368,81364,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1227,17,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1227,18,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1227,19,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1227,20,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1227,21,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1227,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1227,2752,,,,,,Dylan,ディラン,,not displayed by the event script
+5,8,1227,2753,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,9,1227,2754,,,,,,Silmeria,シルメリア,,not displayed by the event script
+5,10,1227,2755,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,11,1227,2765,,,,,,Ull,ウル,,not displayed by the event script

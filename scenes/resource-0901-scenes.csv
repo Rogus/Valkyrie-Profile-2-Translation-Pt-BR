@@ -1,0 +1,11 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,901,6,488,,,,Rufus,"The ring must be inside Yggdrasil's trunk.
+Let's look for it again later.",指輪は〓〓グドラシルの〓の中にあるはずだ。後でまた探そう。,,
+2,1,901,1,,,,,,Exit,出口,,not displayed by the event script
+2,2,901,2,,,,,,Yggdrasil,ユグドラシル,,not displayed by the event script
+2,3,901,3,,,,,,"Leave Yggdrasil?
+Sealstones return to original places.",ユグドラシルから出ます〓封印石の〓置は〓期化されます〓,,not displayed by the event script
+2,4,901,4,,,,,,Yes,はい,,not displayed by the event script
+2,5,901,5,,,,,,No,いいえ,,not displayed by the event script
+2,6,901,8,,,,,,Yggdrasil,ユグドラシル,,not displayed by the event script
+2,7,901,14,,,,,,Rufus,ルーファス,,not displayed by the event script

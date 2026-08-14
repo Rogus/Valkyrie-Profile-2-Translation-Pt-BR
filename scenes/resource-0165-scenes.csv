@@ -1,0 +1,9 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,165,2,1276,,,,,"Number of Attacks in Battle <PART> The number of attacks depends upon
+the weapon equipped. <PART> Equip weapons with multiple attacks, and
+characters can unleash more techniques. <PART> --- <PART> Number of Attacks in Battle <PART> Also, press <PART> G to change equipment
+or use items from the menu.",戦〓時の〓〓〓〓について <PART> 〓〓する〓器によって〓〓となる〓〓の〓〓が〓化します。 <PART> 〓〓〓〓の多い〓器を〓〓する事で、より多くの技を〓り出す事が〓〓になります。 <PART> 戦〓時の〓〓〓〓について <PART> また、 <PART> を〓す事により、メニューから〓〓〓〓やアイテムを〓用する事ができます。,,
+2,1,165,1,,,,,,,,,not displayed by the event script
+2,2,165,3,,,,,,HNumber of Attacks,〓〓〓〓について,,not displayed by the event script
+2,3,165,1841,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
+2,4,165,2745,,,,,,,シャムシール <PART> を手に入れた,,not displayed by the event script

@@ -1,0 +1,72 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,37,6,5688,,,,Matron,"A while ago, I heard about fighting
+over by Crell Monferaigne. <PART> ---
+Dipan take their eyes off of them, and the
+invaders waste no time in striking. <PART> ---
+Well, as long as Dipan aren't policing the
+world, no country can be unprepared.",この間 クレルモンフェランの方でちょっとした戦があったそうだよ <PART> ディパンが目を離すとすぐこれだアイツらは他国〓〓の機会を〓っているのさ <PART> まあ ディパンが〓えている限りどんな国も無体はできないけどねェ,,
+1,2,37,7,5780,,,,Matron,"Midgard is safe as long as Dipan exists.
+Even the gods must respect their power.",ディパンが存在してさえいれば ミッドガルドは安〓だよ きっと神様だって遠〓するさ,,
+1,3,37,8,7392,,,,Matron,"Are the gods really going to attack?
+This is getting way out of hand.",神の襲撃というのは本当なのかい？おお 何て事だろう…,,
+1,4,37,9,8844,,,,Matron,"They all scattered and fled, just like
+baby spiders from a broken nest. <PART> ---
+My son and his wife said to leave Solde,
+but where can I go at my age? <PART> ---
+I'm too weary to start over elsewhere,
+so I'll see this burg until its very end.",みんな〓〓の子を〓らすようにあっという間に出て行っちまったよ… <PART> 息子夫〓にも ソルデには見切りを付けろって言われたけどね アタシはもうこの年だ <PART> 今からどこかへ〓る気力なんか無いからね最後までソルデを見届けるよ…,,
+1,5,37,10,8936,,,,Matron,"It used to be so loud you couldn't sleep,
+but now this place is like a ghost town.",うるさいくらい〓やかだった街なのにねェもう〓場の声も何も聞こえてきやしない…,,
+1,6,37,29,9300,,,,,Looks hungry...,〓が欲しいみたい…,,
+1,7,37,13,9612,,,,,Eat up!,たくさん食べてね,,
+1,8,37,30,10072,,,,,"I'm sorry...
+I don't have any food for you.",ごめんなさい…今 あげられる物は何も無いの,,
+1,9,37,15,10216,,,,,"Umm...
+Right... Thank you.",ええと…あ…ありがとう…,,
+1,10,37,17,10284,,,,,"Umm...
+Right... Thank you.",ええと…あ…ありがとう…,,
+1,11,37,19,10352,,,,,"Umm...
+Right... Thank you.",ええと…あ…ありがとう…,,
+1,12,37,21,10420,,,,,"Umm...
+Right... Thank you.",ええと…あ…ありがとう…,,
+1,13,37,32,10632,,,,Cat,"Meowwwtstanding!
+Mew can speak cat? <PART> ---
+That's a mew one! I've never met
+anyone like mew in purrson! <PART> ---
+It's so lonely with all the
+people leaving. <PART> ---
+Food is so hard to find!
+Mew don't have any, do mew?",にゃふん！にゃんと 〓は猫の言葉がわかるのかニャ！？ <PART> 驚きだニャー… びっくりだニャーこんな人間はじめてだニャー <PART> 最近は この街からも人が減って寂しいニャ本当は人にぐりぐりされるのが好きなのニャ <PART> 〓も取り難くなったのニャ〓 何か持ってないかニャ？,,
+1,14,37,33,10708,,,,Cat,"Mew can speak cat!
+Fish! Fish! I want fish! <PART> ---",あ！ 猫の言葉が分かる人ニャ！ご〓食べたいニャ～ お〓欲しいニャ～,,
+1,15,37,43,11024,,,,Cat,Mew are a coldhearted purrson!,血も〓も無い人間だニャ～,,
+1,16,37,38,11068,,,,,Here you go!,はい どうぞ,,
+1,17,37,40,11160,,,,Cat,This is purrfect! Thank mew!,ありがとニャ！ おいしいニャ～,,
+1,18,37,41,11280,,,,,"I'm sorry...
+I don't have any food for you.",ごめんなさい…今 あげられる物は何も無いの,,
+1,19,37,42,11348,,,,Cat,"Mew!
+Help meowwwt!",ニャ～…お腹へったニャ～……,,
+2,1,37,1,,,,,,,,,not displayed by the event script
+2,2,37,2,,,,,,Chapel,教〓,,not displayed by the event script
+2,3,37,3,,,,,,House,民家,,not displayed by the event script
+2,4,37,4,,,,,,House,民家,,not displayed by the event script
+2,5,37,5,,,,,,_ <PART> Solde <PART> Chapel Square,港町ゾルデ <PART> 教会前広場,,not displayed by the event script
+2,6,37,11,,,,,,Acquired <PART> Seafood,海〓〓 <PART> を手に入れた,,not displayed by the event script
+2,7,37,12,,,,,,Acquired <PART> Seafood,海〓〓 <PART> を手に入れた,,not displayed by the event script
+2,8,37,14,,,,,,Acquired <PART> Hunted Mouse,〓られたネズミ <PART> を手に入れた,,not displayed by the event script
+2,9,37,16,,,,,,Acquired <PART> Tailless Lizard,〓〓の〓れたトカゲ <PART> を手に入れた,,not displayed by the event script
+2,10,37,18,,,,,,Acquired <PART> Misfortunate Bird,不〓な〓い〓 <PART> を手に入れた,,not displayed by the event script
+2,11,37,20,,,,,,Acquired <PART> Cat Poop,〓〓のふ〓 <PART> を手に入れた,,not displayed by the event script
+2,12,37,22,,,,,,Feed it seafood?,海〓〓をあ〓る,,not displayed by the event script
+2,13,37,23,,,,,,Sure.,あ〓る,,not displayed by the event script
+2,14,37,24,,,,,,Nope.,あ〓ない,,not displayed by the event script
+2,15,37,34,,,,,,Feed it seafood?,海〓〓をあ〓る,,not displayed by the event script
+2,16,37,35,,,,,,Sure.,あ〓る,,not displayed by the event script
+2,17,37,36,,,,,,Nope.,あ〓ない,,not displayed by the event script
+2,18,37,37,,,,,,Acquired <PART> Seafood,海〓〓 <PART> を手に入れた,,not displayed by the event script
+2,19,37,39,,,,,,Acquired <PART> Seafood,海〓〓 <PART> を手に入れた,,not displayed by the event script
+2,20,37,44,,,,,,Acquired <PART> Solomon's Ring,ソロモンの指〓 <PART> を手に入れた,,not displayed by the event script
+2,21,37,45,,,,,,Acquired <PART> Solomon's Ring,ソロモンの指〓 <PART> を手に入れた,,not displayed by the event script
+2,22,37,384,,,,,,Solde,港町ゾルデ,,not displayed by the event script
+2,23,37,2792,,,,,,Matron,〓女,,not displayed by the event script
+2,24,37,2793,,,,,,Cat,〓,,not displayed by the event script

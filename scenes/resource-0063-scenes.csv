@@ -1,0 +1,67 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,63,6,1176,,,,Owner,"You're travelers, right?
+Welcome to Dipan. <PART> ---
+You must be exhausted from your journey.
+A night's stay would do you well!",旅の方ですね？ディパンへようこそお出で下さいました <PART> 長旅でお疲れでしょう？お〓りになれば 全ての不調が回復されますよ,,
+1,2,63,8,1380,,,,,"That painting depicts the Forest of
+Spirits, home of the elves. <PART> ---
+Within the perplexing mists of the forest
+lie Yggdrasil and the gates to the heavens.",ああ その〓は… エルフが住むと言われる精霊の森を〓いたものです <PART> 森を〓う迷いの〓の奥には 大樹〓グドラシルの根と共に 神界に通じる〓があるとか… <PART> 神の器とも〓される彼女達は 愚かな人の手からその〓を守っているとも言われていますね,,
+1,3,63,34,1700,,,,Owner,"Will you be staying?
+We have a room with a view available.",〓まりかしら？〓めのいい部屋が空いてますよ,,
+1,4,63,35,1792,,,,Owner,Welcome. Would you like a room?,いらっしゃいませ お〓りですか？,,
+1,5,63,36,1884,,,,Owner,"Oh my, guests looking for a room?",おっと 〓まりのお〓かな？,,
+1,6,63,37,1976,,,,Owner,"Yer travelers, right? Ya gonna stay?",旅人さんだね 〓まっていくかい？,,
+1,7,63,38,2068,,,,Owner,"Greetings and Salutations. You look like
+you're looking for a room. Am I right?",いらっしゃーいええと 〓まり…よね？,,
+1,8,63,39,2160,,,,Owner,"It is an honor to receive your visit.
+Shall I book your room?",ようこそお出で下さいましたお〓りでしょうか？,,
+1,9,63,40,2256,,,,Owner,"That's a shame.
+Come back if you change your mind.",そうですか…またの機会をお待ちしてますね,,
+1,10,63,41,2356,,,,Owner,"Please visit us again,
+when you have the chance.",機会がありましたら〓非当〓をご利用下さい,,
+1,11,63,42,2456,,,,Owner,It figures. And I got all worked up.,なんじゃ 久しぶりの〓かと思ったのにのう…,,
+1,12,63,43,2556,,,,Owner,"Be on yer way then, no loiterin'.",おや 〓やかしは御免だよ,,
+1,13,63,44,2656,,,,Owner,"Well, it's your loss.
+You're missing out on great service.",何だ 残念～ウチはサービスいいのに,,
+1,14,63,45,2756,,,,Owner,"If ever the opportunity should arise,
+please pay us your custom again.",ご縁がありましたらまたいらして下さいね,,
+1,15,63,46,2860,,,,Owner,"Let the lullaby of the waves
+be your invitation to slumber.",波の〓は〓りを誘う子守〓ごゆっくりお〓み下さい,,
+1,16,63,47,2960,,,,Owner,Please enjoy your stay.,それでは どうぞごゆっくりとお〓み下さい,,
+1,17,63,48,3060,,,,Owner,"So you're really staying?
+Take a load off!",おお そうか〓まるかゆっくり〓んどくれよ,,
+1,18,63,49,3160,,,,Owner,"I just cleaned the sheets.
+Yer gonna sleep like a baby!",シーツは洗い立てだからね気持ちよく〓れるよ！,,
+1,19,63,50,3260,,,,Owner,"Balanced breakfast on the house!
+Sleep tight.",ご〓大〓りサービスするわねごゆっくり～,,
+1,20,63,51,3360,,,,Owner,"You must be exhausted.
+Please make yourself comfortable.",お疲れでしょう？ゆっくりしていって下さいね,,
+1,21,63,52,3776,,,,Owner,"Visit again soon!
+May the blessings of the sea be with you.",いってらっしゃいませ海の女神の加護があらんことを,,
+1,22,63,53,3876,,,,Owner,"Thank you for your patronage.
+Please take care.",ご利用ありがとうございましたお気をつけて,,
+1,23,63,54,3976,,,,Owner,Come by any time you're in the area.,近くに来たら また〓っておくれよ,,
+1,24,63,55,4076,,,,Owner,"Ya got a good night's rest, didn't ya?
+Watch yer back out there!",ぐっすり〓れたろ？気をつけていっておいで！,,
+1,25,63,56,4176,,,,Owner,"Hehe, did you sleep okay? Come again soon!",ふふ ゆっくり出来た？ また来てね～,,
+1,26,63,57,4276,,,,Owner,"I trust you rested well.
+We look forward to serving you again soon.",疲れは取れましたか？お気をつけていってらっしゃいませ,,
+1,27,63,58,4380,,,,Owner,"Uh-oh, you don't have enough money.",あら 宿〓〓がちょっと足りないみたい…,,
+1,28,63,59,4480,,,,Owner,"I'm afraid it would be impossible to allow
+you to stay without paying the proper fee.",宿〓〓をお支払いになれませんとお〓めする事が難しいのですが…,,
+1,29,63,60,4580,,,,Owner,"Oh, this won't do. You can't afford it.",なんじゃ 金が無きゃ〓められんぞ,,
+1,30,63,61,4680,,,,Owner,"This ain't enough! Whaddaya tryna pull?
+This is a business, ya know!",お金貫わなきゃ〓められないよウチも〓売だからね,,
+1,31,63,62,4780,,,,Owner,"Hmm... Looks like you're a little short.
+Come back when you have the money!",う～ん…ちょっとお金足りないわね…〓いだらまた来てね～,,
+1,32,63,63,4880,,,,Owner,"I'm afraid we require full payment
+in advance in order to allocate rooms.",お〓様 代金が若干足りないようですので今回はちょっと…,,
+2,1,63,1,,,,,,Head outside,外へ,,not displayed by the event script
+2,2,63,5,,,,,,HTalk,〓す,,not displayed by the event script
+2,3,63,7,,,,,,HCheck,調べる,,not displayed by the event script
+2,4,63,31,,,,,,Room charge <PART> OTH,〓〓 <PART> 0TH,,not displayed by the event script
+2,5,63,32,,,,,,Yes,はい,,not displayed by the event script
+2,6,63,33,,,,,,No,いいえ,,not displayed by the event script
+2,7,63,64,,,,,,Dipan,ディパン城下町,,not displayed by the event script
+2,8,63,65,,,,,,Owner,〓〓〓人,,not displayed by the event script

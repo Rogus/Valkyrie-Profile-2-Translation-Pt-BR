@@ -1,0 +1,17 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1359,2185,4468,,,,Dog Hrist,"You know, you're pretty tough for your size.",〓〓な体でよく頑張るわね,,
+1,2,1359,2186,4612,,,,Dog Alicia,"Well, I've got Rufus wrapped around my
+finger, so it's not that hard.",ルーファスを上手い事利用していますから全然大した事ありません,,
+1,3,1359,2187,5228,,,,Dog Alicia,"Act a bit girly, and a guy like that
+is putty in your hands.",ちょっとモシモシしてみせればあのテのオトコはイチコロですから,,
+1,4,1359,2188,5348,,,,Dog Alicia,"I may appear delicate, but when I take
+my clothes off...",それに私 〓〓にみえても脱いだら意外と,,
+1,5,1359,2189,6604,,,,Dog Alicia,I am PLUMP!,むっちん求デ,,
+1,6,1359,2190,6980,,,,Alicia,Er... What is this place...?,ここは…どこなのかしら…,,
+1,7,1359,2192,7100,,,,Alicia,...,………,,
+1,8,1359,2191,7268,,,,Rufus,"Hey, what the heck is that!?",……なんだあれは！？,,
+2,1,1359,2193,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+2,2,1359,2741,,,,,,Dog Hrist,〓アーリィ,,not displayed by the event script
+2,3,1359,2742,,,,,,Dog Alicia,〓アリーシャ,,not displayed by the event script
+2,4,1359,2743,,,,,,Alicia,アリーシャ,,not displayed by the event script
+2,5,1359,2744,,,,,,Rufus,ルーファス,,not displayed by the event script

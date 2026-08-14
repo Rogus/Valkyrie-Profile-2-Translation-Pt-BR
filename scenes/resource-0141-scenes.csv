@@ -1,0 +1,21 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,141,2,988,,,,Dipan Soldier,"The gods' emissaries ravaged the castle.
+The town is soon to follow...",城は 神の御使いによって〓〓されてしまった都ももうすぐ…,,
+1,2,141,3,1068,,,,Dipan Soldier,"The royal underground path should be open.
+All citizens, evacuate to Solde at once! <PART> ---
+This town has incurred the gods' wrath.
+There is no time to spare.",王家の地下道が開放されているはずだ一般人は 早くソルデへ渡りなさい <PART> 神の怒りに〓れたこの国は時を置かず無くなるだろうから…,,
+1,3,141,4,1404,,,,Dipan Soldier,"There is nothing for you here in Dipan now.
+Our troops follow their king to the grave. <PART> ---
+The king's orders were to save the people,
+but each is free to die for his king.",今更 ディパンへ来ても何もありませぬ居るのは 王の後を追った兵士ばかり… <PART> 王の『民だけは無事に』との命〓は聞きますが後を追うのは我らの自由にございます,,
+1,4,141,5,1484,,,,Dipan Soldier,It's so strangely quiet...,妙に… 静かになりましたな…,,
+1,5,141,6,1564,,,,Dipan Soldier,"What's going on inside?
+Curses! If these legs could move...",中は…どうなっているんだ…くそっ！ この足が立てば…！,,
+1,6,141,7,1644,,,,Dipan Soldier,"With Queen Malabeth gone as well,
+the end has come for Dipan...",マルベス王妃まで亡くなったとは…ディパンはもう…終わりだ…,,
+1,7,141,8,1724,,,,Dipan Soldier,"...What did we do...to deserve this?
+Damn them... Damn the gods!",…なんで…なんでこんな事に…くそっ… 〓生っ…！,,
+2,1,141,1,,,,,,_ <PART> Dipan <PART> Postern Gate,ディパン城下町 <PART> 城裏口,,not displayed by the event script
+2,2,141,1601,,,,,,Dipan,ディパン城下町,,not displayed by the event script
+2,3,141,2741,,,,,,Dipan Soldier,ディパン兵士,,not displayed by the event script

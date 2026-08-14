@@ -1,0 +1,24 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1165,2768,6836,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+1,2,1165,2769,7324,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+1,3,1165,2770,7856,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+1,4,1165,2771,8344,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+1,5,1165,2772,9120,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+1,6,1165,2773,9844,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+1,7,1165,2774,10232,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+1,8,1165,2775,10560,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+1,9,1165,2776,10948,,,,,,アーリィ <PART> が仲間に加わりました,,
+2,1,1165,2382,16472,,,,,ERRORv,ERR0R！！（v190）,,
+2,2,1165,2383,16608,,,,,ERRORv,ERR0R！！（v191）,,
+2,3,1165,2384,16744,,,,,ERRORv,ERR0R！！（v191）,,
+3,1,1165,1,,,,,,Exit,出口,,not displayed by the event script
+3,2,1165,2,,,,,,Leave Kythena Plains?,キセナ草原から出ます,,not displayed by the event script
+3,3,1165,3,,,,,,Yes,はい,,not displayed by the event script
+3,4,1165,4,,,,,,No,いいえ,,not displayed by the event script
+3,5,1165,9,,,,,,Kythena Plains,キセナ草原,,not displayed by the event script
+3,6,1165,19,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+3,7,1165,20,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+3,8,1165,21,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+3,9,1165,22,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+3,10,1165,23,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+3,11,1165,2388,,,,,,Kythena Plains,キセナ草原,,not displayed by the event script

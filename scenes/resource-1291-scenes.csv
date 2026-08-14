@@ -1,0 +1,74 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1291,23,4468,461,0,,Roussalier,You should be safe here for a while.,しばらくは大丈夫でしょう <PART> 一一,,
+1,2,1291,20,5848,461,1,,Roussalier,"But you can't stay forever. Once you've
+rested up, you should leave the forest.",でも ずっとここにいるわけにはいかないわ少し〓んだら 森を出なさい,,
+1,3,1291,21,6816,461,2,,Rufus,"Lady, do you even know who I am?",あんた… 俺が誰だか知ってんのか？,,
+1,4,1291,1,7948,461,3,,Roussalier,"You're the half elf, aren't you?
+The one Heimdall is searching for?",ハーフエルフでしょ？ヘイムダルが血眼になって追っている <PART> 一一,,
+1,5,1291,2,9896,461,4,,Rufus,"If you know, then why help us?",…なんで知ってて〓う？,,
+1,6,1291,36,10572,461,5,,Roussalier,I suppose I felt sorry for you.,なんだか 気の毒だから…,,
+1,7,1291,29,11120,461,6,,Alicia,"Rufus, after what she's done for us, be
+polite.",助けていただいたのに 責めなくたって…,,
+1,8,1291,3,12372,461,7,,Rufus,I could.,どうだか…,,
+1,9,1291,4,12620,461,8,,Rufus,"But double-crossers have a way of
+hiding behind politeness.",〓介者を体よく追い出そうってだけかもしれないぜ…,,
+1,10,1291,5,13076,461,9,,Alicia,Stop that!,そんなこと！,,
+1,11,1291,6,13544,461,10,,Rufus,What gives some elf the right to pity me?,…エルフが俺なんかに 同情するもんかッ！,,
+1,12,1291,7,16384,461,11,,Alicia,"Please, don't let him upset you.",お気を悪くなさらないでください…,,
+1,13,1291,8,16708,461,12,,Roussalier,Thank you.,…ありがとう,,
+1,14,1291,9,18124,461,13,,Roussalier,And you are?,…あなたは？,,
+1,15,1291,10,19056,461,14,,Alicia,"I am Alicia, Princess of Dipan.",ディパン公国のアリーシャと申します,,
+1,16,1291,11,19548,461,15,,Roussalier,"A human, then?",人間ね？,,
+1,17,1291,24,20056,461,16,,Roussalier,"Please, I only want to know what brought
+you two here. That's all.",〓解しないで 私はあなた達がここへ何をしに来たのか知りたいだけ…,,
+1,18,1291,25,21288,461,17,,Alicia,"We're going through the gates of Bifrost
+to reach Yggdrasil,",ビフレストの〓を通って〓グドラシルを目指しています,,
+1,19,1291,30,21460,461,18,,Alicia,and then on to Valhalla.,そして ヴァルハラへ <PART> 一一,,
+1,20,1291,31,21632,461,19,,Rufus,"Hey, Alicia!",おい アリーシャ！,,
+1,21,1291,12,22036,461,20,,Roussalier,But that's impossible for a human.,でも それは人間には無理ね,,
+1,22,1291,13,22860,461,21,,Roussalier,"Unless that human is chosen as an einherjar.
+Or becomes one of the undead.",エインフェリアに選定されるかもしくは 不死者にでもならない限り <PART> 一一,,
+1,23,1291,33,23504,461,22,,Rufus,Undead...,不死者…,,
+1,24,1291,14,24344,461,23,,Alicia,"If I were undead, would I be able to pass
+through the gates of Bifrost?",不死者になればビフレストの〓を通る事ができるんですか？,,
+1,25,1291,15,25620,461,24,,Roussalier,"If you were willing to give up your own
+body... Then, yes.",物〓としての肉体を捨てられれば <PART> 一一 <PART> という意味よ,,
+1,26,1291,26,26332,461,25,,Roussalier,"But passing through won't matter if you
+end up a demon to the core.",それで心まで魔物になってしまっては元も子もないわ,,
+1,27,1291,27,28752,461,26,,Rufus,"If you take ghoul powder and we stop the
+decay just before it reaches your spirit,
+it might work.",グールパウダーを〓んで 精神に作用する直前に〓食を止めればいいんだ…,,
+1,28,1291,16,29996,461,27,,Rufus,"You can wear my ring. Time freezes for
+anyone who wears it.",この指輪をつければ宿主の時間が止まる,,
+1,29,1291,17,30832,461,28,,Rufus,It stops growth as well as decay.,成長も 〓食も止められる…,,
+1,30,1291,34,31040,461,29,,Alicia,"But Rufus, if you take that ring off...",でも指輪を外したら ルーファスが <PART> 一一,,
+1,31,1291,18,31484,461,30,,Rufus,"My soul will only fade away if I'm on
+Midgard. I won't need the ring once we
+pass the gates of Bifrost.",魂が消えるのはミッドガルドでの話だビフレストの〓を〓えれば必要なくなる,,
+2,1,1291,35,33944,461,31,,Alicia,"The mages used ghoul powder. Some of it
+might still be in the laboratory in Dipan.",ダレス達が〓んだグールパウダーの残りがディパン城の研究所にあるかもしれない…,,
+2,2,1291,32,35264,461,32,,Rufus,"Alicia, what do you say?",アリーシャ …どうする？,,
+2,3,1291,22,36584,461,33,,Roussalier,Are the two of you serious?,…あなた達 本気なの！？,,
+2,4,1291,28,37112,461,34,,Rufus,Yeah.,ああ…,,
+2,5,1291,19,37900,461,35,,Rufus,We're going to Dipan.,ディパンへ行こう,,
+3,1,1291,2755,60780,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+3,2,1291,2756,61268,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+3,3,1291,2757,61800,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+3,4,1291,2758,62288,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+3,5,1291,2759,63064,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+3,6,1291,2760,63788,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+3,7,1291,2761,64176,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+3,8,1291,2762,64504,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+3,9,1291,2763,64892,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+4,1,1291,2366,70936,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1291,2367,71072,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1291,2368,71208,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1291,39,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1291,40,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1291,41,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1291,42,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1291,43,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1291,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1291,2752,,,,,,Roussalier,ルザリエ,,not displayed by the event script
+5,8,1291,2753,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,9,1291,2754,,,,,,Alicia,アリーシャ,,not displayed by the event script

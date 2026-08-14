@@ -1,0 +1,109 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1335,1,3020,290,0,,Rufus,"You're not gonna say something crazy
+like ""Let's go to Crell Monferaigne
+right away,"" are you?",まさか今すぐクレルモンフェランへ行こうなんて言わないよな？,,
+1,2,1335,47,4008,290,1,,Arngrim,Well...,…ああ,,
+1,3,1335,48,4192,290,2,,Dylan,We will rest until daybreak.,〓が明けるまで〓もう,,
+2,1,1335,3,6144,290,3,,Leone,Silmeria!,シルメリア！,,
+2,2,1335,19,9468,290,4,,Silmeria,How did you know it was me?,…なぜ私だと？,,
+2,3,1335,49,10768,290,5,,Leone,I can tell by your eyes.,…眼でわかったわ,,
+2,4,1335,5,11704,290,6,,Leone,"You switched a while ago, didn't you?",かなり前から入れ〓わってたんじゃない？,,
+2,5,1335,6,13336,290,7,,Silmeria,How observant of you.,…なかなかの〓〓眼ね,,
+2,6,1335,7,14568,290,8,,Silmeria,"Alicia's not accustomed to long
+journeys. She's exhausted.",アリーシャは〓れぬ長旅に疲れ切ってかなり深く〓っているわ,,
+2,7,1335,8,14876,290,9,,Lezard,You seem quite fatigued as well.,あなたも… かなりお疲れのご様子,,
+2,8,1335,20,15760,290,10,,Silmeria,"That's because this flesh is Alicia's.
+It's not my body.",これはアリーシャの肉体であって私の肉体ではないから <PART> 一一,,
+2,9,1335,10,16760,290,11,,Silmeria,"It's an effort for me to remain on the
+surface.",こうして長く〓〓に止まるのも楽ではないの…,,
+2,10,1335,11,17868,290,12,,Leone,You should rest.,少し〓むといいわ…,,
+2,11,1335,12,19360,290,13,,Silmeria,Forgive me.,…すまない,,
+2,12,1335,13,20304,290,14,,Silmeria,I've been a burden on all of you.,…皆には迷惑のかけどおしね,,
+2,13,1335,14,20996,290,15,,Rufus,"Hey, you getting all timid on us now?",…なんだか今日は弱気だな,,
+2,14,1335,15,21760,290,16,,Silmeria,"I'm not as strong as you all think.
+Mine is an incomplete existence...",私はあなた達が思うほど強くない不完全な存在なのだから…,,
+2,15,1335,16,23768,290,17,,Leone,"Well, nobody's perfect, right?",この地上に完全なものなどないでしょ,,
+2,16,1335,18,24392,290,18,,Silmeria,...,！,,
+2,17,1335,17,32008,290,19,,Silmeria,"Thank you, I feel better now.",ありがとう 楽になった…,,
+2,18,1335,21,54488,290,20,,Silmeria,This must be what sisterly love feels like.,姉のような〓れみとはこういうものなのだろうか…,,
+2,19,1335,23,56628,290,21,,Leone,...,…さあ,,
+2,20,1335,25,57028,290,22,,Leone,I wouldn't know. I've always been alone.,私はずっと一人だったから…,,
+2,21,1335,26,59900,290,23,,Alicia,Where are we?,…ここは！？,,
+2,22,1335,27,60660,290,24,,Leone,"Oh, you're back.",…また入れ〓わったの！？,,
+2,23,1335,28,60860,290,25,,Alicia,Sorry.,…すみません,,
+2,24,1335,29,61080,290,26,,Alicia,I was asleep a really long time.,〓分 長く〓っていました…,,
+2,25,1335,31,61680,290,27,,Leone,Silmeria passed out from the fatigue.,シルメリアは疲れて〓てしまったわよ,,
+2,26,1335,33,62980,290,28,,Leone,"Why don't you try resting for a while?
+Dawn is not far off.",あなたももう一〓りしたら？〓明けまでそれほど長くないわ,,
+2,27,1335,34,63652,290,29,,Alicia,You're very kind.,…ありがとうございます,,
+2,28,1335,35,66664,290,30,,Alicia,Umm...,…あの,,
+2,29,1335,36,66784,290,31,,Leone,What is it?,なぁに？,,
+2,30,1335,37,66904,290,32,,Alicia,The treasure that you're seeking...,あなたが探してる物って…,,
+2,31,1335,39,69164,290,33,,Leone,Silmeria!?,…シルメリア！？,,
+2,32,1335,40,70352,290,34,,Alicia,"N-no, it's me. I trust you, but <PART> ----",ち 違うんです！ 私は信じてます,,
+2,33,1335,42,71216,290,35,,Alicia,Well...,でも <PART> 一一,,
+2,34,1335,43,71348,290,36,,Alicia,"If there isn't any treasure around the
+orb, what will you and Arngrim do?",もしオーブのまわりに宝物がなければあなたとアリューゼは…,,
+2,35,1335,44,72660,290,37,,Leone,"You're worried that we'll demand the orb
+as compensation?",代わりにオーブをよこせと言い出さないか心配なの？,,
+2,36,1335,45,74088,290,38,,Leone,We won't cause you any trouble.,…あなたを困らせる事はしない,,
+2,37,1335,46,76912,290,39,,Alicia,That's good.,…よかった,,
+3,1,1335,2759,100020,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+3,2,1335,2760,100508,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+3,3,1335,2761,101040,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+3,4,1335,2762,101528,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+3,5,1335,2763,102304,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+3,6,1335,2764,103028,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+3,7,1335,2765,103416,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+3,8,1335,2766,103744,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+3,9,1335,2767,104132,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+4,1,1335,2340,109764,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1335,2341,109900,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1335,2342,110036,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1335,2737,117104,300,0,,Arngrim,"What's all this about Dipan taking on
+the gods?",…なんだってディパンは神と敵対しようってんだ？,,
+6,1,1335,2714,119012,300,1,,Dylan,"Dipan's grudge against the gods isn't
+something that just arose overnight.",ディパンの神々への〓念は 〓日今日に始まった事じゃない…,,
+6,2,1335,2739,119900,300,2,,Dylan,"It is said a valkyrie once forced a wise king
+to become an einherjar and took him away.",かつてヴァルキリーがディパンの〓王を無理〓理エインフェリアとして連れ去り,,
+6,3,1335,2734,120020,300,3,,Dylan,"It brought great sorrow to the royal
+family and the people as well.",王家のみならず領民にも深い悲しみをもたらしたという <PART> 一一,,
+6,4,1335,2716,120876,300,4,,Alicia,How do you know about that?,…よくご存じですね,,
+6,5,1335,2717,121752,300,5,,Rufus,"Let me guess. ""Common knowledge for
+loyal subjects""?",それも〓臣として当然の教〓なのか？,,
+6,6,1335,2735,122332,300,6,,Dylan,"Basically, yes.",…そういう事だ,,
+6,7,1335,2719,122452,300,7,,Arngrim,When did all this take place?,いつ頃の話なんだ？,,
+6,8,1335,2720,122608,300,8,,Dylan,About two hundred years ago.,〓〓〓年ほど前か…,,
+6,9,1335,2721,122996,300,9,,Arngrim,"Huh. The royal family sure does hold
+a grudge.",ディパンの王族ってのはよっぱど〓念深いんだな,,
+6,10,1335,2722,123464,300,10,,Dylan,It's not that.,それは違う,,
+6,11,1335,2723,123668,300,11,,Dylan,"Odin has terrorized humans throughout
+time. He never lets us forget who rules us.",記憶が風化する前に オーディンは度々人間への横暴を繰り返している <PART> 一一,,
+6,12,1335,2724,124360,300,12,,Dylan,"The gods have earned the hatred of the people
+by heaping wrong upon wrong upon them.",そういうのが〓もり〓もって神々〓しの〓念になっているんだろう,,
+6,13,1335,2738,124536,300,13,,Rufus,Huh. When did you live as a human?,…あんた一体 いつの人間だったんだ？,,
+6,14,1335,2725,125228,300,14,,Dylan,No more than a hundred years ago.,俺はたかだか〓〓〓年ほど前だ,,
+6,15,1335,2726,125528,300,15,,Arngrim,Did I miss something?,…何の話だ？,,
+6,16,1335,2727,125648,300,16,,Rufus,"Oh, yeah. Guess we haven't told you
+about that yet.",そっか あんたまだ知らなかったのか…,,
+6,17,1335,2728,126080,300,17,,Rufus,"Our friend Dylan here is an einherjar.
+He was chosen by Silmeria.",ディランはシルメリアが選定したエインフェリアなんだぜ,,
+6,18,1335,2736,126604,300,18,,Arngrim,You serious?,何だって！？,,
+6,19,1335,2730,127052,300,19,,Dylan,"Hey, stop that.",よさないか 気持ち悪い…,,
+6,20,1335,2731,127344,300,20,,Arngrim,"Oh, sorry <PART> ----",い いや…,,
+6,21,1335,2732,127632,300,21,,Arngrim,"It's just that I've never seen an
+einherjar before...",エインフェリアなんて初めて見るからさ…,,
+6,22,1335,2733,128308,300,22,,Dylan,"Really? It doesn't take much to impress you, does it?",これまで何日ずっと一緒にいたと思ってるんだ？,,
+7,1,1335,52,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+7,2,1335,53,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+7,3,1335,54,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+7,4,1335,55,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+7,5,1335,56,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+7,6,1335,2740,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+7,7,1335,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+7,8,1335,2753,,,,,,Arngrim,アリューゼ,,not displayed by the event script
+7,9,1335,2754,,,,,,Dylan,ディラン,,not displayed by the event script
+7,10,1335,2755,,,,,,Leone,レオーネ,,not displayed by the event script
+7,11,1335,2756,,,,,,Silmeria,シルメリア,,not displayed by the event script
+7,12,1335,2757,,,,,,Lezard,レザード,,not displayed by the event script
+7,13,1335,2758,,,,,,Alicia,アリーシャ,,not displayed by the event script

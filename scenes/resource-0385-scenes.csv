@@ -1,0 +1,9 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,385,3,400,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
+2,1,385,2,,,,,,,,,not displayed by the event script
+2,2,385,4,,,,,,Check.,調べる,,not displayed by the event script
+2,3,385,5,,,,,,Leave.,やめる,,not displayed by the event script
+2,4,385,11,,,,,,Palace of the Venerated Dragon,奉竜殿,,not displayed by the event script
+2,5,385,12,,,,,,Acquired <PART> Sun and Moon Stone,〓〓の石 <PART> を手に入れた,,not displayed by the event script
+2,6,385,13,,,,,,Acquired <PART> Golden Egg,金の〓 <PART> を手に入れた,,not displayed by the event script
+2,7,385,14,,,,,,Acquired <PART> Dragon Armor,ドラゴンアーマー <PART> を手に入れた,,not displayed by the event script

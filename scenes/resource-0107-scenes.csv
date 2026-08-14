@@ -1,0 +1,137 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,107,4,7548,,,,Townsperson,"The desert has ripped away at our grass,
+and the cow's milk has been sour recently. <PART> ---
+It's time I considered leaving Kalstad
+for greener pastures elsewhere.",最近砂〓がひどくてさ また〓草地〓が減ったよそのせいか家〓の〓の出も悪くなったし <PART> そろそろカルスタッドを出て別の街への〓住を考える時期かなあ,,
+1,2,107,5,7640,,,,Townsperson,"For generations my family has lived here,
+but no more. It was never this bad before.",先〓代々この街に住んできたけど もう限界だよ昔は砂も少なくて住みやすかったって聞くけど…,,
+1,3,107,6,7732,,,,Boy,"This town was once very affluent <PART> ---- <PART> we even
+managed to hold Crell Monferaigne at bay! <PART> ---
+But the seasonal winds changed, blowing
+the desert sands right on top of us. <PART> ---
+Now it's a matter of counting the days
+until the desert swallows us whole.",この街は 昔はもっともっと〓かだったんだってさそれこそクレルモンフェランを撃退するくらいにね <PART> けど 〓〓風の流れが変わったせいで砂漠地〓の砂が流れ込むようになって… <PART> 今じゃ いつ砂に〓まれるかを数える日々ってとこなんだ,,
+1,4,107,7,7824,,,,Boy,"There are tales of heroes who once protected
+this town from Crell Monferaigne's invasion. <PART> ---
+The swordstress Rasheeka, archer Arcana,
+and one other. <PART> ---
+The other's name wasn't passed down, so it
+must've been a pretty boring person...",この街にはさ クレルモンフェランの〓攻から街を守った〓雄がいたんだ <PART> 戦士ラシーカと弓闘士アルカナあと一人居たらしいけど… <PART> 名前は伝わってないんだよねよっぱど印〓が〓かったのかなあ,,
+1,5,107,8,7916,,,,Girl,"Dipan and Crell Monferaigne have
+giant castles, don't they? <PART> ---
+I bet they have princesses with beautiful
+dresses and not a care in the world...",ディパンとかクレルモンフェランって凄いお城があるんでしょう？ <PART> きっとドレスを着た素敵なお姫様が住んでるのね〓みなんか一つもないんだろうな…〓ましい,,
+1,6,107,9,8008,,,,Girl,"Dipan doesn't have a princess now, you know.
+Maybe they'll accept me as a replacement!",ディパンって 今お姫様いないんでしょ？だったら私を代わりにしてくれないかなぁ,,
+1,7,107,10,8092,,,,Boy,"Ma told me to graze the cattle, but the
+pasture's too far away. What a pain. <PART> ---
+Pa's useless. He's just sweeping sand.
+I'm the only one who works around here!",母ちゃんに放〓に行けって言われたんだけどさ〓草地〓は遠いから面倒なんだよね <PART> 父ちゃんは役にも立たない砂〓きばっかしてるし真面目に働いてんのオレだけだよ,,
+1,8,107,11,8168,,,,Boy,"You look like you're pretty well off,
+so how about sparing a guy some change?",なあ姉ちゃん あんた身なりが良いなこの哀れな少年に小〓いやる気はない？,,
+1,9,107,18,8476,,,,Boy,Why do you have to be so cheap?,ちぇっ ケチくせーな！,,
+1,10,107,15,8536,,,,,Handed over  OTH,10 0THを〓した,,
+1,11,107,16,8576,,,,Boy,"Sweet! Someday I'll pay you back for this.
+Oh, I know when! The end of the world! Haha...",へへ ありがとな 貫った分のお礼はいつかするぜそうだなあ… 世界の最後になった時…なんてな,,
+1,12,107,17,8692,,,,Boy,What's the deal? Are you poor or something?,なんだよ 金持ってねえじゃん…,,
+1,13,107,19,9660,,,,Boy,"An adventurer told me monsters had come
+out of the woods near Coriander. <PART> ---
+But to be honest with you, I don't
+have a clue where Coriander is...",コリアンドル村の近くで魔物が出たんだってね〓〓者の人が言ってたよ <PART> …って言っても コリアンドル村ってどこにあるか知らないけどね,,
+1,14,107,20,9752,,,,Boy,"Villnore once had a thieves guild. Is that
+what they call a ""necessary evil for growth""?",ヴィルノアって 昔は盗賊ぎルドがあったんだって街の発〓のための必要悪ってやつかな？,,
+1,15,107,21,9940,,,,Girl,"Crell Monferaigne's territory lies beyond
+the east desert. They're strict over there!",〓の砂漠を〓えればクレルモンフェラン領よあそこはお〓い国だから 気をつけてね,,
+1,16,107,22,10032,,,,Girl,"I'd like to visit Crell Monferaigne, but
+they don't allow people dressed like me!",クレルモンフェランに行ってはみたいけどこの身なりじゃ追い出されちゃうね…,,
+1,17,107,23,10228,,,,Boy,"My mother is a fortune teller, but
+she never says anything significant. <PART> ---
+You'll find her in a house on the east edge of
+town. Drop by sometime.",オレの母ちゃん 占い師なんだけどロクな事を言わないんだよね <PART> 街の〓端に家あるだろ？ そこに居るから興味あるなら行ってみれば？,,
+1,18,107,24,11792,,,,Townsperson,"Something heavy is in the air...unusual.
+I've got a bad feeling about this...",空気が重いね いつもと違う…何だか嫌な〓感がするよ…,,
+1,19,107,25,11884,,,,Townsperson,"...A shadow of misfortune looms over you.
+Whatever happens, stay alert!",…アンタに不〓な影が見えるんだ何が起こってもしっかりするんだよ,,
+1,20,107,27,12484,,,,Townsperson,"The northern sky seems slightly brighter.
+I've never seen anything like it...",〓の方の空が 妙に明るいんだよなこんな事今まで一度も無かったけど…,,
+1,21,107,26,12576,,,,Townsperson,"Something's spooking the livestock all of
+a sudden, but I don't know what...",急に家〓達が〓えだしたんだ何が〓因だかわからなくて…,,
+1,22,107,28,12772,,,,Boy,"Ma sensed something bad, and it upset her.
+I guess it's a fortune teller's hunch.",母ちゃんが 嫌な〓感がするって騒いでんだよ占い師の〓ってヤツかな？,,
+1,23,107,29,12952,,,,Girl,"There is an inordinate number of people
+going by today, making my work harder. <PART> ---
+If only I were a princess, I wouldn't
+even have to lift a finger!",今日は人の通りが変に激しいのおかげで仕事が〓えちゃった <PART> あ～あ お姫様だったら働かなくてすむのかなあ…,,
+1,24,107,30,13044,,,,Girl,"How I long for the sweet life in Dipan!
+If only someone would whisk me there...",あ～あ ディパンに行って優〓な暮らしがしたい誰か今すぐ連れてってくれないかなァ,,
+1,25,107,31,13816,,,,Boy,"Travelers are up in arms over Dipan being
+decimated. The gods' wrath is to be feared.",ディパンが滅んだって 旅人が大騒ぎしてたよ神様の怒りって 本当に怖いんだね…,,
+1,26,107,32,13908,,,,Boy,"Now I see the gods' wrath is fearsome,
+but do their blessings really exist?",神様の怒りが凄いのはわかったけどさじゃあ 神の恵みってあるのかな…？,,
+1,27,107,33,14104,,,,Boy,"Some think there will be a war now.
+Just what I've been training for! <PART> ---
+...Oh, I'm not going to fight <PART> ---- <PART> I'll take
+a support role or something.",これから戦が起きるかもしれないんだってなよおっし！ これで〓行の成果が役に立つかも <PART> あ 別にオレが戦うわけじゃないよそのサ〓ートと言うか何と言うか…へへ…,,
+1,28,107,34,14284,,,,Townsperson,"Rumors of militarization in Villnore, and
+talk of war in Crell Monferaigne... <PART> ---
+Which will emerge victorious?
+Perhaps I'll wager on it...",ヴィルノアでは軍事化の噂がクレルモンフェランでは戦争の噂があるらしいね <PART> 次はどこの国が〓権を〓るのかな〓けでもしてみるか…,,
+1,29,107,35,14376,,,,Townsperson,"I'd heard of King Barbarossa. If he's so
+great, why was his country destroyed?",バルバロッサ王の名前くらいは聞いた事あるが国を滅ぼしたのなら 名〓ならぬ迷〓だよな,,
+1,30,107,36,14564,,,,Girl,"The queen of Dipan followed the king
+to the grave, they say. <PART> ---
+Isn't it romantic? It's a love story!
+That's what true love must feel like.",ディパンの王妃様って 王様の後を追って亡くなったんだって <PART> 素敵よね どこかのお話みたい！やっぱり愛し合う二人はこうでなくちゃね！,,
+1,31,107,37,14656,,,,Girl,"The country that challenged the gods fell to
+them in one night. It's like a fairy tale!",神に挑んだ国が その怒りにより滅ぼされ一〓にして廃〓と化す… お〓話みたいよね！,,
+1,32,107,38,14776,,,,Boy,"If only I'd had a little more money,
+I'd have made this and that...",はあ… もう少しお金があればなあ…あれやそれやあんなのも作れたんだけど…,,
+1,33,107,39,14840,,,,Boy,"Hey, it's the girl who gave me money!
+Thanks for that! It helped a lot. <PART> ---
+I'm actually training to be a blacksmith.
+The money you gave me went to materials. <PART> ---
+Please take this in return. Think of it
+as a future blacksmith's handiwork. Haha...",あ 金くれた姉ちゃんだ！あの時はありがとな！ 木ント助かった <PART> 実はオレ 〓〓を目指しててさ貫った金で材料集めてたんだ <PART> でさ 良ければコレ貫ってくんない？未来の名〓の作品って事で…へへ…,,
+1,34,107,41,14956,,,,Boy,"When I develop my skills, I'll
+make you an even better one!",もっと腕を磨いて もっといいヤツ作ってみせるからな！,,
+1,35,107,42,15100,,,,Boy,"Hey, it's the girl who gave me money!
+Thanks for that! It helped a lot. <PART> ---
+I'm actually training to be a blacksmith.
+The money you gave me went to materials. <PART> ---
+Please take this in return. Think of it
+as a future blacksmith's handiwork. Haha...",あ 金くれた姉ちゃんだ！あの時はありがとな！ 木ント助かった <PART> 実はオレ 〓〓を目指しててさ貫った金で材料集めてたんだ <PART> でさ 良ければコレ貫ってくんない？未来の名〓の作品って事で…へへ…,,
+1,36,107,44,15312,,,,Boy,"Hey, it's the girl who gave me money!
+Thanks for that! It helped a lot. <PART> ---
+I'm actually training to be a blacksmith.
+The money you gave me went to materials. <PART> ---
+Please take this in return. Think of it
+as a future blacksmith's handiwork. Haha...",あ 金くれた姉ちゃんだ！あの時はありがとな！ 木ント助かった <PART> 実はオレ 〓〓を目指しててさ貫った金で材料集めてたんだ <PART> でさ 良ければコレ貫ってくんない？未来の名〓の作品って事で…へへ…,,
+1,37,107,46,15640,,,,Townsperson,"I think Crell Monferaigne will be next
+to win supremacy over the continent. <PART> ---
+Their military seems the most organized,
+and their people are accustomed to war.",次に大陸の〓権を〓るのはクレルモンフェランだと思うな <PART> 何せあそこは軍備が〓っているしね国民も闘う事に〓れてるし,,
+1,38,107,47,15732,,,,Townsperson,"I'd better mosey over to another village
+before the desert swallows this town...",この街が砂に〓まれる前に近〓の村に〓るかな…,,
+1,39,107,48,15920,,,,Boy,"I hear that war is going to break out,
+but can't believe it will really happen.",戦争が起きるかもしれないって言われても実感が〓かないんだよね,,
+1,40,107,49,16012,,,,Boy,"What will the war bring? The mercenaries
+who were here seemed happy to find work...",戦争が起きたらどうなるのかな 街に来てた傭兵は〓ぎ先が見つかるって喜んでたけど,,
+1,41,107,50,16220,,,,Girl,"The upper classes never have to fight
+in a war, you know what I mean? <PART> ---
+That's the world they were born into...
+I just wish I wasn't born here.",戦争になったって どうせ〓い人達は戦わないんでしょう？ <PART> やっぱり 生まれが違うって事なのかなあ～あ こんな街で損したなァ,,
+1,42,107,51,16312,,,,Girl,"They're hiring mercenaries in Villnore.
+How much do you reckon a mercenary makes?",今 ヴィルノアでは傭兵を集めているんだって傭兵ってお金〓げるのかな？,,
+2,1,107,1,,,,,,,,,not displayed by the event script
+2,2,107,2,,,,,,House,民家,,not displayed by the event script
+2,3,107,3,,,,,,House,民家,,not displayed by the event script
+2,4,107,12,,,,,,Hand over  OTH?,0THを〓す,,not displayed by the event script
+2,5,107,13,,,,,,Yes,はい,,not displayed by the event script
+2,6,107,14,,,,,,No,いいえ,,not displayed by the event script
+2,7,107,40,,,,,,Acquired <PART> Shamshir,シャムシール <PART> を手に入れた,,not displayed by the event script
+2,8,107,43,,,,,,Acquired <PART> Sun Shower,〓〓〓〓雨 <PART> を手に入れた,,not displayed by the event script
+2,9,107,45,,,,,,Acquired <PART> Claiomh Solais,〓〓クラウソナス <PART> を手に入れた,,not displayed by the event script
+2,10,107,108,,,,,,Kalstad,カルスタッド,,not displayed by the event script
+2,11,107,2851,,,,,,Townsperson,カルスタッド住人,,not displayed by the event script
+2,12,107,2852,,,,,,Boy,〓〓,,not displayed by the event script
+2,13,107,2853,,,,,,Girl,〓女,,not displayed by the event script

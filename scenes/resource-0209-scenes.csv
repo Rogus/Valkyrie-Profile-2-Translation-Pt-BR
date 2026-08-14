@@ -1,0 +1,4 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,209,3,500,,,,,Is this some sort of machine?,…これは何かの〓置かしら？,,
+2,1,209,2,,,,,,,,,not displayed by the event script
+2,2,209,6,,,,,,Dipan Castle,ディパン城,,not displayed by the event script

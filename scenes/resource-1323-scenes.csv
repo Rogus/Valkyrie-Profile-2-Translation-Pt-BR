@@ -1,0 +1,49 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1323,1,1456,820,0,,Lezard,I feel it...,感じる…,,
+1,2,1323,2,2116,820,1,,Lezard,My beloved goddess finally draws near!,…待ちこがれた 愛しき女神の波動を,,
+2,1,1323,2753,14476,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1323,2754,14964,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1323,2755,15496,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1323,2756,15984,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1323,2757,16760,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1323,2758,17484,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1323,2759,17872,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1323,2760,18200,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1323,2761,18588,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1323,2167,24148,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1323,2168,24284,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1323,2169,24420,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1323,2666,30388,690,0,,Lezard,"Lenneth Valkyrie, my beloved goddess...",愛しき女神レナス・ヴァルキュリアよ…,,
+4,2,1323,2669,31432,690,2,,Lezard,...will soon come true!,ついに叶う…,,
+4,3,1323,2672,38504,690,1,,Lezard,"My fantasy of becoming one with you, of
+becoming creator with you...",あなたと一つになって 世界の創造主になるという理想が今 <PART> 一一,,
+4,4,1323,2670,38812,690,3,,Lezard,"I'm honored you came to celebrate, but
+really, you shouldn't have...",ようこそ縁者達よ〓〓に〓けつけてくれるとは…,,
+5,1,1323,2688,40908,,,,Lezard,Lenneth's spirit... Lenneth's soul...,レナスの心も… 魂も…,,
+5,2,1323,2689,40948,,,,Lezard,It all belongs to me!,すべて私のものだ！,,
+5,3,1323,2690,40988,,,,Lezard,"Now die, you damned human!",失せよ 愚かな人間ッ！,,
+5,4,1323,2691,41028,,,,Valkyrie,A soul...,魂とは…,,
+5,5,1323,2692,41068,,,,Valkyrie,is something no other can possess.,他者が所有できるものではない,,
+5,6,1323,2693,41108,,,,Lezard,A god...,神とは…,,
+5,7,1323,2694,41148,,,,Lezard,...is not as almighty as I expected.,期待していたほど〓能ではなかった,,
+5,8,1323,2695,41188,,,,Valkyrie,Now you see.,その通り <PART> 一一,,
+5,9,1323,2696,41228,,,,Valkyrie,Nothing can rule another's heart.,心を支配できる存在など…,,
+5,10,1323,2697,41268,,,,Valkyrie,Nothing.,…ない,,
+5,11,1323,2698,41308,,,,Valkyrie,"You have toyed with countless souls.
+You have used Gungnir to wreak havoc and
+destruction on the world.",多くの魂を弄んだ罪神槍の力で破壊の限りを尽くした罪 <PART> 一一,,
+5,12,1323,2699,41348,,,,Valkyrie,"For these sins, you will pay with your soul.",魂の消滅をもって償え…,,
+5,13,1323,2700,41388,,,,Lezard,I have lost...,私の負けです…,,
+5,14,1323,2701,41428,,,,Rufus,Alicia...?,アリーシャ…,,
+5,15,1323,2702,41468,,,,Rufus,Alicia!,アリーシャ！,,
+5,16,1323,2703,41508,,,,Rufus,Alicia...,アリーシャ…,,
+5,17,1323,2704,41548,,,,Rufus,Alicia!,アリーシャ <PART> 一一一 <PART> ！,,
+6,1,1323,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+6,2,1323,6,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+6,3,1323,7,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+6,4,1323,8,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+6,5,1323,9,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+6,6,1323,2733,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+6,7,1323,2752,,,,,,Lezard,レザード,,not displayed by the event script
+6,8,1323,2762,,,,,,Valkyrie,ヴァルキリー,,not displayed by the event script
+6,9,1323,2763,,,,,,Rufus,ルーファス,,not displayed by the event script

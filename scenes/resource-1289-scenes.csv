@@ -1,0 +1,44 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1289,1,5612,450,2,,Alicia,I've...I've been nothing but a burden to you.,私は… ここまでの約束だったんだから,,
+1,2,1289,2,8176,450,9,,Alicia,...is you.,あなたしか…,,
+1,3,1289,7,8688,450,10,,Alicia,Please...leave me behind!,…お願い …行って！,,
+1,4,1289,3,14252,450,11,,Roussalier,"There's a hollow tree nearby where no one
+will find you.",この先に誰も近〓らない大きな〓のうろがあるわ,,
+1,5,1289,4,14952,450,12,,Roussalier,Come with me.,…いらっしゃい,,
+1,6,1289,6,16300,450,0,,Alicia,Forget about me... Just go!,私に構わず …行って！,,
+1,7,1289,10,16432,450,5,,Alicia,No!,駄目ッ！,,
+1,8,1289,12,16652,450,7,,Alicia,Because you're the only one!,だって あなたしかいないんだもの！,,
+1,9,1289,13,16772,450,8,,Alicia,"The only one who can save Midgard.
+The only one I can believe in...",ミッドガルドを救えるのも私の思いを〓せるのも…,,
+1,10,1289,5,26752,450,4,,Rufus,Urgh!,…フンッ！,,
+1,11,1289,8,32128,450,1,,Rufus,I won't do that!,そうはいくか…,,
+1,12,1289,9,32248,450,3,,Rufus,"So, this is the end...",ここまでか…,,
+1,13,1289,11,32368,450,6,,Rufus,Why are you stopping me?,なんで止める！？,,
+2,1,1289,2755,48496,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1289,2756,48984,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1289,2757,49516,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1289,2758,50004,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1289,2759,50780,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1289,2760,51504,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1289,2761,51892,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1289,2762,52220,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1289,2763,52608,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1289,2322,58204,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1289,2323,58340,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1289,2324,58476,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1289,2733,64716,462,0,,Rufus,Thank you for the help.,世話になったな…,,
+4,2,1289,2736,65048,462,1,,Rufus,"That's the first time in my life any elf
+has done something nice for me.",…エルフにこんなに良くしてもらったのは生まれて初めてだ,,
+4,3,1289,2732,66724,462,2,,Alicia,Thank you for everything.,ありがとうございました,,
+4,4,1289,2737,68236,462,4,,Alicia,"Thank you, Roussalier.",ルザリエさん…,,
+4,5,1289,2734,69220,462,5,,Roussalier,Take care.,…気をつけてね,,
+4,6,1289,2735,79620,462,3,,Roussalier,Roussalier.,…ルザリエよ,,
+5,1,1289,16,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1289,17,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1289,18,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1289,19,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1289,20,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1289,2738,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1289,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,8,1289,2753,,,,,,Roussalier,ルザリエ,,not displayed by the event script
+5,9,1289,2754,,,,,,Rufus,ルーファス,,not displayed by the event script

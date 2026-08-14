@@ -1,0 +1,27 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1231,1,7208,130,0,,Rufus,"I hate to break it to you,",恐れ入ったな…,,
+1,2,1231,2,7436,130,1,,Rufus,"but I'd say Dipan really IS keeping pet
+monsters.",やっぱりディパンじゃ化け物を〓ってるんじゃないか,,
+1,3,1231,3,8216,130,2,,Alicia,No!,違うッ！,,
+1,4,1231,4,9660,130,4,,Alicia,"Oh, Father...",お父様…,,
+1,5,1231,6,20280,130,3,,Alicia,This can't be!,こんなこと…,,
+2,1,1231,2754,29804,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1231,2755,30292,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1231,2756,30824,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1231,2757,31312,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1231,2758,32088,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1231,2759,32812,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1231,2760,33200,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1231,2761,33528,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1231,2762,33916,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1231,2279,39476,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1231,2280,39612,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1231,2281,39748,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1231,32,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1231,33,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1231,34,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1231,35,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1231,36,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1231,2740,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1231,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+4,8,1231,2753,,,,,,Alicia,アリーシャ,,not displayed by the event script

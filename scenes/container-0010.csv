@@ -1,0 +1,124 @@
+﻿resource,message_id,kind,offset,byte_length,original_en,original_jp,translated
+10,1,codepage,0,453,"<8084>0Enable progressive scan?
+<8099>7Yes (16:9)  <8099>6Yes (4:3)  <8099>5No
+<0065>
+<808A><CCCD>k^<CCCD>k^Component AV Cable (for PlayStation<0066>2) and compatible
+(525p) television required for progressive scan.
+<0065>
+<8088>3If a progressive image does not appear after 10 seconds,
+you will be automatically returned to this menu.
+ 
+Press <8099>7 to enable widescreen mode.
+Set your television to the appropriate display mode.
+Refer to your television's instruction manual for details.
+",プログレッシブ〓〓に切り〓えますか〓はい（：）〓はい（：）〓いいえ〓プログレッシブ〓〓には〓〓〓〓〓〓〓〓〓〓〓〓〓2〓〓用コンポーネント〓〓ケーブルとプログレッシブ（〓2〓〓）〓〓に〓〓したテレビが〓〓になります。〓10〓〓上たっても画面が〓常に〓〓されない場〓はこの画面がもう一〓〓〓されます。〓の場〓は〓イドテレビ〓〓になりますので、テレビの画面モードをフルモード（またはそれに〓ずるモード）に切り〓えてく〓さい。〓しくは〓〓用のテレビの〓扱〓〓書を〓〓く〓さい。,
+10,0,codepage,0,453,"<8084>0Enable progressive scan?
+<8099>7Yes (16:9)  <8099>6Yes (4:3)  <8099>5No
+<0065>
+<808A><CCCD>k^<CCCD>k^Component AV Cable (for PlayStation<0066>2) and compatible
+(525p) television required for progressive scan.
+<0065>
+<8088>3If a progressive image does not appear after 10 seconds,
+you will be automatically returned to this menu.
+ 
+Press <8099>7 to enable widescreen mode.
+Set your television to the appropriate display mode.
+Refer to your television's instruction manual for details.
+",プログレッシブ〓〓に切り〓えますか〓はい（：）〓はい（：）〓いいえ〓プログレッシブ〓〓には〓〓〓〓〓〓〓〓〓〓〓〓〓2〓〓用コンポーネント〓〓ケーブルとプログレッシブ（〓2〓〓）〓〓に〓〓したテレビが〓〓になります。〓10〓〓上たっても画面が〓常に〓〓されない場〓はこの画面がもう一〓〓〓されます。〓の場〓は〓イドテレビ〓〓になりますので、テレビの画面モードをフルモード（またはそれに〓ずるモード）に切り〓えてく〓さい。〓しくは〓〓用のテレビの〓扱〓〓書を〓〓く〓さい。,
+10,2,codepage,453,187,"<8084>0Progressive scan (16:9) enabled.
+Proceed with game in this display mode?
+<8099>@Yes <8099>ANo
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3You will be returned to the menu if there is no
+response within 10 seconds.
+",プログレッシブ〓〓（：）に〓〓しました。この画面〓〓モードでゲームを〓〓してよろしいですか〓はい〓いいえ〓10〓〓上たっても〓〓がない場〓は自動〓にプログレッシブ〓〓切り〓え画面に〓ります。,
+10,3,codepage,640,185,"<8084>0Progressive display (4:3) set.
+Proceed with game in this display mode?
+<8099>@Yes <8099>ANo
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3You will be returned to the menu if there is no
+response within 10 seconds.
+",プログレッシブ〓〓（：）に〓〓しました。この画面〓〓モードでゲームを〓〓してよろしいですか〓はい〓いいえ〓10〓〓上たっても〓〓がない場〓は自動〓にプログレッシブ〓〓切り〓え画面に〓ります。,
+10,4,codepage,825,130,"<8084>0No memory card (8MB)(for PlayStation<0066>2) inserted
+in MEMORY CARD slot 1 or MEMORY CARD slot 2.
+Valkyrie Profile<0066>2 requires <8094>",〓E〓0R〓〓〓〓R〓〓〓口、〓び〓E〓0R〓〓〓〓R〓〓〓口に〓〓〓〓〓〓〓〓〓〓〓〓〓2〓〓用メモリーカード（〓〓B）が〓されていま〓ん。〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓2〓のゲームデータをセーブするには〓B〓上の空き〓量が〓〓です。〓このままゲームを〓〓しますか〓,
+10,5,codepage,1020,93,"<8084>0Insufficient free space on
+memory card (8MB)(for PlayStation<0066>2) in
+MEMORY CARD slot <8094>0",〓E〓0R〓〓〓〓R〓〓〓口の〓〓〓〓〓〓〓〓〓〓〓〓〓2〓〓用メモリーカード（〓〓B）の空き〓量が〓りま〓ん。〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓2〓のゲームデータをセーブするには〓B〓上の空き〓量が〓〓です。〓このままゲームを〓〓しますか〓,
+10,6,codepage,1212,149,"<8084>0Insufficient free space on
+memory cards (8MB)(for PlayStation<0066>2) in
+MEMORY CARD slot 1 and MEMORY CARD slot 2.
+ Valkyrie Profile<0066>2 requires <8094>",〓E〓0R〓〓〓〓R〓〓〓口、〓び〓E〓0R〓〓〓〓R〓〓〓口の〓〓〓〓〓〓〓〓〓〓〓〓〓2〓〓用メモリーカード（〓〓B）の空き〓量が〓りま〓ん。〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓2〓のゲームデータをセーブするには〓B〓上の空き〓量が〓〓です。〓このままゲームを〓〓しますか〓,
+10,7,codepage,1426,108,"<8084>0Loading settings data.
+<0065>
+Do not remove memory card (8MB)(for PlayStation<0066>2)
+from MEMORY CARD slot <8094>0",〓〓〓定データをロードしています。〓〓E〓0R〓〓〓〓R〓〓〓口の〓〓〓〓〓〓〓〓〓〓〓〓〓2〓〓用メモリーカード（〓〓B）を〓き〓ししないでく〓さい。,
+10,10,codepage,1536,209,"<8084>0Select screen size:
+<8099>716:9<0065><8099>64:3
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3Press <8099>7 to enable widescreen mode.
+Set your television to the appropriate display mode.
+Refer to your television's instruction manual for details.
+",画面サイズを〓定してく〓さい。：〓：〓の場〓は〓イドテレビ〓〓になりますので、テレビの画面モードをフルモード（またはそれに〓ずるモード）に切り〓えてく〓さい。〓しくは〓〓用のテレビの〓扱〓〓書を〓〓く〓さい。,
+10,11,codepage,1745,252,"<8084>0Enable 1080i mode.
+This mode is only compatible with high-definition
+televisions that support the 1080i display mode.
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3This mode is not supported.
+Proceed with the game at your own risk.<8089><808B>
+ 
+Proceed with game?
+<8099>@Yes <8099>ANo
+",〓出力〓〓モードに〓〓しました。このモードは〓〓〓〓〓テレビのみ〓〓いた〓けます。〓ゲームを〓〓してよろしいですか〓はい〓いいえ,
+10,90,codepage,1997,147,"<8084>0Could not detect DUALSHOCK<0066>2 analog controller.
+Please insert DUALSHOCK<0066>2 analog controller
+into controller port 1.
+ 
+Press <8099>@ to proceed.",アナログコントローラ（〓〓〓〓〓H0〓〓〓2）が見つかりま〓んでした。コントローラ〓〓にアナログコントローラ（〓〓〓〓〓H0〓〓〓2）を〓し〓み、を〓してく〓さい。,
+10,100,codepage,2144,4,Yes,はい,
+10,101,codepage,2148,3,No,いいえ,
+10,102,codepage,2151,20,Skip this sequence?,スキップしますか〓,
+10,1000,codepage,2171,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1001,codepage,2243,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1002,codepage,2322,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1003,codepage,2390,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1004,codepage,2466,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1005,codepage,2546,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1006,codepage,2613,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1007,codepage,2683,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1008,codepage,2790,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1009,codepage,2878,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1010,codepage,2953,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1011,codepage,3026,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1012,codepage,3100,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1013,codepage,3180,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1014,codepage,3255,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1015,codepage,3317,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,1016,codepage,3379,3,<808C>,〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓,
+10,2000,token,3448,15,Danger.,,Perigo.
+10,2001,token,3463,21,From what?,,De quê?
+10,2002,token,3484,31,You can't tell?,,Não consegue sentir?
+10,2003,token,3515,147,"How do you know?
+                                 I don't sense anything.",,"Como você sabe?
+                                 Eu não sinto nada."
+10,2004,token,3662,73,"If she says we're in danger, we are!",,"Se ela diz que estamos em perigo, é porque estamos!"
+10,2005,token,3735,23,He's right!,,Ele tem razão!
+10,2006,token,3758,31,"Open your eyes,",,"Abra os olhos,"
+10,2007,token,3789,15,Alicia.,,Alicia.
+10,2008,token,3804,57,Run! Escape from the castle!,,Corra! Fuja do castelo!
+10,2010,token,3861,37,"This way, quickly!",,"Por aqui, rápido!"
+10,2011,token,3898,13,Hurry!,,Depressa!
+10,2012,token,3911,17,Quickly!,,Rápido!
+10,2013,token,3928,45,I know! Don't rush us!,,Eu sei! Não nos apresse!
+10,2014,token,3973,23,Over there!,,Por ali!
+10,2015,token,3996,51,"Silmeria, return at once!",,"Silmeria, volte imediatamente!"
+10,2016,token,4047,21,I won't...,,Eu não vou...
+10,2017,token,4068,55,I won't return to Valhalla!,,Não vou voltar a Valhalla!
+10,2019,token,4124,81,You'll disobey Odin to your last breath.,,Você vai desobedecer Odin até o último suspiro.
+10,2020,token,4205,19,So be it.,,Que assim seja.
+10,2021,token,4224,29,But be warned<808A>,,Mas fique avisado<808A>
+10,2021+2,token,4254,3,<4080>,,
+10,2021+4,token,4258,57,<3F80>-<808B>Dipan will not be spared.,,<3F80>-<808B>Dipan não será poupado.
+10,2022,token,4315,21,Thank you.,,Obrigada.
+10,2023,token,4336,53,There's no going back now.,,Agora não há como voltar atrás.
+10,2024,token,4389,23,Let's go...,,Vamos...

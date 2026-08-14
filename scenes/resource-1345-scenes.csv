@@ -1,0 +1,28 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1345,2740,2108,,,,,Visitors from another world...,異界からの来訪者か…,,
+1,2,1345,2741,2300,,,,,"We've had a lot of powerful people dropping
+by these last ten years.",〓〓年ほど前より定期的に強者が訪れるようになったな,,
+1,3,1345,2742,2524,,,,Alicia,And you are...?,あなたは…？,,
+1,4,1345,2743,2824,,,,,My name is Gabriel Celeste.,我が名はガブリエ・セレスタ,,
+1,5,1345,2744,3472,,,,Gabriel Celeste,"I reside here in Seraphic Gate amidst
+the pasts and futures of countless universes.",数多の過去と数多の未来 無数の世界を内〓するこのセラフィックゲートの住人,,
+1,6,1345,2745,3616,,,,Alicia,Gabriel <PART> ...Celeste?,…ガブリエ <PART> …セレスタ,,
+1,7,1345,2746,3916,,,,Alicia,"My mother told me about you when I was
+young. I thought they were fairy tales...",幼い頃に母に聞いた事があるわ御〓話だとばかり思っていた…,,
+1,8,1345,2747,4228,,,,Gabriel Celeste,Show me your power.,お前の力を見せてみるがいい,,
+1,9,1345,2748,4528,,,,Gabriel Celeste,"If you are good enough, I shall aid you!",この目にかなえば 我が力を〓し与えよう！,,
+1,10,1345,2762,7412,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+1,11,1345,2763,7504,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+1,12,1345,2749,8392,,,,Gabriel Celeste,Very... <PART> impressive.,み… <PART> 見事だ,,
+1,13,1345,2750,10384,,,,Gabriel Celeste,It is the Wand of Apocalypse.,…これは魔〓ア〓カリ〓ス,,
+1,14,1345,2751,10976,,,,Gabriel Celeste,Let me give you... <PART> one piece of advice...,一つだけ… <PART> 〓告しておこう…,,
+1,15,1345,2752,11264,,,,Gabriel Celeste,Beware of that woman... <PART> She will offer you no mercy...,あの女には気をつけろ… <PART> 決して気を許さぬ事だ…,,
+1,16,1345,2753,12032,,,,Alicia,Hm?,………？,,
+1,17,1345,2754,12832,,,,Alicia,...That woman?,…あの女って？,,
+1,18,1345,2755,12952,,,,Gabriel Celeste,Take this.,…持って行け,,
+1,19,1345,2756,13072,,,,Gabriel Celeste,"With it, you will always have my
+strength alongside you.",この〓を使えば我が力 いつでも引き出せよう,,
+2,1,1345,2757,,,,,,Acquired <PART> Wand of Apocalypse,魔〓ア〓カリプス <PART> を手に入れた,,not displayed by the event script
+2,2,1345,2758,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+2,3,1345,2760,,,,,,Alicia,アリーシャ,,not displayed by the event script
+2,4,1345,2761,,,,,,Gabriel Celeste,ガブリエ・セレスタ,,not displayed by the event script

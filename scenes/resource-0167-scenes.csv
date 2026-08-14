@@ -1,0 +1,160 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,167,4,1676,,,,,"About Einherjar <PART> Several einherjar who were never
+transferred to Valhalla inhabit
+Alicia's body.
+Their psyches have faded, but they
+can be materialized by touching
+scattered relics. <PART> --- <PART> About Einherjar <PART> A freshly materialized body's soul is
+unstable, and fades apart from its
+host, Alicia. <PART> --- <PART> About Einherjar <PART> To be revived as humans, einherjar
+must be raised to a level at which
+they can be freed. <PART> Check the status screen to see at
+what level an eihnerjar can be freed. <PART> --- <PART> About Einherjar <PART> After freed einherjar return their
+power to Alicia, they begin life
+anew as humans. <PART> If you're lucky, you might see them
+again someday.",エインフェリアについて <PART> アリーシャの〓〓には、ヴァルハラへ送る事ができなかったエインフェリア達が多〓眠っています。 長い眠りにより〓らの〓識は薄れていますが、〓地に〓る〓遺〓〓に〓れる事により、〓らを〓〓化さ〓る事ができます。 <PART> エインフェリアについて <PART> た〓し、〓〓化されたばかりの〓と〓は不〓定で、〓〓であるアリーシャから〓れると〓えてしまいます。 <PART> エインフェリアについて <PART> 〓び人として生かすには、〓〓〓〓となるレベルまで〓て上〓なければなりま〓〓。 〓〓〓〓なレベルは、ステータス画面で〓〓できます。 <PART> エインフェリアについて <PART> 〓〓されたエインフェリアは、〓た力をアリーシャ達に〓元した後、一人の人間として、〓たな生を〓みます。 <PART> 運が〓ければど〓かで〓〓できるかもしれま〓〓。,,
+1,2,167,2340,2484,,,,,ERRORv,ERR0R！！（v190）,,
+1,3,167,2343,2876,,,,,ERRORv,ERR0R！！（v192）,,
+1,4,167,2344,3012,,,,,ERRORv,ERR0R！！（v191）,,
+1,5,167,2746,3148,,,,,Lwyn <PART> has joined the party.,ルイン <PART> が仲間に加わりました,,
+1,6,167,2747,3296,,,,,Jessica <PART> has joined the party.,ジェシカ <PART> が仲間に加わりました,,
+1,7,167,2748,3444,,,,,Richelle <PART> has joined the party.,リシェル <PART> が仲間に加わりました,,
+1,8,167,2749,3592,,,,,Fraudir <PART> has joined the party.,フローディア <PART> が仲間に加わりました,,
+1,9,167,2750,3740,,,,,Celes <PART> has joined the party.,セレス <PART> が仲間に加わりました,,
+1,10,167,2751,3888,,,,,Crescent <PART> has joined the party.,クレセント <PART> が仲間に加わりました,,
+1,11,167,2752,4036,,,,,Sylphide <PART> has joined the party.,シルフィード <PART> が仲間に加わりました,,
+1,12,167,2753,4184,,,,,Tyrith <PART> has joined the party.,ティリス <PART> が仲間に加わりました,,
+1,13,167,2754,4332,,,,,Circe <PART> has joined the party.,キルケ <PART> が仲間に加わりました,,
+1,14,167,2755,4480,,,,,Rasheeka <PART> has joined the party.,ラシーカ <PART> が仲間に加わりました,,
+1,15,167,2756,4628,,,,,Falx <PART> has joined the party.,ファルクス <PART> が仲間に加わりました,,
+1,16,167,2757,4776,,,,,Gerald <PART> has joined the party.,ジェラルド <PART> が仲間に加わりました,,
+1,17,167,2758,4924,,,,,Guilm <PART> has joined the party.,ギルム <PART> が仲間に加わりました,,
+1,18,167,2759,5072,,,,,Roland <PART> has joined the party.,ローランド <PART> が仲間に加わりました,,
+1,19,167,2760,5220,,,,,Ehlen <PART> has joined the party.,エーレン <PART> が仲間に加わりました,,
+1,20,167,2761,5368,,,,,Adonis <PART> has joined the party.,アドニス <PART> が仲間に加わりました,,
+1,21,167,2762,5516,,,,,Aaron <PART> has joined the party.,アーロン <PART> が仲間に加わりました,,
+1,22,167,2763,5664,,,,,Dyn <PART> has joined the party.,ディーン <PART> が仲間に加わりました,,
+1,23,167,2764,5812,,,,,Kraad <PART> has joined the party.,クラッド <PART> が仲間に加わりました,,
+1,24,167,2765,5960,,,,,Zunde <PART> has joined the party.,ザンデ <PART> が仲間に加わりました,,
+1,25,167,2766,6108,,,,,Atrasia <PART> has joined the party.,アトレイシア <PART> が仲間に加わりました,,
+1,26,167,2767,6256,,,,,Phyress <PART> has joined the party.,フィレス <PART> が仲間に加わりました,,
+1,27,167,2768,6404,,,,,Chrystie <PART> has joined the party.,クリスティ <PART> が仲間に加わりました,,
+1,28,167,2769,6552,,,,,Sha-kon <PART> has joined the party.,紗紺 <PART> が仲間に加わりました,,
+1,29,167,2770,6700,,,,,Lylia <PART> has joined the party.,リリア <PART> が仲間に加わりました,,
+1,30,167,2771,6848,,,,,Lydia <PART> has joined the party.,リディア <PART> が仲間に加わりました,,
+1,31,167,2772,6996,,,,,Sophalla <PART> has joined the party.,ソファラ <PART> が仲間に加わりました,,
+1,32,167,2773,7144,,,,,Millidia <PART> has joined the party.,ミリティア <PART> が仲間に加わりました,,
+1,33,167,2774,7292,,,,,Arcana <PART> has joined the party.,アルカナ <PART> が仲間に加わりました,,
+1,34,167,2775,7440,,,,,Ehrde <PART> has joined the party.,エルド <PART> が仲間に加わりました,,
+1,35,167,2776,7588,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+1,36,167,2777,7736,,,,,Aegis <PART> has joined the party.,イージス <PART> が仲間に加わりました,,
+1,37,167,2778,7884,,,,,Psoron <PART> has joined the party.,ソロン <PART> が仲間に加わりました,,
+1,38,167,2779,8032,,,,,Khanon <PART> has joined the party.,カノン <PART> が仲間に加わりました,,
+1,39,167,2780,8180,,,,,Farant <PART> has joined the party.,ファーラント <PART> が仲間に加わりました,,
+1,40,167,2781,8328,,,,,Xehnon <PART> has joined the party.,ゼノン <PART> が仲間に加わりました,,
+1,41,167,2782,8476,,,,,Alm <PART> has joined the party.,アルム <PART> が仲間に加わりました,,
+1,42,167,2783,8624,,,,,Seluvia <PART> has joined the party.,セルヴィア <PART> が仲間に加わりました,,
+1,43,167,2784,8772,,,,,Masato <PART> has joined the party.,魔智 <PART> が仲間に加わりました,,
+1,44,167,2785,8920,,,,,Woltar <PART> has joined the party.,ウォルター <PART> が仲間に加わりました,,
+1,45,167,2586,9896,,,,Lwyn,Is it my turn now? I've waited an eternity.,やっと出番？ 待ちくたびれたわよ,,
+1,46,167,2587,10004,,,,Jessica,"If there's anyway I can serve you,
+it would be my pleasure.",私でお役に立てるのならば喜んでお仕え致します,,
+1,47,167,2588,10112,,,,Richelle,"As long as I live, you shall have my sword.",命ある限り 貴方の〓とも槍ともなりましょう…,,
+1,48,167,2589,10220,,,,Fraudir,"So you need my strength, huh?
+Alright, I guess I'll help you out.",私の力が必要なのね？いいわ 手伝ってあげる,,
+1,49,167,2590,10328,,,,Celes,My life is yours. Your wish is my command.,この命は貴方のもの 戦えというのなら戦うわ,,
+1,50,167,2591,10436,,,,Crescent,Ehlen...where is Ehlen?,エーレン… エーレンはどこ？,,
+1,51,167,2592,10544,,,,Sylphide,I'd give my life for peace in this world.,世界のためならば この命〓しくはありません,,
+1,52,167,2593,10652,,,,Tyrith,I'll let you see just what I can do.,私の力 見せてあげるわ,,
+1,53,167,2594,10760,,,,Circe,You want me to fight? I don't really mind.,戦うの？ まあいいけど,,
+1,54,167,2595,10868,,,,Rasheeka,"If you find me worthy, I will help you.",私で良ければ 力を〓すわ,,
+1,55,167,2596,10976,,,,Falx,"Sure, I'll lend you a hand.",いいぜ 手を〓してやるよ,,
+1,56,167,2597,11084,,,,Gerald,I shall use my powers to serve you.,蘇りし我が力 貴方のために使いましょう,,
+1,57,167,2598,11192,,,,Guilm,"I will gladly take up arms,
+if the princess of Dipan so desires.",ディパンの王女のためならば今一度この剣を振るいましょう,,
+1,58,167,2599,11300,,,,Roland,"Don't worry, just leave it to me.",安心しろ 後は俺が何とかする,,
+1,59,167,2600,11408,,,,Ehlen,"If I can help, then by all means, I will.",私の力が貴方の役に立つというのであれば,,
+1,60,167,2601,11516,,,,Adonis,Hmph! It's about time you came!,ふん！ やっと俺に頼る気になったか？,,
+1,61,167,2602,11624,,,,Aaron,It is my duty to protect.,俺に守れるものがあるのならば…,,
+1,62,167,2603,11732,,,,Dyn,I will save Midgard from danger!,ミッドガルドの危機は俺が救う！,,
+1,63,167,2604,11840,,,,Kraad,It's been a while since I last fought.,久しぶりに 思い切り剣を振らせてもらうぜ,,
+1,64,167,2605,11948,,,,Zunde,"Alright! My time to shine, baby!",よっしゃあ！ 出番来た来たー！,,
+1,65,167,2606,12056,,,,Atrasia,"I despise the gods, but you I trust.",神は嫌いだけど 貴方なら信じられる,,
+1,66,167,2607,12164,,,,Phyress,"I'll come out, but I better look young!",外に出すなら 若い姿でお願いね～,,
+1,67,167,2608,12272,,,,Chrystie,I'm finally out! Took you long enough!,やあっと出られた～ もう呼ぶの遅過ぎー！,,
+1,68,167,2609,12380,,,,Sha-kon,Do you have what I need for my research?,なに？ 出番？ 研究材料に適したヤツはいる？,,
+1,69,167,2610,12488,,,,Lylia,"I never thought I'd have another chance
+to walk these lands again.",こうして再びこの地に〓い戻ろうとは思いもしませんでした…,,
+1,70,167,2611,12596,,,,Lydia,Use my power as you like.,この力 好きに使ってちょうだい,,
+1,71,167,2612,12704,,,,Sophalla,How much longer must I fight?,また戦うのねいつまで弓を取ればいいのかしら,,
+1,72,167,2613,12812,,,,Millidia,Battle? I'm not afraid!,戦いですか？ …大丈夫 怖くは無いです,,
+1,73,167,2614,12920,,,,Arcana,"Let's do it, I love a good fight.",いいわ 一緒に戦いましょ,,
+1,74,167,2615,13028,,,,Ehrde,I smell blood... This could be fun.,血の〓いがするな …楽しくなりそうだ,,
+1,75,167,2616,13136,,,,Mithra,"If you see this even though you've
+seen event 5, it is a bug. <PART> ---",イベント〓番を見たにも関わらずこれが出たらバグです。 <PART> 報告をお願いします。,,
+1,76,167,2617,13244,,,,Aegis,I've never lost...on the surface.,地面の上でなら 負けはしねぇよ,,
+1,77,167,2618,13352,,,,Psoron,How long has it been? How is my research?,…今はいつだ？魔法の研究はどのくらい進んでる？,,
+1,78,167,2619,13460,,,,Khanon,"Hahaha, this body is mine again!
+Allow me to indulge in it.",くく… 再び得たこの体存分に使わせてもらいましょうぞ,,
+1,79,167,2620,13568,,,,Farant,"If you wish to see the extent of my powers,
+then place a foe before me!",俺の力が見たいのか？だったら敵を連れて来いよ！,,
+1,80,167,2621,13676,,,,Xehnon,"Do with me as you please.
+You saved me, and I am yours to command.",思うように使ってくれて構わない私は貴方に救われたのだから,,
+1,81,167,2622,13784,,,,Alm,"So you want my help, eh?",おや 我が力を〓せと仰いますか,,
+1,82,167,2623,13892,,,,Seluvia,I will protect you as best I can.,可能な限り 貴方を〓護します,,
+1,83,167,2624,14000,,,,Masato,"If you want my power, you can have it.",力を〓せというなら〓すさ,,
+1,84,167,2625,14108,,,,Woltar,"I stand once more upon this ground?
+Fate is a curious mistress.",またこの地に立つとは…運命とは何が起こるかわからんな,,
+1,85,167,2626,14220,,,,,A light warrior's soul emanates from the sword.,剣から軽戦士の思念が伝わってくる………,,
+1,86,167,2627,14320,,,,,A heavy warrior's soul emanates from the sword.,剣から重戦士の思念が伝わってくる………,,
+1,87,167,2628,14420,,,,,An archer's soul emanates from the bow.,弓から弓闘士の思念が伝わってくる………,,
+1,88,167,2629,14520,,,,,A sorcerer's soul emanates from the staff.,〓から魔術師の思念が伝わってくる………,,
+1,89,167,2633,14640,,,,,"Materialization is impossible
+without Silmeria...",やっぱり シルメリアじゃないとマテリアライズはできないのね…,,
+2,1,167,1,,,,,,,,,not displayed by the event script
+2,2,167,2,,,,,,,,,not displayed by the event script
+2,3,167,3,,,,,,HEinherjar,エインフェリアについて,,not displayed by the event script
+2,4,167,2630,,,,,,Perform materialization?,マテリアライズしますか〓,,not displayed by the event script
+2,5,167,2631,,,,,,Yes,はい,,not displayed by the event script
+2,6,167,2632,,,,,,No,いいえ,,not displayed by the event script
+2,7,167,2634,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
+2,8,167,2786,,,,,,Lwyn,ルイン,,not displayed by the event script
+2,9,167,2787,,,,,,Jessica,ジェシカ,,not displayed by the event script
+2,10,167,2788,,,,,,Richelle,リシェル,,not displayed by the event script
+2,11,167,2789,,,,,,Fraudir,フローディア,,not displayed by the event script
+2,12,167,2790,,,,,,Celes,セレス,,not displayed by the event script
+2,13,167,2791,,,,,,Crescent,クレセント,,not displayed by the event script
+2,14,167,2792,,,,,,Sylphide,シルフィード,,not displayed by the event script
+2,15,167,2793,,,,,,Tyrith,ティリス,,not displayed by the event script
+2,16,167,2794,,,,,,Circe,キルケ,,not displayed by the event script
+2,17,167,2795,,,,,,Rasheeka,ラシーカ,,not displayed by the event script
+2,18,167,2796,,,,,,Falx,ファルクス,,not displayed by the event script
+2,19,167,2797,,,,,,Gerald,ジェラルド,,not displayed by the event script
+2,20,167,2798,,,,,,Guilm,ギルム,,not displayed by the event script
+2,21,167,2799,,,,,,Roland,ローランド,,not displayed by the event script
+2,22,167,2800,,,,,,Ehlen,エーレン,,not displayed by the event script
+2,23,167,2801,,,,,,Adonis,アドニス,,not displayed by the event script
+2,24,167,2802,,,,,,Aaron,アーロン,,not displayed by the event script
+2,25,167,2803,,,,,,Dyn,ディーン,,not displayed by the event script
+2,26,167,2804,,,,,,Kraad,クラッド,,not displayed by the event script
+2,27,167,2805,,,,,,Zunde,ザンデ,,not displayed by the event script
+2,28,167,2806,,,,,,Atrasia,アトレイシア,,not displayed by the event script
+2,29,167,2807,,,,,,Phyress,フィレス,,not displayed by the event script
+2,30,167,2808,,,,,,Chrystie,クリスティ,,not displayed by the event script
+2,31,167,2809,,,,,,Sha-kon,紗紺,,not displayed by the event script
+2,32,167,2810,,,,,,Lylia,リリア,,not displayed by the event script
+2,33,167,2811,,,,,,Lydia,リディア,,not displayed by the event script
+2,34,167,2812,,,,,,Sophalla,ソファラ,,not displayed by the event script
+2,35,167,2813,,,,,,Millidia,ミリティア,,not displayed by the event script
+2,36,167,2814,,,,,,Arcana,アルカナ,,not displayed by the event script
+2,37,167,2815,,,,,,Ehrde,エルド,,not displayed by the event script
+2,38,167,2816,,,,,,Mithra,ミトラ,,not displayed by the event script
+2,39,167,2817,,,,,,Aegis,イージス,,not displayed by the event script
+2,40,167,2818,,,,,,Psoron,ソロン,,not displayed by the event script
+2,41,167,2819,,,,,,Khanon,カノン,,not displayed by the event script
+2,42,167,2820,,,,,,Farant,ファーラント,,not displayed by the event script
+2,43,167,2821,,,,,,Xehnon,ゼノン,,not displayed by the event script
+2,44,167,2822,,,,,,Alm,アルム,,not displayed by the event script
+2,45,167,2823,,,,,,Seluvia,セルヴィア,,not displayed by the event script
+2,46,167,2824,,,,,,Masato,魔智,,not displayed by the event script
+2,47,167,2825,,,,,,Woltar,ウォルター,,not displayed by the event script

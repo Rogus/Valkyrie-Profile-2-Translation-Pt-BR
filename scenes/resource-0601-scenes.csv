@@ -1,0 +1,5 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,601,4,1184,,,,,It's locked.,施〓されてる…,,
+2,1,601,3,,,,,,,,,not displayed by the event script
+2,2,601,5,,,,,,Acquired <PART> Key to the Mines,鉱山の〓 <PART> を手に入れた,,not displayed by the event script
+2,3,601,16,,,,,,Turgen Mine,トゥルゲン鉱山,,not displayed by the event script

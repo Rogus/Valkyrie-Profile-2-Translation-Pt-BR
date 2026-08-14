@@ -1,0 +1,74 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1201,20,1684,100,24,,Rufus,"Ah, but that doesn't necessarily mean
+that you oppose him!",…だからってオーディンの敵とは限らないだろ？,,
+1,2,1201,27,2600,100,25,,Silmeria,"Granted, there's no way I can prove it.",確かに それを証明する術はないわ,,
+1,3,1201,21,3716,100,26,,Silmeria,Take care.,…仕方ない,,
+1,4,1201,25,4012,100,27,,Rufus,"Hold on! I'm not saying I don't believe
+you.",待ってくれ！信じないとは言ってない,,
+1,5,1201,22,4496,100,28,,Rufus,"Just tell me one thing: What will you do
+when you meet the king?",一つだけ聞かせてくれ城へ行って王に会ってどうするんだ？,,
+1,6,1201,23,4956,100,29,,Silmeria,"I'll assess the king's sincerity, then
+prepare Dipan for war with the gods.",真意と現状を見極めた上で神々との戦争に備えるつもりよ,,
+1,7,1201,28,6848,100,30,,Rufus,Count me in.,…付き合おう,,
+2,1,1201,1,8644,100,0,,Rufus,So this is Dipan.,ここが ディパン…,,
+2,2,1201,2,9188,100,2,,Rufus,"Which means it's the end of the line
+for me.",…てことは お役御免だな,,
+2,3,1201,3,9800,100,3,,Rufus,"I'll just take what's coming to me and
+let Her Majesty be on her way.",いただく物をいただいて王女様には お別れ申し上げましょうか…,,
+2,4,1201,4,11160,100,5,,Alicia,To Father <PART> ----,父の <PART> 一一,,
+2,5,1201,5,11636,100,6,,Alicia,"I mean, to the king?",王の元まで…,,
+2,6,1201,6,12068,100,7,,Dylan,"As a loyal knight of Dipan, I will
+accompany you anywhere.",頼まれなくてもディパン戦士としてどこまでもお供したい,,
+2,7,1201,26,12356,100,8,,Dylan,"The land appears much as I remember it.
+I think I can lead the way.",見たところ風〓は昔のままだし道案内くらいはできそうだ,,
+2,8,1201,7,12476,100,9,,Rufus,"You're a princess, right?",あんた王女だろ？,,
+2,9,1201,8,13056,100,10,,Rufus,"Can't you just toot on a whistle and have
+some loyal servant whisk you back there?",ここまで来れば〓でも吹けば〓従か誰かすっ〓んで来るだろ？,,
+2,10,1201,9,14156,100,11,,Rufus,"Isn't it about time you gave up this
+little charade, Princess Alicia?",そろそろ〓〓居はやめにしないか？アリーシャ王女様…,,
+2,11,1201,10,14808,100,12,,Rufus,Or perhaps...,それとも <PART> 一一,,
+2,12,1201,11,15272,100,13,,Rufus,"Since I can only assume the souls of your
+heavens-bound einherjar are listening,",エインフェリアを選定して魂を神界へ導く戦乙女 <PART> 一一,,
+2,13,1201,12,16452,100,14,,Rufus,"it would be simpler if I just called
+you, Valkyrie.",ヴァルキリーと呼んだほうが話が早いか…,,
+2,14,1201,13,17196,100,15,,Silmeria,Indeed.,そうね,,
+2,15,1201,32,17968,100,16,,Rufus,There's two of you in there!,二人いたのか…！？,,
+2,16,1201,14,18488,100,17,,Silmeria,I'm Silmeria. Hello.,シルメリアよ よろしく,,
+2,17,1201,15,18680,100,18,,Rufus,"The sister of Hrist and Lenneth. Youngest of
+the trinity of goddesses that rule fate under
+Odin.",主神オーディンに仕える運命の三女神長女アーリィ 次女レナスの〓…,,
+2,18,1201,16,20276,100,19,,Rufus,"But, valkyries aren't incarnated as
+humans <PART> ---- <PART> not without a reason.",でもヴァルキリーの役目がない時は人間に転生しているんじゃ…,,
+2,19,1201,17,22320,100,20,,Rufus,"I've heard that Dipan is planning
+to rebel against the gods...",…ディパンが神への反逆を〓ててるって噂を聞いた,,
+2,20,1201,18,24220,100,22,,Silmeria,"Whatever you might have heard, this
+valkyrie is no longer a servant of Odin's.",噂がどうあれ 今の私はオーディンに使役されるヴァルキリーではない,,
+2,21,1201,19,24516,100,23,,Silmeria,"It was Odin's mistake that awakened me
+when I should have been reborn as
+Princess Alicia.",王の娘アリーシャとして転生したはずがオーディンの過ちゆえに覚〓したのよ,,
+2,22,1201,30,26956,100,4,,Alicia,"Please, won't you escort me to the castle?",このまま城までご一緒願えませんか？,,
+2,23,1201,29,35392,100,1,,Alicia,My home.,そうです,,
+2,24,1201,31,36596,100,21,,Rufus,"You must be here to find evidence of
+that and bring it back to Odin!",証〓を掴んで オーディンにでも報告するつもりか？,,
+3,1,1201,2756,51740,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+3,2,1201,2757,52228,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+3,3,1201,2758,52760,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+3,4,1201,2759,53248,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+3,5,1201,2760,54024,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+3,6,1201,2761,54748,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+3,7,1201,2762,55136,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+3,8,1201,2763,55464,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+3,9,1201,2764,55852,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+4,1,1201,2341,61448,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1201,2342,61584,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1201,2343,61720,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1201,35,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1201,36,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1201,37,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1201,38,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1201,39,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1201,2740,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1201,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,8,1201,2753,,,,,,Silmeria,シルメリア,,not displayed by the event script
+5,9,1201,2754,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,10,1201,2755,,,,,,Dylan,ディラン,,not displayed by the event script

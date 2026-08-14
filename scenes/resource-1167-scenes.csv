@@ -1,0 +1,23 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1167,8,2368,,,,Merchant,"Have a look?
+I've got a few dandies!",見て行くか？結構いいモン揃えておいたぜ,,
+1,2,1167,11,2604,,,,Merchant,"I'll look forward to hearing about you!
+Be careful out there!",面白い事を期待しているぜ気をつけていけよ,,
+1,3,1167,10,2660,,,,Merchant,"You two aren't einherjar, are you!? Wow!
+Reached here all by yourselves, huh? <PART> ---
+Don't worry, I don't want trouble. I just
+came to see what all the fuss was about. <PART> ---
+I'm the kind of guy who takes risks.
+They tell me to stay away from einherjar. <PART> ---
+As you see, I was a peddler on Midgard.
+My son should be running the business now. <PART> ---
+What do you say? Will you have a look?
+We cheerfully accept OTH!",アンタ達 エインフェリアじゃないよな？驚いたな… 自力でここまで来たのか！？ <PART> ああ 俺は敵じゃない 安心しろビフレスト周辺が騒がしかったんで見に来ただけさ <PART> 面白い事には首を突っ込みたがる性分でねエインフェリアの風上にも置けないって言われるよ <PART> 地上に居た頃は ご〓の通り〓人をやっていたんだ今は…上手く行けば息子が継いでいるはずだがね <PART> どうだい 一つ見ていくかい？金は〓〓〓でいいぜ,,
+2,1,1167,1,,,,,,,,,not displayed by the event script
+2,2,1167,2,,,,,,Asgard,アスガルド,,not displayed by the event script
+2,3,1167,3,,,,,,Leave Asgard?,アスガルドから出ます,,not displayed by the event script
+2,4,1167,4,,,,,,Yes,はい,,not displayed by the event script
+2,5,1167,5,,,,,,No,いいえ,,not displayed by the event script
+2,6,1167,6,,,,,,World Map,〓ールドマップ,,not displayed by the event script
+2,7,1167,12,,,,,,Asgard,アスガルド,,not displayed by the event script
+2,8,1167,13,,,,,,Merchant,商人,,not displayed by the event script

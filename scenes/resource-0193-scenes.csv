@@ -1,0 +1,16 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,193,2740,1292,,,,,"Projecting Photons <PART> J <PART> Discharge photons with <PART> J.
+Striking an enemy with photons will seal
+it within a crystal. <PART> Press <PART> or <PART> while pressing <PART> J, and you
+can fire diagonally. <PART> --- <PART> Projecting Photons <PART> J <PART> Touching a crystallized enemy will not trigger
+a battle. <PART> You can move enemies or use them as
+platforms until the seal breaks. <PART> --- <PART> Teleport   Fire photons at a crystal <PART> By hitting a photon crystal with more
+photons, you will swap places with
+the crystal. <PART> Using this, you can reach
+faraway or secluded areas. <PART> --- <PART> Teleport  Fire photons at a crystal <PART> You can jump in mid-air after teleporting. <PART> Or, press and hold <PART> I while
+teleporting. <PART> --- <PART> Teleport  Fire photons at a crystal <PART> Defeated enemies leave remnants.
+Remnants do not move, but enemies
+can be restored by switching screens
+and coming back.",〓〓を〓つ <PART> で〓〓を発〓します。〓の〓〓を〓てる事で、〓を結〓の中に〓じ〓める事ができます。 <PART> や <PART> を <PART> と〓時に〓す事で、〓め方〓へと発〓〓〓です。 <PART> 〓〓を〓つ <PART> 結〓化した〓に〓れても戦〓は〓〓りま〓〓。 <PART> 〓〓が〓けるまでは、〓して動かしたり〓場にして高い場所へジャンプする事ができます。 <PART> 〓〓〓送  結〓に〓〓を〓てる <PART> 〓〓の結〓に、〓に〓〓を〓てる事で結〓と自〓の位置を入れ〓える事ができます。 <PART> 遠く〓れた場所や隔〓された空間にも、〓れを〓えば〓動する事が〓〓です。 <PART> 〓〓〓送  結〓に〓〓を〓てる <PART> 〓送〓後は空中でもジャンプができます。 <PART> 〓送中から <PART> 長〓しでも〓用〓〓です。 <PART> 〓〓〓送  結〓に〓〓を〓てる <PART> なお、〓を〓してしまうと亡〓となり動かなくなりますが、一〓画面を〓り〓えて〓び〓ってくると、〓は〓活します。,,
+2,1,193,2742,,,,,,HPhotons,〓〓について,,not displayed by the event script
+2,2,193,2743,,,,,,Lost Forest,喪失の森,,not displayed by the event script

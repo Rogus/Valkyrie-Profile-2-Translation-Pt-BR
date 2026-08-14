@@ -1,0 +1,30 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1341,2740,4072,,,,Lezard,"I tried to change my old personality and
+become a strong, upright young man.",前回の性格を〓えて <PART> 〓やかな好〓年に生まれ変わるという私の野望は,,
+1,2,1341,2741,6656,,,,Lezard,"But, no. The world of man turned against me...
+My dream was shattered.",世間の〓見の目によって <PART> 〓くも崩れ去ったわけですが…,,
+1,3,1341,2742,6788,,,,Lezard,Tell me. Was that fair? Was it just?,その件に関して <PART> 何かありますか？,,
+1,4,1341,2743,7124,,,,Alicia,"You are a fool. Do you think people can
+change their nature so easily!?",人としての本〓が <PART> そんな〓単に変わるはずがないでしょう！？,,
+1,5,1341,2744,7412,,,,Silmeria,"You tried to steal the spotlight! Remember,
+WE'RE supposed to be the stars of this game!",だいたい 貴方は出しゃばりすぎなのよ <PART> 今回の主人公は 私達のはずなのに…,,
+1,6,1341,2745,7700,,,,Silmeria,A stepping stone!?,踏み〓！？,,
+1,7,1341,2746,7988,,,,Alicia,That's enough!,許せない…,,
+1,8,1341,2747,8220,,,,Lezard,"It still beats playing second fiddle
+in both games like your older sister did.",2作品共に〓に居るだけの <PART> 長女の方に〓べれば 全然マシでしょうに,,
+1,9,1341,2748,8900,,,,Hrist,What? <PART> Second fiddle?,そうか… <PART> 全然マシか…,,
+1,10,1341,2753,9040,,,,Hrist,How dare you!?,覚悟ッ！！,,
+1,11,1341,2749,10872,,,,Lezard,Welcome... <PART> to my world.,ようこそ <PART> いらっしゃいました,,
+1,12,1341,2754,11772,,,,Silmeria,Lezard.,レザード…,,
+1,13,1341,2750,12436,,,,Lezard,Listen...,さて…,,
+1,14,1341,2752,12624,,,,Lezard,You were a mere stepping stone.,踏み〓でしかありませんからね,,
+1,15,1341,2751,12768,,,,Lezard,"Ha! You were nothing...but a means
+for me to attain the power of the gods.",まぁ <PART> 貴女方は… <PART> この私が神の力を手に入れるための,,
+1,16,1341,2755,17128,,,,Lezard,Why so angry?,その程度で何を…,,
+1,17,1341,2762,18196,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+1,18,1341,2756,19104,,,,Hrist,I've never! <PART> I've never been so insulted!,私だって… <PART> 私だってなぁっ！！,,
+2,1,1341,2757,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+2,2,1341,2758,,,,,,Lezard,レザード,,not displayed by the event script
+2,3,1341,2759,,,,,,Alicia,アリーシャ,,not displayed by the event script
+2,4,1341,2760,,,,,,Silmeria,シルメリア,,not displayed by the event script
+2,5,1341,2761,,,,,,Hrist,アーリィ,,not displayed by the event script

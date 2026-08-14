@@ -1,0 +1,41 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,115,2,1924,,,,Townsperson,"Well, you've quite a palm! In all my years
+of telling fortunes, this is a first! <PART> ---
+You are carried along helplessly by the flow,
+but the stream leads to your death... <PART> ---
+Wait! I see a break in the current!
+This break may change the fate of the world.",へえ…アンタ面白い相をしているね長年占い師やってるけど これは初めて見たよ <PART> アンタは数〓な流れに〓き込まれてるこのままだと 流れに〓うまま生を終えるだろう <PART> でも 流れに〓びが見えるねこの〓びは…世界を変えるかもしれない…,,
+1,2,115,3,2016,,,,Townsperson,"Your fate may be a cruel one,
+but you mustn't give up!",アンタの運命は過酷だけど最後まで〓めちゃいけないよ,,
+1,3,115,7,2380,,,,Townsperson,"See your future! One time, 1oo OTH!
+Not responsible for gross inaccuracies!",占いはどうだい？ 一回〓〓〓 〓〓〓だよまあ 当たるかどうかは責任持てないけど,,
+1,4,115,11,2584,,,,Townsperson,This is the only fortune I can tell now.,悪いけど 今できる占いはこれだけだよ,,
+1,5,115,4,2728,,,,Townsperson,"Well, may our paths cross again sometime...",そうかい それじゃまたの機会にね,,
+1,6,115,5,2780,,,,Townsperson,"Hmm... I see... How about that...
+Well, well... What do you know... <PART> ---
+You may separate with those who accompany
+you by your own free choice. <PART> ---
+If you should seek them afterward,
+journey to several places. <PART> ---
+You may find them in empty houses in towns.
+...That is my vision.",ふう…ん… なるほどね…ふむ…ふむふむ… <PART> アンタは今行動を共にしている仲間と自らの意思で別れる事があるかもしれない <PART> もし 別れた仲間と会いたいのなら色々な場所に行ってみるといい <PART> 街の空き家とか…そんな場所で再会できる…と出ているね,,
+1,7,115,6,2856,,,,Townsperson,"Sorry, but I can't see for free...",悪いけど 無料じゃ視れないね,,
+1,8,115,12,3056,,,,Townsperson,"Sorry, but I've given up telling fortunes.
+All I see are visions of sadness...",悪いけど 占いは〓く〓業だよ何度視ても悪い〓しか出ないんだ…,,
+1,9,115,13,3256,,,,Adventurer,"You're treasure hunters, too! A lot come by
+lately <PART> ---- <PART> peace is bad news for mercenaries. <PART> ---
+I came here because I heard about the
+ruins, but the monsters are tough. <PART> ---
+Especially that weird bug. Just when you
+think you've got it... It's crazy!",貴方もトレシャーハンターでしょ最近多いんだよね 平和続きだからかなぁ <PART> この辺にも〓〓があるって噂だったから来てみたんだけどさ 魔物が強くってぇ <PART> 特にアレ 変な虫！ 追い込んだと思ったら自〓すんのよ！ もー信じられない！,,
+1,10,115,14,3348,,,,Adventurer,"At any rate, it's a bug. A giant something!
+Be careful if you go into that desert. <PART> ---
+Don't let your guard down for a second, or
+that'll be the end of you. Take care!",とにかく虫！ シャイアント…ナントカ！この先の砂漠に行くのなら要注意よ <PART> 自〓されたら 〓死だってあるんだから気をつけてね,,
+2,1,115,1,,,,,,Head outside,外へ,,not displayed by the event script
+2,2,115,8,,,,,,Shady fortune telling  OTH,〓〓な〓い 100 0TH,,not displayed by the event script
+2,3,115,9,,,,,,Lay it on me.,〓う,,not displayed by the event script
+2,4,115,10,,,,,,Lay off of it.,やめておく,,not displayed by the event script
+2,5,115,71,,,,,,Kalstad,カルスタッド,,not displayed by the event script
+2,6,115,2811,,,,,,Townsperson,カルスタッド住人,,not displayed by the event script
+2,7,115,2812,,,,,,Adventurer,〓〓者,,not displayed by the event script

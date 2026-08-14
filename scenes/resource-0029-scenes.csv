@@ -1,0 +1,97 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,29,41,328,,,,,"A port town offering liner service to Dipan.
+People and goods fill the bustling streets.",大国ディパンへの定期船を扱う港町。常に人や物資が入り乱れており、街はいつも喧しい。,"Uma cidade portuária com serviço de navios para Dipan.
+Pessoas e mercadorias enchem as ruas movimentadas.",
+1,2,29,42,804,,,,,"A disturbing woodland, haunted day and night.
+Its hidden underground path runs beneath the sea.",昼夜を問わず瘴気の漂う不気味な密林。奥には海底へ続く巨大な地下道が存在するという。,"Um bosque perturbador, assombrado dia e noite.
+Seu caminho subterrâneo escondido passa sob o mar.",
+1,3,29,52,1280,,,,,"The ashes of a biological weapons laboratory.
+Its myriad resultant monsters infest it.",生物兵器の研究がされていたらしき廃墟。なれの果てである不死者が大量に徘徊している。,"As cinzas de um laboratório de armas biológicas.
+Seus inúmeros monstros resultantes infestam o local.",
+1,4,29,43,1756,,,,,"The most prosperous kingdom in all of Midgard.
+A cut above the rest in military and magical might.",ミッドガルド最大の栄華を誇る王制国家。軍事力、魔法技術ともに他国と一線を画している。,"O reino mais próspero de todo Midgard.
+Superior aos demais em poderio militar e mágico.",
+1,5,29,49,2232,,,,,"A mountain that was once mined for precious ore.
+The water vein-powered rig is all that moves now.",かつては上質な鉱物が採掘されていた鉱山。今では水脈を利用した採掘機のみが動き続ける。,"Uma montanha já minerada por seu minério precioso.
+A sonda movida por veios de água é tudo o que se move.",
+1,6,29,46,2708,,,,,"This beautiful, dense forest was once a battlefield.
+Lured by the fog, several monsters lurk inside.",一見、戦場跡とは思えないほど美しい密林。瘴気に誘われたのか、多くの魔物が徘徊している。,"Esta bela e densa floresta já foi campo de batalha.
+Atraídos pela névoa, vários monstros se escondem ali.",
+1,7,29,44,3184,,,,,"A shrine where the Orb Guardians resided.
+Its treasure is heavily guarded atop the mountain.",オーブを守護する者達が暮らしていた神殿。気高き山の頂に建造され、宝は堅く護られている。,"Um santuário onde moravam os Guardiões do Orbe.
+Seu tesouro é fortemente guardado no topo da montanha.",
+1,8,29,48,3580,,,,,"A floating shrine built atop water.
+The remains of temple guardians line the walls.",海の入り江に建てられた水上神殿。城壁には、神殿を守護した者達の遺構が並ぶ。,"Um santuário flutuante erguido sobre a água.
+Os restos dos guardiões do templo se alinham pelas paredes.",
+1,9,29,51,3976,,,,,"Ruins that have been formed by lava tubes.
+A false step lands one in merciless magma flows.",溶岩洞窟を加工し造られた遺跡。マグマが絶えず活動を続け、踏み入る者を拒絶する。,"Ruínas formadas por galerias de lava.
+Um passo em falso leva a correntes impiedosas de magma.",
+1,10,29,54,4372,,,,,"Ruins constructed within a shadowy forest.
+Ceaseless rain has taken its toll on the structure.",薄暗い森の中に建てられた遺跡。絶え間なく降り続ける雨はその殆どを浸食している。,"Ruínas construídas em meio a uma floresta sombria.
+A chuva incessante cobrou seu preço da estrutura.",
+1,11,29,55,4768,,,,,"The final sanctuary built by the Guardians of the Orb.
+Though the tribe is gone, the shrine survives them.",オーブを守る民が最後に築いた聖域。民亡き今も、神殿がその役を引き継いでいる。,"O último santuário dos Guardiões do Orbe.
+Mesmo extinta a tribo, o santuário sobrevive a eles.",
+1,12,29,47,5164,,,,,"A developing kingdom in the continental northwest.
+Steel and commerce industries drive the economy.",大陸北西部に位置する発展途上中の王制国家。商業と鉄鋼業が国の産業の中心となっている。,"Um reino em desenvolvimento no noroeste do continente.
+As indústrias de aço e comércio movem a economia.",
+1,13,29,50,6100,,,,,"A station joining the continent's east and west. Sand
+swept in from the desert region smothers the town.",大陸の東西を結ぶ中継地点の一つ。砂漠地帯から運ばれる砂が街を侵食している。,"Uma estação que une o leste e o oeste do continente.
+A areia varrida do deserto sufoca a cidade.",
+1,14,29,56,6588,,,,,"The sole area divine spirits exist in the human world.
+Within lie the gates of Bifrost, which lead to Asgard.",人間界で唯一精霊の存在する場所、エルフランド。アスガルドへ繋がるビフレストへの門があるという。,"O único lugar com espíritos divinos no mundo humano.
+Dentro estão os portais de Bifrost, que levam a Asgard.",
+1,15,29,57,7076,,,,,"Higher realm inhabited by the gods.
+Beyond the dimensional border flows time eternal.",神々が住まう高みの世界。次元を隔てたその先には、永遠の時が流れている。,"O reino superior habitado pelos deuses.
+Para além da fronteira dimensional, o tempo flui eterno.",
+1,16,29,53,7552,,,,,"A military state seeking to conquer the continent.
+Military oppression is disguised by the state religion.",大陸制覇を目指す軍事国家。軍事による圧制を国家宗教で覆い隠している。,"Um estado militar que busca conquistar o continente.
+A opressão se esconde sob a religião do estado.",
+1,17,29,45,8040,,,,,"A territory of Villnore between two mountains.
+The villagers lead simple lives.",山間部に位置するヴィルノアの属領地。住民は素朴で質素な暮らしを送っている。,"Um território de Villnore entre duas montanhas.
+Os aldeões levam vidas simples.",
+1,18,29,58,8528,,,,,A path to the Coriander region.,コリアンドル方面へ。,Um caminho para a região de Coriander.,
+1,19,29,59,9004,,,,,A path to the Solde region.,ゾルデ方面へ。,Um caminho para a região de Solde.,
+1,20,29,60,9480,,,,,A path to the Crell Monferaigne region.,クレルモンフェラン方面へ。,Um caminho para a região de Crell Monferaigne.,
+1,21,29,61,9956,,,,,A path to the Villnore region.,ヴィルノア方面へ。,Um caminho para a região de Villnore.,
+1,22,29,62,10432,,,,,"A natural tunnel running beneath the ever-raging sea.
+The crown jewels' sanctuary leads to the Dragon Palace.",常に荒れ狂う海峡の下に横たわる天然洞窟。至宝が眠る聖域、奉竜殿へと続いている。,"Um túnel natural sob o mar sempre enfurecido.
+O santuário das joias da coroa leva ao Palácio do Dragão.",
+1,23,29,64,10908,,,,,A path to the Solde region.,ゾルデ方面へ。,Um caminho para a região de Solde.,
+1,24,29,65,11384,,,,,A path to the Crell Monferaigne region.,クレルモンフェラン方面へ。,Um caminho para a região de Crell Monferaigne.,
+1,25,29,70,11860,,,,,"An odd distortion looms over the open plain.
+Another world lies beyond the twisted rift in space.",広大な平原の中に不自然な歪みが見える。歪みの先にある空間の亀裂は異世界に続いている。,"Uma estranha distorção paira sobre a planície.
+Outro mundo existe além da fenda no espaço.",
+1,26,29,72,12492,,,,,"Otherworldly deities' playground for the all-knowing.
+One cannot help but feel despair within its confines.",全てを知る者の為に創られた異界の神の遊戯場。其処では誰もが絶望を感じずにはいられないという。,"O parque de brincadeiras de divindades de outro mundo.
+Não se pode evitar o desespero em seus confins.",
+2,1,29,2,,,,,,Solde,港町ゾルデ,Solde,not displayed by the event script
+2,2,29,4,,,,,,Lost Forest,喪失の森,Floresta Perdida,not displayed by the event script
+2,3,29,5,,,,,,Chateau Obsession,昏き妄執の館,Chateau Obsession,not displayed by the event script
+2,4,29,8,,,,,,Dipan,ディパン,Dipan,not displayed by the event script
+2,5,29,10,,,,,,Turgen Mine,トゥルゲン鉱山,Mina de Turgen,not displayed by the event script
+2,6,29,11,,,,,,Ancient Forest,蒼枯の森,Floresta Antiga,not displayed by the event script
+2,7,29,12,,,,,,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,Ruínas da Montanha Serdberg,not displayed by the event script
+2,8,29,13,,,,,,Villnore,ヴィルノア,Villnore,not displayed by the event script
+2,9,29,14,,,,,,Audoula Temple on the Lake,アウドゥーラ水上神殿,Templo de Audoula no Lago,not displayed by the event script
+2,10,29,15,,,,,,Surts Volcano Caverns,スルス火山洞窟,Cavernas do Vulcão Surts,not displayed by the event script
+2,11,29,16,,,,,,Crawsus Forest Ruins,クローサス森林遺跡,Ruínas da Floresta Crawsus,not displayed by the event script
+2,12,29,17,,,,,,Palace of the Venerated Dragon,奉竜殿,Palácio do Dragão Venerado,not displayed by the event script
+2,13,29,22,,,,,,Kalstad,カルスタッド,Kalstad,not displayed by the event script
+2,14,29,23,,,,,,Forest of Spirits,精霊の森,Floresta dos Espíritos,not displayed by the event script
+2,15,29,24,,,,,,Asgard,アスガルド,Asgard,not displayed by the event script
+2,16,29,25,,,,,,Crell Monferaigne,クレルモンフェラン,Crell Monferaigne,not displayed by the event script
+2,17,29,26,,,,,,Coriander,コリアンドル村,Coriander,not displayed by the event script
+2,18,29,27,,,,,,Kythena Plains,キセナ草原,Planícies de Kythena,not displayed by the event script
+2,19,29,28,,,,,,Kythena Plains,キセナ草原,Planícies de Kythena,not displayed by the event script
+2,20,29,29,,,,,,Sahma Desert,サーマ砂漠,Deserto de Sahma,not displayed by the event script
+2,21,29,30,,,,,,Sahma Desert,サーマ砂漠,Deserto de Sahma,not displayed by the event script
+2,22,29,31,,,,,,Dragonscrypt,竜の墓場,Cripta do Dragão,not displayed by the event script
+2,23,29,33,,,,,,Sukavia Gorge,スカビア渓谷,Desfiladeiro de Sukavia,not displayed by the event script
+2,24,29,34,,,,,,Sukavia Gorge,スカビア渓谷,Desfiladeiro de Sukavia,not displayed by the event script
+2,25,29,37,,,,,,Tower of Lezard Valeth,レザード・ヴァレスの塔,Torre de Lezard Valeth,not displayed by the event script
+2,26,29,73,,,,,,Seraphic Gate,セラフィックゲート,Portal Seráfico,not displayed by the event script
+2,27,29,74,,,,,,Acquired <PART> Map of the North Lands,大陸北部の地図 <PART> を手に入れた,,not displayed by the event script
+2,28,29,75,,,,,,Acquired <PART> Map of the West Lands,大陸西部の地図 <PART> を手に入れた,,not displayed by the event script
+2,29,29,76,,,,,,Acquired <PART> Map of the East Lands,大陸東部の地図 <PART> を手に入れた,,not displayed by the event script
+2,30,29,2740,,,,,,,ミッドガルド,,not displayed by the event script

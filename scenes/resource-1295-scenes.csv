@@ -1,0 +1,24 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1295,1,3388,490,0,,Alicia,It's just a little further!,もうすぐよ！,,
+1,2,1295,2,7288,490,1,,Rufus,Alicia!,アリーシャ…,,
+1,3,1295,3,7736,490,2,,Alicia,It worked! We actually made it!,よかった！ うまくいったのよ！,,
+2,1,1295,2754,21084,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+2,2,1295,2755,21572,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+2,3,1295,2756,22104,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+2,4,1295,2757,22592,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+2,5,1295,2758,23368,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+2,6,1295,2759,24092,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+2,7,1295,2760,24480,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+2,8,1295,2761,24808,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+2,9,1295,2762,25196,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+3,1,1295,2347,30756,,,,,ERRORv,ERR0R！！（v190）,,
+3,2,1295,2348,30892,,,,,ERRORv,ERR0R！！（v191）,,
+3,3,1295,2349,31028,,,,,ERRORv,ERR0R！！（v191）,,
+4,1,1295,6,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,2,1295,7,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+4,3,1295,8,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+4,4,1295,9,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+4,5,1295,10,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+4,6,1295,2729,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+4,7,1295,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
+4,8,1295,2753,,,,,,Rufus,ルーファス,,not displayed by the event script

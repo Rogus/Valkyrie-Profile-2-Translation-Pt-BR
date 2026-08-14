@@ -1,0 +1,7 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1039,2,860,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
+2,1,1039,1,,,,,,HCheck,調べる,,not displayed by the event script
+2,2,1039,3,,,,,,Inspect the area.,〓く,,not displayed by the event script
+2,3,1039,4,,,,,,Leave.,やめる,,not displayed by the event script
+2,4,1039,2966,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
+2,5,1039,2970,,,,,,Acquired <PART> Might Potion,マイト〓ーシ〓ン <PART> を手に入れた,,not displayed by the event script

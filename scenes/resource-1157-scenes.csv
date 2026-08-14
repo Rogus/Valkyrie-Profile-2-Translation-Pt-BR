@@ -1,0 +1,7 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1157,1,0,,,,,Exit,出口,,
+1,2,1157,2,0,,,,,Leave Sahma Desert?,サーマ砂漠から出ます,,
+1,3,1157,3,0,,,,,Yes,はい,,
+1,4,1157,4,0,,,,,No,いいえ,,
+1,5,1157,5,0,,,,,Sahma Desert,サーマ砂漠,,
+1,6,1157,6,0,,,,,,サーマ砂漠,,

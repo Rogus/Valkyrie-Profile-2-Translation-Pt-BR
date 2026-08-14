@@ -1,0 +1,42 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,401,3,892,,,,Townsperson,"It's really you, Princess Alicia...
+I see...you really were alive... <PART> ---
+The king must've been truly happy
+to see you at last.",本当に…アリーシャ様だったのか…そうか…そうか…生きておられたのですか… <PART> 王もきっと…最後にお会いできて…よろこんでおられたと思いますぞ…,,
+1,2,401,4,984,,,,Townsperson,"Princess Alicia...
+You've been through so much. <PART> ---
+And now, for your reunion with
+your father to be like this...",アリーシャ…様…色々と…お辛い目に合われたのでしょう…ねぇ… <PART> せっかく…やっと王とお会いできたのに……こんな…こんな再会…だなんて…,,
+1,3,401,5,1812,,,,Dipan Guard,"Continue on with Queen Malabeth.
+You're our only hope, Princess Alicia.",どうか マルベス様と共に生き〓びて下さいアリーシャ様だけが 我らに残された〓望なのです,,
+1,4,401,6,1904,,,,Dipan Guard,"Princess, the queen still lives!
+Dallas brought her to a hidden room. <PART> ---
+For the sake of your people, find a way
+to continue on with Queen Malabeth! <PART> ---
+We will remain here with
+King Barbarossa.",アリーシャ様 王妃様はまだ生きておられますダレス様が隠し部屋へとご案内なされたのです <PART> どうか… どうか臣民のためにもマルベス様と生き〓びて下さい…！ <PART> 我らはここで…バルバロッサ様のお供を致します…,,
+1,5,401,7,2464,,,,Dipan Guard,"Princess, this is no place
+for you to be right now. <PART> ---
+It is here the king's life was taken,
+and many followed him to their graves. <PART> ---
+A place with such a dark history
+is not befitting of Your Majesty. <PART> ---
+Please, you must press onwards
+as Dipan's only hope...",アリーシャ様…御身のような方がかような場所に来られてはなりませぬ <PART> ここは王が身〓られし場所この場で自害した兵士も多々おります <PART> このような過去に縛られし場所はアリーシャ様に相応しくありませぬ <PART> ディパン最後の〓望として貴方様は前へお進み下さい…,,
+1,6,401,8,2556,,,,Dipan Guard,"Forgive my presumptuousness, but I shall
+watch Dipan to its end on the king's behalf.",〓〓ながら 私は王に代わり この場でディパンの最後を見届けようと思います,,
+1,7,401,10,2860,,,,,"The captain of the guard has gone
+to be by Father's side.",…〓兵長…父の元へ 逝かれたのですね…,,
+1,8,401,12,2940,,,,,Your loyalty will be remembered.,貴方の〓〓は 忘れません…,,
+1,9,401,14,3440,,,,Dipan Guard,"Princess Alicia!
+Queen Malabeth, is she... <PART> ---
+Oh, I see...
+At least the king shall not be alone...",アリーシャ様！ マルベス王妃とは…… <PART> そう…ですか……これで 王も寂しくは…ありませんね…,,
+1,10,401,15,3532,,,,Dipan Guard,"She couldn't stand to be the only one
+who survived... How like the queen.",自分だけが助かるのを〓しとしなかったのでしょう…マルベス様らしいですね,,
+2,1,401,1,,,,,,,,,not displayed by the event script
+2,2,401,11,,,,,,Acquired <PART> Hauteclaire,〓〓オートクレイル <PART> を手に入れた,,not displayed by the event script
+2,3,401,13,,,,,,HTalk,〓す,,not displayed by the event script
+2,4,401,38,,,,,,Dipan Castle,ディパン城,,not displayed by the event script
+2,5,401,2757,,,,,,Townsperson,ディパン住人,,not displayed by the event script
+2,6,401,2758,,,,,,Dipan Guard,ディパン衛兵長,,not displayed by the event script

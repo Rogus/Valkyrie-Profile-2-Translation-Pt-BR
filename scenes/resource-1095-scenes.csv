@@ -1,0 +1,8 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1095,2,1532,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
+2,1,1095,1,,,,,,HCheck,調べる,,not displayed by the event script
+2,2,1095,3,,,,,,Inspect the area.,〓く,,not displayed by the event script
+2,3,1095,4,,,,,,Leave.,やめる,,not displayed by the event script
+2,4,1095,2970,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
+2,5,1095,2974,,,,,,Acquired <PART> Golden Egg,金の〓 <PART> を手に入れた,,not displayed by the event script
+2,6,1095,2975,,,,,,Acquired <PART> Sixth Oracle,〓〓〓 <PART> を手に入れた,,not displayed by the event script

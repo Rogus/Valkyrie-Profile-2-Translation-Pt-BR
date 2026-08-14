@@ -1,0 +1,4 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,491,6,0,,,,,Hall of Valhalla,ヴァルハラ宮殿,,
+1,2,491,7,0,,,,,Acquired <PART> Noble Elixir,ノーブルエリクサー <PART> を手に入れた,,
+1,3,491,8,0,,,,,,エーテルセプター <PART> を手に入れた,,

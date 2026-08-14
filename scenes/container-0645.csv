@@ -1,0 +1,2362 @@
+﻿resource,message_id,kind,offset,byte_length,original_en,original_jp,translated
+645,1,codepage,0,6,Equip,〓〓,
+645,0,codepage,0,6,Equip,〓〓,
+645,2,codepage,6,7,Weapon,〓〓〓〓〓〓,
+645,3,codepage,13,5,Head,〓〓〓〓,
+645,4,codepage,18,5,Body,〓〓〓〓,
+645,5,codepage,23,5,Arms,〓〓〓,
+645,6,codepage,28,5,Legs,〓〓〓〓,
+645,7,codepage,33,7,Acc. 1,〓〓〓〓〓,
+645,8,codepage,40,7,Acc. 2,〓〓〓〓〓,
+645,9,codepage,47,7,Acc. 3,〓〓〓〓〓,
+645,10,codepage,54,7,Acc. 4,〓〓〓〓〓,
+645,11,codepage,61,9,(Remove),〓はずす〓,
+645,12,codepage,70,7,Weapon,〓器,
+645,13,codepage,77,7,Helmet,〓〓〓,
+645,14,codepage,84,8,Cuirass,〓〓〓,
+645,15,codepage,92,8,Armwear,〓〓〓,
+645,16,codepage,100,8,Legwear,〓〓〓,
+645,17,codepage,108,10,Accessory,アクセサリー,
+645,18,codepage,118,5,Qty.,〓,
+645,19,codepage,123,5,Sort,ソート,
+645,20,codepage,128,7,Newest,〓〓入手,
+645,21,codepage,135,4,ABC,名〓〓,
+645,22,codepage,139,5,Type,〓〓〓,
+645,23,codepage,144,11,Rune (Red),ルーン〓〓〓〓,
+645,24,codepage,155,12,Rune (Blue),ルーン〓青〓〓,
+645,25,codepage,167,13,Rune (Green),ルーン〓〓〓〓,
+645,26,codepage,180,10,Rune (No),ルーン〓無〓〓,
+645,27,codepage,190,13,Attack Power,〓〓力〓,
+645,28,codepage,203,12,Magic Power,魔力〓,
+645,29,codepage,215,9,Hit Rate,〓中〓〓,
+645,30,codepage,224,6,Avoid,〓避〓〓,
+645,31,codepage,230,14,Reduce Damage,物〓耐〓〓,
+645,32,codepage,244,13,Magic Resist,魔法耐〓〓,
+645,33,codepage,257,14,Skill formed!,スキルが発生〓,
+645,34,codepage,271,17,Skill destroyed.,スキルが〓〓,
+645,35,codepage,288,13,Status Skill,ステータススキル,
+645,36,codepage,301,13,Attack Skill,アタックスキル,
+645,37,codepage,314,14,Defense Skill,ディフェンススキル,
+645,38,codepage,328,15,Critical Skill,クリティカルスキル,
+645,39,codepage,343,15,Reaction Skill,リアクシヨンスキル,
+645,40,codepage,358,15,Change weapon.,〓器を〓〓します,
+645,41,codepage,373,15,Change helmet.,〓〓〓を〓〓します,
+645,42,codepage,388,16,Change cuirass.,〓〓〓を〓〓します,
+645,43,codepage,404,16,Change armwear.,〓〓〓を〓〓します,
+645,44,codepage,420,16,Change legwear.,〓〓〓を〓〓します,
+645,45,codepage,436,20,Change accessories.,アクセサリーを〓〓します,
+645,46,codepage,456,29,Place newly acquired at top.,〓しく入手した物を先〓に並び〓えます,
+645,47,codepage,485,31,Arrange in alphabetical order.,名〓〓に並び〓えます,
+645,48,codepage,516,17,Arrange by type.,〓〓〓に並び〓えます,
+645,49,codepage,533,26,Place runes (red) at top.,ルーン〓〓〓を先〓に並び〓えます,
+645,50,codepage,559,27,Place runes (blue) at top.,ルーン〓青〓を先〓に並び〓えます,
+645,51,codepage,586,28,Place runes (green) at top.,ルーン〓〓〓を先〓に並び〓えます,
+645,52,codepage,614,31,Place runes (no color) at top.,ルーン〓無〓を先〓に並び〓えます,
+645,53,codepage,645,25,Arrange by attack power.,〓〓力〓に並び〓えます,
+645,54,codepage,670,24,Arrange by magic power.,魔力〓に並び〓えます,
+645,55,codepage,694,21,Arrange by hit rate.,〓中〓〓に並び〓えます,
+645,56,codepage,715,25,Arrange by evasion rate.,〓避〓〓に並び〓えます,
+645,57,codepage,740,31,Arrange by physical tolerance.,物〓耐〓〓に並び〓えます,
+645,58,codepage,771,29,Arrange by magic resistance.,魔法耐〓〓に並び〓えます,
+645,59,codepage,800,24,Check unlearned skills.,〓〓〓のスキルを〓〓します,
+645,60,codepage,824,31,Display equipment explanation.,〓〓についての〓〓を〓〓します,
+645,61,codepage,855,30,"<8099>RSkill <8099>-<8099>+Char. <8099>""Expl.",スキル〓キャラ〓〓〓,
+645,62,codepage,885,28,<8099>QSort <8099>RSkill <8099>8<8099>9Page,ソート〓スキル〓ページ,
+645,63,codepage,913,11,<8099>8<8099>9Page,ページ,
+645,64,codepage,924,30,<8099>2<8099>3Switch Skill <8099>8<8099>9Page,スキル切〓〓ページ,
+645,65,codepage,954,18,<8099>2<8099>3Switch Page,ページ切り〓え,
+645,66,codepage,972,18,1. Viewing Status,〓〓〓ステータスの見方について,
+645,67,codepage,990,19,2. Equipment Types,〓〓〓〓〓〓の〓〓について,
+645,68,codepage,1009,9,3. Links,〓〓〓リンクについて,
+645,69,codepage,1018,9,4. Runes,〓〓〓ルーンについて,
+645,70,codepage,1027,19,5. Learning Skills,〓〓〓スキルの〓え方について,
+645,71,codepage,1046,2,/,〓,
+645,72,codepage,1048,82,"The status numbers displayed on the upper-right
+indicate character capabilities.",画面〓上に〓〓されている〓〓がステータスです。キャラクターの〓力を〓しています。,
+645,73,codepage,1130,3,<808C>,〓〓〓〓〓〓力、〓〓〓〓〓避〓、〓〓〓〓魔力、〓〓〓〓〓物〓耐〓、〓〓〓〓〓中〓、〓〓〓〓魔法耐〓、をそれ〓れ〓しています。,
+645,74,codepage,1314,86,"Set equipment for 9 places: weapon, head, body,
+arms, legs, and 4 additional places.",〓〓は、〓器、〓、〓、〓、〓、アクセサリー〓所の〓〓所に、それ〓れ〓〓する〓〓〓をセットする事ができます。,
+645,75,codepage,1400,115,"In addition to one- and two-handed types, there are
+4 color types of equipment: red, blue, green,
+and colorless.",〓〓〓には、〓手剣、〓手剣といった〓〓の他に、それ〓れ〓〓属〓〓があります。〓〓属〓〓は〓、青、〓、無〓の〓〓〓です。,
+645,76,codepage,1515,89,"Equip items of the same color adjacently and
+the boxes flash.
+
+This is called a link.",〓じ〓の〓〓〓が〓り〓うと、〓〓の〓〓〓の〓が光ります。これを〓リンク〓といいます。,
+645,77,codepage,1604,53,"When linked, effects of the equipment are
+enhanced.",〓〓〓の中には、リンクしている〓〓になると〓〓果〓が〓化されるものがあります。,
+645,78,codepage,1657,58,"The more equipment linked, the stronger
+the enhancement.",リンクしている〓〓〓の〓が〓えるほど、〓化される〓〓も〓加します。,
+645,79,codepage,1715,61,"Gather like-colored equipment for greater
+enhanced effects.",〓〓〓を〓〓で〓えれば、〓〓〓の〓果をより〓化する事が〓〓です。,
+645,80,codepage,1776,103,"Besides color type, equipment also has a rune
+attribute.
+
+Runes are responsible for forming skills.",〓〓〓は、〓属〓の他に〓ルーン〓という属〓も持ちます。ルーンは、スキルを発生さ〓るのに重〓な役〓を果たします。,
+645,81,codepage,1879,93,"Rune attributes are present in red, green, and
+blue equipment, but not colorless equipment.",ルーン属〓が存在するのは、〓、青、〓の〓〓〓です。無〓の〓〓〓には存在しま〓ん。,
+645,82,codepage,1972,146,"A skill is a special ability you can use in battle.
+
+Use attack skills for offense, defense skills for
+defense, etc. There are 5 types in all.",〓スキル〓とは、戦闘で〓用する事ができる〓〓〓力です。〓〓時に〓力を発〓する〓アタックスキル〓防〓時に〓力を発〓する〓ディフェンススキル〓など、〓〓が存在します。,
+645,83,codepage,2118,100,"Combining certain runes through linked
+equipment causes the runes to shine.
+
+This forms a skill.",リンクしている〓〓〓の中に、〓定の〓み〓わ〓のルーンが存在すると、ルーンが光る事があります。これがスキルの発生です。,
+645,84,codepage,2218,57,"When a skill is formed, its name appears on
+the screen.",スキルが発生すると、画面に発生したスキル名が〓〓されます。,
+645,85,codepage,2275,91,"Just forming a skill doesn't mean you can use it.
+Forming a skill is like discovering it.",スキルは発生した〓けでは〓用できま〓ん。スキルが発生した〓〓は、〓用方法を知識として〓たという〓〓です。,
+645,86,codepage,2366,64,"Check the combination of runes needed to form
+skills with <8099>R.",スキルの発生に〓〓なルーンの〓み〓わ〓は、で〓〓できます。,
+645,87,codepage,2430,59,"If a needed rune isn't in your equipment, a ""?"" is
+shown.",〓〓〓〓〓は、スキルを〓えるのに〓〓なルーンが〓っていないという事を〓しています。〓〓〓は、そのルーンを持つ〓〓〓を誰かが〓〓すると、〓〓されるようになります。,
+645,88,codepage,2489,61,"Winning battles with skills formed increases
+acquisition %.",スキルが発生した〓〓で戦闘に〓利するとスキルの〓〓〓が上〓します。,
+645,89,codepage,2550,113,"When the acquisition % reaches 100, you acquire
+the skill.
+
+Set it with the skill screen to use it in battle.",〓〓〓がになると、スキルを〓〓した事になり、戦闘での〓用が〓〓になります。〓〓したスキルは、スキル画面でセットすると〓用できるようになります。,
+645,90,codepage,2663,5,None,なし,
+645,91,codepage,2668,11,Long Sword,ロングソード,
+645,92,codepage,2679,7,Rapier,レイピア,
+645,93,codepage,2686,9,Shamshir,シャムシール,
+645,94,codepage,2695,13,Viking Sword,ヴィーキングソード,
+645,95,codepage,2708,9,Falchion,ファルシオン,
+645,96,codepage,2717,14,Walloon Sword,〓ルーンソード,
+645,97,codepage,2731,9,Karsnaut,霊剣カールスナウト,
+645,98,codepage,2740,17,Sabertooth Saber,名刀〓切り,
+645,99,codepage,2757,9,Pallasch,パラッシュ,
+645,100,codepage,2766,15,Sinclair Saber,シンクレアーサーベル,
+645,101,codepage,2781,10,Frostbane,フロストペイン,
+645,102,codepage,2791,6,Harpe,〓刀ハルペー,
+645,103,codepage,2797,15,Spider Fighter,名刀〓〓切り,
+645,104,codepage,2812,15,Lightning Edge,ライトニングエッジ,
+645,105,codepage,2827,13,Icicle Sword,アイシクルソード,
+645,106,codepage,2840,11,Runeslayer,ルーンスレイヤー,
+645,107,codepage,2851,15,Flare Baselard,フレアバゼラード,
+645,108,codepage,2866,13,Lotus Slicer,名刀〓〓ち,
+645,109,codepage,2879,11,Holy Sword,ホーリィソード,
+645,110,codepage,2890,11,Sun Shower,名刀五月雨,
+645,111,codepage,2901,10,Arondight,名剣アロンダイト,
+645,112,codepage,2911,17,Sword of Silvans,〓刀シルヴァンス,
+645,113,codepage,2928,5,Gram,魔剣グラム,
+645,114,codepage,2933,8,Ascalon,聖剣アスカロン,
+645,115,codepage,2941,9,Moonfalx,名剣ムーンファルクス,
+645,116,codepage,2950,15,Glance Reviver,神剣グランス・リヴァイバー,
+645,117,codepage,2965,9,Dainslef,魔剣ダインスレイヴ,
+645,118,codepage,2974,24,"Demon Sword ""Levantine""",魔剣レヴァンテイン,
+645,119,codepage,2998,14,Helgi's Sword,〓剣ヘルギ,
+645,120,codepage,3012,13,Angel Slayer,〓人の剣〓神を〓〓〓し者〓,
+645,121,codepage,3025,14,Bastard Sword,バスタードソード,
+645,122,codepage,3039,17,Two-Handed Sword,トゥハンデッドソード,
+645,123,codepage,3056,15,Striking Sword,ストライキングソード,
+645,124,codepage,3071,15,Elemental Edge,エレメンタルエッジ,
+645,125,codepage,3086,6,Screp,スクレップ,
+645,126,codepage,3092,9,Claymore,クレイモア,
+645,127,codepage,3101,9,Hrunting,フルンティング,
+645,128,codepage,3110,10,Flamberge,フランベルジュ,
+645,129,codepage,3120,11,Zweihander,ツヴァイハンダー,
+645,130,codepage,3131,11,Vainslayer,名剣ヴェインスレイ,
+645,131,codepage,3142,14,Dragon Slayer,ドラゴンスレイヤー,
+645,132,codepage,3156,12,Kraadicator,シルバークラッド,
+645,133,codepage,3168,12,Grand Sting,蒼剣グランスティング,
+645,134,codepage,3180,10,Arectaris,精王剣アレクタリス,
+645,135,codepage,3190,9,Durandal,〓剣デュランダル,
+645,136,codepage,3199,9,Caliburn,カリバーン,
+645,137,codepage,3208,12,Gjallarhorn,神剣ギャラルホルン,
+645,138,codepage,3220,15,Claiomh Solais,光剣クラウソナス,
+645,139,codepage,3235,14,Vampire Sword,ヴァンパイアソード,
+645,140,codepage,3249,13,Ignite Sword,イグニートソード,
+645,141,codepage,3262,24,"Demon Sword ""Nefarious""",魔剣アクターネファリウス,
+645,142,codepage,3286,8,Tyrfing,壊剣ティルフング,
+645,143,codepage,3294,8,Gungnir,神槍グングニル,
+645,144,codepage,3302,16,Saint's Halberd,聖槍セントハルバード,
+645,145,codepage,3318,17,"Spear ""Basilisk""",〓〓バシリスク,
+645,146,codepage,3335,15,Lunar Bardiche,裂槍ルーンバルディーチェ,
+645,147,codepage,3350,23,"Great Spear ""Dinosaur""",〓槍ダイナソア,
+645,148,codepage,3373,10,Short Bow,シヨートボウ,
+645,149,codepage,3383,9,Crossbow,クロスボウ,
+645,150,codepage,3392,9,Long Bow,ロングボウ,
+645,151,codepage,3401,13,Strength Bow,ストレングスボウ,
+645,152,codepage,3414,17,Supreme Crossbow,スプリームクロスボウ,
+645,153,codepage,3431,15,Heavy Crossbow,ヘビークロスボウ,
+645,154,codepage,3446,18,Composite Longbow,コンポジットロング,
+645,155,codepage,3464,16,Greenery Slayer,グリナリースレイヤー,
+645,156,codepage,3480,9,Arbalest,アーバレスト,
+645,157,codepage,3489,18,Serstine-lock-gun,セルスタインロックガン,
+645,158,codepage,3507,12,Mage Slayer,メイジスレイヤー,
+645,159,codepage,3519,12,Doublecross,〓弓ダブルクロス,
+645,160,codepage,3531,9,Elvenbow,霊弓エルヴンボウ,
+645,161,codepage,3540,14,Shiny Rupture,シャイニィラプチャー,
+645,162,codepage,3554,10,Blue Gale,〓弓ブルーゲイル,
+645,163,codepage,3564,11,Misteltein,〓弓ミステルテイン,
+645,164,codepage,3575,15,Crescent Arrow,クレセントアロー,
+645,165,codepage,3590,13,Wild Chalice,〓イルドカリス,
+645,166,codepage,3603,8,Tathlum,魔〓タスラム,
+645,167,codepage,3611,11,Soulslayer,ソウルスレイヤー,
+645,168,codepage,3622,15,Soothsayer Bow,魔弓レイザーフォーテル,
+645,169,codepage,3637,11,Sylvan Bow,神弓シルヴァンボウ,
+645,170,codepage,3648,21,Elhanan's Fingertips,エルハナンの指先,
+645,171,codepage,3669,10,Ruby Mace,ルビーメイス,
+645,172,codepage,3679,13,Crystal Wand,クリスタル〓ンド,
+645,173,codepage,3692,18,Mystic Cult Staff,秘密教〓の杖,
+645,174,codepage,3710,13,Infinity Rod,インフィニティロッド,
+645,175,codepage,3723,13,Mithril Wand,ミスリル〓ンド,
+645,176,codepage,3736,11,Lotus Wand,ロータス〓ンド,
+645,177,codepage,3747,13,Alchemy Wand,アルケミー〓ンド,
+645,178,codepage,3760,11,Dragonlore,竜杖ドラゴンロア,
+645,179,codepage,3771,9,Holy Rod,ホーリィロッド,
+645,180,codepage,3780,15,Deluge Scepter,デルージュセプター,
+645,181,codepage,3795,15,Unicorn's Horn,聖杖ユニコーンズホーン,
+645,182,codepage,3810,14,Ether Scepter,エーテルセプター,
+645,183,codepage,3824,9,Caduceus,〓杖ケーリュケイオン,
+645,184,codepage,3833,19,Wand of Apocalypse,魔杖アポカリプス,
+645,185,codepage,3852,19,Holy Wand of Telos,聖杖ミリオンテラー,
+645,186,codepage,3871,15,Bloody Knuckle,ブラッディナックル,
+645,187,codepage,3886,13,Bloody Nails,ブラッディフロウ,
+645,188,codepage,3899,12,Bloody Claw,ブラッディクロー,
+645,189,codepage,3911,14,Bloody Duster,ブラッディダスター,
+645,190,codepage,3925,14,Bloody Murder,ブラッディアッシュ,
+645,191,codepage,3939,13,Leather Mail,レザーメイル,
+645,192,codepage,3952,10,Chainmail,チェインメイル,
+645,193,codepage,3962,8,Cuirass,キュイラス,
+645,194,codepage,3970,18,Crystal Chainmail,クリスタルチェイン,
+645,195,codepage,3988,15,Silver Cuirass,シルバーキュイラス,
+645,196,codepage,4003,14,Silver Scales,シルバースケイル,
+645,197,codepage,4017,11,Duel Armor,デュエルアーマー,
+645,198,codepage,4028,12,Flame Armor,フレイムアーマー,
+645,199,codepage,4040,10,Kraadmail,クラッドメイル,
+645,200,codepage,4050,12,Silver Mail,シルバーメイル,
+645,201,codepage,4062,13,Icicle Plate,アイシクルプレート,
+645,202,codepage,4075,13,Dragon Armor,ドラゴンアーマー,
+645,203,codepage,4088,12,Valor Armor,ヴァローアーマー,
+645,204,codepage,4100,11,Full Plate,フルプレート,
+645,205,codepage,4111,14,Valiant Armor,ヴァリアントアーマー,
+645,206,codepage,4125,13,Silver Plate,シルバープレート,
+645,207,codepage,4138,14,Reflect Armor,鏡鎧リフレックス,
+645,208,codepage,4152,14,Mithril Plate,ミスリルプレート,
+645,209,codepage,4166,18,Conquerer's Armor,覇王の鎧,
+645,210,codepage,4184,15,Armor of Aleph,聖鎧アレフストレイン,
+645,211,codepage,4199,20,Infinite Admiration,煌鎧インフィネイトアドマイア,
+645,212,codepage,4219,14,Alicia's Robe,アリーシャのローブ,
+645,213,codepage,4233,6,Cloak,クローク,
+645,214,codepage,4239,13,Silver Cloak,シルバークローク,
+645,215,codepage,4252,14,Leather Cloak,レザークローク,
+645,216,codepage,4266,12,Noble Cloak,ノーブルクローク,
+645,217,codepage,4278,15,Anointed Cloak,アノイントクローク,
+645,218,codepage,4293,13,Supreme Garb,スプリームガーブ,
+645,219,codepage,4306,12,Mirage Robe,幻衣ミラージュローブ,
+645,220,codepage,4318,13,Crystal Garb,〓衣クリスタルガーブ,
+645,221,codepage,4331,14,Elfin Taffeta,エルヴンタフタ,
+645,222,codepage,4345,11,Fairy Garb,フェアリィガーブ,
+645,223,codepage,4356,11,Flame Mist,炎衣フレイムミスト,
+645,224,codepage,4367,13,Phoenix Garb,神衣フェニックスガーブ,
+645,225,codepage,4380,17,Robe of Bryttain,聖衣ブリタニアガーブ,
+645,226,codepage,4397,13,Sylphan Robe,聖衣シルフレッド,
+645,227,codepage,4410,12,Floral Garb,縫衣フローレスガーブ,
+645,228,codepage,4422,14,Eternal Shine,〓衣エターナルシャイン,
+645,229,codepage,4436,7,Sallet,サレット,
+645,230,codepage,4443,14,Silver Sallet,シルバーサレット,
+645,231,codepage,4457,10,Iron Helm,アイアンヘルム,
+645,232,codepage,4467,10,Duel Helm,デュエルヘルム,
+645,233,codepage,4477,13,Crystal Helm,クリスタルヘルム,
+645,234,codepage,4490,12,Silver Helm,シルバーヘルム,
+645,235,codepage,4502,15,Golem Headwear,ゴーレムヘッド,
+645,236,codepage,4517,11,Valor Helm,ヴァローヘルム,
+645,237,codepage,4528,13,Valiant Helm,ヴァリアントヘルム,
+645,238,codepage,4541,10,Rune Helm,ルーンヘルム,
+645,239,codepage,4551,13,Mithril Helm,ミスリルヘルム,
+645,240,codepage,4564,11,Ether Helm,エーテルヘルム,
+645,241,codepage,4575,12,Metal Crown,メタルクラウン,
+645,242,codepage,4587,12,Olive Crown,オリーブクラウン,
+645,243,codepage,4599,15,Anointed Crown,アノイントクラウン,
+645,244,codepage,4614,15,Magician's Hat,マジシャンハット,
+645,245,codepage,4629,26,Tiara of the Holy Empress,聖〓〓のティアラ,
+645,246,codepage,4655,16,Empress Coronet,エンプレスコロネット,
+645,247,codepage,4671,11,Rune Crown,ルーンクラウン,
+645,248,codepage,4682,14,Supreme Crown,スプリームクラウン,
+645,249,codepage,4696,14,Mithril Crown,ミスリルクラウン,
+645,250,codepage,4710,12,Ether Crown,エーテルクラウン,
+645,251,codepage,4722,9,Gauntlet,ガントレット,
+645,252,codepage,4731,14,Metal Buckler,メタルバックラー,
+645,253,codepage,4745,15,Sacred Guarder,セイクリッドガーダー,
+645,254,codepage,4760,15,Silver Buckler,シルバーバックラー,
+645,255,codepage,4775,13,Duel Guarder,デュエルガーダー,
+645,256,codepage,4788,15,Valor Gauntlet,ヴァローガントレット,
+645,257,codepage,4803,14,Holy Gauntlet,ホーリィガントレット,
+645,258,codepage,4817,17,Mithril Gauntlet,ミスリルガントレット,
+645,259,codepage,4834,13,Ether Shield,エーテルシールド,
+645,260,codepage,4847,14,Extreme Guard,エクストリームガード,
+645,261,codepage,4861,11,Star Guard,スターガード,
+645,262,codepage,4872,14,Leather Glove,レザーグローブ,
+645,263,codepage,4886,12,Magic Glove,マジックグローブ,
+645,264,codepage,4898,11,Wind Glove,ウインドグローブ,
+645,265,codepage,4909,13,Vein Greaves,ヴェイングリーブ,
+645,266,codepage,4922,16,Valiant Greaves,ヴァリアントグリーブ,
+645,267,codepage,4938,13,Rune Greaves,ルーングリーブ,
+645,268,codepage,4951,16,Mithril Greaves,ミスリルグリーブ,
+645,269,codepage,4967,14,Ether Greaves,エーテルグリーブ,
+645,270,codepage,4981,14,Metal Greaves,メタルグリーブ,
+645,271,codepage,4995,13,Duel Greaves,デュエルグリーブ,
+645,272,codepage,5008,15,Silver Greaves,シルバーグリーブ,
+645,273,codepage,5023,14,Valor Greaves,ヴァローグリーブ,
+645,274,codepage,5037,12,Suede Boots,スエードブーツ,
+645,275,codepage,5049,12,Elfin Boots,エルヴンブーツ,
+645,276,codepage,5061,10,Red Boots,レッドブーツ,
+645,277,codepage,5071,11,Guard Ring,ガードリング,
+645,278,codepage,5082,13,Protect Ring,プロテクトリング,
+645,279,codepage,5095,9,Hit Ring,ヒットリング,
+645,280,codepage,5104,11,Magic Ring,マジックリング,
+645,281,codepage,5115,11,Flame Ring,フレイムリング,
+645,282,codepage,5126,9,Ice Ring,アイスリング,
+645,283,codepage,5135,13,Thunder Ring,サンダーリング,
+645,284,codepage,5148,12,Poison Ring,ポイズンリング,
+645,285,codepage,5160,11,Light Ring,ライトリング,
+645,286,codepage,5171,10,Dark Ring,ダークリング,
+645,287,codepage,5181,12,Dragon Ring,ドラゴンリング,
+645,288,codepage,5193,11,Demon Ring,デーモンリング,
+645,289,codepage,5204,12,Mirage Ring,ミラージュリング,
+645,290,codepage,5216,11,Giant Ring,ジャイアントリング,
+645,291,codepage,5227,16,Goddess Pendant,戦乙女のペンダント,
+645,292,codepage,5243,11,tri-Emblem,トライエンブレム,
+645,293,codepage,5254,14,Flare Crystal,フレアクリスタル,
+645,294,codepage,5268,12,Ice Crystal,アイスクリスタル,
+645,295,codepage,5280,14,Earth Crystal,アースクリスタル,
+645,296,codepage,5294,16,Thunder Crystal,サンダークリスタル,
+645,297,codepage,5310,13,Holy Crystal,ホーリィクリスタル,
+645,298,codepage,5323,15,Shadow Crystal,シャドウクリスタル,
+645,299,codepage,5338,14,Prism Crystal,プリズムクリスタル,
+645,300,codepage,5352,10,Flare Gem,フレアジェム,
+645,301,codepage,5362,8,Ice Gem,アイスジェム,
+645,302,codepage,5370,12,Thunder Gem,サンダージェム,
+645,303,codepage,5382,10,Earth Gem,アースジェム,
+645,304,codepage,5392,9,Holy Gem,ホーリィジェム,
+645,305,codepage,5401,11,Shadow Gem,シャドウジェム,
+645,306,codepage,5412,10,Prism Gem,プリズムジェム,
+645,307,codepage,5422,21,Holy Water of Mithra,ミトラの聖水,
+645,308,codepage,5443,11,Red Liquid,〓の〓〓,
+645,309,codepage,5454,16,Tome of Anarchy,〓乱の書,
+645,310,codepage,5470,16,Tome of Alchemy,錬金術の書,
+645,311,codepage,5486,18,Warrior's Arcanum,戦士の秘薬,
+645,312,codepage,5504,21,Apothecary's Arcanum,薬士の秘薬,
+645,313,codepage,5525,16,Witch's Arcanum,魔女の秘薬,
+645,314,codepage,5541,15,Sage's Arcanum,賢者の秘薬,
+645,315,codepage,5556,15,Dwarf Tincture,小人の霊薬,
+645,316,codepage,5571,15,Fairy Tincture,妖精の霊薬,
+645,317,codepage,5586,16,Spirit Tincture,精霊の霊薬,
+645,318,codepage,5602,17,Goddess Tincture,女神の霊薬,
+645,319,codepage,5619,7,Elixir,エリクサー,
+645,320,codepage,5626,13,Prime Elixir,プライムエリクサー,
+645,321,codepage,5639,13,Noble Elixir,ノーブルエリクサー,
+645,322,codepage,5652,12,Union Plume,ユニオンプラム,
+645,323,codepage,5664,11,Holy Water,聖水,
+645,324,codepage,5675,11,Holy Grail,聖〓,
+645,325,codepage,5686,14,Idun's Apples,イズンの林〓,
+645,326,codepage,5700,11,Soft Stone,やわらかな石,
+645,327,codepage,5711,13,Aspect Stone,方位石,
+645,328,codepage,5724,17,Horoscope Tablet,〓〓みの石〓,
+645,329,codepage,5741,18,Fireproof Trinket,耐炎の護符,
+645,330,codepage,5759,17,Iceproof Trinket,防寒の護符,
+645,331,codepage,5776,19,Earthproof Trinket,砕土の護符,
+645,332,codepage,5795,23,Lightningproof Trinket,避雷の護符,
+645,333,codepage,5818,18,Foolproof Trinket,無欠の護符,
+645,334,codepage,5836,19,Fireproof Talisman,耐炎のタリスマン,
+645,335,codepage,5855,18,Iceproof Talisman,防寒のタリスマン,
+645,336,codepage,5873,20,Earthproof Talisman,砕土のタリスマン,
+645,337,codepage,5893,24,Lightningproof Talisman,避雷のタリスマン,
+645,338,codepage,5917,19,Foolproof Talisman,無欠のタリスマン,
+645,339,codepage,5936,14,Nectar Potion,リキュールポーシヨン,
+645,340,codepage,5950,13,Charge Break,チャージブレイク,
+645,341,codepage,5963,13,Might Potion,マイトポーシヨン,
+645,342,codepage,5976,13,Guard Potion,ガードポーシヨン,
+645,343,codepage,5989,13,Spell Potion,スペルポーシヨン,
+645,344,codepage,6002,10,Overdrive,オーバードライブ,
+645,345,codepage,6012,22,Tome of Teleportation,〓〓の書,
+645,346,codepage,6034,17,Wand of Exchange,〓〓の杖,
+645,347,codepage,6051,9,Rose Gem,〓炎石,
+645,348,codepage,6060,10,Azure Gem,蒼炎石,
+645,349,codepage,6070,9,Jade Gem,〓炎石,
+645,350,codepage,6079,20,Expert's Experience,識者の経験,
+645,351,codepage,6099,9,Ambrosia,アンブロシア,
+645,352,codepage,6108,21,Fencer's Familiarity,剣士の知識,
+645,353,codepage,6129,17,Sorcerer's Savvy,魔術師の知識,
+645,354,codepage,6146,18,Archer's Aptitude,弓闘士の知識,
+645,355,codepage,6164,17,Thief's Thoughts,盗賊の知識,
+645,356,codepage,6181,15,Warrior's Wits,重戦士の知識,
+645,357,codepage,6196,11,Golden Egg,金の卵,
+645,358,codepage,6207,14,Eye of Heaven,天空の〓,
+645,359,codepage,6221,13,Double-check,ダブルサーチ,
+645,360,codepage,6234,11,Spectacles,スペクタクルズ,
+645,361,codepage,6245,16,Gem of Illusion,幻〓の〓,
+645,362,codepage,6261,17,Tome of Godspeed,神〓の書,
+645,363,codepage,6278,16,Immense Incisor,巨大な〓〓,
+645,364,codepage,6294,16,Monstrous Molar,巨大な奥〓,
+645,365,codepage,6310,22,Colossal Canine Tooth,巨大な〓〓,
+645,366,codepage,6332,11,Troll Clay,トロルクレイ,
+645,367,codepage,6343,16,Rotted Bludgeon,〓った〓〓,
+645,368,codepage,6359,17,Skull Receptacle,ドクロの器,
+645,369,codepage,6376,16,Skeleton Goblet,がいこつの〓,
+645,370,codepage,6392,12,Black Skull,〓いドクロ,
+645,371,codepage,6404,14,Black Crystal,〓〓の結〓,
+645,372,codepage,6418,9,Bonemeal,骨クズ,
+645,373,codepage,6427,15,Fuchsia Spinel,〓炎の〓〓石,
+645,374,codepage,6442,12,Teal Spinel,蒼炎の〓〓石,
+645,375,codepage,6454,18,Chartreuse Spinel,〓炎の〓〓石,
+645,376,codepage,6472,14,Scarlet Alloy,〓雷の〓,
+645,377,codepage,6486,15,Cerulean Alloy,青雷の〓,
+645,378,codepage,6501,16,Verdigris Alloy,〓雷の〓,
+645,379,codepage,6517,17,Polished Red Ore,錬〓鉱,
+645,380,codepage,6534,18,Polished Blue Ore,錬青鉱,
+645,381,codepage,6552,19,Polished Green Ore,錬〓鉱,
+645,382,codepage,6571,12,Rose Quartz,〓〓〓,
+645,383,codepage,6583,14,Indigo Quartz,青〓〓,
+645,384,codepage,6597,12,Sage Quartz,〓〓〓,
+645,385,codepage,6609,13,Broken Blade,〓れた刀〓,
+645,386,codepage,6622,13,Broken Sword,〓れた剣,
+645,387,codepage,6635,9,Red Horn,レッドホーン,
+645,388,codepage,6644,14,Dragon's Horn,竜の〓,
+645,389,codepage,6658,9,Red Fang,レッドファング,
+645,390,codepage,6667,14,Dragon's Fang,竜の〓,
+645,391,codepage,6681,16,Dragon Sapphire,ドラゴンサファイア,
+645,392,codepage,6697,15,Dragon Emerald,ドラゴンエメラルド,
+645,393,codepage,6712,12,Dragon Ruby,ドラゴンルビー,
+645,394,codepage,6724,18,Dragon's Wingbone,竜の〓骨,
+645,395,codepage,6742,13,Emerald Horn,エメラルドホーン,
+645,396,codepage,6755,15,Dragon's Talon,竜の〓〓,
+645,397,codepage,6770,20,Dragonlord's Nerves,竜神の〓〓,
+645,398,codepage,6790,17,Dragon's Eyeball,竜の眼〓,
+645,399,codepage,6807,14,Dragon Scales,竜のうろこ,
+645,400,codepage,6821,15,Monster Scales,魔物のうろこ,
+645,401,codepage,6836,17,Evergreen Scales,〓〓のうろこ,
+645,402,codepage,6853,15,Rainbow Scales,〓〓のうろこ,
+645,403,codepage,6868,12,Worn Shield,ジャンクシールド,
+645,404,codepage,6880,6,Crown,クラウン,
+645,405,codepage,6886,15,Alligator Skin,〓ニ〓,
+645,406,codepage,6901,16,Sharp Spearhead,するどい〓先,
+645,407,codepage,6917,9,Bat Wing,こうもりの〓,
+645,408,codepage,6926,16,Black Wing Skin,〓い〓〓,
+645,409,codepage,6942,13,Bat Umbrella,こうもり〓,
+645,410,codepage,6955,8,Bat Ear,こうもりの〓,
+645,411,codepage,6963,18,Great Eagle Heart,大〓シの心〓,
+645,412,codepage,6981,13,Wing Feather,〓切〓,
+645,413,codepage,6994,20,Charged Tailfeather,封雷の尾〓,
+645,414,codepage,7014,22,Windswept Tailfeather,封〓の尾〓,
+645,415,codepage,7036,15,Raptor's Talon,〓〓の〓,
+645,416,codepage,7051,13,Beast's Fang,〓の〓,
+645,417,codepage,7064,13,Scarlet Fang,〓紅の〓,
+645,418,codepage,7077,16,Firebreath Core,ファイアブレスコア,
+645,419,codepage,7093,17,Blazebreath Core,ブレイズブレスコア,
+645,420,codepage,7110,17,Flamebreath Core,フレイムブレスコア,
+645,421,codepage,7127,15,Icebreath Core,アイスブレスコア,
+645,422,codepage,7142,17,Frostbreath Core,コールドブレスコア,
+645,423,codepage,7159,20,Blizzardbreath Core,ブリザードブレスコア,
+645,424,codepage,7179,15,Gasbreath Core,ガスブレスコア,
+645,425,codepage,7194,18,Poisonbreath Core,ポイズンブレスコア,
+645,426,codepage,7212,17,Toxicbreath Core,ハームブレスコア,
+645,427,codepage,7229,24,Pentachrome Breath Core,五〓のブレスコア,
+645,428,codepage,7253,11,Beast Pelt,〓の〓〓,
+645,429,codepage,7264,14,Beast's Flesh,〓肉,
+645,430,codepage,7278,12,Koboldapult,スリングトップ,
+645,431,codepage,7290,13,Koboldriller,コボルトランサー,
+645,432,codepage,7303,12,Koboldriver,コボルトハンマー,
+645,433,codepage,7315,12,Copper Coin,〓のコイン,
+645,434,codepage,7327,12,Silver Coin,銀のコイン,
+645,435,codepage,7339,10,Gold Coin,金のコイン,
+645,436,codepage,7349,10,Bolt Coin,〓〓のコイン,
+645,437,codepage,7359,9,Iron Ore,鉄鉱石,
+645,438,codepage,7368,16,Gargoyle's Arch,巨〓の手〓,
+645,439,codepage,7384,17,Gargoyle's Wings,巨〓の〓,
+645,440,codepage,7401,16,Crimson Feather,〓紅の〓〓,
+645,441,codepage,7417,18,Evergreen Feather,〓〓の〓〓,
+645,442,codepage,7435,17,Pure White Plume,〓〓の〓り〓,
+645,443,codepage,7452,13,Indigo Plume,〓〓の〓り〓,
+645,444,codepage,7465,5,Beak,くちばし,
+645,445,codepage,7470,8,Feather,〓〓,
+645,446,codepage,7478,7,Garnet,金〓石,
+645,447,codepage,7485,19,White Flower Petal,〓い花〓,
+645,448,codepage,7504,17,Red Flower Petal,〓い花〓,
+645,449,codepage,7521,12,Poison Seed,ポイズンシード,
+645,450,codepage,7533,11,Toxic Seed,ハームシード,
+645,451,codepage,7544,11,Nightshade,ベラドンナ,
+645,452,codepage,7555,15,Insect Stinger,虫のトゲ,
+645,453,codepage,7570,10,Hot Plate,ヒートプレート,
+645,454,codepage,7580,12,Beetle Horn,〓虫の〓,
+645,455,codepage,7592,13,Beetle Shell,〓虫の殻〓,
+645,456,codepage,7605,17,Blue Bubble Core,ブルーバブルコア,
+645,457,codepage,7622,18,Green Bubble Core,グリーンバブルコア,
+645,458,codepage,7640,16,Swordfish Snout,ソードホーン,
+645,459,codepage,7656,14,Narwhal Tooth,バンカーホーン,
+645,460,codepage,7670,8,Seafood,海鮮肉,
+645,461,codepage,7678,12,Gas Ejector,ガスバレル,
+645,462,codepage,7690,12,Jet Ejector,ジェットバレル,
+645,463,codepage,7702,12,Red Ejector,レッドバレル,
+645,464,codepage,7714,13,Stone Bullet,ストーンブリット,
+645,465,codepage,7727,17,Ammunition Shell,貝殻の〓〓,
+645,466,codepage,7744,14,Armor Piercer,アーマーピアス,
+645,467,codepage,7758,12,Black Pearl,〓〓〓,
+645,468,codepage,7770,9,Adhesive,〓〓〓,
+645,469,codepage,7779,15,Walkflower Leg,〓行花の〓,
+645,470,codepage,7794,16,Walkflower Root,〓行花の〓,
+645,471,codepage,7810,19,Walkflower Tendril,〓行花のツル,
+645,472,codepage,7829,17,Walkflower Blade,〓行花の剣,
+645,473,codepage,7846,10,Wax Clump,ロウの〓,
+645,474,codepage,7856,15,Vegetable Seed,〓物の〓,
+645,475,codepage,7871,14,Mask Fragment,〓面の欠〓,
+645,476,codepage,7885,10,Bone Mask,ボーンマスク,
+645,477,codepage,7895,12,Dark Amulet,ダークアミュレット,
+645,478,codepage,7907,12,Chaos Force,カオスフォース,
+645,479,codepage,7919,15,Desolation Gem,〓〓〓,
+645,480,codepage,7934,11,Aura Force,オーラフォース,
+645,481,codepage,7945,12,Bone Relief,ボーンレリーフ,
+645,482,codepage,7957,19,Tome of Necromancy,不死者の書,
+645,483,codepage,7976,10,Golem Eye,ゴーレムアイ,
+645,484,codepage,7986,20,Counterfeit Crystal,〓りの水〓,
+645,485,codepage,8006,11,Pixie Cube,ピクシーキューブ,
+645,486,codepage,8017,12,Golem Heart,ゴーレムハート,
+645,487,codepage,8029,10,METH Seal,〓〓〓〓の〓印,
+645,488,codepage,8039,11,Base Metal,〓金属,
+645,489,codepage,8050,15,Red Soul Flame,レッドソウルフレイム,
+645,490,codepage,8065,16,Blue Soul Flame,ブルーソウルフレイム,
+645,491,codepage,8081,14,Headless Doll,〓のない人〓,
+645,492,codepage,8095,10,Ice Jewel,〓の宝〓,
+645,493,codepage,8105,11,Hail Jewel,〓の宝〓,
+645,494,codepage,8116,17,Drilling Imprint,〓〓の〓印,
+645,495,codepage,8133,17,Piercing Imprint,〓〓の〓印,
+645,496,codepage,8150,16,Mirror Fragment,魔鏡の欠〓,
+645,497,codepage,8166,12,Evil Mirror,イビルミラー,
+645,498,codepage,8178,14,Copper Signet,〓〓の聖印,
+645,499,codepage,8192,17,Cask of Offering,〓の神器,
+645,500,codepage,8209,11,Pact Chain,〓〓の〓,
+645,501,codepage,8220,11,Demon Horn,デーモンホーン,
+645,502,codepage,8231,12,Diablo Horn,ディアブロホーン,
+645,503,codepage,8243,15,Dead Man's Gem,死者の宝〓,
+645,504,codepage,8258,11,Fool's Gem,〓者の宝〓,
+645,505,codepage,8269,15,Jet Black Wing,〓〓の〓,
+645,506,codepage,8284,17,Wing of Darkness,暗〓の〓,
+645,507,codepage,8301,14,Demon's Blaze,デモンズブレイズ,
+645,508,codepage,8315,14,Vampire Heart,ヴァンパイアハート,
+645,509,codepage,8329,14,Eternal Flame,不〓の炎,
+645,510,codepage,8343,13,Vampire Fang,ヴァンパイアファング,
+645,511,codepage,8356,18,Bloodsucking Fang,〓〓〓,
+645,512,codepage,8374,13,Vampire Claw,ヴァンパイアクロー,
+645,513,codepage,8387,20,Sharp Scissor Heart,シャープシザーハート,
+645,514,codepage,8407,19,Sharp Scissor Wing,シャープシザーの〓,
+645,515,codepage,8426,12,Scissorhand,シザーハンド,
+645,516,codepage,8438,8,Citrine,〓水〓,
+645,517,codepage,8446,13,Rose Imprint,バラの〓印,
+645,518,codepage,8459,14,Giant Pincers,大ばさみ,
+645,519,codepage,8473,21,Stonecutting Pincers,〓岩〓,
+645,520,codepage,8494,11,Geist Core,ガイストコア,
+645,521,codepage,8505,13,Gremlin Core,グレムリンコア,
+645,522,codepage,8518,11,Ram's Horn,ビッグラム,
+645,523,codepage,8529,21,Battering Ram's Horn,ブレイクラム,
+645,524,codepage,8550,11,Tail Armor,アーマーテイル,
+645,525,codepage,8561,17,Snakebelly Armor,〓〓の〓〓,
+645,526,codepage,8578,12,Empty Shell,〓ろの殻,
+645,527,codepage,8590,13,Hollow Shell,〓無殻,
+645,528,codepage,8603,17,Spiral Arrowhead,ら〓んの〓じり,
+645,529,codepage,8620,7,Baraka,バラカ,
+645,530,codepage,8627,13,Evil Eye Gem,魔眼の宝〓,
+645,531,codepage,8640,8,Eyeball,眼〓,
+645,532,codepage,8648,11,Heart Core,ハートコア,
+645,533,codepage,8659,19,Emerald Heart Core,エメラルドハートコア,
+645,534,codepage,8678,11,Thick Bone,堅〓骨,
+645,535,codepage,8689,10,Bone Mace,ボーンメイス,
+645,536,codepage,8699,14,Bonafide Bone,〓〓骨,
+645,537,codepage,8713,10,Tentacles,テンタクルス,
+645,538,codepage,8723,13,Goblin Tooth,小〓の〓,
+645,539,codepage,8736,22,Monsters Canine Tooth,〓魔の〓〓,
+645,540,codepage,8758,10,Drainwing,ドレインウイング,
+645,541,codepage,8768,10,Steelwing,スティールウイング,
+645,542,codepage,8778,18,Trickster Imprint,トリックスターの〓印,
+645,543,codepage,8796,19,Little Devil Heart,小〓魔の心〓,
+645,544,codepage,8815,15,Burgundy Flask,ポルト酒,
+645,545,codepage,8830,7,Legion,レギオン,
+645,546,codepage,8837,13,Crimson Wasp,クリムゾン〓スプ,
+645,547,codepage,8850,13,Platinum Eye,プラチナアイ,
+645,548,codepage,8863,11,Big Bugeye,大〓眼,
+645,549,codepage,8874,12,Giant Amber,ジャイアントアンバー,
+645,550,codepage,8886,11,Amber Core,アンバーコア,
+645,551,codepage,8897,11,Big Needle,ビッグニードル,
+645,552,codepage,8908,13,Lance Needle,ランサーニードル,
+645,553,codepage,8921,19,Insect King's Wing,王虫の〓,
+645,554,codepage,8940,12,Indigo Wing,〓〓の〓,
+645,555,codepage,8952,12,Royal Jelly,ロイヤルゼリー,
+645,556,codepage,8964,21,Vermillion Cartilage,〓紅の〓骨,
+645,557,codepage,8985,20,Verdigris Cartilage,〓〓の〓骨,
+645,558,codepage,9005,10,Mace Head,メイスヘッド,
+645,559,codepage,9015,12,Lamb's Horn,〓の〓,
+645,560,codepage,9027,12,Warped Horn,歪ん〓〓,
+645,561,codepage,9039,12,Shell Shade,シェルシェード,
+645,562,codepage,9051,17,Protection Shade,プロテクトシェード,
+645,563,codepage,9068,15,Falcon Imprint,〓の〓印,
+645,564,codepage,9083,17,Accuracy Imprint,〓中の〓印,
+645,565,codepage,9100,13,Lamb's Tooth,〓の〓〓,
+645,566,codepage,9113,13,Warped Teeth,歪ん〓〓〓,
+645,567,codepage,9126,18,Silverwork Orchid,〓の銀〓工,
+645,568,codepage,9144,18,Wyvern's Wingbone,〓竜の〓切骨,
+645,569,codepage,9162,18,Dragon Gallstones,竜〓石,
+645,570,codepage,9180,16,Red Dragon Bile,竜〓〓,
+645,571,codepage,9196,9,Tailclaw,テイルクロー,
+645,572,codepage,9205,11,Tailbanger,テイルバンカー,
+645,573,codepage,9216,18,Green Gallbladder,〓〓〓,
+645,574,codepage,9234,19,Draconic Gallstone,〓竜〓,
+645,575,codepage,9253,21,Brilliant Peacemaker,ブリリアントピースメーカー,
+645,576,codepage,9274,11,Trade Card,ジェントルカード,
+645,577,codepage,9285,14,Sacred O Part,セイクリッドオーパーツ,
+645,578,codepage,9299,14,Sacred Spinel,ホーリィスピネル,
+645,579,codepage,9313,11,Hemp Laces,〓の〓,
+645,580,codepage,9324,12,Core Spinel,コアスピネル,
+645,581,codepage,9336,14,Copper Splint,スプリントカッパー,
+645,582,codepage,9350,13,Core Emerald,コアエメラルド,
+645,583,codepage,9363,10,Core Ruby,コアルビー,
+645,584,codepage,9373,14,Silver Sconce,銀の〓〓,
+645,585,codepage,9387,16,Darkbreath Core,ダークブレスコア,
+645,586,codepage,9403,17,Blackbreath Core,ブラックブレスコア,
+645,587,codepage,9420,17,Verdigris Scales,〓〓のうろこ,
+645,588,codepage,9437,20,Electricbreath Core,エレキブレスコア,
+645,589,codepage,9457,19,Thunderbreath Core,サンダーブレスコア,
+645,590,codepage,9476,16,Boltbreath Core,ボルトブレスコア,
+645,591,codepage,9492,17,Ruby Breath Core,ルビーブレスコア,
+645,592,codepage,9509,18,Vermillion Scales,〓紅のうろこ,
+645,593,codepage,9527,19,Scarlet Exhalation,紅〓の〓〓,
+645,594,codepage,9546,19,Pentachrome Scales,五〓のうろこ,
+645,595,codepage,9565,10,Flare Ore,火炎鉱石,
+645,596,codepage,9575,16,Pyrotechnic Ore,〓炎鉱石,
+645,597,codepage,9591,13,Damascus Ore,ダマスカス鉱,
+645,598,codepage,9604,12,Mithril Ore,ミスリル鉱,
+645,599,codepage,9616,12,Solar Jewel,〓陽の宝〓,
+645,600,codepage,9628,15,Augite of Life,〓の〓石,
+645,601,codepage,9643,11,Adamantite,アダマンタイト,
+645,602,codepage,9654,14,Phosphate Ore,〓鉱,
+645,603,codepage,9668,13,Dragon Skull,竜のドクロ,
+645,604,codepage,9681,19,Undead Dragon Bone,〓竜骨,
+645,605,codepage,9700,14,Dragonmaggots,竜〓,
+645,606,codepage,9714,12,Dragonfleas,竜〓虫,
+645,607,codepage,9726,14,Rotted Scales,〓ったうろこ,
+645,608,codepage,9740,17,Blackened Scales,〓ずん〓うろこ,
+645,609,codepage,9757,14,Spectral Wing,〓〓〓,
+645,610,codepage,9771,17,Transparent Wing,〓〓〓,
+645,611,codepage,9788,23,Black Dragon Gallstone,〓の竜〓,
+645,612,codepage,9811,19,Sable Dragonscales,〓〓の竜〓,
+645,613,codepage,9830,14,Dark Carapace,暗〓殻,
+645,614,codepage,9844,19,Black Dragon Talon,竜の〓〓〓,
+645,615,codepage,9863,13,Platinum Fly,〓銀〓,
+645,616,codepage,9876,18,Noblewoman's Fire,〓人の炎,
+645,617,codepage,9894,22,Noblewoman's Phosphor,〓人の〓光,
+645,618,codepage,9916,18,Noblewoman's Ball,〓人の〓,
+645,619,codepage,9934,13,Crystal Mask,クリスタルマスク,
+645,620,codepage,9947,11,Soul Pearl,ソウルパール,
+645,621,codepage,9958,13,Cutting Claw,カッティングクロー,
+645,622,codepage,9971,12,Divine Cask,神器,
+645,623,codepage,9983,11,Holy Relic,聖遺物,
+645,624,codepage,9994,16,White Loincloth,〓〓の〓布,
+645,625,codepage,10010,13,Wisdom Jewel,〓知の宝〓,
+645,626,codepage,10023,12,Ether Laser,〓器エーテル・レイザー,
+645,627,codepage,10035,19,Full-color Lenneth,レナス人〓・フルカラー,
+645,628,codepage,10054,12,Gobligotchi,〓ぶりっち,
+645,629,codepage,10066,17,tri-Emblem Alpha,トライエンブレム〓,
+645,630,codepage,10083,16,tri-Emblem Beta,トライエンブレム〓,
+645,631,codepage,10099,12,Curse Check,カースチェック,
+645,632,codepage,10111,13,Freeze Check,フリーズチェック,
+645,633,codepage,10124,11,Stun Check,スタンチェック,
+645,634,codepage,10135,12,Stone Check,ストーンチェック,
+645,635,codepage,10147,15,Paralyze Check,パラライチェック,
+645,636,codepage,10162,13,Poison Check,ポイズンチェック,
+645,637,codepage,10175,14,Silence Check,サイレンスチェック,
+645,638,codepage,10189,14,Confuse Check,コンフューズチェック,
+645,639,codepage,10203,14,Frailty Check,ウィークチェック,
+645,640,codepage,10217,11,Fear Check,フィアーチェック,
+645,641,codepage,10228,13,Power Bangle,パ〓ーバングル,
+645,642,codepage,10241,13,Magic Bangle,マジックバングル,
+645,643,codepage,10254,16,Ring of Healing,ヒールリング,
+645,644,codepage,10270,4,Keg,〓酒,
+645,645,codepage,10274,15,Stagnant Water,〓ん〓水,
+645,646,codepage,10289,14,Broken Amulet,壊れたアミュレット,
+645,647,codepage,10303,11,Dead Ashes,死〓,
+645,648,codepage,10314,12,Pallid Mask,青〓の〓面,
+645,649,codepage,10326,18,Shrine Chronicles,〓〓書,
+645,650,codepage,10344,11,Meat Chops,骨付き肉,
+645,651,codepage,10355,12,Fish Scales,〓〓,
+645,652,codepage,10367,7,G-seed,〓シード,
+645,653,codepage,10374,17,Fairy-in-the-box,妖精の小〓,
+645,654,codepage,10391,20,Drilling Ram's Horn,ドリルラム,
+645,655,codepage,10411,14,Petrified Ash,トネリコの化石,
+645,656,codepage,10425,13,Busted Spear,壊れた槍,
+645,657,codepage,10438,13,Busted Sword,壊れた剣,
+645,658,codepage,10451,11,Busted Bow,壊れた弓,
+645,659,codepage,10462,18,Busted Greatsword,壊れた大剣,
+645,660,codepage,10480,13,Busted Staff,壊れた杖,
+645,661,codepage,10493,14,Busted Hammer,壊れた〓,
+645,662,codepage,10507,16,Honeysuckle Dew,金銀花の露,
+645,663,codepage,10523,15,Berserker Herb,ベルセルクの草〓,
+645,664,codepage,10538,17,The Cosmic Order,〓〓の原〓,
+645,665,codepage,10555,13,Bragi's Song,ブラギの〓〓,
+645,666,codepage,10568,11,Thaw Water,〓〓け水,
+645,667,codepage,10579,12,Pearl Grass,〓〓草,
+645,668,codepage,10591,15,Cockatrice Egg,コカトリスの卵,
+645,669,codepage,10606,16,Awakening Berry,〓〓の〓,
+645,670,codepage,10622,14,Dipan Pennant,ディパンのペナント,
+645,671,codepage,10636,16,Holybreath Core,ホーリィブレスコア,
+645,672,codepage,10652,19,Shiningbreath Core,シャイニングブレスコア,
+645,673,codepage,10671,20,Rotten Dragon Liver,〓竜〓,
+645,674,codepage,10691,11,Sabertooth,セイバートゥース,
+645,675,codepage,10702,12,Insect Claw,虫のカギ〓,
+645,676,codepage,10714,13,Insect Blade,インセクトブレイダー,
+645,677,codepage,10727,15,Banshee Scales,バンシースケイル,
+645,678,codepage,10742,12,Tuning Wing,〓〓〓,
+645,679,codepage,10754,12,Crest Estoc,クレストエストック,
+645,680,codepage,10766,6,Amber,〓〓,
+645,681,codepage,10772,10,Tough Fin,堅〓なヒレ,
+645,682,codepage,10782,10,Ray Force,レイフォース,
+645,683,codepage,10792,12,Broken Claw,〓れた〓,
+645,684,codepage,10804,10,Axe Crust,戦〓殻,
+645,685,codepage,10814,12,Sight Stone,〓〓,
+645,686,codepage,10826,11,Vision Orb,ビジヨンオーブ,
+645,687,codepage,10837,13,Bloody Patch,ブラッディクロス,
+645,688,codepage,10850,18,Evil Eyebrow Ring,魔眼のピアス,
+645,689,codepage,10868,16,Steel Horseshoe,鋼の〓鉄,
+645,690,codepage,10884,16,Symbol of Might,マイトシンボル,
+645,691,codepage,10900,13,Vortex Crest,〓〓の〓〓,
+645,692,codepage,10913,20,Rising Dragon Talon,〓〓〓,
+645,693,codepage,10933,12,Spiked Claw,スパイククロー,
+645,694,codepage,10945,12,Scythe Claw,サイズクロー,
+645,695,codepage,10957,14,Obsidian Claw,〓〓の〓,
+645,696,codepage,10971,11,Blade Claw,ブレイドクロー,
+645,697,codepage,10982,11,Dragon Rib,ドラゴンリブ,
+645,698,codepage,10993,18,Dragon Meat Paste,竜の肉味〓,
+645,699,codepage,11011,12,Arc-en-Ciel,アルカンシェル,
+645,700,codepage,11023,18,Evil Eye of Death,〓〓の魔眼,
+645,701,codepage,11041,18,Magic Dragon Horn,魔竜の大〓,
+645,702,codepage,11059,19,Orientation Scales,〓〓〓,
+645,703,codepage,11078,23,Unladen Swallow Scales,〓〓〓,
+645,704,codepage,11101,14,Homing Scales,ホーミングスケイル,
+645,705,codepage,11115,15,Crimson Scales,紅〓のうろこ,
+645,706,codepage,11130,14,Ghibli Scales,ギブリスケイル,
+645,707,codepage,11144,12,Bora Scales,ボーラスケイル,
+645,708,codepage,11156,15,Khamsin Scales,カムシーンスケイル,
+645,709,codepage,11171,12,Ymir's Tear,ユミルの涙,
+645,710,codepage,11183,12,Thor's Rage,トールレイジ,
+645,711,codepage,11195,10,Deep Doom,ディープドゥーム,
+645,712,codepage,11205,12,Blood Jewel,ブラッドジュエリー,
+645,713,codepage,11217,13,Firefly Fire,〓火,
+645,714,codepage,11230,12,Cursed Soul,〓〓の〓,
+645,715,codepage,11242,12,Dark Matter,ダークマター,
+645,716,codepage,11254,12,Abyss Cloak,暗〓のマント,
+645,717,codepage,11266,18,Demon's Right Arm,〓魔の〓〓,
+645,718,codepage,11284,17,Demon's Left Arm,〓魔の〓〓,
+645,719,codepage,11301,13,Demon's Hoof,〓魔のひ〓め,
+645,720,codepage,11314,15,Eternal Silver,不〓銀,
+645,721,codepage,11329,11,Orichalcum,オリハルコン,
+645,722,codepage,11340,14,Electric Bone,〓気骨,
+645,723,codepage,11354,16,Lightning Stone,〓〓石,
+645,724,codepage,11370,14,Sprinter Cell,スプリントセル,
+645,725,codepage,11384,12,Giant Pearl,大〓の〓〓,
+645,726,codepage,11396,12,Kraken Fang,クラーケンファング,
+645,727,codepage,11408,12,Metabolizer,メタボライザー,
+645,728,codepage,11420,16,Bullets of Evil,ブリッツオブイービル,
+645,729,codepage,11436,11,Moon Pearl,ムーンパール,
+645,730,codepage,11447,17,Pulverizing Bone,〓砕骨,
+645,731,codepage,11464,16,Assault Missile,アサルトミサイル,
+645,732,codepage,11480,21,Sylphide's Arrowhead,シルフィードアロートップ,
+645,733,codepage,11501,11,Lucky Tail,しっ〓ホルダー,
+645,734,codepage,11512,10,Empty Box,空の小〓,
+645,735,codepage,11522,14,Firemouse Fur,火ネズミの〓〓,
+645,736,codepage,11536,17,Demon's Parabola,〓魔のパラボラ,
+645,737,codepage,11553,10,Bat Cloak,こうもりのマント,
+645,738,codepage,11563,14,Griffon Talon,グリフォンの〓,
+645,739,codepage,11577,14,Drilling Beak,〓〓のくちばし,
+645,740,codepage,11591,18,Silver Vine Frame,銀〓のカズラ,
+645,741,codepage,11609,19,Mirror of the Lake,〓面の鏡,
+645,742,codepage,11628,14,Wind-up Screw,ネジ〓き,
+645,743,codepage,11642,11,Fatal Seed,フェイタルシード,
+645,744,codepage,11653,12,Tiny Flower,ちいさな花,
+645,745,codepage,11665,5,Lily,リリィ,
+645,746,codepage,11670,13,Weeping Lily,スズラン,
+645,747,codepage,11683,10,Gladiolus,グラジオラス,
+645,748,codepage,11693,14,Amber Lenneth,レナス人〓・アンバー,
+645,749,codepage,11707,17,Metallic Lenneth,レナス人〓・メタリック,
+645,750,codepage,11724,16,Crystal Lenneth,レナス人〓・クリスタル,
+645,751,codepage,11740,9,Truthade,トゥルサード,
+645,752,codepage,11749,8,Incense,インセンス,
+645,753,codepage,11757,12,Dragon Palm,竜の〓,
+645,754,codepage,11769,15,Prancing Horse,〓ね〓の〓〓,
+645,755,codepage,11784,14,Celadon Chick,青〓のひよこ,
+645,756,codepage,11798,14,Ruby-Eyed Bee,ルビーのミツバチ,
+645,757,codepage,11812,15,Beryl Bracelet,〓〓石の〓輪,
+645,758,codepage,11827,18,Red Copper Mirror,〓〓の鏡,
+645,759,codepage,11845,19,Blue Bronze Mirror,青〓の鏡,
+645,760,codepage,11864,10,Blue Doll,青い人〓,
+645,761,codepage,11874,14,Green Kittens,〓の〓〓,
+645,762,codepage,11888,11,Red Cherry,レッドチェリー,
+645,763,codepage,11899,11,Blue Apple,ブルーアップル,
+645,764,codepage,11910,16,Dark Votive Cup,〓の〓器,
+645,765,codepage,11926,15,Jade Sealpouch,〓の封〓器,
+645,766,codepage,11941,15,Rose Sealpouch,〓の封〓器,
+645,767,codepage,11956,16,Azure Sealpouch,〓の封〓器,
+645,768,codepage,11972,23,Map of the North Lands,大陸北部の地図,
+645,769,codepage,11995,22,Map of the West Lands,大陸西部の地図,
+645,770,codepage,12017,22,Map of the East Lands,大陸東部の地図,
+645,771,codepage,12039,14,Hildr's Sword,狩剣ヒルド,
+645,772,codepage,12053,12,Hauteclaire,誓剣オートクレイル,
+645,773,codepage,12065,14,Cloth Greaves,クロスグリーブ,
+645,774,codepage,12079,15,Knight Greaves,ナイトグリーブ,
+645,775,codepage,12094,14,Leather Boots,レザーブーツ,
+645,776,codepage,12108,12,Magic Boots,マジックブーツ,
+645,777,codepage,12120,11,Work Boots,〓ークブーツ,
+645,778,codepage,12131,6,Charm,お守り,
+645,779,codepage,12137,12,Royal Glove,ロイヤルグローブ,
+645,780,codepage,12149,18,Divine Time Giver,時〓りの神器,
+645,781,codepage,12167,9,Gandeeva,ガンデーヴァ,
+645,782,codepage,12176,18,Oreichalkos Staff,オレイカルコスの杖,
+645,783,codepage,12194,17,Thrud's Gauntlet,スルーズの手〓,
+645,784,codepage,12211,17,Randgrid's Blade,神剣ランドグリーズ,
+645,785,codepage,12228,15,Alvitr's Armor,アルヴィトの光鎧,
+645,786,codepage,12243,23,Allfather Kobold Shirt,〓〓のコボルトシャツ,
+645,787,codepage,12266,18,Double-sided Tape,〓面テープの欠〓,
+645,788,codepage,12284,11,Wisdom Wig,〓知の〓ラ,
+645,789,codepage,12295,9,Gungnear,クンクニル,
+645,790,codepage,12304,12,Bamboo Pole,〓〓,
+645,791,codepage,12316,20,Push-up Thingamajig,〓〓てあ〓るアレ,
+645,792,codepage,12336,12,Freya's Cap,フレイキャップ,
+645,793,codepage,12348,13,Crystal Ball,クリスタルボール,
+645,794,codepage,12361,21,Valkyrie Kobold Mail,戦乙女のコボルトメイル,
+645,795,codepage,12382,15,Die-cast Lance,ダイキャストランス,
+645,796,codepage,12397,21,Cypress Quarterstaff,ひのきのぼう,
+645,797,codepage,12418,17,Self-help Manual,〓用書,
+645,798,codepage,12435,10,Iron Pipe,鉄パイプ,
+645,799,codepage,12445,9,Ham-Star,ハム〓スター,
+645,800,codepage,12454,15,Sunflower Seed,ひまわりのたね,
+645,801,codepage,12469,14,Miracle Guard,ミラクルガード,
+645,802,codepage,12483,15,Phylactic Helm,フィラクトヘルム,
+645,803,codepage,12498,17,Ouroboros Symbol,ウロボロスシンボル,
+645,804,codepage,12515,11,Afro Puffs,アフロヘッド,
+645,805,codepage,12526,16,Antique Pendant,ふるびたペンダント,
+645,806,codepage,12542,7,Radish,大〓,
+645,807,codepage,12549,15,Steel Hairband,鋼鉄のヘアーバンド,
+645,808,codepage,12564,24,Depressing Kobold Shirt,ヘタれたコボルトシャツ,
+645,809,codepage,12588,12,Third Proof,〓〓目の〓,
+645,810,codepage,12600,16,Winded Bandanna,〓〓のバンダナ,
+645,811,codepage,12616,17,New Item Catalog,〓〓のガイドブック,
+645,812,codepage,12633,15,Wigged-out Wig,ツンツンの〓ラ,
+645,813,codepage,12648,14,Purple Mirror,〓の鏡,
+645,814,codepage,12662,10,Tiny Bugs,ちいさな虫,
+645,815,codepage,12672,15,Valkyrie Favor,ヴァルキリーフェイバー,
+645,816,codepage,12687,26,"Slashing Sword ""Farewell""",裂刀ファーウェル,
+645,817,codepage,12713,13,Bahamut Tear,バハムートティア,
+645,818,codepage,12726,22,Improved Dragonslayer,ドラゴンスレイヤー〓,
+645,819,codepage,12748,13,Undead Sword,不死者の剣,
+645,820,codepage,12761,21,Philosopher's Pebble,賢者の石の〓〓,
+645,821,codepage,12782,16,Homunculus Seed,ホムンクルスの〓,
+645,822,codepage,12798,18,Monster Manifesto,大いなる教書,
+645,823,codepage,12816,18,Dark Cleric Robes,〓の法衣,
+645,824,codepage,12834,18,Sword of the Meek,〓〓られし者の剣,
+645,825,codepage,12852,13,Hunted Mouse,狩られたネズミ,
+645,826,codepage,12865,16,Tailless Lizard,尻尾の切れたトカゲ,
+645,827,codepage,12881,18,Misfortunate Bird,不幸な青い鳥,
+645,828,codepage,12899,9,Cat Poop,ねこのふん,
+645,829,codepage,12908,12,Sucked Bone,しやぶった骨,
+645,830,codepage,12920,16,Chewed-up Shoes,かじった靴,
+645,831,codepage,12936,14,Squalid Cloth,ぼろぼろの布,
+645,832,codepage,12950,9,Dog Poop,いぬのふん,
+645,833,codepage,12959,13,Chicken Feed,ひよこのえさ,
+645,834,codepage,12972,17,Vegetable Debris,野菜くず,
+645,835,codepage,12989,15,Clamshell Chum,貝殻入りのえさ,
+645,836,codepage,13004,10,Bird Poop,とりのふん,
+645,837,codepage,13014,9,Cat Ring,〓の指輪,
+645,838,codepage,13023,9,Dog Ring,〓の指輪,
+645,839,codepage,13032,10,Bird Ring,鳥の指輪,
+645,840,codepage,13042,15,Solomon's Ring,ソロモンの指輪,
+645,842,codepage,13058,30,A common sword made of steel.,一〓〓に〓用されている鉄〓の刀剣。,
+645,843,codepage,13088,63,A thin-bladed sword. Generally used to deliver thrust attacks.,〓〓の剣。〓に〓〓〓〓を〓定して〓られている。,
+645,844,codepage,13151,61,"A kind of saber. Its name means ""curved like a lion's tail.""",サーベルの原〓となった剣。〓〓の尾という〓味を持つ。,
+645,845,codepage,13212,38,Preferred sword of fearless warriors.,〓〓な戦士が〓んで〓っていたという刀剣。,
+645,846,codepage,13250,30,Curved sword with wide blade.,〓〓の広い〓〓の〓刀。,
+645,847,codepage,13280,63,"Equipped with a large hilt, it improves the wielder's defense.",ヒルトと〓ばれるナックルガードを〓り付け、利き手の防〓〓果を高めた刀剣。,
+645,848,codepage,13343,88,"Holy sword that disperses wicked spirits.
+It is said to rip through immaterial beasts.",〓まわしき亡霊を〓ち〓う聖剣。〓〓を持たない魔物を切り裂くと言われている。,
+645,849,codepage,13431,89,"Sword said to bury ferocious beasts in a single blow.
+Fallen beasts leave but a memory.",〓〓な〓を一〓刀で〓ったと言われる剣。〓された〓は〓〓の一つになると言われている。,
+645,850,codepage,13520,57,Sword that is excellent for either slashing or stabbing.,〓〓と〓〓の〓方の用途に〓れた〓〓を〓す刀剣。,
+645,851,codepage,13577,24,A straight-edged saber.,〓刀〓のサーベル。,
+645,852,codepage,13601,37,Sword endowed with the magic of ice.,〓の魔力を付〓された刀剣。,
+645,853,codepage,13638,110,"Sword with blade curved in the shape of a crescent.
+Said to have decapitated a monster with snakes for hair.",〓〓に〓がった〓を持つ剣。〓〓の〓〓を持つ魔物の〓を〓としたと言われている。,
+645,854,codepage,13748,76,"Blade said to have buried a monstrous spider.
+Insects writhe at its touch.",〓〓な力を持つ大〓〓を一〓刀で〓ったと言われる剣。その刀〓に〓れた虫は、こと〓とく死を〓える。,
+645,855,codepage,13824,72,"A sword whose razor-sharp edge is endowed with the power of
+lightning.",雷〓の力を〓に付〓された刀剣。,
+645,856,codepage,13896,84,"Sword endowed with the magic power of ice.
+Its victims are stung by a bitter cold.",〓の魔力を付〓された刀剣。〓られた者は〓〓の〓気にさらされると言う。,
+645,857,codepage,13980,90,"Sword said to crush magic power. 
+Even the greatest of sorcerers is powerless before it.",魔力を砕くと言われる剣。この剣の〓には、どんなに〓大な魔術師も無力となる。,
+645,858,codepage,14070,37,Sword imbued with the power of fire.,炎の力を秘めているという刀剣。,
+645,859,codepage,14107,78,"Blade so sharp it can cut floating lotuses.
+Vegetation withers at its touch.",水面に〓かぶ〓を〓ち切る〓に〓い切れ味を持つ剣。その刀〓に〓れた〓物はたちまち枯れ〓く。,
+645,860,codepage,14185,31,Sword blessed with holy power.,聖なる力で〓められた刀剣。,
+645,861,codepage,14216,89,"Blade so quick it appears as a blur. 
+Not even its victim knows how many cuts are made.",あまりの〓〓の〓さに、剣〓が一つにしか見えないという名剣。〓〓された者すら〓〓〓られたか〓〓できない。,
+645,862,codepage,14305,81,"Sword once belonging to the Knight of the Lake.
+Said to capture women's hearts.",かつて〓の〓士と〓ばれた〓〓の剣。〓多の女〓を〓にすると言われている。,
+645,863,codepage,14386,68,"Longsword forged from an unknown metal with the shine of
+platinum.",〓金に〓く金属で〓られた長剣。〓質〓〓〓は不〓。,
+645,864,codepage,14454,97,"A sword unmatched by any other. But it is so powerful that
+the wielder will fall into darkness.",無〓の名剣。〓が〓器の〓質を〓〓に〓〓しす〓たため、持つ者は〓らず〓に〓ちる結果になるという。,
+645,865,codepage,14551,91,"Sword of a saint known as the Dragonslayer.
+Attacks with extraordinary destructive power.",竜〓しの異名を持つ聖人が所持した剣。この剣による〓〓は〓常の〓壊力を上〓る。,
+645,866,codepage,14642,38,Sword forged from a fallen meteorite.,〓石を〓えて〓られたという〓〓の刀剣。,
+645,867,codepage,14680,123,"Divine sword imbued with the power to create worlds. Positive
+power is transformed into negative power to purify enemies.",世界創世の力を秘めているという神の剣。〓の力を〓に〓〓して〓を〓〓し、〓化するという。,
+645,868,codepage,14803,82,"Its name means god-slayer, but in fact its power lies in the
+opposite direction.",神〓しの〓名をき〓られた剣。〓がその〓質は、魔とは〓〓〓に位置している。,
+645,869,codepage,14885,92,"A magical black sword said to have been discovered in the
+stomach of the dragon Bloodbane.",魔竜の〓中にあると言われた〓〓の魔剣。,
+645,870,codepage,14977,41,Sword said to be that of the hero Helgi.,〓〓ヘルギが所〓していたと言われる剣。,
+645,871,codepage,15018,101,"Sword bestowed upon a villain who slays angels. 
+Even the mightiest of gods is powerless before it.",天〓を〓し続けた〓人に〓られる〓壊の剣。どんな〓大な神もこの剣の〓には無力となる。,
+645,872,codepage,15119,49,Sword which can be wielded in one or both hands.,〓手でも〓手でも扱える剣。,
+645,873,codepage,15168,51,"A two-handed greatsword, as long as a man is tall.",人の〓長とほぼ〓じ長さを持つ〓手剣。,
+645,874,codepage,15219,33,A type of two-handed greatsword.,〓手持ち大剣の〓〓。,
+645,875,codepage,15252,50,Greatsword endowed with the power of the spirits.,精霊の力が付〓された大剣。,
+645,876,codepage,15302,68,"Antique sword with a sharp blade. 
+Even rust cannot dull its edge.",〓い切れ味を持つ宝剣。〓びてもその〓力は〓がれないという。,
+645,877,codepage,15370,68,"Two-handed greatsword with a blade that is heavy yet 
+razor-sharp.",刀〓は重いが切れ味は〓い、〓手持ち大剣の〓〓。,
+645,878,codepage,15438,33,A type of two-handed greatsword.,〓手持ち大剣の〓〓。,
+645,879,codepage,15471,84,"Greatsword with a flame-like serrated edge.
+A sword as deadly as it is decorative.",火炎の〓を〓する大剣。炎のように〓〓つ刀〓を持つ。,
+645,880,codepage,15555,91,"Super-heavyweight sword longer than its wielder's height.
+Crushes enemies in their armor.",人の〓長よりも長く〓られた〓重量〓の剣。どんな巨大な〓も、防〓〓と〓き〓す〓壊力を持つ。,
+645,881,codepage,15646,58,Sword which cuts through flesh as well as warped spirits.,肉〓と〓に歪ん〓精神を切り裂くという刀剣。,
+645,882,codepage,15704,100,"Sword with incredible power against dragons.
+Even the strongest of dragons is powerless before it.",竜〓しとも〓ばれる大剣。どんな〓大な力を持つ竜も、この剣の〓には無力となる。,
+645,883,codepage,15804,45,Beloved sword of one of Villnore's founders.,かつてヴィルノア建国の〓となった戦士が〓用していた剣。,
+645,884,codepage,15849,87,"Blue ripples occasionally appear on this greatsword's blade,
+as if it were breathing.",刀〓に蒼い〓〓が時〓〓かび上がり、まるで〓〓いているかのような〓を見〓る大剣。,
+645,885,codepage,15936,99,"Greatsword named after a Fairy King who led thousands of
+fairies in their war against the demons.",精霊王の名を〓する大剣。〓〓にのぼる精霊を〓べる者の〓と〓えられる。,
+645,886,codepage,16035,34,Imperial sword forged by fairies.,妖精により〓えられた〓王の剣。,
+645,887,codepage,16069,116,"Sword that grants wielder supreme executive power, plucked
+from a stone by a knight. Smites foes in a single blow.",王を〓定するための岩から〓かれたという〓士王の剣。一〓で〓手を死に〓いやると言われている。,
+645,888,codepage,16185,79,"Horn of Heimdall, guardian of Bifrost.
+Assumes the form of a sword in battle.",ビフレストの〓人ヘイムダルが所持する〓〓。戦いの時にはその〓を剣に〓える。,
+645,889,codepage,16264,53,An unstoppable sword that will slice any foe in two.,どんな〓でも切り〓てたという不〓の剣。,
+645,890,codepage,16317,48,Magic sword that sucks the blood of its victim.,〓〓した〓手の〓を〓るという魔剣。,
+645,891,codepage,16365,56,Greatsword endowed with the power of a fiery explosion.,〓炎の力が付〓された大剣。,
+645,892,codepage,16421,85,"Greatsword of ill repute.
+Despite its dishonorable name, it holds staggering power.",〓〓なる者と名付けられた大剣。〓がその不名〓な名もあまりに〓力な力を〓まれての事らしい。,
+645,893,codepage,16506,53,"Brings victory to its holder, but at quite a cost...",持ち〓に〓利をもたらす剣。〓がその〓〓は大きい。,
+645,894,codepage,16559,95,"Lance that stabilizes Asgard, realm of the gods.
+One of the Four Treasures. Property of Odin.",神界アスガルドに〓定をもたらすと言われる槍。〓宝の一つで、オーディンが所〓している。,
+645,895,codepage,16654,45,Pole arm carrying the blessings of the gods.,神の〓〓が〓えられた〓槍。,
+645,896,codepage,16699,117,"A name derived from words meaning ""little king."" The inset
+basilisk's eye can turn the object of its gaze to stone.",小さな王の名を〓する槍。〓〓部には、〓ん〓〓手を石化さ〓るというバシリスクの眼がはめ〓まれている。,
+645,897,codepage,16816,80,"Pole arm bearing a half-moon shaped blade at its end.
+Imbued with magic power.",半月〓の〓先を持つ長〓の槍。魔力が〓められている。,
+645,898,codepage,16896,67,"Long heavy spear with the tooth of a dinosaur affixed to its
+end.",〓〓すべきこうもりの名を〓する長槍。〓いうろこに覆われた魔物ですら、一〓で切り〓〓るという。,
+645,899,codepage,16963,21,A typical small bow.,一〓〓に〓用されている小〓の弓。,
+645,900,codepage,16984,76,"An easy-to-use mechanical bow that launches a short bolt at
+high velocity.",〓〓な〓〓で〓力ある〓を〓出できるよう、〓〓な〓出機構を〓り付けた弓。,
+645,901,codepage,17060,39,A bow designed for long range attacks.,長〓〓〓〓を〓定して〓られた弓。,
+645,902,codepage,17099,42,A more powerful version of the short bow.,シヨートボウを〓化した弓。,
+645,903,codepage,17141,70,"A crossbow made of the finest materials with the finest
+workmanship.",最高の素〓と最高の技術を用いて〓られた弓。,
+645,904,codepage,17211,41,A more powerful version of the crossbow.,クロスボウを〓化した弓。,
+645,905,codepage,17252,46,Composite bow created from several materials.,多〓の素〓を〓み〓わ〓た〓〓弓。,
+645,906,codepage,17298,76,"It is said vegetation withers from the touch of arrows shot
+from this bow.",その弓から〓たれた〓は、〓れる〓物をこと〓とく枯らすと言われている弓。,
+645,907,codepage,17374,47,Enlarged crossbow meant for aggressive battle.,〓〓力重〓により大〓化したクロスボウ。,
+645,908,codepage,17421,20,A type of crossbow.,クロスボウの〓〓。,
+645,909,codepage,17441,86,"Bow that crushes magic power. Even the greatest of sorcerers
+is powerless before it.",魔力を〓ち砕く弓。どんな〓大な魔術師も、この〓の〓には無力となる。,
+645,910,codepage,17527,66,"Advanced technology allows the bow to launch rapid-fire
+attacks.",高〓な技術により、〓の〓続発〓を〓〓とした弓。,
+645,911,codepage,17593,35,Bow handed down amongst the elves.,神の器と〓されるエルフ〓に〓わる弓。,
+645,912,codepage,17628,77,"A bow which fires flashing arrows which carry tremendous
+destructive force.",〓〓した者との〓絶を〓味する〓〓の弓。その〓の〓きが〓をこの世から〓〓するという。,
+645,913,codepage,17705,104,"Shoots arrows with sheer gale force. Arrows shot from the bow
+achieve higher destructive capabilities.",〓〓の〓く〓を〓つ弓。その弓から〓たれた〓は、〓常の〓壊力を上〓る。,
+645,914,codepage,17809,81,"A bow carved from a hollowed tree that captured the spirit of
+the god of light.",光の神の〓を〓うとされる〓り〓で〓られた弓。,
+645,915,codepage,17890,66,"A bow designed to fire arrows tipped with magical moon
+crystals.",月光石と〓ばれる魔〓石の一〓を〓〓して〓られたという〓を〓つ弓。,
+645,916,codepage,17956,84,"Bow endowed with holy power. Even the most unclean monster
+is powerless before it.",聖なる力を付〓された弓。どんな〓れた力を持つ魔物も、この弓の〓では無力となる。,
+645,917,codepage,18040,97,"Magic stone of the sun that slayed the god of darkness.
+Imbued with the magic of the light god.",暗〓神を〓した〓器。〓陽〓とも〓される。光の神の魔力が〓められている。,
+645,918,codepage,18137,71,"Bow that crushes demons. 
+Said to steal the life force of its victim.",〓を砕く力を持つとされる弓。〓〓した〓手の〓力を〓うと言われている。,
+645,919,codepage,18208,114,"Named after one who can foretell impending danger. 
+But the knowledge does not enable him to prevent its coming.",〓機を〓〓る者の〓を〓する弓。〓がその〓〓となった者が〓れる術は無い。,
+645,920,codepage,18322,105,"One of the Four Treasures. Said to stabilize the spirit world.
+Attack power is proportional to wielder.",〓宝の一つ。妖精界に〓定をもたらすと言われている。その〓〓力は持ち〓に〓〓する。,
+645,921,codepage,18427,58,Weapon of a hero believed by some to have slayed a giant.,巨人を〓したとされる〓〓の〓器。,
+645,922,codepage,18485,96,"A staff with a ruby gem set in its tip. Inside the gem a tiny
+light flickers like a heartbeat.",先〓に紅〓を〓りたてた杖。紅〓の中〓には心〓の〓動のように〓〓する小さな光が見える。,
+645,923,codepage,18581,97,"A wand with a crystal set in its tip.
+Pulsating with 7 different colors, it is quite beautiful.",先〓に水〓を〓りたてた杖。光の加〓によって〓〓に〓き、とても美しい。,
+645,924,codepage,18678,106,"Staff excavated from a barren seaside village.
+Bears an inscription praising the ancient god of the sea.",ある海〓の廃村から発掘された杖。〓〓の海の神を〓める〓〓が〓まれている。,
+645,925,codepage,18784,45,Staff decorated with the symbol of infinity.,先〓に無〓大を〓す〓りが付けられた杖。,
+645,926,codepage,18829,32,Wand composed of magical metal.,魔法金属を用いて〓られた杖。,
+645,927,codepage,18861,82,"A wand fashioned in the image of a lotus flower.
+For use in mystical ceremonies.",〓の花を〓した〓りが付けられた杖。魔術の〓〓に〓用される。,
+645,928,codepage,18943,42,A wand fashioned in the image of a fairy.,妖精を〓した〓りが付けられた杖。,
+645,929,codepage,18985,46,Staff imbued with the magic power of dragons.,ドラゴンの持つ魔力を封じ〓めた杖。,
+645,930,codepage,19031,38,Bejeweled rod imbued with holy power.,聖なる力を持つ宝〓がはめ〓まれた杖。,
+645,931,codepage,19069,56,A scepter inscribed with the emblem of a crashing wave.,荒れ狂う大〓を〓した〓〓が〓り付けられた杖。,
+645,932,codepage,19125,61,A unicorn horn which has been turned into a magician's wand.,ユニコーンの〓を魔術師用の杖に加工したもの。,
+645,933,codepage,19186,40,Scepter imbued with the power of ether.,天界の力で〓られた魔法の杖。,
+645,934,codepage,19226,43,Staff in the shape of two snakes entwined.,〓〓の〓が〓みついた〓を持つ杖。,
+645,935,codepage,19269,72,"A staff shaped like a giant snake.
+Enables the Great Magic Pale Flare.",大〓の〓を〓した〓〓の杖。大魔法ペイルフレアーが〓用できる。,
+645,936,codepage,19341,82,"Staff imbued with infinite wisdom. 
+Enables the Great Magic Phantom Destruction.",無〓の〓知を封じ〓めた杖。大魔法ファントムデストラクシヨンが〓用できる。,
+645,937,codepage,19423,88,"Beloved knuckle weapon of Brahms, Lord of the Undead.
+Said to suck its victim's blood.",不死者の王ブラムスが〓用するナックル。〓〓した〓手の〓を食らうと言われている。,
+645,938,codepage,19511,88,"Beloved knuckle weapon of Brahms, Lord of the Undead.
+Said to suck its victim's blood.",不死者の王ブラムス〓用の〓器。〓〓した〓手の〓を食らうと言われている。,
+645,939,codepage,19599,96,"A claw that enhances the power of Brahms, Lord of the Undead.
+Said to suck its victim's blood.",不死者の王ブラムスの力を引き出す〓。〓〓した〓手の〓を食らうと言われている。,
+645,940,codepage,19695,119,"A fearsome weapon that greatly enhances the abilities of
+Brahms, Lord of the Undead. Said to suck its victim's blood.",不死者の王ブラムスの〓力を〓に引き出す〓るべき〓〓。〓〓した〓手の〓を食らうと言われている。,
+645,941,codepage,19814,86,"A weapon especially for Brahms, Lord of the Undead.
+Said to suck its victim's blood.",不死者の王ブラムス〓用の〓器。〓〓した〓手の〓を食らうと言われている。,
+645,942,codepage,19900,80,"Tanned hide armor.
+Helps to protect the wearer from lightning-element attacks.",なめし〓〓の鎧。雷属〓の〓〓に〓し〓い耐〓を持つ。,
+645,943,codepage,19980,37,Armor made from linked metal chains.,金属の〓い〓を〓んで〓られた鎧。,
+645,944,codepage,20017,21,An iron breastplate.,鉄〓の鎧。,
+645,945,codepage,20038,61,"A beautiful coat of mail, decoratively coated with crystals.",〓〓に水〓があしらわれている美しい鎧。,
+645,946,codepage,20099,74,"A steel breastplate.
+Possesses strong resistance to earth-based attacks.",鋼鉄〓の鎧。土属〓の〓〓に〓し〓い耐〓を持つ。,
+645,947,codepage,20173,23,An iron suit of armor.,鉄〓の鎧。,
+645,948,codepage,20196,21,A steel breastplate.,〓化された鋼鉄〓の鎧。,
+645,949,codepage,20217,89,"Armor imbued with the power of fire.
+Possesses strong resistance to fire-based attacks.",炎の力を付〓された鎧。炎属〓の〓〓に〓し〓い耐〓を持つ。,
+645,950,codepage,20306,45,Beloved armor of one of Villnore's founders.,かつてヴィルノア建国の〓となった戦士が〓用していた鎧。,
+645,951,codepage,20351,65,"Armor made of silver. 
+Exhibits tremendous attention to detail.",銀〓の鎧。〓〓が〓らされている。,
+645,952,codepage,20416,88,"Armor imbued with the power of ice. 
+Possesses strong resistance to ice-based attacks.",〓の力を付〓された鎧。〓属〓の〓〓に〓し〓い耐〓を持つ。,
+645,953,codepage,20504,31,Armor made from dragon's hide.,竜の〓で〓られた鎧。,
+645,954,codepage,20535,31,Armor bestowed upon the brave.,〓〓な戦士に〓られるという鎧。,
+645,955,codepage,20566,63,"Metal full-body armor. 
+Possesses strong resistance to Stone.",金属〓の全〓鎧。石化〓〓に〓し〓い耐〓を持つ。,
+645,956,codepage,20629,92,"Armor that grants its wearer phenomenal endurance.
+Possesses strong resistance to Frailty.",〓異〓な耐〓力を持ち〓にもたらす鎧。〓〓〓〓に〓し〓い耐〓を持つ。,
+645,957,codepage,20721,67,"Enchanted armor made of silver. 
+Surprisingly light and flexible.",魔力を帯びた銀で〓られた鎧。〓常に〓く動きやすい。,
+645,958,codepage,20788,94,"Reflective suit of armor that has lost its luster and is a
+mere shadow of its original form.",〓〓と名付けられた鎧。〓が〓〓の力はすでに失われわずかにその名〓が見られる〓〓。,
+645,959,codepage,20882,37,Armor made by the hands of the gods.,神々の手によって〓られた鎧。,
+645,960,codepage,20919,78,"Armor believed to be that of a king who once conquered the
+entire continent.",かつて大陸を制覇した王が〓に〓けていたとされる鎧。,
+645,961,codepage,20997,110,"Armor fabled to contain the power of the earth itself.
+Possesses complete resistance to earth-based attacks.",大地の力を封じて〓られたと〓えられる鎧。土属〓の〓〓をほぼ〓全に封じる。,
+645,962,codepage,21107,91,"Majestic armor that charms all who look upon it.
+Designed for style, strength, and speed.",見る者全てを〓〓するという至高の鎧。〓〓・〓〓・動き〓さなど全てを〓ね〓えている。,
+645,963,codepage,21198,54,"A robe worn by Alicia.
+Woven from expensive fabrics.",アリーシャが〓に〓けていたローブ。高〓な素〓で〓まれている。,
+645,964,codepage,21252,54,Typical and common protective clothing made of cloth.,一〓〓に流布している布〓防〓。,
+645,965,codepage,21306,69,"A cloak with silver threads woven into it to increase its
+strength.",銀〓を〓んで〓られた布〓防〓。,
+645,966,codepage,21375,81,"Tanned leather garment.
+Possesses strong resistance to lightning-based attacks.",〓をなめして〓られた防〓。雷属〓の〓〓に〓し〓い耐〓を持つ。,
+645,967,codepage,21456,53,Cloth garment worn by the higher members of society.,〓〓の高い者が〓に〓ける布〓防〓。,
+645,968,codepage,21509,83,"A cloak anointed with holy water. 
+It affords powerful protection against Curses.",聖水による〓めが〓された布〓防〓。〓いに〓し〓い耐〓を持つ。,
+645,969,codepage,21592,33,Cloth garment imbued with magic.,魔力付〓が〓された布〓防〓。,
+645,970,codepage,21625,83,"Robe that projects a phantom illusion, making it appear to
+be in constant motion.",常に〓〓の幻〓が〓れ、ブレているかのような〓〓を引き〓こすローブ。,
+645,971,codepage,21708,94,"Beautiful garment decorated with crystals.
+Possesses strong resistance to ice-based attacks.",水〓で〓られた美しいガーブ。〓属〓の〓〓に〓し〓い耐〓を持つ。,
+645,972,codepage,21802,103,"Beautiful robe woven by elven hands. Possesses strong
+resistance to ice- and lightning-based attacks.",エルフの手により〓られた美しいローブ。雷・土属〓の〓〓に〓し、〓い耐〓を持つ。,
+645,973,codepage,21905,96,"Garment endowed with the blessings of sprites. For women 
+only. Possesses several resistances.",精霊の〓〓が〓められたガーブ。女〓のみが〓〓できる。〓多の耐〓を持つ。,
+645,974,codepage,22001,44,Robe with a flickering flame sealed within.,炎の〓らめきをその〓に封じ〓めたローブ。,
+645,975,codepage,22045,49,Garb imbued with the power of the immortal bird.,不死鳥の力を封じ〓めたガーブ。,
+645,976,codepage,22094,118,"Garment bearing the name of a mighty battle maiden. Carries
+the prayers of thousands of souls within its woven body.",戦乙女の名を〓する衣。〓〓者の無事を〓る人々の〓いが〓められている。,
+645,977,codepage,22212,89,"Garment blessed by the spirits of the wind.
+It bestows these blessings upon its wearer.",〓の精霊の守護を〓けたローブ。〓〓者には精霊の〓〓があると言われている。,
+645,978,codepage,22301,89,"Garment spun from flowers in bloom. Its beauty is said to
+break lances and bend swords.",〓き誇る花々を〓めて〓られたガーブ。その美しさに、槍は〓れ刀は砕けると言われている。,
+645,979,codepage,22390,66,"Garment which shines with an otherworldly light.
+For Freya only.",永遠の〓きと名付けられた衣。フレイ〓用。,
+645,980,codepage,22456,51,A helmet which leaves the nose and chin uncovered.,〓からアゴ部〓にかけて露出したタイプの〓。,
+645,981,codepage,22507,27,Sallet forged from silver.,銀〓のサレット。,
+645,982,codepage,22534,21,A helm made of iron.,鉄〓の〓。,
+645,983,codepage,22555,14,A steel helm.,鋼鉄〓の〓。,
+645,984,codepage,22569,31,A helm decorated with crystal.,水〓があしらわれた〓。,
+645,985,codepage,22600,23,A helm made of silver.,銀〓の〓。,
+645,986,codepage,22623,40,Helm made from the exterior of a golem.,素〓にゴーレムの外〓を〓用した〓。,
+645,987,codepage,22663,75,"A helm bestowed upon the brave.
+A luxury item featuring exquisite design.",〓〓な戦士に〓られるという〓。〓〓が〓らされ、〓華。,
+645,988,codepage,22738,21,A type of full helm.,フルヘルムの〓〓。,
+645,989,codepage,22759,68,"A full helm with the visage of the war god engraved into one
+side.",フルヘルムの〓〓。戦神のレリーフが〓面に〓されている。,
+645,990,codepage,22827,34,A helm forged from magical metal.,魔法金属を用いて〓られた〓。,
+645,991,codepage,22861,35,A helm formed by ether processing.,エーテル加工が〓された〓。,
+645,992,codepage,22896,18,A crown of steel.,鋼鉄〓の〓。,
+645,993,codepage,22914,84,"A crown engraved with olive branch patterns.
+Possesses strong resistance to Curse.",オリーブを〓った〓りが〓された〓。〓いに〓し〓い耐〓を持つ。,
+645,994,codepage,22998,44,Decorative headwear purified by holy water.,聖水による〓めが〓された〓〓り。,
+645,995,codepage,23042,32,The preferred hat of sorcerers.,魔術師が〓んで〓用する〓〓。,
+645,996,codepage,23074,102,"Headwear worn by a woman worshipped as a saint.
+Possesses strong resistance to holy-element attacks.",聖女と〓められた女〓が〓に〓けていたという〓〓り。聖属〓の〓〓に〓し〓い耐〓を持つ。,
+645,997,codepage,23176,53,The crown of she who would be queen. For women only.,女王となるべき人物が付ける宝〓。女〓のみ〓〓〓〓。,
+645,998,codepage,23229,20,An enchanted crown.,魔力が〓められた〓。,
+645,999,codepage,23249,48,A crown made from the most luxuriant materials.,最高〓の素〓を用いて〓られた〓。,
+645,1000,codepage,23297,33,A crown made from magical metal.,魔法金属を用いて〓られた〓。,
+645,1001,codepage,23330,36,A crown formed by ether processing.,エーテル加工が〓された〓。,
+645,1002,codepage,23366,39,Armor that protects the wearer's arms.,〓を守る防〓。手〓。,
+645,1003,codepage,23405,26,Hand guard made of steel.,鋼鉄〓の手〓。,
+645,1004,codepage,23431,51,Hand guard bestowed upon the warriors of the gods.,神の戦士に〓られるという手〓。,
+645,1005,codepage,23482,27,Hand guard made of silver.,銀〓の手〓。,
+645,1006,codepage,23509,28,Gauntlet forged from steel.,鋼鉄〓の手〓。,
+645,1007,codepage,23537,80,"Hand guard bestowed upon the brave. 
+A luxury item featuring exquisite design.",〓〓な戦士に〓られるという手〓。〓〓が〓らされ、〓華。,
+645,1008,codepage,23617,35,Hand guard imbued with holy power.,聖なる力が〓められた手〓。,
+645,1009,codepage,23652,63,"Hand guard forged from magical metal. 
+Extremely lightweight.",魔法金属を用いて〓られた手〓。〓常に〓い。,
+645,1010,codepage,23715,35,Shield formed by ether processing.,エーテル加工が〓された〓。,
+645,1011,codepage,23750,45,Gauntlets with dancing flames sealed within.,炎の〓らめきを封じ〓めたという手〓。,
+645,1012,codepage,23795,66,"Gauntlets studded with jewels containing the power of the
+stars.",〓の煌きを〓した手〓。,
+645,1013,codepage,23861,30,Gloves made from tanned hide.,なめし〓〓のグローブ。,
+645,1014,codepage,23891,32,Gloves imbued with magic power.,魔力が〓められたグローブ。,
+645,1015,codepage,23923,62,Gloves that enable their wearer to move at the speed of wind.,〓に〓ける者に〓の〓さをもたらすグローブ。,
+645,1016,codepage,23985,78,"Legwear with detoxification qualities.
+Provides strong resistance to Poison.",〓〓の法をかけられた〓〓。〓〓〓に〓し〓い耐〓を持つ。,
+645,1017,codepage,24063,60,Leg armor confers remarkable explosive power to the wearer.,〓異〓な〓発力を持ち〓にもたらす〓〓。,
+645,1018,codepage,24123,75,"Legwear imbued with magic power. 
+Possesses strong resistance to Silence.",魔力が〓められた〓〓。〓〓〓〓に〓し〓い耐〓を持つ。,
+645,1019,codepage,24198,33,Greaves made from magical metal.,魔法金属を用いて〓られた〓〓。,
+645,1020,codepage,24231,36,Legwear formed by ether processing.,エーテル加工が〓された〓〓。,
+645,1021,codepage,24267,14,Iron legwear.,鉄〓の〓〓。,
+645,1022,codepage,24281,17,Steel leg armor.,鋼鉄〓の〓〓。,
+645,1023,codepage,24298,18,Silver leg armor.,銀〓の〓〓。,
+645,1024,codepage,24316,78,"Leg armor bestowed upon the brave.
+A luxury item featuring exquisite design.",〓〓な戦士に〓られるという〓〓。〓〓が〓らされ、〓華。,
+645,1025,codepage,24394,49,"Soft, comfortable boots made of brushed leather.",動物の〓〓を〓〓〓た〓た素〓を用いたブーツ。,
+645,1026,codepage,24443,63,Lightweight boots that make their wearers quick on their feet.,素〓く〓やかに行動できるようになるというブーツ。,
+645,1027,codepage,24506,72,"Once slipped on, these red shoes make their wearer dance to
+the death.",一〓〓に〓けた者はその最期の時まで〓り続けると言われる〓いブーツ。,
+645,1028,codepage,24578,6,DUMMY,,
+645,1029,codepage,24584,6,DUMMY,,
+645,1030,codepage,24590,6,DUMMY,,
+645,1031,codepage,24596,6,DUMMY,,
+645,1032,codepage,24602,6,DUMMY,,
+645,1033,codepage,24608,6,DUMMY,,
+645,1034,codepage,24614,6,DUMMY,,
+645,1035,codepage,24620,6,DUMMY,,
+645,1036,codepage,24626,6,DUMMY,,
+645,1037,codepage,24632,6,DUMMY,,
+645,1038,codepage,24638,6,DUMMY,,
+645,1039,codepage,24644,6,DUMMY,,
+645,1040,codepage,24650,6,DUMMY,,
+645,1041,codepage,24656,6,DUMMY,,
+645,1042,codepage,24662,65,"Pendant decorated with the Battle Maiden's image.
+Just for men.",戦乙女のレリーフが〓されたペンダント。〓〓〓用。,
+645,1043,codepage,24727,58,Emblem featuring the mark of three overlapping triangles.,〓〓が〓つ重なった〓〓が〓かれたエンブレム。,
+645,1044,codepage,24785,43,This crystal releases an area fire attack.,炎属〓の〓〓〓〓を行う魔水〓。,
+645,1045,codepage,24828,42,This crystal releases an area ice attack.,〓属〓の〓〓〓〓を行う魔水〓。,
+645,1046,codepage,24870,44,This crystal releases an area earth attack.,土属〓の〓〓〓〓を行う魔水〓。,
+645,1047,codepage,24914,48,This crystal releases an area lightning attack.,雷属〓の〓〓〓〓を行う魔水〓。,
+645,1048,codepage,24962,43,This crystal releases an area holy attack.,聖属〓の〓〓〓〓を行う魔水〓。,
+645,1049,codepage,25005,43,This crystal releases an area dark attack.,〓属〓の〓〓〓〓を行う魔水〓。,
+645,1050,codepage,25048,48,This crystal randomly targets part of an enemy.,〓の部位をランダムで〓〓する魔水〓。,
+645,1051,codepage,25096,39,This gem releases a magic fire attack.,炎属〓の〓〓を行う宝〓。,
+645,1052,codepage,25135,73,"This gem releases a magic ice attack. 
+May inflict Freeze on the enemy.",〓属〓の〓〓を行う宝〓。一定〓〓で〓を〓〓異常〓〓結〓にする。,
+645,1053,codepage,25208,82,"This gem releases a magic lightning attack. 
+May inflict Paralysis on the enemy.",雷属〓の〓〓を行う宝〓。一定〓〓で〓を〓〓異常〓〓〓〓にする。,
+645,1054,codepage,25290,75,"This gem releases a magic earth attack. 
+May inflict Poison on the enemy.",土属〓の〓〓を行う宝〓。一定〓〓で〓を〓〓異常〓〓〓にする。,
+645,1055,codepage,25365,75,"This gem releases a magic holy attack. 
+May inflict Silence on the enemy.",聖属〓の〓〓を行う宝〓。一定〓〓で〓を〓〓異常〓〓〓〓にする。,
+645,1056,codepage,25440,75,"This gem releases a magic dark attack. 
+May inflict Confuse on the enemy.",〓属〓の〓〓を行う宝〓。一定〓〓で〓を〓〓異常〓〓乱〓にする。,
+645,1057,codepage,25515,44,This gem randomly targets part of an enemy.,〓の部位をランダムで〓〓する宝〓。,
+645,1058,codepage,25559,75,"Specially purified water. 
+Inflicts 10,000 points of damage on a monster.",〓〓に〓められた水。魔物にのダメージを〓える。,
+645,1060,codepage,25635,35,May inflict Confuse upon an enemy.,一定〓〓で〓を〓〓異常〓〓乱〓にする。,
+645,1061,codepage,25670,45,Converts enemies in range to magic crystals.,〓〓〓の〓を魔〓石に〓〓する。,
+645,1062,codepage,25715,69,"A secret elixir that cures the wounds of warriors.
+Restores 300 HP.",戦士が〓を〓すために用いる〓〓の秘薬。〓〓を〓〓する。,
+645,1063,codepage,25784,65,"A secret elixir formulated by an apothecary. 
+Restores 1500 HP.",薬士が調〓した〓〓の秘薬。〓〓を〓〓する。,
+645,1064,codepage,25849,58,"A secret elixir concocted by a witch. 
+Restores 5000 HP.",魔女が調〓した〓〓の秘薬。〓〓を〓〓する。,
+645,1065,codepage,25907,56,"A secret elixir conceived by a sage. 
+Restores all HP.",賢者が調〓した〓〓の秘薬。〓〓を〓全に〓〓する。,
+645,1066,codepage,25963,85,"A magic tincture said to be brewed by dwarves.
+Restores 300 HP to the entire party.",小人が生〓したと言われる〓〓の霊薬。パーティー全〓の〓〓を〓〓する。,
+645,1067,codepage,26048,85,"A magic tincture said to be mixed by fairies.
+Restores 1500 HP to the entire party.",妖精が生〓したと言われる〓〓の霊薬。パーティー全〓の〓〓を〓〓する。,
+645,1068,codepage,26133,88,"A magic tincture said to be blended by spirits. 
+Restores 5000 HP to the entire party.",精霊が生〓したと言われる〓〓の霊薬。パーティー全〓の〓〓を〓〓する。,
+645,1069,codepage,26221,88,"A magic tincture said to be created by a goddess.
+Restores all HP to the entire party.",女神が生〓したと言われる〓〓の霊薬。パーティー全〓の〓〓を〓全に〓〓する。,
+645,1070,codepage,26309,87,"A potion that can cure Poison, Confuse, Silence, Freeze,
+Paralysis, Stone, and Faint.",〓〓異常〓〓、〓乱、〓〓、〓結、〓〓、石化、気絶〓を〓〓する。,
+645,1071,codepage,26396,112,"A potion that can cure Poison, Confuse, Silence, Freeze,
+Paralysis, Stone, and Faint. Also restores 50% of HP.",〓〓異常〓〓、〓乱、〓〓、〓結、〓〓、石化、気絶〓〓び〓〓を〓〓する。,
+645,1072,codepage,26508,122,"A potion that cures the party of Poison, Confuse, Silence,
+Freeze, Paralysis, Stone, and Faint. Also restores 99% of HP.",パーティー全〓の〓〓異常〓〓、〓乱、〓〓、〓結、〓〓、石化、気絶〓〓び〓〓を〓〓する。,
+645,1073,codepage,26630,89,"A catalyst imbued with sacred miracles. 
+Can revitalize one who has fallen Unconscious.",神の〓跡が〓められた〓〓。〓戦闘不〓〓〓〓からの〓活を行う。,
+645,1074,codepage,26719,55,"Water purified by prayer. 
+Can cure someone of Curse.",〓りにより〓められた水。〓〓異常〓〓い〓を〓〓する。,
+645,1075,codepage,26774,82,"A holy artifact that cures Curse. 
+Unlike Holy Water, it can be used many times.",〓〓異常〓〓い〓を〓〓する。聖水とは異なり、〓〓でも〓用できる。,
+645,1076,codepage,26856,58,"Apples said to provide eternal youth. 
+Can cure Frailty.",〓さを〓つと言われる林〓。〓〓異常〓〓〓〓を〓〓する。,
+645,1077,codepage,26914,91,"A mysterious mineral that cures Frailty.
+Unlike Idun's Apples, it can be used many times.",〓〓異常〓〓〓〓を〓〓する。イズンの林〓とは異なり、〓〓でも〓用できる。,
+645,1078,codepage,27005,89,"A stone that knows the way home.
+Cures the entire party of the Transfer status ailment.",方〓を〓み〓る石。パーティー全〓の〓〓異常〓〓送〓を〓〓する。,
+645,1079,codepage,27094,108,"Cures the entire party of the Transfer status ailment. 
+Unlike an Aspect Stone, it can be used many times.",パーティー全〓の〓〓異常〓〓送〓を〓〓する。方位石とは異なり、〓〓でも〓用できる。,
+645,1080,codepage,27202,56,Temporarily increases resistance to fire-element magic.,一定時間、炎属〓に〓する耐〓を上〓さ〓る。,
+645,1081,codepage,27258,55,Temporarily increases resistance to ice-element magic.,一定時間、〓属〓に〓する耐〓を上〓さ〓る。,
+645,1082,codepage,27313,57,Temporarily increases resistance to earth-element magic.,一定時間、土属〓に〓する耐〓を上〓さ〓る。,
+645,1083,codepage,27370,61,Temporarily increases resistance to lightning-element magic.,一定時間、雷属〓に〓する耐〓を上〓さ〓る。,
+645,1084,codepage,27431,47,Protects wearer from any attack one time only.,あら〓る〓〓から一〓〓け〓を守る。,
+645,1085,codepage,27478,65,"Temporarily increases party's resistance to fire-element
+magic.",一定時間、パーティー全〓の炎属〓に〓する耐〓を上〓さ〓る。,
+645,1086,codepage,27543,64,"Temporarily increases party's resistance to ice-element
+magic.",一定時間、パーティー全〓の〓属〓に〓する耐〓を上〓さ〓る。,
+645,1087,codepage,27607,66,"Temporarily increases party's resistance to earth-element
+magic.",一定時間、パーティー全〓の土属〓に〓する耐〓を上〓さ〓る。,
+645,1088,codepage,27673,70,"Temporarily increases party's resistance to lightning-element
+magic.",一定時間、パーティー全〓の雷属〓に〓する耐〓を上〓さ〓る。,
+645,1089,codepage,27743,58,Protects each party member from any attack one time only.,パーティー全〓をあら〓る〓〓から一〓〓け〓を守る。,
+645,1090,codepage,27801,75,"A potion that temporarily protects the entire party from
+status ailments.",一定時間、パーティー全〓を〓〓異常から守る。,
+645,1091,codepage,27876,38,Restore AP at the cost of party's HP.,パーティー全〓の〓〓と引き〓えに〓〓を〓〓する。,
+645,1092,codepage,27914,27,Temporarily increases ATK.,一定時間、〓〓〓が上〓する。,
+645,1093,codepage,27941,35,Temporarily increases RDM and RST.,一定時間、〓〓〓・〓〓〓が上〓する。,
+645,1094,codepage,27976,27,Temporarily increases MAG.,一定時間、〓〓〓が上〓する。,
+645,1095,codepage,28003,43,Temporarily reduces AP consumption by 20%.,一定時間、〓〓の〓〓が〓〓する。,
+645,1098,codepage,28048,80,"Stone imbued with the power of a freed einherjar.
+Increases STR and DEX by 20.",〓〓したエインフェリアの力が〓められた石。〓〓〓・〓〓〓が上〓する。,
+645,1099,codepage,28128,80,"Stone imbued with the power of a freed einherjar.
+Increases INT and CON by 20.",〓〓したエインフェリアの力が〓められた石。〓〓〓・〓〓〓が上〓する。,
+645,1100,codepage,28208,86,"Stone imbued with the power of a freed einherjar.
+Increases HP by 200 and AGL by 20.",〓〓したエインフェリアの力が〓められた石。〓〓が、〓〓〓が上〓する。,
+645,1101,codepage,28294,70,"Ancient wisdom that has been crystallized.
+Increases EXP by 300,000.",先人の知識の結〓〓。経験〓が上〓する。,
+645,1102,codepage,28364,25,Increases max HP by 100.,〓〓の最大〓が上〓する。,
+645,1103,codepage,28389,50,"Crystallized ancient wisdom.
+Increases STR by 5.",先人の知識の結〓〓。〓〓〓が上〓する。,
+645,1104,codepage,28439,50,"Crystallized ancient wisdom.
+Increases INT by 5.",先人の知識の結〓〓。〓〓〓が上〓する。,
+645,1105,codepage,28489,50,"Crystallized ancient wisdom.
+Increases DEX by 5.",先人の知識の結〓〓。〓〓〓が上〓する。,
+645,1106,codepage,28539,50,"Crystallized ancient wisdom.
+Increases AGL by 5.",先人の知識の結〓〓。〓〓〓が上〓する。,
+645,1107,codepage,28589,50,"Crystallized ancient wisdom.
+Increases CON by 5.",先人の知識の結〓〓。〓〓〓が上〓する。,
+645,1108,codepage,28639,58,"Randomly raises STR, INT, DEX, and AGL by 1 to 10 points.",〓〓〓・〓〓〓・〓〓〓・〓〓〓がランダムで〓上〓する。,
+645,1110,codepage,28698,63,Doubles experience and OTH acquired when used during a battle.,戦闘中に〓用すると、経験〓とオースの入手量が〓になる。,
+645,1111,codepage,28761,67,"Allows the wearer to discern the foe's abilities and weak
+points.",〓の〓力〓び〓点を調べる事ができる。,
+645,1112,codepage,28828,113,"Allows the wearer to discern enemy abilities and weak points.
+Unlike the Spectacles, it can be used many times.",〓の〓力〓び〓点を調べる事ができる。スペクタクルズとは異なり、〓〓でも〓用できる。,
+645,1113,codepage,28941,30,Extricates party from battle.,戦闘から〓〓する。,
+645,1114,codepage,28971,40,Front tooth sharp and strong as an axe.,〓のように〓く〓〓な〓〓。,
+645,1115,codepage,29011,38,Back tooth hard and strong as a rock.,岩のように〓く〓〓な奥〓。,
+645,1116,codepage,29049,39,A fang sharp and pointed like a stake.,〓のように長く〓った〓。,
+645,1117,codepage,29088,52,The clay that primarily constitutes a troll's body.,トロルの〓〓の大部〓を構〓する〓土。,
+645,1118,codepage,29140,73,"Fragment of what was a tree trunk swung by monstrously
+powerful trolls.",トロルがその〓力にものを言わ〓て〓るう〓〓。その欠〓。,
+645,1119,codepage,29213,58,"A skull that serves as a container, with its top cut off.",器のように上部が欠けたドクロ。,
+645,1120,codepage,29271,57,A cranium with the top neatly removed to resemble a cup.,〓のように上部に〓〓な〓が〓いた〓〓骨。,
+645,1121,codepage,29328,48,A skull that shines a beautiful obsidian shade.,〓〓石のような美しい光〓を〓つドクロ。,
+645,1122,codepage,29376,85,"A transient life, released from its corporal prison.
+Turns black when crystallized.",〓無き者に〓された〓〓めの生〓。結〓化の〓に〓く〓〓している。,
+645,1123,codepage,29461,58,Crystalline remains of weathered and worn bone fragments.,〓化してボロボロの骨の欠〓の結〓。,
+645,1124,codepage,29519,56,Magical red jewel with the power of fire sealed within.,炎の力が封じ〓められた〓紅の魔法の宝石。,
+645,1125,codepage,29575,57,Magical blue jewel with the power of fire sealed within.,炎の力が封じ〓められた青い魔法の宝石。,
+645,1126,codepage,29632,58,Magical green jewel with the power of fire sealed within.,炎の力が封じ〓められた〓の魔法の宝石。,
+645,1127,codepage,29690,45,Red metal containing the power of lightning.,雷の力が封じ〓められた〓い〓。,
+645,1128,codepage,29735,46,Blue metal containing the power of lightning.,雷の力が封じ〓められた青い〓。,
+645,1129,codepage,29781,47,Green metal containing the power of lightning.,雷の力が封じ〓められた〓の〓。,
+645,1130,codepage,29828,45,Red ore possessing concentrated earth power.,土の力が〓〓された〓い鉱物。,
+645,1131,codepage,29873,46,Blue ore possessing concentrated earth power.,土の力が〓〓された青い鉱物。,
+645,1132,codepage,29919,47,Green ore possessing concentrated earth power.,土の力が〓〓された〓の鉱物。,
+645,1133,codepage,29966,26,Red crystal of ice power.,〓の力の結〓と言われる〓い宝石。,
+645,1134,codepage,29992,27,Blue crystal of ice power.,〓の力の結〓と言われる青い宝石。,
+645,1135,codepage,30019,28,Green crystal of ice power.,〓の力の結〓と言われる〓の宝石。,
+645,1136,codepage,30047,31,Tip of a blade broken in half.,半ばから〓れた刀〓の先。,
+645,1137,codepage,30078,40,A sword with half its blade broken off.,先〓から半ばが〓れてしまっている剣。,
+645,1138,codepage,30118,61,"Crystal made from a dragon's horn, red as a funnel of flame.",〓え〓る炎のように〓いドラゴンの〓から〓られた結〓。,
+645,1139,codepage,30179,68,"Crystal of a dragon's horn. Recognized as a testament to
+strength.",ドラゴンの〓の結〓。〓者の〓と言われる。,
+645,1140,codepage,30247,31,"A beast's tooth, red as blood.",〓のように〓い〓の〓。,
+645,1141,codepage,30278,52,"A dragon's tooth. 
+A symbol of the bearer's might.",ドラゴンの〓。〓者の〓と言われる。,
+645,1142,codepage,30330,53,Giant sapphire formed by a dying dragon's lifeforce.,ドラゴンが死ん〓〓にその〓の〓が大〓のサファイアへと〓化したもの。,
+645,1143,codepage,30383,52,Giant emerald formed by a dying dragon's lifeforce.,ドラゴンが死ん〓〓にその〓の〓が大〓のエメラルドへと〓化したもの。,
+645,1144,codepage,30435,49,Giant ruby formed by a dying dragon's lifeforce.,ドラゴンが死ん〓〓にその〓の〓が大〓のルビーへと〓化したもの。,
+645,1145,codepage,30484,58,Crystal of the strong bone that supports a dragon's wing.,ドラゴンの〓を〓える〓〓な骨の結〓。,
+645,1146,codepage,30542,55,The beautiful horn of a particularly beautiful dragon.,〓常に美しいドラゴンの美しい〓。,
+645,1147,codepage,30597,56,"Crystal of a dragon's talon, which is sharp as a blade.",〓のように〓いドラゴンの〓の結〓。,
+645,1148,codepage,30653,112,"Beautiful scales said to incite the anger of the god of
+dragons. The dragon went wild when people got on them.",神竜と〓ばれるドラゴンの〓りの〓と言われる美しいうろこ。〓れられた〓けでその竜は〓り狂うという。,
+645,1150,codepage,30766,101,"Scales of a dragon. A symbol of the bearer's might.
+Many carry these in place of a good luck charm.",ドラゴンのうろこ。〓者の〓と言われる。これをお守り〓わりに〓に〓ける者も多い。,
+645,1151,codepage,30867,58,"Scales of a monster.
+They possess great defensive power.",魔物のうろこ。高い防〓力を持つ。,
+645,1152,codepage,30925,69,"Scales of a crocodile. 
+They are as green as the heart of a forest.",〓のうろこ。〓い森のように〓い〓〓を帯びる。,
+645,1153,codepage,30994,59,Beautiful scales that shine all the colors of the rainbow.,〓〓に〓く美しいうろこ。,
+645,1154,codepage,31053,91,"An old shield that bears the marks of countless blows.
+Still offers a modicum of defense.",〓〓も〓〓を〓け、その役目を〓えるに至った〓。〓〓の防〓力を帯びる。,
+645,1155,codepage,31144,57,"Crown worn by the king of monsters.
+Excessively ornate.",魔物の王〓。〓〓な〓〓が〓されている。,
+645,1156,codepage,31201,62,"Skin of an amphibious beast.
+Prized as a material for boots.",は虫〓の〓。〓などの〓〓として重宝される。,
+645,1157,codepage,31263,65,"Tip of a broken spear.
+It has no trace of its former sharpness.",壊れた槍の先。かつての〓さが見る〓も無い。,
+645,1158,codepage,31328,25,The wing of a giant bat.,巨大なこうもりの〓。,
+645,1159,codepage,31353,67,"Skin membrane of a bat's wing.
+Lightweight, strong, and flexible.",こうもりの〓の〓〓。〓くて〓〓でよく〓びる。,
+645,1160,codepage,31420,59,Giant bat wing fashioned to provide shelter from the rain.,〓の〓〓ともなった〓〓の巨大こうもりの〓。〓〓を〓めてこう〓ばれる。,
+645,1161,codepage,31479,42,Ear of a giant bat. Shaped like a funnel.,巨大こうもりの〓。じ〓う〓のような〓をしている。,
+645,1162,codepage,31521,59,A crystal holding the intense lifeforce of a bird of prey.,〓〓〓の〓々しい〓の力が〓る結〓。,
+645,1163,codepage,31580,45,Special wing feather that assists in flight.,〓ぶために〓〓とされる〓〓な〓〓。,
+645,1164,codepage,31625,72,"Tail feather of a giant bird. 
+Said to contain the power of lightning.",雷の力をその〓に〓すと言われる巨鳥の尾にある〓〓。,
+645,1165,codepage,31697,111,"Tail feather of a giant bird. Said to contain the power of
+all lightning that descends from the storm clouds.",〓に〓り〓く全ての雷の力を〓すと言われる巨鳥の尾にある〓〓。,
+645,1166,codepage,31808,90,"The talon from some type of predatory bird.
+It is hooked so that the prey cannot escape.",〓〓〓の〓い〓。〓のようにねじれて〓物を〓さない。,
+645,1167,codepage,31898,31,The razor fang of a carnivore.,肉食〓の〓い〓。,
+645,1168,codepage,31929,67,"Sharp tooth of a carnivorous beast. 
+A cure for several ailments.",肉食〓の〓い〓。〓〓に〓く薬になる。,
+645,1169,codepage,31996,87,"Red crystal containing the fire-making power of the organ
+responsible for firebreath.",ファイアブレスを〓り出す器〓。その器〓が持つ炎の力を〓に秘めた〓紅の結〓。,
+645,1170,codepage,32083,88,"Blue crystal containing the fire-making power of the organ
+responsible for firebreath.",ファイアブレスを〓り出す器〓。その器〓が持つ炎の力を〓に秘めた青い結〓。,
+645,1171,codepage,32171,89,"Green crystal containing the fire-making power of the organ
+responsible for firebreath.",ファイアブレスを〓り出す器〓。その器〓が持つ炎の力を〓に秘めた〓〓の結〓。,
+645,1172,codepage,32260,85,"Red crystal containing the ice-making power of the organ
+responsible for icebreath.",アイスブレスを〓り出す器〓。その器〓が持つ〓の力を〓に秘めた〓紅の結〓。,
+645,1175,codepage,32347,91,"Red crystal containing the poison-making power of the organ
+responsible for poisonbreath.",ポイズンブレスを〓り出す器〓。その器〓が持つ土の力を〓に秘めた〓紅の結〓。,
+645,1176,codepage,32438,92,"Blue crystal containing the poison-making power of the organ
+responsible for poisonbreath.",ポイズンブレスを〓り出す器〓。その器〓が持つ土の力を〓に秘めた青い結〓。,
+645,1177,codepage,32530,93,"Green crystal containing the poison-making power of the organ
+responsible for poisonbreath.",ポイズンブレスを〓り出す器〓。その器〓が持つ土の力を〓に秘めた〓〓の結〓。,
+645,1178,codepage,32623,110,"Even in crystal form, this breath core shines with the colors
+of the rainbow. Who knows what might come out?",〓〓に煌めくブレスコア。〓が発〓されるのかは不〓。結〓となってもその〓〓の煌めきは〓在。,
+645,1179,codepage,32733,101,"A beast's pelt with various uses. Its heat retention
+properties make it effective against the cold.",〓々な用途に〓われる〓の〓〓。〓〓〓に〓れ、寒さに〓くなる。,
+645,1180,codepage,32834,34,Bits of meat dripping with blood.,〓の〓る肉。その欠〓。,
+645,1181,codepage,32868,30,Parts for a kobold slingshot.,コボルトの〓石器のパーツ。,
+645,1182,codepage,32898,26,Parts for a kobold lance.,コボルトの槍のパーツ。,
+645,1183,codepage,32924,27,Parts for a kobold hammer.,コボルトの〓のパーツ。,
+645,1184,codepage,32951,56,"An old copper coin. 
+On it is depicted a young kobold.",〓びた〓〓。〓いコボルトの〓〓が〓されている。,
+645,1185,codepage,33007,62,"An old silver coin. 
+On it is depicted a middle-aged kobold.",〓びた銀〓。中〓のコボルトの〓〓が〓されている。,
+645,1186,codepage,33069,107,"An old gold coin. On it is depicted an elderly kobold. 
+He has a long, thick beard and kindly expression.",〓びた金〓。口〓を〓えた〓コボルトの〓〓に〓ちた〓〓が〓られている。,
+645,1187,codepage,33176,125,"An old coin. Its touch sends shockwaves through the body. The
+kobold who carved the lightning rune is depicted on the edge.",〓びた〓〓。持つとピリピリする。〓に〓〓のルーンが〓まれたコボルトの〓が〓られている。,
+645,1188,codepage,33301,22,A nugget of iron ore.,鉄。その原石。,
+645,1189,codepage,33323,55,The joint that powers an enormous flying beast's wing.,巨大な鳥〓の手〓。,
+645,1190,codepage,33378,34,Wing of an enormous flying beast.,巨大な鳥〓の〓。,
+645,1191,codepage,33412,21,A griffon's feather.,グリフォンの〓〓。,
+645,1192,codepage,33433,37,A beautiful green griffon's feather.,美しい〓〓のグリフォンの〓〓。,
+645,1193,codepage,33470,38,A beautiful white decorative feather.,〓っ〓な美しい〓〓。,
+645,1194,codepage,33508,37,A beautiful blue decorative feather.,〓〓の美しい〓〓。,
+645,1195,codepage,33545,105,"A gigantic beak with a sharp cutting tip. On rare occasions,
+may instantly stop an enemy in its tracks.",切っ先のように〓く〓った巨大なくちばし。〓に一〓で〓を〓〓める〓果を〓する。,
+645,1196,codepage,33650,118,"The down feather of an unknown bird. If you have enough of
+them, they can provide great protection against the cold.",鳥〓の〓〓。〓まると〓〓の〓〓〓を発〓する。,
+645,1197,codepage,33768,70,"Extremely durable golden mineral. 
+Makes the blood rush to the head.",とても〓い金〓の鉱石。〓に〓が上りやすくなる。,
+645,1198,codepage,33838,39,Petal from a magnificent white flower.,〓〓の巨大な花の花びら。,
+645,1199,codepage,33877,43,Petal from a magnificent blood-red flower.,〓のように〓い巨大な花の花びら。,
+645,1200,codepage,33920,31,Seed possessing potent poison.,〓力な〓を持つ〓。,
+645,1201,codepage,33951,91,"Seed with the ability to absorb poisons. 
+It possesses an extremely potent poison itself.",〓を〓〓してしまう〓〓を持つ〓。自〓も〓〓を持つ。,
+645,1202,codepage,34042,75,"Herb which causes illusions. 
+Apparently, it is used in magic ceremonies.",〓に幻〓〓用を持つ多〓草。魔術師の〓〓などに〓用される。,
+645,1203,codepage,34117,32,A sharp stinger from an insect.,〓虫〓の〓いトゲ。,
+645,1204,codepage,34149,61,"A metal disc with the ability to seal in heat.
+Always warm.",〓を封じ〓める〓〓を持つ金属〓の〓。いつもほのかに〓かい。,
+645,1205,codepage,34210,28,Prominent horn of a beetle.,〓虫の〓〓な〓。,
+645,1206,codepage,34238,56,"A fragment of an insect's strong, lightweight carapace.",〓くて〓〓な〓虫の殻。その欠〓。,
+645,1207,codepage,34294,78,"An organ that releases bubbles for a bubble attack.
+An absurd shade of blue.",〓〓〓の〓の〓〓を〓り出す器〓。〓ん〓青い〓をしている。,
+645,1208,codepage,34372,77,"An organ that releases bubbles for a bubble attack.
+Shines like an emerald.",〓〓〓の〓の〓〓を〓り出す器〓。エメラルドのような光〓がある。,
+645,1209,codepage,34449,49,Marine animal's horn. Hard and sharp as a sword.,〓〓の〓。剣のように〓く〓い。,
+645,1210,codepage,34498,61,"Marine animal's horn. Strong, thick, and sharp like a stake.",〓〓の〓。〓のように〓く〓〓で〓い。,
+645,1211,codepage,34559,52,Fresh seafood. It's not clear what creature it was.,〓鮮な海の幸。〓の肉かは不〓。,
+645,1212,codepage,34611,88,"The organ with which shellfish fire stones using pressurized
+gas. Widens like a bugle.",〓〓生〓された〓を圧〓空気で〓ばす貝〓の器〓。ラッパのように〓広がりになっている。,
+645,1213,codepage,34699,74,"The organ with which shellfish fire coarse gravel using
+pressurized gas.",圧〓空気でツブテを〓ばす貝〓の器〓。,
+645,1214,codepage,34773,75,"Shellfish organ, as red as blood, which shoots small pebbles
+like arrows.",〓のように〓い貝〓の器〓。小さなツブテを〓のようにここから〓つ。,
+645,1215,codepage,34848,55,A projectile made from the stones formed in shellfish.,貝〓の〓〓で〓い石を〓〓にして生〓された〓〓。,
+645,1216,codepage,34903,109,"Projectile made from the same material as a seashell.
+The spiral pattern on the surface increases accuracy.",殻と〓じ原〓で生〓された〓〓。〓面の〓〓〓の〓〓が、〓中〓を上〓さ〓ると言われている。,
+645,1217,codepage,35012,88,"Projectile formed in monsters' bodies. 
+Named for its ability to penetrate iron armor.",魔物の〓〓で生〓された〓〓。鋼鉄の鎧をも〓々と〓く事からこう〓ばれる。,
+645,1218,codepage,35100,38,A pearl with an alluring black sheen.,〓〓のなまめかしい〓〓いを持つ〓〓。,
+645,1219,codepage,35138,26,A mass of shellfish glue.,貝〓の〓〓が〓まった〓。,
+645,1221,codepage,35165,50,Root of a plant that walks around like an animal.,動物のように〓き〓る〓物の〓。,
+645,1222,codepage,35215,49,The supple and pliant arm of the walking flower.,しなやかで〓〓な〓行花の〓手。,
+645,1223,codepage,35264,66,"Supple arm of the walking flower with tips as sharp as a
+swords.",先〓が剣のように〓く〓〓な〓行花の〓手。,
+645,1224,codepage,35330,21,A large mass of wax.,〓の大きな〓。,
+645,1225,codepage,35351,71,"A curiously shaped seed. 
+The species to which it belongs is unclear.",〓〓な〓の〓。どんな〓物のものなのかは不〓。,
+645,1226,codepage,35422,36,Part of a mask shaped like a skull.,ドクロを〓した〓面の一部。,
+645,1227,codepage,35458,28,A mask shaped like a skull.,ドクロを〓した〓面。,
+645,1228,codepage,35486,78,"A crystal with dark power sealed within.
+Unsuppressed power seeps out of it.",〓の力が封じ〓められている結〓。〓え切れない〓大な力が、外に〓れ出している。,
+645,1229,codepage,35564,80,"A crystal recognized as a sliver of chaos.
+A sense of foreboding surrounds it.",〓〓の欠〓と〓ばれる結〓。瘴気が漂っている。,
+645,1230,codepage,35644,54,A gemstone imbued with darkness said to devour souls.,〓を〓らうと言われる〓を秘めた宝〓。,
+645,1231,codepage,35698,90,"Crystal that projects a beam in one direction after
+concentrating and amplifying energy.",エネルギーを〓〓さ〓て〓〓した後、一定方〓へ〓〓するという〓〓を持った結〓。,
+645,1232,codepage,35788,39,A tasteless relief carved into a bone.,〓骨をあしらった〓味の〓いレリーフ。,
+645,1233,codepage,35827,62,Said to be written by the undead. Its true nature is unknown.,不死者が〓したとされる書物。〓〓は不〓。,
+645,1234,codepage,35889,36,Eyeball of an artificial life form.,〓〓生〓〓の目〓。,
+645,1237,codepage,35927,121,"Crystal that holds the fire of life when an artificial life is
+transferred into a doll. A crystal of paramount alchemy.",〓りの生〓を人〓に〓す〓に、その〓の炎を〓める結〓。錬金術の〓知の結〓でもある。,
+645,1238,codepage,36048,95,"The first letter has been erased from this seal, turning its
+meaning from ""truth"" to ""death.""",〓〓が欠けて死となった〓印が〓り〓まれた〓〓。,
+645,1239,codepage,36143,50,Some type of metal which rusts easily in the air.,空気中で〓〓に〓化する金属。,
+645,1240,codepage,36193,43,The red flame of a soul not of this world.,この世にあら〓る〓が〓い炎になったもの。,
+645,1241,codepage,36236,44,The blue flame of a soul not of this world.,この世にあら〓る〓が青い炎になったもの。,
+645,1242,codepage,36280,37,A broken doll with its head missing.,〓部が失われ、〓全に壊れてしまった人〓。,
+645,1244,codepage,36318,49,Gemstone that holds extremely intense ice power.,〓めて〓力な〓の力を〓す宝〓。,
+645,1246,codepage,36368,59,"Fragment with a rune inscription that reads ""pierces all.""",あら〓るものを〓く、とルーンで書かれた〓〓の欠〓。,
+645,1247,codepage,36427,99,"From a mirror used in the Pleiades War to deflect the spells
+of witches. This is just a fragment.",〓魔の戦いで魔女の術法を〓ね〓したとされる鏡。その欠〓。,
+645,1248,codepage,36526,68,"Demon's mirror which shows one's future when peered into at
+night.",夜中に〓き〓〓と自〓の〓〓が見えると言われる〓魔の鏡。,
+645,1249,codepage,36594,68,"Accessory consisting of a holy imprint engraved on a copper
+plate.",〓〓の金属〓に聖なる〓印が〓まれたアクセサリー。,
+645,1250,codepage,36662,85,"Vessel to hold the blood of a sacrifice. 
+A livid substance is stuck to the inside.",生〓の〓を〓ける器。〓〓にはどす〓い〓れがこびりついている。,
+645,1251,codepage,36747,62,A magic chain that binds evil spirits to those without souls.,〓のない者に〓霊を〓〓さ〓て〓り付ける魔法の〓。,
+645,1252,codepage,36809,51,Horn believed to be the source of a demon's power.,〓魔の力の〓とされる〓。,
+645,1253,codepage,36860,114,"Horn believed to be the source of a demon's power. 
+It strikes terror into the hearts of those who look upon it.",〓魔の力の〓とされる〓。見る者を不〓にさ〓る〓々しい〓〓気を漂わ〓ている。,
+645,1254,codepage,36974,96,"The soul of a sacrifice crystallized by a demon.
+It trembles and whispers a curse every night.",〓〓者の〓を〓魔が結〓化したもの。夜な夜な〓えて〓〓をささやく。,
+645,1255,codepage,37070,88,"A gem called to this world by some rite. 
+It is said to bring plagues upon its holder.",ある〓〓でこの世界に〓び出された宝〓。持つ者に〓々な〓〓をもたらすとされる。,
+645,1256,codepage,37158,66,"Demon wing so black it appears to be a piece of darkness
+itself.",〓の一部がそのまま〓になったかのような〓い〓〓を持つ〓魔の〓。,
+645,1257,codepage,37224,91,"Demon wing a shade so deep and beautiful that one feels as
+though one might fall into it.",その中に〓ち〓んでしまいそうなくらい〓く美しい〓の〓を〓えた〓魔の〓。,
+645,1258,codepage,37315,94,"Crystal allegedly left behind by dying demons.
+The fire of life appears to be sealed inside.",〓魔が死ぬ時に〓すという結〓。〓の炎を封じ〓めているらしい。,
+645,1259,codepage,37409,93,"Glows a beautiful shade of blood red.
+Said to be a heart from the famous species of undead.",〓のように〓く美しい〓をした〓。不〓を〓〓する不死の一〓の心〓と言われる。,
+645,1260,codepage,37502,55,Magical fire which purportedly cannot be extinguished.,〓して絶える事がないと言われる魔法の炎。,
+645,1261,codepage,37557,105,"Fang which supposedly holds all of a vampire's power.
+Even apart from its body, it still absorbs blood.",ヴァンパイアの力の全てが〓ると言われる〓。〓〓から〓れた今でも、〓を〓〓する。,
+645,1262,codepage,37662,53,"Fang of a vampire.
+Still holds intense magic power.",ヴァンパイアの〓。〓〓〓い魔力を持つ。,
+645,1263,codepage,37715,90,"Vampire claws hard and sharp as razor blades.
+The marks of these claws tend not to heal.",〓刀のように〓利で〓〓なヴァンパイアの〓。この〓で生じた切り〓は、なかなか〓らないという。,
+645,1264,codepage,37805,69,"Heart of a Sharp Scissor. 
+Said to drive those who touch it insane.",シャープシザーの心〓。〓れた者はその狂気に〓み〓まれてしまうという。,
+645,1265,codepage,37874,35,Part of a wing of a Sharp Scissor.,シャープシザーの〓。その欠〓。,
+645,1266,codepage,37909,59,"Claws of a Sharp Scissor. 
+Sharper than even a vampire's.",シャープシザーの〓。ヴァンパイアのものよりも〓に〓利。,
+645,1267,codepage,37968,35,A crystal magically turned yellow.,魔力の〓〓で〓〓く〓〓いた水〓。,
+645,1268,codepage,38003,60,Fragment of something engraved with an intricate wild rose.,精〓な野バラの花の〓〓が〓された〓かの欠〓。,
+645,1269,codepage,38063,21,A massive crab claw.,巨大な〓のはさみ。,
+645,1270,codepage,38084,45,Sharp crab claws that can cut through stone.,岩をも〓〓する〓い〓のはさみ。,
+645,1271,codepage,38129,124,"Alchemy-derived crystal deemed necessary to activate a golem.
+This one contains an evil spirit instead of the usual fairy.",錬金術により創られた、ゴーレムの〓動に〓〓とされる結〓。〓常は妖精〓がこれには〓霊が〓る。,
+645,1272,codepage,38253,77,"Crystal that holds a mischievous gremlin. 
+It is the lifesource of a golem.",〓戯〓きの妖精が封じ〓められた結〓。ゴーレムの動力〓、言わば〓になる。,
+645,1273,codepage,38330,102,"When charging an opponent, the ram lowers its head and drives
+this powerful horn into its adversary.",〓〓たり〓〓の〓に、〓っ先に〓手に〓き〓さる〓〓な〓。,
+645,1274,codepage,38432,74,"Sturdy horn for devastating body attacks.
+Points directly at the target.",〓〓たり〓〓の〓壊力を高める〓〓な〓。〓っ先に〓〓へ〓れる部〓に生える。,
+645,1275,codepage,38506,98,"Section of armor that protects the tail. 
+Its twisty, snake-like shape makes it look like a toy.",尻尾を護っていた鎧の一部。〓のようにうねる機構はまるで〓〓のように見える。,
+645,1276,codepage,38604,56,"Long, narrow armor that reminds one of a snake's belly.",〓の〓を〓〓さ〓る〓長い鎧の一部。,
+645,1277,codepage,38660,66,"A container for holding transient souls.
+Currently, it is empty.",〓〓めの〓を〓めるケース。〓在その〓は失われている。,
+645,1278,codepage,38726,93,"A container for holding transient souls. 
+It holds no souls, but great magic whirls within.",〓〓めの〓を〓めるケース。〓は失われているが、〓い魔力が〓〓いている。,
+645,1279,codepage,38819,73,"A twisted arrowhead. 
+Its shape helps it pierce deeper into the victim.",〓を〓いた〓じり。この〓〓で〓〓力を高めるという。,
+645,1280,codepage,38892,19,A giant horseshoe.,巨大な〓鉄。,
+645,1281,codepage,38911,98,"The evil eye that can kill with a mere glance.
+Though its owner is dead, the wickedness lingers.",目線で〓〓るという〓しき存在の眼〓。〓が死ん〓今でも〓々しさは〓在。,
+645,1282,codepage,39009,39,"A monsters eyeball, pretty as a jewel.",宝石のように美しい魔物の目〓。,
+645,1283,codepage,39048,72,"The heart of a monster.
+Varies greatly from that of a living creature.",魔物の心〓部。生き物のそれとは〓遠い〓をしている。,
+645,1284,codepage,39120,74,"The heart of a monster. 
+Radiates brilliant green light like an emerald.",魔物の心〓部。エメラルドのように美しい〓の光を〓つ。,
+645,1285,codepage,39194,40,Monster bone hard and sturdy as a rock.,岩のように〓く〓〓な魔物の骨。,
+645,1286,codepage,39234,88,"Bone from a monster's arm shaped like a mace.
+One strike of this bone can crush stone.",メイスのような〓をした魔物の〓の先にある骨。この骨の一〓は岩をも砕く。,
+645,1287,codepage,39322,65,"Part of a monster's arm bone from which came devastating
+blows.",〓力な一〓を生み出す魔物の〓の先にある骨。その欠〓。,
+645,1288,codepage,39387,67,"Arms of a monster. 
+Some sticky substance remains on the suckers.",魔物の〓手。〓〓にはま〓〓〓力が〓っている。,
+645,1289,codepage,39454,46,The charming little canine tooth of a goblin.,ゴブリンの〓〓。小さくて〓〓らしい。,
+645,1290,codepage,39500,84,"Probably the fang of some fearsome monster, but it's so little
+it's actually cute.",ある〓魔の〓らしいが、とても小ぶりで〓しろ〓〓らしい。,
+645,1291,codepage,39584,50,Part of a monster's wing said to drain lifeforce.,生〓力を〓い〓ると言われる〓魔の〓。その一部。,
+645,1292,codepage,39634,90,"Monster's wing said to drain lifeforce. Still
+sucks life even without its original body.",生〓力を〓い〓ると言われる〓魔の〓。〓亡き今も他の生〓の〓〓を〓〓する。,
+645,1293,codepage,39724,55,"Fragment of a stone with the inscription ""Be naughty.""",〓石の一部。〓戯〓よ、と書かれている。,
+645,1294,codepage,39779,92,"The pebble from a goblin's heart, said to be where its soul
+resides. Suppresses confusion.",ゴブリンの〓と言われる心〓部の石ころ。〓乱を〓える〓果がある。,
+645,1295,codepage,39871,60,"A fortified wine. 
+It appears to be of a superior vintage.",酒精〓化〓イン。〓い〓〓〓のもののよう〓。,
+645,1296,codepage,39931,120,"Flying insect with a rigid exoskeleton. Not to be swatted
+lightly. Named ""Legion"" for binding with others of its kind.",〓〓らけの〓い殻で覆われた〓虫。うっかり〓くと〓い目にあう。〓〓を〓〓ところからレギオンと〓ばれる。,
+645,1297,codepage,40051,67,"Red wasp to lead all others. 
+Moves three times the normal speed.",〓スプたちを〓べると言われる〓い〓。その動きは〓常の〓〓いと言われている。,
+645,1298,codepage,40118,55,A compound insect eye with a brilliant platinum shine.,プラチナのように美しく〓く〓虫の〓眼。,
+645,1299,codepage,40173,29,A large compound insect eye.,大きな〓虫の〓眼。,
+645,1300,codepage,40202,29,A full-sized clump of amber.,こぶし大の〓〓の〓。,
+645,1301,codepage,40231,86,"The organ that condenses liquids in the body.
+As beautiful as the amber it produces.",〓〓に〓〓した〓〓の一部を〓〓して〓める器〓。これ自〓も〓〓のように美しい。,
+645,1302,codepage,40317,36,Very long and sharp insect stinger.,とてつもなく長くて〓い虫の〓。,
+645,1303,codepage,40353,40,Insect spine long and sharp as a spear.,槍のように長く〓い虫の〓。,
+645,1304,codepage,40393,63,Part of the wing of a flying insect known as the king of bugs.,王と〓ばれる〓虫の〓。その欠〓。,
+645,1305,codepage,40456,58,Part of a large insect wing colored a deep shade of blue.,〓い青の〓をした大きな虫の〓。その欠〓。,
+645,1306,codepage,40514,74,"The main food source for queen bees.
+Some say it's good for people, too.",王と〓ばれる〓の〓食。人間の〓〓にも〓いらしい。,
+645,1307,codepage,40588,49,"Red cartilage from a mollusk.
+Constantly moist.",〓紅の〓〓〓の〓〓骨。常に水気を帯びている。,
+645,1308,codepage,40637,51,"Green cartilage from a mollusk.
+Constantly moist.",〓〓の〓〓〓の〓〓骨。常に水気を帯びている。,
+645,1309,codepage,40688,52,Bone shaped like a mallet at the end of a tentacle.,〓手の先にある〓のような〓〓の骨。,
+645,1310,codepage,40740,49,Large horn of a sheep twisted around and around.,〓重にも〓を〓いた大きな〓の〓。,
+645,1311,codepage,40789,67,"Large horn twisted in a spiral. 
+It has a sinister, warped shape.",〓〓〓にねじれた大きな〓。歪んで気持ち〓い〓をしている。,
+645,1312,codepage,40856,92,"Piece of some light armor. 
+It slightly raises defense as if some weak magic enchanted it.",〓〓の鎧の欠〓。〓い魔力を帯びていたようで〓〓すると〓〓の防〓力の〓上を〓られる。,
+645,1313,codepage,40948,107,"Piece of some light armor reinforced by powerful magic.
+The fragment maintains the benefits of the magic.",〓〓の鎧の欠〓。〓力な魔力で〓〓を上〓ている。欠〓となってもその〓〓を〓ける事が〓〓。,
+645,1314,codepage,41055,91,"Piece of stone with runes engraved. 
+Bears the inscription ""Keep your eyes on the prize.""",ルーンが〓まれた〓石の一部。〓のように〓〓を外さない、と〓まれている。,
+645,1315,codepage,41146,88,"Piece of stone with runes engraved. 
+Bears the inscription ""One strike fells the foe.""",ルーンが〓まれた〓石の一部。この一〓は〓〓を一〓で〓す、と〓まれている。,
+645,1316,codepage,41234,64,"Front tooth of a herbivore. 
+A shape suited for cutting grass.",草食動物の〓〓。草を〓ち切るのに〓した〓をしている。,
+645,1317,codepage,41298,79,"Front teeth that appear to have belonged to a herbivore.
+Disgustingly warped.",草食動物のものらしき〓〓。みにくく歪んでいる。,
+645,1318,codepage,41377,48,Silver mirror handle featuring a lovely design.,銀〓の手鏡の〓っ手。美しい〓〓が〓されている。,
+645,1319,codepage,41425,68,"From the wings of a flying dragon.
+Special bone needed for flight.",〓イバーンの〓にあるという、〓ぶのに〓〓な〓〓な骨。,
+645,1320,codepage,41493,70,"Stones that form in amphibians' livers.
+A cure for several ailments.",は虫〓の〓に〓る石。〓〓に〓くとされる。,
+645,1321,codepage,41563,84,"Red stones that form in amphibians' livers.
+Has a healing effect on living bodies.",は虫〓の〓に〓る〓い石。生き物の〓〓を〓す〓果がある。,
+645,1323,codepage,41648,96,"Claw that grows on a monster's tail.
+Tail is whipped around and plunges the claw into the foe.",魔物の尻尾に生えている〓。尻尾による〓〓の〓、〓〓に〓き〓さる。,
+645,1324,codepage,41744,69,"Internal organ from a large amphibian.
+Alleviates several ailments.",巨大なは虫〓の〓〓。〓〓を〓すと言われる。,
+645,1325,codepage,41813,46,Gallstone from the pancreas of a rare wyvern.,ある〓〓な〓イバーンの〓に〓る〓石。,
+645,1326,codepage,41859,65,"A staff held by a sack mimic.
+A name is carved into the design.",〓ミミックが持っていた杖。〓に名〓が〓ってある。,
+645,1327,codepage,41924,73,"Mysterious card carried by a gentleman.
+It has illegible writing on it.",ジェントルメンが持っていた〓のカード。〓か書いてあるが〓めない。,
+645,1328,codepage,41997,47,Abnormal molding concealed by the sacred sack.,セイクリッド・サックが隠し持っていた不思〓な造〓物。,
+645,1329,codepage,42044,46,Precious gem that was concealed by a monster.,魔物が隠し持っていた美しい宝石。,
+645,1330,codepage,42090,52,Old strings made of hemp. Durable and still of use.,〓びた〓の〓。〓〓でま〓〓〓に〓える。,
+645,1331,codepage,42142,101,"The most rudimentary seed of virtual life produced in alchemy.
+It takes the form of a dazzling gem.",錬金術によって生み出される最も〓〓〓な〓〓生〓〓。これ自〓は〓〓な宝石である。,
+645,1332,codepage,42243,56,A piece of copper that appears to be part of some tool.,〓かの器〓の一部と思われる〓の欠〓。,
+645,1333,codepage,42299,88,"A sizeable emerald with a high degree of purity.
+A virtual life dwells faintly within.",〓〓の高い大〓のエメラルド。〓〓に薄らと〓〓生〓が〓っている。,
+645,1334,codepage,42387,85,"A sizeable ruby with a high degree of purity.
+A virtual life dwells faintly within.",〓〓の高い大〓のルビー。〓〓に薄らと〓〓生〓が〓っている。,
+645,1335,codepage,42472,42,A silver sconce with an elaborate design.,美しい〓〓が〓された銀〓の〓〓。,
+645,1336,codepage,42514,55,Organ that converts the power of darkness into breath.,〓の力をブレスに〓〓する器〓。,
+645,1337,codepage,42569,70,"Organ that converts and amplifies the power of darkness into
+breath.",〓の力をブレスに〓〓〓〓さ〓る器〓。,
+645,1338,codepage,42639,37,Scales that shine a brilliant green.,〓に〓く美しいうろこ。,
+645,1339,codepage,42676,75,"Red crystal of the organ that produces thunderbreath.
+Prevents paralysis.",サンダーブレスを〓り出す器〓が〓く結〓化したもの。〓〓を防〓。,
+645,1340,codepage,42751,72,"Blue crystal of the organ that produces thunderbreath.
+Prevents Faint.",サンダーブレスを〓り出す器〓が青く結〓化したもの。気絶を防〓。,
+645,1341,codepage,42823,92,"Green crystal of the organ that produces thunderbreath.
+Possesses immense lightning power.",サンダーブレスを〓り出す器〓が〓の結〓化したもの。〓力な雷の力を〓する。,
+645,1343,codepage,42916,48,Scales with the red glare of a blazing inferno.,〓え〓る炎のように紅く〓くうろこ。,
+645,1344,codepage,42964,52,Breath core that generates high-density firebreath.,高密〓の炎のブレスを〓り出すブレスコア。,
+645,1345,codepage,43016,59,Beautiful scales with five colors rippling on the surface.,〓面に五〓の〓〓が広がる美しいうろこ。,
+645,1346,codepage,43075,90,"Dangerous ore that releases flares when exposed to air.
+Crystallized by materialization.",大気に〓れると火を〓く〓〓な鉱石。マテリアライズにより結〓化されている。,
+645,1347,codepage,43165,101,"Ore that spews intensely hot flames. Crystallized by
+materialization, but still prone to flare-ups.",〓めて高〓の火を〓く鉱石。マテリアライズによって結〓化されているが、それでも〓に火を〓く。,
+645,1348,codepage,43266,44,Raw material of a steel said to never rust.,〓して〓びないと言われる〓〓な鋼。その原石。,
+645,1349,codepage,43310,54,Raw material of a flexible yet durable magical metal.,〓〓〓と耐〓〓を〓ね〓えた魔法金属。その原石。,
+645,1350,codepage,43364,97,"Large jewel believed to contain the power of the orb in the
+sky. Somehow not too hot to handle.",空に〓く〓陽の力を秘めているとされる大〓の宝〓。〓くて持てないという事はない。,
+645,1351,codepage,43461,63,A strange mineral that contains within it the mystery of life.,生〓の神秘が秘められている不思〓な鉱石。,
+645,1352,codepage,43524,39,Mystical ore only heard of in legends.,〓〓にのみ〓り継がれる神秘の鉱石。,
+645,1353,codepage,43563,63,Anthracite-like ore with golden light seeping from the inside.,〓〓から金〓の光が〓れる石〓のような鉱石。,
+645,1354,codepage,43626,33,The prominent skull of a dragon.,ドラゴンの〓〓な〓〓骨。,
+645,1355,codepage,43659,60,Cursed bone fragment of a dragon that died torn by regrets.,〓〓を〓して死ん〓ドラゴンの〓いが〓った骨〓。,
+645,1356,codepage,43719,64,"Maggots that breed only in Zombie Dragons.
+Tough and alluring.",ドラゴンゾンビに〓け〓くと言われる〓。とても〓く美しい。,
+645,1358,codepage,43784,43,Dragon's scales that have become corroded.,〓食したドラゴンのうろこ。,
+645,1359,codepage,43827,44,Dragon's scales turned a thick black color.,どす〓く〓〓したドラゴンのうろこ。,
+645,1360,codepage,43871,76,"Dragon's wing that reflects seven colors of light, depending
+on the angle.",光の〓〓で〓〓の光〓を〓つ〓〓なドラゴンの〓。,
+645,1361,codepage,43947,24,Clear wing of a dragon.,〓〓なドラゴンの〓。,
+645,1362,codepage,43971,77,"Gallstone with the concentrated power of a dragon that has
+conquered death.",死を〓〓したドラゴンの力が圧〓された〓石。,
+645,1363,codepage,44048,45,Dark scales blacker than the blackest night.,暗〓のうろこ。その〓は夜の〓よりなお〓い。,
+645,1364,codepage,44093,44,Protective shell that is darker than night.,夜の〓よりも〓い暗〓の〓殻。,
+645,1365,codepage,44137,67,"Talon imbued with the power of a dragon that has conquered
+death.",死を〓〓したドラゴンの力の〓〓が〓る〓。,
+645,1366,codepage,44204,56,Elegant platinum insect resembling a refined sculpture.,精〓な〓〓のように美しい銀〓の〓。,
+645,1367,codepage,44260,83,"Phosphor held in Arectaris's hand.
+It continues to shine even without its master.",アレクタリスの〓手がまとっていた〓光。〓を失った今でもその〓きを失わない。,
+645,1368,codepage,44343,43,Phosphor that adhered to Arectaris's hand.,アレクタリスの〓手に付〓していた〓光。,
+645,1369,codepage,44386,63,"Arectaris's source of life.
+An alluring figure floats within.",アレクタリスの〓の〓。〓〓にその美しい〓が〓かんでいる。,
+645,1370,codepage,44449,80,"Relief of Arectaris's lovely visage.
+It has the beautiful lucidity of crystal.",アレクタリスの美しい〓のレリーフ。水〓のように美しく〓き〓っている。,
+645,1371,codepage,44529,98,"A crystal of life resembling a beautiful giant pearl.
+Crystallized by a relatively higher deity.",大〓の〓〓のように美しい〓の結〓。より高位な神の手で結〓化されている。,
+645,1372,codepage,44627,44,Monster claws that are as sharp as daggers.,〓物のように〓利な魔物の〓。,
+645,1375,codepage,44673,78,"Bright white undergarment. The white appeals to a man's heart.
+For men only.",〓く〓のアンダーウェア。〓は〓の心の〓らしい。〓〓外は〓〓を拒〓する。,
+645,1376,codepage,44751,100,"A jewel containing Odin's wisdom. There is a theory the musky
+smell comes from too much deodorant.",オーディンの〓知が秘められた宝〓。宝〓なのに加〓〓がするのは〓底大〓の〓〓か。,
+645,1377,codepage,44851,82,"Weapon of Freya. Doesn't appear to be much until you touch it.
+Not for children.",フレイの〓器。一見〓もないように見えるが手〓りで感じる。〓人はいつもちやんと持っているらしい。,
+645,1378,codepage,44933,104,"Figurine in a cute pose the original would never strike.
+Painstakingly painted in charming full-color.",モデル〓人は絶〓しないような〓々なポーズをとったフィギュア。精〓な〓りが〓しいフルカラー。,
+645,1379,codepage,45037,71,"Portable game in which you raise a cute fairy creature wearing
+a bag.",ズタ〓をかぶった〓〓らしい妖精〓〓〓を〓てる〓帯ゲーム機。,
+645,1380,codepage,45108,119,"Symbol of creation gods who couldn't possibly exist. The rune
+inside the crystal appears the same from any direction.",存在しないはずの創造の神々の〓〓。結〓の〓〓のルーンはどこからみても〓面を〓く。,
+645,1381,codepage,45227,104,"Symbol of creation gods who couldn't possibly exist. Part of
+a pair, but nothing happens when matched.",存在しないはずの創造の神々の〓〓。〓になっているらしいが〓つ〓っても〓に〓もない。,
+645,1382,codepage,45331,48,Charm which renders user invulnerable to Curse.,〓いを無〓化するお守り。,
+645,1383,codepage,45379,49,Charm which renders user invulnerable to Freeze.,〓結を無〓化するお守り。,
+645,1384,codepage,45428,48,Charm which renders user invulnerable to Faint.,気絶を無〓化するお守り。,
+645,1385,codepage,45476,50,Charm which renders user invulnerable to Petrify.,石化を無〓化するお守り。,
+645,1386,codepage,45526,52,Charm which renders user invulnerable to Paralysis.,〓〓を無〓化するお守り。,
+645,1387,codepage,45578,49,Charm which renders user invulnerable to Poison.,〓を無〓化するお守り。,
+645,1388,codepage,45627,50,Charm which renders user invulnerable to Silence.,〓〓を無〓化するお守り。,
+645,1389,codepage,45677,50,Charm which renders user invulnerable to Confuse.,〓乱を無〓化するお守り。,
+645,1390,codepage,45727,50,Charm which renders user invulnerable to Frailty.,〓〓を無〓化するお守り。,
+645,1391,codepage,45777,47,Charm which renders user invulnerable to Fear.,〓〓を無〓化するお守り。,
+645,1392,codepage,45824,38,Armband which raises physical attack.,〓〓者の力を高める〓輪。,
+645,1393,codepage,45862,35,Armband which raises magic attack.,〓〓者の魔力を高める〓輪。,
+645,1394,codepage,45897,61,Ring that improves the recuperative abilities of the wearer.,〓〓者の自〓〓〓力を高める指輪。,
+645,1395,codepage,45958,60,"Contains a pungent, fermented brew. 
+Not too watered down.",〓〓な〓りを〓つ発〓酒。口〓たりが〓く、一〓は〓く〓める。,
+645,1396,codepage,46018,59,"Foul, green water.
+Not something you would want to drink.",青〓〓に〓った水。〓底人が〓める〓物ではない。,
+645,1397,codepage,46077,73,"A broken amulet, perhaps suffused with the prayers of its
+former owner.",壊れたアミュレット。誰かの〓いが〓められていたの〓ろうか。,
+645,1398,codepage,46150,106,"Said to precipitate death, these ashes can also cure poison when
+boiled. Cannot be used during a battle.",死を〓えると言われる〓。〓が、〓じれば〓〓薬になる。戦闘中は〓用できない。,
+645,1399,codepage,46256,76,"Mask used by an ancient king. 
+It is said that he never revealed his face.",〓〓の王が〓用した〓面。これで常に素〓を隠していたと言われている。,
+645,1400,codepage,46332,62,"Ceremonial tome handed down since antiquity.
+Unintelligible.",〓〓の〓〓を〓える〓〓書。〓〓不〓〓。,
+645,1401,codepage,46394,99,"Some kind of meat. Tastes good. Restores just a little bit of HP.
+Cannot be used during a battle.",〓かの肉。味は〓い。〓〓がほんの〓し〓〓する。戦闘中は〓用できない。,
+645,1402,codepage,46493,83,"Somewhat chilled, translucent fish scales.
+They have a slight resistance to cold.",ほんのり〓たい〓き〓った〓のうろこ。〓〓の〓属〓耐〓がある。,
+645,1403,codepage,46576,116,"Vegetable seed of destiny. G stands for ""great."" It is said
+that when the seed breaks, a hidden power is released.",運〓の名を持つ〓物の〓。〓はグレイトの〓。この〓が〓れる時、隠された力が〓〓されると言ふ。,
+645,1404,codepage,46692,119,"A box holding a meddling fairy who lives in traveler's boots.
+Comes to the rescue when the boot's owner is in danger.",旅人の〓に住み〓くお〓〓な妖精が入った小〓。〓の〓に〓機が〓ると〓手に〓けてくれる。,
+645,1405,codepage,46811,102,"When charging an opponent, the ram lowers its head and drills
+this powerful horn into its adversary.",〓〓たり〓〓の〓に〓っ先に〓手に〓き〓さる〓〓な〓。,
+645,1406,codepage,46913,62,"Fossil of an ash tree. 
+As a fossil, it has a soul of stone.",化石になったトネリコ。化石な〓けに岩の〓である。,
+645,1407,codepage,46975,24,A spear that is broken.,壊れてしまった槍。,
+645,1408,codepage,46999,24,A sword that is broken.,壊れてしまった剣。,
+645,1409,codepage,47023,22,A bow that is broken.,壊れてしまった弓。,
+645,1410,codepage,47045,29,A greatsword that is broken.,壊れてしまった大剣。,
+645,1411,codepage,47074,24,A staff that is broken.,壊れてしまった杖。,
+645,1412,codepage,47098,25,A hammer that is broken.,壊れてしまった〓。,
+645,1413,codepage,47123,80,"A plant that blooms in a profusion of white and gold flowers.
+Can cure Poison.",〓と〓〓の花が入り乱れて〓く事から名付けられた花。〓〓異常〓〓〓を〓〓する。,
+645,1415,codepage,47204,103,"A document that is said to guide the reader to the one true
+path. Can cure Confusion during a battle.",〓用者に〓しき道を指し〓すと言われる書。戦闘中の〓〓異常〓〓乱〓を〓〓する。,
+645,1416,codepage,47307,76,"A poem written by Bragi, god of poetry. 
+Can cure Silence during a battle.",〓神ブラギが書いたとされる〓の一〓。戦闘中の〓〓異常〓〓〓〓を〓〓する。,
+645,1417,codepage,47383,81,"Water collected from the mountains of Midgard.
+Can cure Freeze during a battle.",ミッドガルドの山岳地帯から流れ出した水。戦闘中の〓〓異常〓〓結〓を〓〓する。,
+645,1418,codepage,47464,75,"An herb with white, pearl-like fruit.
+Can cure Paralysis during a battle.",〓〓のような〓い〓をつける〓。戦闘中の〓〓異常〓〓〓〓を〓〓する。,
+645,1419,codepage,47539,67,"A bird's egg incubated by a toad.
+Can cure Stone during a battle.",〓の卵をヒキガエルが〓めたもの。戦闘中の〓〓異常〓石化〓を〓〓する。,
+645,1421,codepage,47607,70,"Cloth embroidered with a night view of Dipan.
+A souvenir from Dipan.",ディパンの美しい夜〓が〓〓された布〓の物〓。ディパンのおみや〓らしい。,
+645,1422,codepage,47677,79,"Monster's internal organ that produces holybreath.
+For some reason, it glows.",ホーリィブレスを〓り出す魔物の〓〓器〓。〓〓か光っている。,
+645,1423,codepage,47756,61,"Organ that produces holybreath.
+It radiates light even now.",ホーリィブレスを〓り出す器〓。今もなお光り〓いている。,
+645,1424,codepage,47817,65,"Completely spoiled liver of a dragon.
+It emits an awful stench.",〓まじい〓〓を〓つ〓りきった竜の〓。,
+645,1425,codepage,47882,26,Tooth edged like a sword.,剣のように〓い〓。,
+645,1426,codepage,47908,29,The sharp claw of an insect.,虫の〓いカギ〓。,
+645,1427,codepage,47937,71,"Extremely keen insect claw. 
+It has an edge that rivals metal swords.",虫の〓利なカギ〓。金属〓の〓物にも〓けない切れ味を誇る。,
+645,1428,codepage,48008,97,"Outer shell of an enormous insect. 
+The eerie face of wailing woman can be seen on the surface.",巨大な虫の外殻。〓面に不気味な女〓の〓き〓が〓き出ている。,
+645,1429,codepage,48105,94,"Insect wing used to produce a loud call.
+A hard, thin design runs through it like glasswork.",大きな〓き〓を出すための〓虫の〓。ガラス〓工のように〓く〓かい〓〓が〓されている。,
+645,1430,codepage,48199,95,"Slim longsword specialized for lunging attacks.
+The royal crest of Dipan is engraved upon it.",〓〓〓〓に〓化した〓〓の刀剣。ディパン王〓の〓〓が〓まれている。,
+645,1431,codepage,48294,57,"A stunning drop of amber.
+Its value lies in its beauty.",美しい〓〓の〓。それなりの〓〓で〓引される。,
+645,1432,codepage,48351,45,Hard and lightweight aquatic creature's fin.,〓くて〓い〓〓〓のヒレ。,
+645,1433,codepage,48396,102,"Crystal that harnesses energy and projects it in one
+direction. Low purity prevents it from working.",エネルギーを〓〓さ〓て一定方〓へ〓〓するという〓〓を持つ結〓。〓〓が〓く、〓〓はできないよう〓。,
+645,1434,codepage,48498,33,Part of a monster's broken claw.,〓れた魔物の〓の一部。,
+645,1435,codepage,48531,63,"Part of an aquatic creature's fin, strong and sharp as an axe.",〓のように〓くて〓〓な〓〓〓のヒレの一部。,
+645,1436,codepage,48594,81,"Stone that serves as the eye of an entity that is animated by
+a transient soul.",〓〓めの〓で動く存在の目になる石。,
+645,1437,codepage,48675,79,"Orb that serves as the eye of an entity that is animated by a
+transient soul.",〓〓めの〓で動く存在の目になる宝〓。,
+645,1438,codepage,48754,71,"Piece of monster clothing stained blood red.
+It longs for more blood.",〓で〓っ〓に〓まった魔物の衣〓の一部。〓なる〓を〓している。,
+645,1439,codepage,48825,72,"Imbued with magic power. 
+Grows sensitive when confronted with enmity.",魔力が〓められたピアス。〓〓に〓して〓感になる〓用がある。,
+645,1440,codepage,48897,31,Steel shoe for a horse's hoof.,鋼鉄〓の〓のひ〓め。,
+645,1441,codepage,48928,43,Talisman that conjures strength when worn.,〓に〓けると力がわいてくる護符。,
+645,1442,codepage,48971,96,"A talisman said to bear the blessings of the wind.
+Enables one to hit one's mark without fail.",〓の加護を〓かるとされる護符。〓い〓わず目〓を〓〓けるようになると言われている。,
+645,1443,codepage,49067,72,"Extremely sharp talons. 
+Once they sink into you, it's hard to escape.",とても〓い魔物の〓。一〓食い〓〓となかなか〓れない。,
+645,1444,codepage,49139,54,Monster's claw that is as sturdy and keen as a lance.,槍のように〓利で〓〓な魔物の〓。,
+645,1445,codepage,49193,39,Sharp claw that is bent like a sickle.,〓のように歪ん〓〓い〓。,
+645,1446,codepage,49232,68,"Extremely sharp monster's claw. 
+Possesses the luster of obsidian.",〓常に〓い魔物の〓。〓〓石のような光〓を持つ。,
+645,1447,codepage,49300,18,Knife-edged claw.,〓いナイフのような〓利な〓。,
+645,1448,codepage,49318,55,Bone from a dragon's ribcage that comes to a fine tip.,〓く〓ったドラゴンの〓骨。,
+645,1449,codepage,49373,28,Glop of rotten dragon meat.,〓ってドロドロになったドラゴンの肉。,
+645,1450,codepage,49401,54,A gorgeous dragon's wing with a name meaning rainbow.,〓の名を〓する美しい竜の〓。,
+645,1451,codepage,49455,97,"The eye of Bahamut. It has magic power so fearsome, it
+terminates any living thing in its view.",バハムートの眼〓。〓界に入った〓けで、生き物の生〓を〓うほど〓々しい魔力を持つ。,
+645,1452,codepage,49552,90,"Colossal horn said to be the source of Bahamut's power.
+Fatal to the touch for the weak.",バハムートの力の〓ともいえる巨大な〓。か〓い者であれば〓れる〓けで〓を〓す魔力を持つ。,
+645,1453,codepage,49642,78,"Scales used by a wyvern to guide its flight.
+Surprisingly delicate and fine.",〓イバーンが〓行中に〓〓な〓〓きを知るためのうろこ。〓常に薄く、デリケート。,
+645,1454,codepage,49720,82,"Scales that cling to their target. 
+They fly at the target like diving swallows.",ターゲットに〓い付くように〓んでくるうろこ。〓い〓ぶツバメのように〓〓を〓〓する。,
+645,1455,codepage,49802,78,"These scales fly at blinding speeds, and puncture and stick
+to their target.",ターゲットに〓い付くように〓んでくるうろこ。高〓で〓〓し、〓〓に〓き〓さる。,
+645,1456,codepage,49880,113,"Bright red scales possessing a high temperature.
+Said to retain their heat even if a hundred years should pass.",高い〓を持った〓っ〓なうろこ。この〓は〓を経ても失われないという。,
+645,1457,codepage,49993,92,"Special scales from a wyvern.
+They bear the name of a hot wind blowing in from the desert.",〓イバーン〓が持つ〓〓なうろこ。砂漠から〓く〓〓の名を〓する。,
+645,1458,codepage,50085,94,"Special scales from a wyvern. 
+They bear the name of a cold winter wind from a faraway land.",〓イバーン〓が持つ〓〓なうろこ。ある地方の〓に〓く〓い〓の名を〓する。,
+645,1459,codepage,50179,85,"Special scales from a wyvern.
+They bear the name of a hot wind from a faraway land.",〓イバーン〓が持つ〓〓なうろこ。ある地方の〓〓の名を〓する。,
+645,1460,codepage,50264,99,"Magic ore said to be a tear shed by the frost giant Ymir.
+Cold enough to freeze a flowing stream.",〓の巨人ユミルが流した涙と〓えられる魔法の鉱物。〓の流れすら〓てつか〓る〓気を〓出する。,
+645,1461,codepage,50363,103,"Magic ore named after the rage of the thunder god.
+Releases lightning powerful enough to crush stone.",雷神の〓りの名を〓する魔法の鉱石。岩をも砕く雷〓を〓つとされる。,
+645,1462,codepage,50466,107,"Magic ore with a name that invokes nightmares.
+A venom with the toxicity to destroy all can be extracted.",最も〓き〓〓という名を持った魔法の鉱石。〓物を死〓さ〓るほどの〓密な〓が〓出できるらしい。,
+645,1463,codepage,50573,80,"A warm, blood-red stone the size of a human heart.
+It seems to pulsate gently.",心〓ほどの大きさの〓のように〓い宝石。ほのかに〓かく、脈〓っている。,
+645,1464,codepage,50653,103,"A tiny magic flame. It flickers but never dies out.
+Believed to bring luck to those who look upon it.",小さい魔法の炎。〓える事なく〓らめいている。その光を見た者にささやかな幸運を〓えると言う。,
+645,1465,codepage,50756,69,"Crystal holding the frozen curse of a monster's sacrificial
+victim.",魔物に〓された〓〓者の〓〓が〓り〓まった結〓。,
+645,1466,codepage,50825,27,An unidentified dark soul.,〓〓の知れない〓い〓。,
+645,1467,codepage,50852,83,"Piece of a pitch black cloak.
+It still holds a trace of its master's magic power.",〓っ〓いマントの切れ〓。〓〓〓の魔力の一部を〓け継いでいる。,
+645,1468,codepage,50935,61,"Foreboding right arm of a demon.
+Wrapped in powerful magic.",〓々しい〓魔の〓〓。〓力な魔力を帯びている。,
+645,1469,codepage,50996,60,"Foreboding left arm of a demon.
+Wrapped in powerful magic.",〓々しい〓魔の〓〓。〓力な魔力を帯びている。,
+645,1470,codepage,51056,112,"Hoof of a demon. Though it scarcely differs from that of an
+ordinary animal, it is filled with fearsome magic.",〓魔のひ〓め。〓が〓〓の動物のものと〓ら〓わらない〓をしているが〓々しき魔力を〓〓。,
+645,1471,codepage,51168,47,A mysterious liquid with the luster of silver.,銀のような光〓を持った不思〓な〓〓。,
+645,1472,codepage,51215,99,"A mysterious ore often called the metal of the gods.
+Requires the heat of a volcano to be forged.",神々の金属と言われる不思〓な鉱物。加工には火山のような高〓が〓〓と言われている。,
+645,1473,codepage,51314,42,Mysterious bone charged with electricity.,〓気を帯びた不思〓な骨。,
+645,1474,codepage,51356,28,Ore said to summon thunder.,〓雷を〓ぶと言われる鉱物。,
+645,1475,codepage,51384,41,Crystal overflowing with electric power.,〓力な〓力を帯びた結〓。,
+645,1476,codepage,51425,50,"Large, round pearl. 
+Fetches quite a fair price.",大きな〓〓の〓。大〓高〓で〓引される。,
+645,1477,codepage,51475,66,"Teeth covering the limbs that grow out of the mouth of a
+Kraken.",クラーケンの口の〓〓に生えた〓〓な〓手にびっしり生える〓。,
+645,1478,codepage,51541,83,"Liquid from a monster with great powers of recovery.
+Said to increase metabolism.",〓〓力が高い魔物の〓〓。〓〓〓〓機〓を〓上さ〓る〓果がある。,
+645,1479,codepage,51624,54,Monster's projectiles that will penetrate their mark.,〓ったものを〓〓に〓〓くと言われる魔物の〓〓。,
+645,1480,codepage,51678,57,Large pearl that is round and luminescent like the moon.,月のように〓く美しい〓〓の大〓。,
+645,1481,codepage,51735,43,Hammer-shaped bone from the end of an arm.,〓手の先にある〓のような〓〓の骨。,
+645,1482,codepage,51778,82,"Projectile designed more for detonation than piercing.
+Looks like a large arrow.",〓〓くよりも〓壊する事を目〓とした〓び道〓。見た目は大きな〓である。,
+645,1483,codepage,51860,58,Magic arrowhead that slices through wind without slowing.,〓かい〓の中でも〓〓しない魔物の〓。その〓じり。,
+645,1484,codepage,51918,79,"A good luck charm.
+The benefits change according to what animal's tail it is.",幸運のお守り。〓利〓はどんな動物のしっ〓なのかで〓わるらしい。,
+645,1485,codepage,51997,64,"A small box with nothing in it.
+Unclear what it may have held.",空っ〓の小さい〓。〓が入っていたのかは不〓。,
+645,1486,codepage,52061,35,Mysterious inflammable animal fur.,〓して〓えない不思〓な〓の〓〓。,
+645,1487,codepage,52096,30,A particularly large bat ear.,〓常に大きなこうもりの〓。,
+645,1488,codepage,52126,60,"A particularly large bat wing.
+The shape resembles a cape.",〓常に大きなこうもりの〓。その〓〓はマントのようにも見える。,
+645,1489,codepage,52186,70,"A sharp talon protruding from the end of the violent griffon's
+wing.",〓〓なグリフォンの〓の先〓についた〓い〓。,
+645,1490,codepage,52256,80,"Sharp beak of a giant bird of prey.
+One attack will open holes in metal armor.",巨大な〓〓〓の〓いくちばし。これの一〓は金属〓の鎧にも〓〓を〓ける。,
+645,1491,codepage,52336,73,"Entwined vines etched in silver. 
+There's no hint as to what it framed.",〓〓に〓み〓ったカズラの銀〓工。〓かの〓〓ったの〓ろうか。,
+645,1492,codepage,52409,102,"A mirror reminiscent of a serene lake surface.
+So clear it appears you could plunge your fingers in.",〓〓たぬ〓かな〓面を思わ〓る美しい鏡。〓ると〓み〓まれてしまいそうなほど〓りひとつない。,
+645,1493,codepage,52511,48,Metal part shaped like newly formed plant buds.,発〓したばかりの〓物のような〓〓の金属パーツ。,
+645,1494,codepage,52559,42,Vegetable seed containing a potent venom.,〓〓な〓を〓ん〓〓物の〓。,
+645,1495,codepage,52601,65,"A delicate little flower.
+Just looking at it soothes the heart.",〓〓な小さな花。見ている〓けで心がな〓〓。,
+645,1496,codepage,52666,72,"Perennial with a bugle-shaped flower.
+The flower symbolizes innocence.",ラッパ〓の大きな花をつける多〓草。花言〓は〓〓〓〓。,
+645,1497,codepage,52738,73,"Countless flowers bloom on this mountain flower.
+It symbolizes fortune.",山地などに自生し、〓い小さな花を無〓につける。〓幸〓〓が花言〓。,
+645,1498,codepage,52811,102,"This flower symbolizes persistence. An attractive flower known
+for its sword-shaped leaves and stem.",花言〓は〓た〓まぬ〓力〓。剣先のような草と〓なりにつく美しい花が〓〓。,
+645,1499,codepage,52913,115,"Figurine in a cute pose the original would never strike.
+The amber version is the ultra-rare collector's edition.",モデル〓人は絶〓しないような〓々なポーズをとったフィギュア。アンバーカラーはシークレットの〓。,
+645,1500,codepage,53028,92,"Figurine in a cute pose the original would never strike.
+The most common metallic version.",モデル〓人は絶〓しないような〓々なポーズをとったフィギュア。一〓〓の多いメタリックバージヨン。,
+645,1501,codepage,53120,113,"Figurine in a cute pose the original would never strike.
+Crystal version which doesn't require a base to stand.",モデル〓人は絶〓しないような〓々なポーズをとったフィギュア。心底いらないクリスタルバージヨン。,
+645,1502,codepage,53233,83,"A strange accessory with the inscription:
+""Wear this to reveal the hidden truth.""",〓〓〓すると隠された〓〓が〓を〓す〓と書かれたヘンなアクセサリー。,
+645,1503,codepage,53316,79,"High-quality, scented wood. 
+Its soothing effects are said to relieve stress.",上質の〓〓。ストレスを〓〓するヒーリング〓果があるらしい。,
+645,1504,codepage,53395,30,Seldom seen palm of a dragon.,〓常に〓しいドラゴンの手のひら。,
+645,1505,codepage,53425,65,"A bronze statuette that depicts a lively, prancing young
+horse.",元気に〓ね〓る〓〓の〓を〓した小さい〓〓。,
+645,1506,codepage,53490,75,"An earthenware baby chick. 
+A must-buy souvenir from the west of Midgard.",〓〓のひよこ。ミッドガルドの西部ではメジャーなお土産らしい。,
+645,1507,codepage,53565,73,"A delicate bee, finely wrought in silver.
+Rubies are used for the eyes.",〓の〓の精〓な銀〓工。眼の部〓にルビーがはめ〓まれている。,
+645,1508,codepage,53638,41,A stunning bracelet with inset emeralds.,小さなエメラルドがはめ〓まれた〓〓な〓輪。,
+645,1509,codepage,53679,31,An antique copper hand mirror.,〓〓のアンティークな手鏡。,
+645,1510,codepage,53710,38,An inexpensive-looking bronze mirror.,青〓〓の〓っ〓い手鏡。,
+645,1511,codepage,53748,102,"A small blue doll that fits in the palm of your hand.
+Its microscopic level of detail is disturbing.",手のひらに〓りそうな小さい青い人〓。異〓に精〓な〓りは〓し不気味。,
+645,1512,codepage,53850,46,A small jade figurine of two kittens playing.,〓〓の〓〓がじやれあっている〓を〓した小さい人〓。〓〓〓。,
+645,1513,codepage,53896,36,Ruby earring shaped like the fruit.,ルビー〓の〓の〓が〓られたピアス。,
+645,1514,codepage,53932,65,"A hairpin decorated with a blue stone cut to resemble an
+apple.",青い宝石で出〓た〓の〓が〓られたヘアピン。,
+645,1515,codepage,53997,66,"A worn antique. 
+Appears to be some sort of festival receptacle.",〓ぼけた骨〓〓の器。〓かの〓器らしい。,
+645,1516,codepage,54063,89,"Description should not appear in Camp Menu.
+If you see this, please report it as a BUG!",キャンプ画面では〓〓は〓〓されま〓ん。これが〓〓されたらバグですので〓〓〓お〓いします。,
+645,1517,codepage,54152,89,"Description should not appear in Camp Menu.
+If you see this, please report it as a BUG!",キャンプ画面では〓〓は〓〓されま〓ん。これが〓〓されたらバグですので〓〓〓お〓いします。,
+645,1518,codepage,54241,89,"Description should not appear in Camp Menu.
+If you see this, please report it as a BUG!",キャンプ画面では〓〓は〓〓されま〓ん。これが〓〓されたらバグですので〓〓〓お〓いします。,
+645,1519,codepage,54330,96,"A map of the north featuring Dipan and Solde in the center.
+Enables shortcuts to destinations.",ディパンやゾルデを中心としたミッドガルド北部の地図。地域間の〓動を〓〓化できる。,
+645,1520,codepage,54426,88,"A map of the west featuring Villnore in the center.
+Enables shortcuts to destinations.",ヴィルノアを中心としたミッドガルド西部の地図。地域間の〓動を〓〓化できる。,
+645,1521,codepage,54514,97,"A map of the east featuring Crell Monferaigne in the center.
+Enables shortcuts to destinations.",クレルモンフェランを中心としたミッドガルド東部の地図。地域間の〓動を〓〓化できる。,
+645,1522,codepage,54611,101,"Sword used by the current valkyrie, Hrist. 
+Hunts the souls of heroes and carries them to Valhalla.",〓在の戦乙女であるアーリィが〓用していた剣。〓〓の〓を狩り、ヴァルハラに運ぶと言われている。,
+645,1523,codepage,54712,122,"The sword's name means ""high and pure."" It was given only to
+the very best of the knights who swore loyalty to the king.",〓気高く〓らか〓という〓味を持つ剣。王に〓〓を誓った〓士の中でも、最上〓の者に〓えられた。,
+645,1524,codepage,54834,51,"Common, widely used protective wear made of cloth.",一〓に広く流布している布〓の〓〓。,
+645,1525,codepage,54885,45,Leg protection used by high-ranking knights.,上〓の〓士が〓用している〓〓。,
+645,1526,codepage,54930,19,Tanned hide boots.,〓をなめして〓られたブーツ。,
+645,1527,codepage,54949,31,Boots filled with magic power.,魔力が〓められたブーツ。,
+645,1528,codepage,54980,69,"Preferred boots of laborers.
+Offer durability and ease of movement.",〓〓者が〓んで〓くブーツ。動きやすく、耐〓〓に〓れている。,
+645,1529,codepage,55049,102,"Charm picked up in Surts Caverns. Blood obscures the original
+color, but it appears to be hand-made.",スルス火山洞窟で〓ったお守り。〓で〓れており元の〓はわからないが、手〓らしい。,
+645,1530,codepage,55151,88,"Glove preferred by loyal knights.
+Limits movement, but significantly improves defense.",〓〓ある〓士が〓んで〓用するグローブ。動きは制〓されるが、防〓力は高い。,
+645,1531,codepage,55239,89,"Description should not appear in Camp Menu.
+If you see this, please report it as a BUG!",キャンプ画面では〓〓は〓〓されま〓ん。これが〓〓されたらバグですので〓〓〓お〓いします。,
+645,1532,codepage,55328,39,Bow given to a brave warrior by a god.,神が〓者に〓えたとされる〓弓。,
+645,1533,codepage,55367,72,"Staff made from a legendary metal.
+Gives enormous power to its holder.",幻の金属と〓ばれる物質で出〓た杖。持ち〓に〓大な力を〓える。,
+645,1534,codepage,55439,93,"Gauntlet bearing the name of a mighty warrior.
+Possesses strong resistance to dark attacks.",〓き者の〓を持つ手〓。〓属〓の〓〓に〓し〓い耐〓を持つ。,
+645,1535,codepage,55532,76,"Blade named after she of the shield truce.
+One swing dispels all darkness.",平〓の守護者の〓を〓する剣。この剣の一〓りで、全ての〓は〓れ〓る。,
+645,1536,codepage,55608,90,"Armor containing all wisdom. 
+This shining suit protects its wearer against all attacks.",全ての〓知を〓した鎧。光を〓ったその〓〓はあら〓る〓〓から〓〓者の〓を守る。,
+645,1537,codepage,55698,60,"Cosplay shirt for kobolds, based on Odin's apparel.
+Small.",オーディンの上〓のデザインがインスパイアされたコボルト用のコスプレ衣〓。小さい。,
+645,1538,codepage,55758,76,"Tape with adhesive on both sides, no doubt used to keep a
+toupee in place.",〓らく〓ラをとめていたのに〓っていた〓面テープ。,
+645,1539,codepage,55834,84,"This dapper wi--umm, hairpiece guarantees wisdom and happiness
+to he who wears it.",〓に〓けた者に〓知と〓るい人生を〓〓する精〓な〓・・・いやウィッグ。,
+645,1540,codepage,55918,82,"Lance-shaped thing made out of plywood.
+A ripoff Gungnir, but good for throwing.",ベニヤ〓で出〓た槍っ〓いの。グングニルらしい。〓常に〓〓槍な出〓〓。,
+645,1541,codepage,56000,58,"An everyday, run-of-the-mill bamboo pole.
+Not very cool.",〓の〓〓も無い〓の〓。青〓い。,
+645,1542,codepage,56058,44,A push-up thingy for the full-figured look.,〓〓てあ〓て大きく見〓る〓のアレ。,
+645,1543,codepage,56102,59,"Freya's felt cap. 
+It's neatly sewn, but covered in hair.",フェルト〓のフレイの〓〓。なかなか〓〓に〓縫してあるが〓まみれ〓。,
+645,1544,codepage,56161,90,"An oversized ball of glass. 
+""Villnore Chamber of Commerce"" is written on a star inside.",やたらとでかいガラス〓。〓〓の〓にヴィルノア商工〓と書いてある。,
+645,1545,codepage,56251,60,"Cosplay shirt for kobolds, based on valkyrie armor.
+Small.",ヴァルキリーたちの鎧のデザインがインスパイアされたコボルト用のコスプレ衣〓。小さい。,
+645,1546,codepage,56311,90,"Insanely heavy lance made of die-cast metal.
+A creepy obsession with detail is apparent.",ダイキャスト〓のド重い〓造槍。その〓常に精〓な出〓は〓質〓な〓〓を感じる。,
+645,1547,codepage,56401,53,"A quarterstaff carved from cypress.
+Or so they say.",ひのきをけずって〓った〓の〓。らしい。,
+645,1548,codepage,56454,93,"Manual for self-improvement with tons of sticky-notes.
+Entitled ""How to lead and be loved.""",大量の付〓が〓まれた〓用書。タイトルは〓〓かれる上〓になる〓〓。,
+645,1549,codepage,56547,48,"A boring old pipe made of iron... Wait, a pipe?",〓の〓〓もない鉄で出〓たパイプ。・・・パイプ〓,
+645,1550,codepage,56595,90,"Five-pointed pendant that is proof of having slayed the
+mightiest rodent in the heavens.",神界最〓の小動物を〓〓した〓〓となる〓〓のペンダント。,
+645,1551,codepage,56685,61,"Extraordinarily ordinary sunflower seed.
+A delicious treat.",至〓〓〓のヒマ〓リの〓。大〓きなものらしい。,
+645,1552,codepage,56746,104,"Gauntlet with the symbol of fortune engraved. But really
+tacky. Brings about miracles, or so they say.",幸運のシンボルが〓まれた手〓。でも〓〓〓い。〓跡を〓ぶ・・・らしい。,
+645,1553,codepage,56850,126,"Helm with the symbol magic evasion carved into it. Though weak
+physically, it possesses remarkable resistance against magic.",魔〓けの〓印が〓まれた〓。防〓力は〓いが、魔法への耐〓が〓常に高い。,
+645,1554,codepage,56976,81,"Silverwork of a snake biting its own tail.
+Rubies are set into the eye sockets.",自〓の尾を〓ん〓〓の銀〓工。眼〓にルビーがはめ〓まれている。,
+645,1555,codepage,57057,60,A curious kobold wig. Said to contain another kind of soul.,〓なコボルトのウィッグ。このカリフラ〓ーのような物〓にはソウルなるものが〓るらしい。,
+645,1556,codepage,57117,50,A pendant engraved with the royal crest of Dipan.,ディパン王家の〓〓が〓まれたペンダント。,
+645,1557,codepage,57167,44,A representative bulb crop. White and long.,〓〓〓な〓野菜。〓くてスラッとしている。,
+645,1558,codepage,57211,51,A heavy steel hairband. Looks a lot like Alicia's.,鉄〓の重たいヘアーバンド。アリーシャのものに〓く〓ている。,
+645,1559,codepage,57262,93,"White grungy shirt with an image of Rufus's clothes drawn on
+it. Probably some inside joke.",〓地にルーファスの衣〓の〓が〓いてある〓レ〓レのシャツ。他〓を感じる。,
+645,1560,codepage,57355,81,"Weird medal, handmade by pasting silver paper on cardboard.
+What is this thing?",ボール〓に銀〓が〓り付けてある〓な手〓りメダル。なん〓これ。,
+645,1561,codepage,57436,101,"Red bandanna that says ""Run like the winded"" for some reason.
+Resembles one Rufus lost a while ago.",な〓か〓〓と書かれた〓いバンダナ。ルーファスが〓、失くしたものに〓く〓ているらしい。,
+645,1562,codepage,57537,101,"Latest edition of the Valhalla Guide.
+The cover features ""10 Items no einherjar should be without.""",ヴァルハラガイドと書かれた〓〓い〓。帯に〓エインフェリア〓〓の究〓ガイド〓〓と書いてある。,
+645,1563,codepage,57638,43,Wig sporting a conic-spike punk hairstyle.,ツンツンに〓く〓ったヘアスタイルを〓〓した〓ラ。,
+645,1564,codepage,57681,97,"A purple-colored mirror? No, a Brahms-colored mirror.
+Peer into it and see an ominous shadow...",〓〓、というかブラムス〓に〓まった鏡。〓き〓〓と〓後に不〓な〓が見えるらしい。,
+645,1565,codepage,57778,71,"Cute, tiny bloodsucking bugs. 
+They bounce around so alive and happy!",ちっちやくて〓〓い〓〓〓虫。〓気に今日も〓〓ん〓〓ん〓び〓ねる。,
+645,1566,codepage,57849,58,For those who have earned the favor of the battle-maiden.,戦乙女の〓〓を〓かる者の名を〓する剣。,
+645,1567,codepage,57907,36,A sword that makes goodbyes simple.,〓れの〓を〓する切り裂きの剣。,
+645,1568,codepage,57943,58,Greatsword whose name refers to its power to defeat evil.,〓竜を引き裂く者の〓を〓する大剣。,
+645,1569,codepage,58001,114,"The sword known for slaying dragons, now new and improved!
+Even the strongest of dragons is powerless before it.",竜〓しとも〓ばれる大剣。その〓〓〓。どんな〓大な力を持つ竜も、この剣の〓には無力となる。,
+645,1570,codepage,58115,90,"Sword carrying the curse of the undead. 
+Said to suck the blood of the enemy it attacks.",不死者の〓いが〓められた剣。〓〓した〓手の〓を食らうと言われている。,
+645,1571,codepage,58205,63,A chip off of the stone that bears all knowledge in the world.,世界のあら〓る知識が〓め〓まれた石。その〓〓。,
+645,1572,codepage,58268,58,"The seed for forming a homunculus.
+It's green and plump.",ホムンクルスを〓る〓となるもの。なんか〓〓でぶよぶよしている。,
+645,1573,codepage,58326,104,"A magic tome addressed to all monsters.
+Contains forbidden treatises on tricks for animating the dead.",あら〓る魔術について〓べられた魔〓書。外法とも言われる〓霊術にも〓しい。,
+645,1574,codepage,58430,66,"Pitch black robes that seem to have come out of darkness
+itself.",〓から〓け出たような〓〓のローブ。,
+645,1575,codepage,58496,46,Sword fueled by the angst of the downtrodden.,〓〓られてきた者達の〓〓がこもった剣。,
+645,1576,codepage,58542,30,"A rat, hunted and toyed with.",〓ばれて狩られたネズミ。,
+645,1577,codepage,58572,36,"An abused lizard, its tail cut off.",〓ばれて尻尾が切れたトカゲ。,
+645,1578,codepage,58608,42,"An unlucky blue bird, cruelly mistreated.",〓ばれた不幸な青い鳥。,
+645,1579,codepage,58650,82,"Excreted after nutrients have been absorbed.
+Occasionally has furballs mixed in.",栄〓〓を〓化〓〓した後のかす。時〓〓〓が〓じる。,
+645,1580,codepage,58732,33,A bone that has been sucked dry.,しやぶりつくされた骨。,
+645,1581,codepage,58765,41,Battered shoes that something chewed on.,かじられ、ぼろぼろになった靴。,
+645,1582,codepage,58806,40,An unkempt cloth with holes everywhere.,所々に〓が〓いたぼろぼろの布。,
+645,1583,codepage,58846,71,"Excreted after nutrients have been absorbed.
+Indicates health status.",栄〓〓を〓化〓〓した後のかす。〓〓〓〓がわかる。,
+645,1584,codepage,58917,27,Feed given to baby chicks.,ひよこのえさ。,
+645,1585,codepage,58944,35,Old veggies. They're good for you.,野菜のくず。栄〓〓は高い。,
+645,1586,codepage,58979,52,"Feed with clamshells mixed in. 
+It's good for you.",貝殻を砕いて〓〓たえさ。栄〓〓は高い。,
+645,1587,codepage,59031,79,"Excreted after nutrients have been absorbed.
+Occasionally falls from the sky.",栄〓〓を〓化〓〓した後のかす。時〓空から降ってくる。,
+645,1588,codepage,59110,41,A ring engraved with the image of a cat.,〓のレリーフが〓りこまれた指輪。,
+645,1589,codepage,59151,41,A ring engraved with the image of a dog.,〓のレリーフが〓りこまれた指輪。,
+645,1590,codepage,59192,42,A ring engraved with the image of a bird.,鳥のレリーフが〓りこまれた指輪。,
+645,1591,codepage,59234,42,A ring that lets one talk to the animals.,持つ者は、動物と〓〓できると言われる指輪。,
+645,1593,codepage,59277,117,"In battle, HP recovery spells and items work on the entire party,
+but the amount of HP restored is greatly reduced.",戦闘中、アイテムや魔法による〓〓の〓〓が全〓に〓〓するようになる。た〓し〓〓量は大〓に下がる。,
+645,1594,codepage,59394,74,"May break foe's guard.
+Equipping more will not have a cumulative effect.",一定〓〓で〓のガードを〓壊する。これは〓〓〓〓しても〓果は重〓しない。,
+645,1595,codepage,59468,41,May launch a counterattack when evading.,〓避時、一定〓〓でカウンター〓〓が発動する。,
+645,1596,codepage,59509,45,10% of attack damage is transformed into HP.,〓〓ダメージのを〓〓に〓〓する。,
+645,1597,codepage,59554,40,May transform inflicted damage into HP.,一定〓〓で〓えたダメージを〓〓に〓〓する。,
+645,1598,codepage,59594,61,May restore half of the damage inflicted by an enemy attack.,〓の〓〓を〓けダメージを〓った〓、一定〓〓で〓けたダメージの半〓を〓〓する。,
+645,1599,codepage,59655,94,"In battle, time needed to recover from status ailments is halved.
+The Cure Condition effect.",戦闘中、〓〓異常になっている時間が〓常の半〓になる。キュアコンディシヨンの〓果。,
+645,1600,codepage,59749,39,Improves chance of performing a guard.,ガード〓を上〓さ〓る。,
+645,1601,codepage,59788,25,May negate magic damage.,一定〓〓で魔法ダメージを無〓化する。,
+645,1602,codepage,59813,19,May reflect magic.,一定〓〓で魔法を〓〓する。,
+645,1603,codepage,59832,27,Doubles HIT during battle.,戦闘中の〓〓〓が〓になる。,
+645,1604,codepage,59859,72,"ATK increases with each miss.
+Effect ceases when the attack mode ends.",ミスするたびに〓〓〓がアップする。上〓したダメージは〓〓モードを〓〓すると〓る。,
+645,1605,codepage,59931,97,"Chance of a critical attack increases with each miss.
+Effect ceases when the attack mode ends. ",ミスするたびにクリティカルの発生〓〓を上〓さ〓る。上〓した発生〓は〓〓モード〓〓時にリセット。,
+645,1606,codepage,60028,99,"Causes normal attacks to miss, but critical attacks and certain
+special attacks will strike home.",〓常〓〓をミスするようになる。た〓し、クリティカルと一部の〓〓〓〓は〓中する。,
+645,1607,codepage,60127,83,"Damage inflicted on enemy increases, but each attack reduces
+HP by 5% of maximum.",〓に〓えるダメージが上〓する。た〓し〓〓の〓に最大〓〓のを〓〓してしまう。,
+645,1608,codepage,60210,67,"Part of the damage inflicted on the enemy is transformed into
+HP.",〓に〓えたダメージの一部を〓〓に〓元さ〓〓〓する。,
+645,1609,codepage,60277,100,"Increased damage inflicted on the enemy as long as HP is at
+maximum. Once hurt, the effect ceases.",〓〓〓タン〓〓の間、〓に〓えるダメージがアップ。ダメージを〓うと元に〓る。,
+645,1611,codepage,60378,118,"In battle, fortune smiles upon you when all digits in your HP
+value are the same. The higher the digit, the luckier.",戦闘中、〓〓がゾロ目になると幸運な事が〓こる。その時のケタが高いほど大きな幸運になる。,
+645,1612,codepage,60496,59,"During a battle, character parameters improve as HP falls.",戦闘中、〓〓が〓るとパラメータが上〓する。,
+645,1613,codepage,60555,60,"During a battle, Special Attack power improves as HP falls.",戦闘中、〓〓が〓ると〓め技の〓力が上〓する。,
+645,1615,codepage,60616,61,"Poison damage actually heals the victim, but only in battle.",戦闘中のみ〓のダメージで〓〓するようになる。,
+645,1616,codepage,60677,84,"When suffering from Poison in a battle, MAG goes up.
+Critical Rank also increases.",戦闘中、〓〓異常〓〓〓になると〓〓〓がアップする。〓にクリティカルランクも上〓する。,
+645,1617,codepage,60761,116,"When suffering from Frailty in a battle, attack damage against
+foes increases. Critical attack odds also increase.",戦闘中、〓〓異常〓〓〓〓になると〓に〓えるダメージが大〓にアップ。〓にクリティカルの発生〓も上〓する。,
+645,1621,codepage,60880,80,"ATK increases when inflicted with Silence.
+Critical attack odds also increase.",〓〓異常〓〓〓〓時、〓〓〓がアップ。〓にクリティカルの発生〓も上〓する。,
+645,1625,codepage,60963,119,"When character is on the verge of dying, entire party is given
+first aid, except for the dying character him/herself.",自〓が〓死になるとパーティー全〓にファーストエイドが発生する。た〓し自〓自〓には発生しない。,
+645,1626,codepage,61082,87,"All status levels go up when stricken by any ailment.
+Effect only occurs in a battle.",〓〓異常中、すべてのステータスが上〓する。〓果は戦闘時のみ発生する。,
+645,1627,codepage,61169,118,"Critical attack power doubles. However, if attack fails to defeat
+enemy, damage is inflicted upon character as well.",クリティカルの〓力を〓にする。た〓しその一〓で〓手が〓〓なかった場〓そのダメージを自〓も〓う,
+645,1628,codepage,61287,35,Increases maximum HP value by 10%.,〓〓の最大〓が上〓する。,
+645,1629,codepage,61322,55,"Increases maximum HP value by 3%.
+Enhance by linking.",〓〓の最大〓が上〓する。リンクで〓化できる。,
+645,1630,codepage,61377,55,"Increases maximum HP value by 5%.
+Enhance by linking.",〓〓の最大〓が上〓する。リンクで〓化できる。,
+645,1631,codepage,61432,22,Increases ATK by 15%.,〓〓〓が上〓する。,
+645,1632,codepage,61454,42,"Increases ATK by 3%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1633,codepage,61496,42,"Increases ATK by 5%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1634,codepage,61538,22,Increases MAG by 15%.,〓〓〓が上〓する。,
+645,1635,codepage,61560,42,"Increases MAG by 3%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1636,codepage,61602,42,"Increases MAG by 5%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1637,codepage,61644,22,Increases HIT by 15%.,〓〓〓が上〓する。,
+645,1638,codepage,61666,42,"Increases HIT by 3%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1639,codepage,61708,42,"Increases HIT by 5%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1640,codepage,61750,22,Increases AVD by 20%.,〓〓〓が上〓する。,
+645,1641,codepage,61772,42,"Increases AVD by 3%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1642,codepage,61814,42,"Increases AVD by 5%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1643,codepage,61856,22,Increases RDM by 15%.,〓〓〓が上〓する。,
+645,1644,codepage,61878,42,"Increases RDM by 3%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1645,codepage,61920,42,"Increases RDM by 5%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1646,codepage,61962,22,Increases RST by 20%.,〓〓〓が上〓する。,
+645,1647,codepage,61984,42,"Increases RST by 3%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1648,codepage,62026,42,"Increases RST by 5%.
+Enhance by linking.",〓〓〓が上〓する。リンクで〓化できる。,
+645,1649,codepage,62068,37,Boosts Special Attack damage by 20%.,〓め技ダメージが上〓する。,
+645,1650,codepage,62105,37,Boosts Special Attack damage by 30%.,〓め技ダメージが上〓する。,
+645,1651,codepage,62142,57,"Boosts Special Attack damage by 5%.
+Enhance by linking.",〓め技ダメージが上〓する。リンクで〓化できる。,
+645,1652,codepage,62199,86,"Increases chance of a critical attack.
+Equipping more will have a cumulative effect.",クリティカルの発生〓が上〓する。〓〓〓〓するとその〓〓果は重〓する。,
+645,1653,codepage,62285,28,Guaranteed critical attack.,〓ずクリティカルになる。,
+645,1659,codepage,62318,34,May inflict Poison on the target.,一定〓〓で〓〓〓〓を〓〓異常〓〓〓にする。,
+645,1660,codepage,62352,74,"Has a 40% chance of negating Poison during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1661,codepage,62426,36,Provides protection against Poison.,〓〓異常〓〓〓を〓全に防〓。,
+645,1664,codepage,62464,37,May inflict Paralysis on the target.,一定〓〓で〓〓〓〓を〓〓異常〓〓〓〓にする。,
+645,1665,codepage,62501,77,"Has a 40% chance of negating Paralysis during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓〓〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1666,codepage,62578,30,Completely negates Paralysis.,〓〓異常〓〓〓〓を〓全に防〓。,
+645,1667,codepage,62608,53,"On very rare occasions, will inflict Doom on target.",〓く〓に〓〓〓〓を〓死さ〓る。,
+645,1668,codepage,62661,32,May inflict Doom on the target.,一定〓〓で〓〓〓〓を〓死さ〓る。,
+645,1669,codepage,62693,81,"Has a 40% chance of negating Doom caused by a foe's attack.
+Enhance by linking.",〓の〓〓の〓死〓果をの〓〓で無〓化する。リンクで〓化できる。,
+645,1670,codepage,62774,50,Completely negates Doom caused by a foe's attack.,〓の〓〓の〓死〓果を〓全に防〓。,
+645,1673,codepage,62826,35,May inflict Silence on the target.,一定〓〓で〓〓〓〓を〓〓異常〓〓〓〓にする。,
+645,1674,codepage,62861,75,"Has a 40% chance of negating Silence during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓〓〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1675,codepage,62936,28,Completely negates Silence.,〓〓異常〓〓〓〓を〓全に防〓。,
+645,1679,codepage,62967,73,"Has a 40% chance of negating Curse during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓い〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1680,codepage,63040,26,Completely negates Curse.,〓〓異常〓〓い〓を〓全に防〓。,
+645,1683,codepage,63068,37,May inflict Confusion on the target.,一定〓〓で〓〓〓〓を〓〓異常〓〓乱〓にする。,
+645,1684,codepage,63105,77,"Has a 40% chance of negating Confusion during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓乱〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1685,codepage,63182,30,Completely negates Confusion.,〓〓異常〓〓乱〓を〓全に防〓。,
+645,1693,codepage,63219,33,May inflict Stone on the target.,一定〓〓で〓〓〓〓を〓〓異常〓石化〓にする。,
+645,1694,codepage,63252,73,"Has a 40% chance of negating Stone during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓石化〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1695,codepage,63325,26,Completely negates Stone.,〓〓異常〓石化〓を〓全に防〓。,
+645,1698,codepage,63353,33,May inflict Faint on the target.,一定〓〓で〓〓〓〓を〓〓異常〓気絶〓にする。,
+645,1699,codepage,63386,73,"Has a 40% chance of negating Faint during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓気絶〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1700,codepage,63459,26,Completely negates Faint.,〓〓異常〓気絶〓を〓全に防〓。,
+645,1703,codepage,63487,34,May inflict Freeze on the target.,一定〓〓で〓〓〓〓を〓〓異常〓〓結〓にする。,
+645,1704,codepage,63521,74,"Has a 40% chance of negating Freeze during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓結〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1705,codepage,63595,27,Completely negates Freeze.,〓〓異常〓〓結〓を〓全に防〓。,
+645,1713,codepage,63629,35,May inflict Frailty on the target.,一定〓〓で〓〓〓〓を〓〓異常〓〓〓〓にする。,
+645,1714,codepage,63664,75,"Has a 40% chance of negating Frailty during a battle.
+Enhance by linking.",戦闘中、〓〓異常〓〓〓〓をの〓〓で無〓化する。リンクで〓化できる。,
+645,1715,codepage,63739,28,Completely negates Frailty.,〓〓異常〓〓〓〓を〓全に防〓。,
+645,1718,codepage,63769,91,"May inflict Poison, Confusion, Silence, Freeze, Paralysis,
+Faint, or Stone on the target.",一定〓〓で〓〓〓〓を〓、〓乱、〓〓、〓結、〓〓、石化、気絶のいずれかにする。,
+645,1719,codepage,63860,119,"40% chance of negating Poison, Confusion, Silence, Freeze,
+Paralysis, Faint or Stone in a battle. Enhance by linking.",戦闘中、〓、〓乱、〓〓、〓結、〓〓、石化、気絶をの〓〓で無〓化する。リンクで〓化できる。,
+645,1721,codepage,63980,59,Chance of teleporting enemy target out of the battlefield.,一定〓〓で〓〓〓〓を戦場外へ〓送する。,
+645,1723,codepage,64040,74,"Extra 3% of fire damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の炎属〓ダメージが加〓される。リンクで〓化できる。,
+645,1724,codepage,64114,74,"Extra 5% of fire damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の炎属〓ダメージが加〓される。リンクで〓化できる。,
+645,1725,codepage,64188,51,"Fire damage is reduced by 3%.
+Enhance by linking.",炎属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1726,codepage,64239,51,"Fire damage is reduced by 5%.
+Enhance by linking.",炎属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1727,codepage,64290,98,"3% chance of draining foe's health with fire damage and adding
+it to own HP. Enhance by linking.",炎属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1728,codepage,64388,98,"5% chance of draining foe's health with fire damage and adding
+it to own HP. Enhance by linking.",炎属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1729,codepage,64486,76,"Extra 3% of freeze damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の〓属〓ダメージが加〓される。リンクで〓化できる。,
+645,1730,codepage,64562,76,"Extra 5% of freeze damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の〓属〓ダメージが加〓される。リンクで〓化できる。,
+645,1731,codepage,64638,53,"Freeze damage is reduced by 3%.
+Enhance by linking.",〓属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1732,codepage,64691,53,"Freeze damage is reduced by 5%.
+Enhance by linking.",〓属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1733,codepage,64744,100,"3% chance of draining foe's health with freeze damage and
+adding it to own HP. Enhance by linking.",〓属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1734,codepage,64844,100,"5% chance of draining foe's health with freeze damage and
+adding it to own HP. Enhance by linking.",〓属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1735,codepage,64944,79,"Extra 3% of lightning damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の雷属〓ダメージが加〓される。リンクで〓化できる。,
+645,1736,codepage,65023,79,"Extra 5% of lightning damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の雷属〓ダメージが加〓される。リンクで〓化できる。,
+645,1737,codepage,65102,56,"Lightning damage is reduced by 3%.
+Enhance by linking.",雷属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1738,codepage,65158,56,"Lightning damage is reduced by 5%.
+Enhance by linking.",雷属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1739,codepage,65214,103,"3% chance of draining foe's health with lightning damage and
+adding it to own HP. Enhance by linking.",雷属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1740,codepage,65317,103,"5% chance of draining foe's health with lightning damage and
+adding it to own HP. Enhance by linking.",雷属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1741,codepage,65420,75,"Extra 3% of earth damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の土属〓ダメージが加〓される。リンクで〓化できる。,
+645,1742,codepage,65495,75,"Extra 5% of earth damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の土属〓ダメージが加〓される。リンクで〓化できる。,
+645,1743,codepage,65570,52,"Earth damage is reduced by 3%.
+Enhance by linking.",土属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1744,codepage,65622,52,"Earth damage is reduced by 5%.
+Enhance by linking.",土属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1745,codepage,65674,99,"3% chance of draining foe's health with earth damage and
+adding it to own HP. Enhance by linking.",土属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1746,codepage,65773,99,"5% chance of draining foe's health with earth damage and
+adding it to own HP. Enhance by linking.",土属〓ダメージをの〓〓で〓〓する。リンクで〓化できる。,
+645,1747,codepage,65872,74,"Extra 3% of holy damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の聖属〓ダメージが加〓される。リンクで〓化できる。,
+645,1748,codepage,65946,74,"Extra 5% of holy damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の聖属〓ダメージが加〓される。リンクで〓化できる。,
+645,1749,codepage,66020,51,"Holy damage is reduced by 3%.
+Enhance by linking.",聖属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1750,codepage,66071,51,"Holy damage is reduced by 5%.
+Enhance by linking.",聖属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1751,codepage,66122,78,"Extra 3% of darkness damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の〓属〓ダメージが加〓される。リンクで〓化できる。,
+645,1752,codepage,66200,78,"Extra 5% of darkness damage is inflicted when attacking.
+Enhance by linking.",〓〓時、の〓属〓ダメージが加〓される。リンクで〓化できる。,
+645,1753,codepage,66278,55,"Darkness damage is reduced by 3%.
+Enhance by linking.",〓属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1754,codepage,66333,55,"Darkness damage is reduced by 5%.
+Enhance by linking.",〓属〓ダメージを〓〓さ〓る。リンクで〓化できる。,
+645,1755,codepage,66388,88,"Inflicts heavy damage against Beast enemies.
+A critical skill effect (Beast Bludgeon).",〓〓の〓に〓して高いダメージを〓える。クリティカルスキル〓ビーストスレイヤー〓の〓果。,
+645,1756,codepage,66476,86,"Inflicts heavy damage against Plant enemies.
+A critical skill effect (Weed Whacker).",〓物〓の〓に〓して高いダメージを〓える。クリティカルスキル〓プラントスレイヤー〓の〓果。,
+645,1757,codepage,66562,86,"Inflicts heavy damage against Insect enemies.
+A critical skill effect (Bug Swatter).",虫〓の〓に〓して高いダメージを〓える。クリティカルスキル〓インセクトスレイヤー〓の〓果。,
+645,1758,codepage,66648,89,"Inflicts heavy damage against Magic enemies.
+A critical skill effect (Magician Slayer).",魔術師〓の〓に〓して高いダメージを〓える。クリティカルスキル〓マジックスレイヤー〓の〓果。,
+645,1759,codepage,66737,90,"Inflicts heavy damage against Unholy enemies.
+A critical skill effect (Unholy Purifier).",不〓な〓に〓して高いダメージを〓える。クリティカルスキル〓アンホーリースレイヤー〓の〓果。,
+645,1760,codepage,66827,90,"Inflicts heavy damage against Scaled enemies.
+A critical skill effect (Descaling Might).",〓に覆われた〓に〓して高いダメージを〓える。クリティカルスキル〓スケイルスラッシャー〓の〓果。,
+645,1761,codepage,66917,92,"Inflicts heavy damage against Incorporeal enemies.
+A critical skill effect (Ghost Buster).",〓〓を持たない〓に〓して高いダメージを〓える。クリティカルスキル〓ゴーストバスター〓の〓果。,
+645,1762,codepage,67009,86,"Inflicts heavy damage against Giant enemies.
+A critical skill effect (Giant Killer).",巨大な〓に〓して高いダメージを〓える。クリティカルスキル〓ジャイアントキラー〓の〓果。,
+645,1763,codepage,67095,88,"Inflicts heavy damage against Dragon enemies.
+A critical skill effect (Dragon Slayer).",竜〓の〓に〓して高いダメージを〓える。クリティカルスキル〓ドラゴンスレイヤー〓の〓果。,
+645,1764,codepage,67183,89,"Inflicts heavy damage against Demon enemies.
+A critical skill effect (Demon Destroyer).",〓魔〓の〓に〓して高いダメージを〓える。クリティカルスキル〓デーモンスレイヤー〓の〓果。,
+645,1765,codepage,67272,88,"Inflicts heavy damage against Divine enemies.
+A critical skill effect (God Destroyer).",神〓の〓に〓して高いダメージを〓える。クリティカルスキル〓ゴッドスレイヤー〓の〓果。,
+645,1766,codepage,67360,64,A 10% chance of inflicting Confusion on the foe when attacking.,〓〓時、の〓〓で〓〓〓〓を〓〓異常〓〓乱〓にする。,
+645,1767,codepage,67424,73,"Causes attack damage to vary greatly.
+Doubly so against Divine enemies.",ダメージが大きくぶれるようになる。神〓〓の場〓、さらに〓になる。,
+645,1768,codepage,67497,58,"When equipped, Frailty is inflicted when a battle begins.",〓〓すると、戦闘〓〓時に〓〓異常〓〓〓〓が発生する。,
+645,1770,codepage,67556,60,Causes Frailty for all attacks in which damage is received.,〓〓を〓けると、その〓てに〓〓異常〓〓〓〓が発生する。,
+645,1771,codepage,67616,57,Attack damage equal to character level multiplied by 20.,〓〓ダメージが〓レベルの〓の〓に〓定される。,
+645,1774,codepage,67675,59,All element tolerance and ailment resistance is nullified.,全ての属〓と〓〓異常耐〓を無にする。,
+645,1775,codepage,67734,47,Wounds are healed by the blessing of the gods.,神の〓〓により〓が〓える。,
+645,1776,codepage,67781,5,None,なし,
+645,1777,codepage,67786,5,None,なし,
+645,1778,codepage,67791,5,None,なし,
+645,1779,codepage,67796,5,None,なし,
+645,1780,codepage,67801,5,None,なし,
+645,1781,codepage,67806,5,None,なし,
+645,1782,codepage,67811,5,None,なし,
+645,1783,codepage,67816,5,None,なし,
+645,1784,codepage,67821,5,None,なし,
+645,1785,codepage,67826,5,None,なし,
+645,1786,codepage,67831,5,None,なし,
+645,1787,codepage,67836,49,Inflicts heavy damage against female characters.,女〓に〓して高いダメージを〓える。,
+645,1788,codepage,67885,29,The official figures are in!,これが〓〓の〓〓〓定らしい。,
+645,1789,codepage,67914,49,Combo Gauge increase is set to 1.5 times normal.,コンボゲージ〓加量が〓常の〓〓になる。,
+645,1790,codepage,67963,31,Strike twice with each attack.,〓〓が〓ヒットするようになる。,
+645,1792,codepage,67995,10,Body Rune,〓〓のルーン〓,
+645,1793,codepage,68005,10,Head Rune,〓〓のルーン〓,
+645,1795,codepage,68016,9,Arm Rune,〓〓のルーン〓,
+645,1797,codepage,68026,9,Leg Rune,〓〓のルーン〓,
+645,1800,codepage,68037,14,Slashing Rune,〓〓〓のルーン〓,
+645,1801,codepage,68051,14,Piercing Rune,〓〓〓のルーン〓,
+645,1802,codepage,68065,14,Bludgeon Rune,〓〓〓のルーン〓,
+645,1803,codepage,68079,16,Activation Rune,〓発〓のルーン〓,
+645,1804,codepage,68095,13,Healing Rune,〓〓〓のルーン〓,
+645,1805,codepage,68108,19,Strengthening Rune,〓〓化のルーン〓,
+645,1806,codepage,68127,14,Weakness Rune,〓〓〓のルーン〓,
+645,1807,codepage,68141,16,Resistance Rune,〓〓〓のルーン〓,
+645,1808,codepage,68157,14,Training Rune,〓錬〓のルーン〓,
+645,1810,codepage,68172,14,Creation Rune,〓創造のルーン〓,
+645,1811,codepage,68186,10,Fire Rune,〓炎のルーン〓,
+645,1812,codepage,68196,9,Ice Rune,〓〓のルーン〓,
+645,1813,codepage,68205,11,Earth Rune,〓土のルーン〓,
+645,1814,codepage,68216,15,Lightning Rune,〓雷のルーン〓,
+645,1815,codepage,68231,10,Holy Rune,〓聖のルーン〓,
+645,1816,codepage,68241,14,Darkness Rune,〓〓のルーン〓,
+645,1818,codepage,68256,14,Fists of Iron,アイアンフィスト,
+645,1819,codepage,68270,13,Mental Boost,マインドバースト,
+645,1820,codepage,68283,17,Fortify Physique,ハードボディ,
+645,1821,codepage,68300,13,Resist Magic,レジストマジック,
+645,1822,codepage,68313,10,Adversity,アドヴァーシティ,
+645,1823,codepage,68323,8,Heroism,ヒロイズム,
+645,1824,codepage,68331,11,Psychosoma,フェイント,
+645,1826,codepage,68343,10,Toughness,タフネス,
+645,1827,codepage,68353,9,Training,トレーニング,
+645,1828,codepage,68362,12,Observation,オブサベイシヨン,
+645,1829,codepage,68374,18,Solitary Struggle,ソリタリィストラグル,
+645,1830,codepage,68392,12,Mighty Blow,マイトブロウ,
+645,1831,codepage,68404,9,Break Up,ブレイクアップ,
+645,1832,codepage,68413,15,Spirit Control,スピリットコントロール,
+645,1833,codepage,68428,8,Heat Up,ヒートアップ,
+645,1834,codepage,68436,12,Double Edge,ダブルエッジ,
+645,1835,codepage,68448,9,Overload,オーバーロード,
+645,1836,codepage,68457,12,Triple Edge,トリプルエッジ,
+645,1837,codepage,68469,9,Survival,ガッツ,
+645,1838,codepage,68478,16,Reflex Movement,リフレックスムーブメント,
+645,1839,codepage,68494,11,Magic Mail,プロテクトマジック,
+645,1840,codepage,68505,15,Cure Condition,キュアコンディシヨン,
+645,1841,codepage,68520,18,Force Field (100),〓〓リザーブ〓〓,
+645,1842,codepage,68538,10,First Aid,ファーストエイド,
+645,1843,codepage,68548,10,Free Item,フリーアイテム,
+645,1844,codepage,68558,18,Regenerate Health,リジェネレーシヨンヒール,
+645,1845,codepage,68576,19,Force Field (1000),〓〓リザーブ〓〓,
+645,1846,codepage,68595,13,Guard Motion,ガードモーシヨン,
+645,1847,codepage,68608,20,Victorious Vitality,バイタルアジャスメント,
+645,1848,codepage,68628,19,Force Field (5000),〓〓リザーブ〓〓,
+645,1849,codepage,68647,13,Reduce Magic,マジックコントロール,
+645,1850,codepage,68660,19,Missile Protection,ミサイルプロテクシヨン,
+645,1851,codepage,68679,10,Mind Lock,ロストエモーシヨン,
+645,1852,codepage,68689,12,True Seeing,トゥルーシーイング,
+645,1853,codepage,68701,15,Beast Bludgeon,ビーストスレイヤー,
+645,1854,codepage,68716,13,Weed Whacker,プラントスレイヤー,
+645,1855,codepage,68729,12,Bug Swatter,インセクトスレイヤー,
+645,1856,codepage,68741,16,Magician Slayer,マジックスレイヤー,
+645,1857,codepage,68757,16,Unholy Purifier,アンホーリィスレイヤー,
+645,1858,codepage,68773,16,Descaling Might,スケイルスラッシャー,
+645,1859,codepage,68789,13,Ghost Buster,ゴーストバスター,
+645,1860,codepage,68802,13,Giant Killer,ジャイアントキラー,
+645,1861,codepage,68815,14,Dragon Slayer,ドラゴンスレイヤー,
+645,1862,codepage,68829,14,God Destroyer,ゴッドスレイヤー,
+645,1863,codepage,68843,16,Demon Destroyer,デーモンスレイヤー,
+645,1864,codepage,68859,10,Dismantle,ボディパッセージ,
+645,1865,codepage,68869,19,Desperate Measures,デスパレーシヨン,
+645,1866,codepage,68888,16,Precision Parry,ジャストガード,
+645,1867,codepage,68904,16,Scramble Attack,スクランブルアタック,
+645,1868,codepage,68920,15,Counter Attack,カウンターアタック,
+645,1883,codepage,68949,37,Increases ATK to 120% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+645,1884,codepage,68986,37,Increases MAG to 120% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+645,1885,codepage,69023,37,Increases RDM to 150% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+645,1886,codepage,69060,37,Increases RST to 150% during battle.,戦闘中の〓〓〓を〓〓にする事ができる。,
+645,1887,codepage,69097,96,"Increases ATK, MAG, HIT, AVD, RDM, and RST for each extra
+enemy when they outnumber the party.",味方パーティーより〓のほうが多い場〓、その人〓の〓〓とに〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓が上〓する。,
+645,1888,codepage,69193,62,Increases attack +20% for each enemy that dies during battle.,戦闘で〓が死亡するたびに〓に〓えるダメージが上〓する。,
+645,1889,codepage,69255,55,Combines ATK and MAG values for attacks during battle.,戦闘中の〓〓の〓に、〓〓〓と〓〓〓の〓を〓して〓〓する事ができる。,
+645,1891,codepage,69311,49,Doubles current HP and maximum HP during battle.,戦闘中の最大〓〓と〓〓を〓にする事ができる。,
+645,1892,codepage,69360,103,"Reduces ATK, MAG, HIT, AVD, RDM, and RST by 20% in battle,
+but increases experience received to 150%.",戦闘中の〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓〓が〓下する。〓が戦闘で入手する経験〓は〓〓になる。,
+645,1893,codepage,69463,93,"ATK, MAG, HIT, AVD, RDM, and RST values increase slightly
+per fixed interval during battle.",戦闘中に一定の時間が経〓するたびに〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓の〓が〓しずつ上〓する。,
+645,1894,codepage,69556,82,"Increases ATK, MAG, HIT, AVD, RDM, and RST according to
+number of fallen allies.",死亡している味方の〓に〓〓して〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓の〓が上〓する。,
+645,1895,codepage,69638,91,"Makes attacks cause enemy to faint. Further attacks are more likely
+to break enemy guard.",〓〓によって〓を気絶さ〓る事ができる。さらに〓〓によって〓のガードを〓壊しやすくなる。,
+645,1896,codepage,69729,76,"Increases chances of entering Break Mode when part of enemy is
+broken off.",自〓の〓〓によって〓の部位を切〓した時にブレイクモードに〓入する〓〓が上〓する。,
+645,1897,codepage,69805,65,Increases the amount of purple gems that appear after an attack.,自〓の〓〓によって出〓する〓炎石の量が〓加する。,
+645,1898,codepage,69870,70,Increases the amount your special attack gauge rises after an attack.,自〓の〓〓によって上〓する〓め技ゲージの量が〓加する。,
+645,1899,codepage,69940,39,Deals damage twice in a single attack.,〓の〓〓によってダメージを〓〓える事ができる。,
+645,1900,codepage,69979,78,"Increases power of magic to 150%.
+However, magic will strike allies as well.",魔法の〓力が〓〓に上〓する。た〓し、味方にも魔法が〓中するようになる。,
+645,1901,codepage,70057,40,Deals damage thrice in a single attack.,〓の〓〓によってダメージを〓〓える事ができる。,
+645,1902,codepage,70097,105,"Leaves 1 HP after an otherwise fatal attack if character has at 
+least 10% of maximum HP to start with.",〓〓が〓上〓っていた場〓、〓〓が〓下になる〓〓を〓けても〓る。,
+645,1903,codepage,70202,65,Enables blocking and evading of enemy attacks when knocked back.,〓の〓〓を〓けてのノックバックの最中にも防〓と〓避の〓定を行う事ができる。,
+645,1904,codepage,70267,66,Enables guarding against and evading special magic-based attacks.,魔法〓の〓〓な〓〓をガードや〓避する事が〓〓になる。,
+645,1905,codepage,70333,72,Enables quicker recovery than usual from status ailments during battle.,戦闘中、〓常よりも〓い時間で〓〓異常から〓〓する事ができる。,
+645,1906,codepage,70405,64,Protects user with a force field that can withstand 100 damage.,の耐〓力を持つ結界で自〓を守る事ができる。,
+645,1907,codepage,70469,69,May restore half the damage inflicted by an enemy attack afterwards.,〓から〓〓を〓けた場〓、一定の〓〓でそのときに〓けたダメージの半〓を〓〓する事ができる。,
+645,1908,codepage,70538,40,Enables you to use items at no AP cost.,アイテムを〓用する〓に〓〓を〓〓しなくなる。,
+645,1909,codepage,70578,46,Restores HP at fixed intervals during battle.,戦闘中、一定時間〓とに〓〓が〓〓するようになる。,
+645,1910,codepage,70624,65,Protects user with a force field that can withstand 1000 damage.,の耐〓力を持つ結界で自〓を守る事ができる。,
+645,1911,codepage,70689,119,"Reduces damage received by 20%. However, prohibits blocking and
+evading. Renders user susceptible to status ailments.",〓けるダメージを〓〓する事ができる。た〓し〓避と防〓は行えず、〓〓異常にかかりやすくなる。,
+645,1912,codepage,70808,46,Restores HP to 100% when victory is achieved.,戦闘〓利時に〓〓を〓〓する事ができる。,
+645,1913,codepage,70854,65,Protects user with a force field that can withstand 5000 damage.,の耐〓力を持つ結界で自〓を守る事ができる。,
+645,1914,codepage,70919,67,"Halves efficacy of all magic received, whether damage or recovery.",自〓が〓ける魔法の〓果が〓〓・〓〓を問わず全て半〓になる。,
+645,1915,codepage,70986,42,Guards against all projectiles frontally.,〓面からの〓び道〓を〓全にガードする事ができる。,
+645,1916,codepage,71028,64,Renders the spirit impermeable to outside spiritual influences.,心を〓〓し、外部からの精神〓な〓〓を一切〓けなくする。,
+645,1917,codepage,71092,45,Increases the occurence of critical attacks.,クリティカル〓〓の発生〓〓が上〓する。,
+645,1918,codepage,71137,60,Enables attacks with massive effects against Beast enemies.,〓〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1919,codepage,71197,60,Enables attacks with massive effects against Plant enemies.,〓物〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1920,codepage,71257,61,Enables attacks with massive effects against Insect enemies.,虫〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1921,codepage,71318,60,Enables attacks with massive effects against Magic enemies.,魔術師〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1922,codepage,71378,61,Enables attacks with massive effects against Unholy enemies.,不〓な〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1923,codepage,71439,51,Increases power of attacks against Scaled enemies.,うろこに覆われた〓に〓して〓〓力が〓加する。,
+645,1924,codepage,71490,55,Enables you to attack enemies without material bodies.,〓〓を持たない〓にも〓〓を〓える事ができる。,
+645,1925,codepage,71545,50,Increases power of attacks against Giant enemies.,巨大な〓に〓して〓〓力が〓加する。,
+645,1926,codepage,71595,61,Enables attacks with massive effects against Dragon enemies.,竜〓の〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1927,codepage,71656,61,Enables attacks with massive effects against Divine enemies.,神〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1928,codepage,71717,60,Enables attacks with massive effects against Demon enemies.,〓魔〓に絶大な〓果を持つ〓〓を〓り出す事ができる。,
+645,1929,codepage,71777,47,Splits an enemy in two with a critical attack.,クリティカル〓〓によって、〓の〓を一刀のもとに切〓する事ができるようになる。,
+645,1930,codepage,71824,100,"Splits an enemy in two with an attack.
+However, the bearer of this skill's maximum HP is set to 1.",〓〓によって〓の〓を切〓する事ができるようになる。た〓し、このスキルをつけている〓人の最大〓〓はになる。,
+645,1931,codepage,71924,98,"Performs guard when the button of the attacked character
+is pressed at the moment of the attack.",〓の〓〓を〓けた〓間に、そのキャラクターに〓〓するボタンをタイミングよく〓す事で〓〓をガードできる。,
+645,1932,codepage,72022,113,"Set special input for normal attack, to be performed by
+pressing a button while holding the directional button.",方〓キーを〓しながらボタンを入力する事で出〓る〓〓入力の〓常〓〓をセットできるようになる。,
+645,1933,codepage,72135,96,"Displays icon after character is attacked. Press the
+button when you see it to counter attack.",〓の〓〓を〓避した〓にアイコンが出〓、タイミングよくボタンを〓す事で〓〓をする事ができる。,

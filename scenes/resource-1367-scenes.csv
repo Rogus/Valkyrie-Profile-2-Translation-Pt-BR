@@ -1,0 +1,29 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1367,2740,6064,,,,Rufus,What!?,なんだ！？,,
+1,2,1367,2741,6820,,,,Dylan,The Sovereign's Rite!,“王呼の秘法”だッ！,,
+1,3,1367,2742,15632,,,,Dog Hrist,Lord of the Undead!,不死者王！！,,
+1,4,1367,2743,15684,,,,Dog Alicia,Lord of the Undead!,不死者王！！,,
+1,5,1367,2744,16516,,,,,"Lord of the Undead! Lord of the
+Undead!!!",不死者王！ 不死者王！,,
+1,6,1367,2745,16556,,,,Dog Hrist,"You've taken it too far,
+Lord of the Undead!",無茶しすぎよ！ 不死者王！！,,
+1,7,1367,2746,16960,,,,Lord of the Undead,I feel... <PART> mortal. <PART> --- <PART> It's a sensation I felt when I was human...,“死”を… <PART> 感じる <PART> 一一 <PART> 人間だった頃の記憶が <PART> 蘇るようだ…,,
+1,8,1367,2747,17816,,,,Dog Alicia,Lord of the Undead!,不死者王！,,
+1,9,1367,2749,17856,,,,Dog Hrist,"This isn't good, Lord of the Undead!",やばいわ！ <PART> やばいわ不死者王！,,
+1,10,1367,2750,17896,,,,Dog Alicia,"Not good? More like well-done!
+Lord of the Undead!",ばっちりウエルダンじゃない！ 不死者王！！,,
+1,11,1367,2752,18116,,,,Dog Hrist,You! Give me some Noble Elixirs!,貴方達 <PART> 早くノーブルエリクサー出しなさい！,,
+1,12,1367,2753,18156,,,,Dog Alicia,One or two isn't gonna cut it!,一〓や二〓じゃ足りないわ！,,
+1,13,1367,2748,18560,,,,Dog Hrist,"Hey! <PART> Are you listening!?
+You angsty little semi-fairy!",このっ！ <PART> 聞こえてるんでしょ！ヘタレ半分〓精！,,
+1,14,1367,2751,18700,,,,Dog Alicia,Hurry up with it! <PART> You plump pickup artist!,早くしてよ！ <PART> むちむち逆ナン王女！,,
+1,15,1367,2754,26760,,,,Dog Rufus,Yeah... Dammit! <PART> Turns out everybody <PART> was hiding something...,まったく <PART> どいつもこいつも <PART> 隠し事ばっかりしやがって…,,
+1,16,1367,2755,27540,,,,Dog Lezard,"Bummer, huh?",…まったくですね,,
+2,1,1367,2756,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+2,2,1367,2757,,,,,,Rufus,ルーファス,,not displayed by the event script
+2,3,1367,2758,,,,,,Dylan,ディラン,,not displayed by the event script
+2,4,1367,2759,,,,,,Dog Hrist,〓アーリィ,,not displayed by the event script
+2,5,1367,2760,,,,,,Dog Alicia,〓アリーシャ,,not displayed by the event script
+2,6,1367,2761,,,,,,Lord of the Undead,不死者王,,not displayed by the event script
+2,7,1367,2762,,,,,,Dog Rufus,〓ルーファス,,not displayed by the event script
+2,8,1367,2763,,,,,,Dog Lezard,〓レザード,,not displayed by the event script

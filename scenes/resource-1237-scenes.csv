@@ -1,0 +1,65 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,1237,21,2572,160,0,,Rufus,!,！,,
+2,1,1237,2,5428,160,3,,Hrist,"You needn't even encourage them. Dipan
+is fully intent on fighting Lord Odin.",お前が〓きつけるまでもなくディパンはオーディン様と戦うつもりだ,,
+2,2,1237,3,6124,160,4,,Hrist,"They'll even use the Dragon Orb,
+a forbidden act!",それもドラゴンオーブという〓じ手を使って…,,
+2,3,1237,16,6904,160,6,,Hrist,"Silence, mortal!
+You will speak when I ask you to!",〓えよ 人間！お前には聞いてない！,,
+2,4,1237,5,7836,160,7,,Hrist,"But if Silmeria refuses to respond,
+I have no choice...",でもシルメリアが出てこないのなら仕方ない…,,
+2,5,1237,7,10588,160,10,,Alicia,!,！,,
+2,6,1237,8,12264,160,11,,Hrist,"You are worthy indeed, mighty warriors.",ふむ… 最強戦士としての〓〓は〓分だな,,
+2,7,1237,18,12716,160,12,,Hrist,"I will take all of you together with me
+to Valhalla.",みんなまとめて ヴァルハラヘ連れて行ってやろう,,
+2,8,1237,11,14932,160,16,,Hrist,You've been poisoned by mortal arrogance.,人間の思い上がりに毒されるとは…,,
+2,9,1237,12,15468,160,17,,Hrist,"The peace and prosperity of Midgard
+exist because the gods wrought law upon
+the land.",力ある神が統治して来たからこそ今のミッドガルドの〓栄と〓序がある,,
+2,10,1237,19,19112,160,20,,Silmeria,"Why won't you help save Dipan? Help save
+Alicia!",ディパンを… アリーシャを助けてあげてほしい…,,
+2,11,1237,20,19688,160,21,,Hrist,"Think like a valkyrie! Do not concern
+yourself with a single country or one
+mere mortal!",ヴァルキリーらしく大局的に物事を見ろ！たかが国一つ 人一人に心惑わされるな,,
+2,12,1237,15,28120,160,23,,Hrist,It would appear I underestimated you.,お前を甘く見すぎていたようだな,,
+2,13,1237,6,37184,160,9,,Hrist,It's up to you.,一一 <PART> お前次第だ,,
+2,14,1237,9,39572,160,13,,Silmeria,Dipan does not fight because it wants to.,ディパンは戦いたくて戦うのではない,,
+2,15,1237,1,41728,160,2,,Hrist,Silmeria. Now do you see?,シルメリア わかっただろう？,,
+2,16,1237,4,41884,160,5,,Alicia,"Yes. Forbidden for humans and gods
+alike!",〓じ手なのは 神も人間も同じはずです,,
+2,17,1237,10,45692,160,15,,Hrist,Don't be a fool.,愚かしい…,,
+2,18,1237,13,46776,160,18,,Silmeria,"I recognize the feats of the gods, but
+that time has passed. I have not been
+poisoned.",神々の功〓は認めるけど 昔の話よ私は少しも毒されてなどいない,,
+2,19,1237,14,46908,160,19,,Silmeria,"Now, the gods take and give nothing in return.
+Humans do not need them!",今や神は奪うだけで何ももたらさない人間は神を必要としていない！,,
+2,20,1237,17,54664,160,8,,Hrist,"Sacrifice Dipan or see all of Midgard
+annihilated...",ディパンだけを犠牲にするかミッドガルドもろとも滅ぼすか <PART> 一一,,
+2,21,1237,22,62248,160,14,,Silmeria,"Odin's tyranny leaves Dipan no choice
+but to take up arms.",オーディンの横暴ゆえに弓引かざるを得ないというだけ <PART> 一一,,
+2,22,1237,23,62896,160,24,,Hrist,"But in the end, you stand to gain
+nothing from this.",所詮 報われぬ行動だと思うが…,,
+2,23,1237,24,63028,160,22,,Hrist,"We cut down the weeds of dissent before
+they grow out of control.",過ちの〓は小さいうちに我らが力で滅してやるのだ！,,
+3,1,1237,2756,75468,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
+3,2,1237,2757,75956,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
+3,3,1237,2758,76488,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
+3,4,1237,2759,76976,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
+3,5,1237,2760,77752,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
+3,6,1237,2761,78476,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
+3,7,1237,2762,78864,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
+3,8,1237,2763,79192,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
+3,9,1237,2764,79580,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
+4,1,1237,2287,85140,,,,,ERRORv,ERR0R！！（v190）,,
+4,2,1237,2288,85276,,,,,ERRORv,ERR0R！！（v191）,,
+4,3,1237,2289,85412,,,,,ERRORv,ERR0R！！（v191）,,
+5,1,1237,41,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,2,1237,42,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
+5,3,1237,43,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
+5,4,1237,44,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
+5,5,1237,45,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
+5,6,1237,2293,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
+5,7,1237,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
+5,8,1237,2753,,,,,,Hrist,アーリィ,,not displayed by the event script
+5,9,1237,2754,,,,,,Alicia,アリーシャ,,not displayed by the event script
+5,10,1237,2755,,,,,,Silmeria,シルメリア,,not displayed by the event script

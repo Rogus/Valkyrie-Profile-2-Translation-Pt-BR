@@ -1,0 +1,14 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,145,3,4596,,,,,"Hold <PART> I while teleporting <PART> to
+jump at your destination, even if
+in mid-air. <PART> Swap places with the enemy and
+jump to reach the ledge. <PART> ---
+After the enemy is defeated, its
+remnant will not move.
+However, it can be restored by
+leaving the area and returning.",〓〓〓送中に <PART> を〓しっ〓なし <PART> にすれば、〓送先が空中でもジャンプできます。 <PART> 〓〓は空中の〓に〓〓〓送を〓って、〓送ジャンプで〓って下さい。 <PART> なお、〓を〓してしまうと亡〓となり動かなくなりますが、一〓画面を〓り〓えて〓び〓ってくると、〓は〓活します。,,
+2,1,145,1,,,,,,,,,not displayed by the event script
+2,2,145,2,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
+2,3,145,22,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
+2,4,145,2741,,,,,,Acquired <PART> OTH,〓00 0TH <PART> を手に入れた,,not displayed by the event script
+2,5,145,2742,,,,,,,戦士の〓薬 <PART> を手に入れた,,not displayed by the event script

@@ -1,0 +1,10 @@
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+1,1,445,4,1000,,,,,I can't pass through yet.,今の私では無理なのね…,,
+2,1,445,1,,,,,,,,,not displayed by the event script
+2,2,445,2,,,,,,Forest of Spirits,精霊の森,,not displayed by the event script
+2,3,445,3,,,,,,Ravine Caverns,狭間の洞窟へ,,not displayed by the event script
+2,4,445,5,,,,,,"Leave the Forest of Spirits?
+Sealstones return to original places.)",精霊の森から出ます〓封印石の〓置は〓期化されます〓,,not displayed by the event script
+2,5,445,6,,,,,,Yes,はい,,not displayed by the event script
+2,6,445,7,,,,,,No,いいえ,,not displayed by the event script
+2,7,445,2154,,,,,,Forest of Spirits,精霊の森,,not displayed by the event script
