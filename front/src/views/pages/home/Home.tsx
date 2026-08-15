@@ -203,6 +203,10 @@ function Home() {
 
       <section className="video-section">
         <h2>Dub</h2>
+        <p>
+          text-to-speech generated dub for the first cutscene, as a proof of
+          concept
+        </p>
         <video
           className="video"
           controls

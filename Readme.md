@@ -57,23 +57,3 @@ Menu options.
 ### Container 0650
 
 Menu. includes character's background/profile, item/spells/attacks/skill name and descriptions.
-
-## Images
-
-![Title Cutscene](images/title-cutscene.png)
-
-![First Cutscene](images/first-cutscene.png)
-
-![world Map](images/world-map.png)
-
-![NPC dialog](images/npc-dialog.png)
-
-![Menu](images/menu.png)
-
-![Character Background](images/character-background.png)
-
-## Dub
-
-Working text-to-speech generated dub, as proof of concept
-
-https://github.com/user-attachments/assets/e3ffbda2-0f37-4fec-a5cf-d1db6875e984
