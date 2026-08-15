@@ -3,8 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: ["master"]
-    paths-ignore:
-      - "**/*.md"
+    paths:
+      - "front/**"
   workflow_dispatch:
 
 permissions:
