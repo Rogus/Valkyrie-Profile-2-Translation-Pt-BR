@@ -9,12 +9,7 @@ function Io() {
 
   return (
     <section id="center">
-      <h1>IoC demo</h1>
-      <p>
-        Zustand store behind a service wired through the IoC container. Count
-        persists to localStorage.
-      </p>
-      <p>Count is {count}</p>
+      <p>{count}</p>
       <div className="row">
         <button className="btn" onClick={() => homeService.increment()}>
           +
