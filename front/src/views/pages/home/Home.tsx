@@ -1,23 +1,10 @@
 import { useRef, useState } from 'react'
-
-const IMAGES_RAW_BASE =
-  'https://raw.githubusercontent.com/trulio2/Valkyrie-Profile-2-Translation/refs/heads/master/images'
-
-const PROJECT_URL = 'https://github.com/trulio2/Valkyrie-Profile-2-Translation'
-
-const images = [
-  { src: 'title-cutscene.png', alt: 'Title cutscene' },
-  { src: 'first-cutscene.png', alt: 'First cutscene' },
-  { src: 'world-map.png', alt: 'World map' },
-  { src: 'npc-dialog.png', alt: 'NPC dialog' },
-  { src: 'menu.png', alt: 'Menu' },
-  { src: 'character-background.png', alt: 'Character background' }
-]
-
-const DUB_VIDEO_URL =
-  'https://github.com/user-attachments/assets/e3ffbda2-0f37-4fec-a5cf-d1db6875e984'
+import IoC from '@/modules/ioc'
+import { SERVICES, type IHomeService } from '@/types'
 
 function Home() {
+  const homeService = IoC.getOrCreateInstance<IHomeService>(SERVICES.HOME)
+
   const [current, setCurrent] = useState(0)
   const [isLoading, setIsLoading] = useState(true)
   const [loadedImages, setLoadedImages] = useState<Record<string, boolean>>({})
@@ -27,6 +14,7 @@ function Home() {
 
   const dragStart = useRef(0)
 
+  const images = homeService.getImages()
   const image = images[current]
 
   const backIndex =
@@ -115,7 +103,7 @@ function Home() {
         <p>
           Fan Translation Project.{' '}
           <a
-            href={PROJECT_URL}
+            href={homeService.getProjectURL()}
             target="_blank"
             rel="noreferrer"
             className="link"
@@ -143,7 +131,7 @@ function Home() {
           {dragOffset !== 0 && (
             <img
               className="carousel-image carousel-image-back"
-              src={`${IMAGES_RAW_BASE}/${backImage.src}`}
+              src={`${homeService.getImageBase()}/${backImage.src}`}
               alt={backImage.alt}
               draggable={false}
               loading="lazy"
@@ -161,7 +149,7 @@ function Home() {
           )}
           <img
             className="carousel-image"
-            src={`${IMAGES_RAW_BASE}/${image.src}`}
+            src={`${homeService.getImageBase()}/${image.src}`}
             alt={image.alt}
             draggable={false}
             loading="lazy"
@@ -211,7 +199,7 @@ function Home() {
           className="video"
           controls
           preload="metadata"
-          src={DUB_VIDEO_URL}
+          src={homeService.getDubVideo()}
         />
       </section>
     </>
