@@ -1,46 +1,61 @@
 # Valkyrie Profile 2 - Silmeria Translation
 
+[Website](https://trulio2.github.io/Valkyrie-Profile-2-Translation/)
+
 ## Cutscenes
 
 ### Container 0010
+
 Title cutscene.
 
 ### Resource 0029
+
 World map location title and descriptions.
 
 ### Resource 0033
+
 Solde's Soul Street NPC dialogues
 
 ### Resource 1195
+
 Second part of the first cutscene.
 
 ### Resource 1197
+
 First cutscene.
 
 ### Resource 1277
+
 Palace of the Venerated Dragon cutscene.
 
 ### Resource 1283
+
 Vs Hrist cutscene.
 
 ### Resource 1299
+
 Post Hrist battle cutscene.
 
 ### Resource 1337
+
 Include some boss battle cutscene dialogue.
 
 ## Menu
 
 ### Container 0010
+
 Game boot texts.
 
 ### Container 0641
+
 Shop texts.
 
 ### Container 0643
+
 Menu options.
 
 ### Container 0650
+
 Menu. includes character's background/profile, item/spells/attacks/skill name and descriptions.
 
 ## Images
@@ -58,8 +73,7 @@ Menu. includes character's background/profile, item/spells/attacks/skill name an
 ![Character Background](images/character-background.png)
 
 ## Dub
+
 Working text-to-speech generated dub, as proof of concept
 
-
 https://github.com/user-attachments/assets/e3ffbda2-0f37-4fec-a5cf-d1db6875e984
-
