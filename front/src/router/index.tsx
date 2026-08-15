@@ -1,7 +1,7 @@
 import { createHashRouter, Navigate } from 'react-router-dom'
 import { LazyPage, RootLayout } from './Layout'
 
-import { ErrorPage, Home } from '@/views/pages'
+import { ErrorPage, Home, Io } from '@/views/pages'
 
 export const router = createHashRouter([
   {
@@ -18,16 +18,12 @@ export const router = createHashRouter([
         )
       },
       {
-        children: [
-          {
-            path: 'io',
-            element: (
-              <LazyPage>
-                <div></div>
-              </LazyPage>
-            )
-          }
-        ]
+        path: 'io',
+        element: (
+          <LazyPage>
+            <Io />
+          </LazyPage>
+        )
       },
       {
         path: '*',

@@ -55,7 +55,6 @@
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
-  border-inline: 1px solid var(--border);
   min-height: 100svh;
   display: flex;
   flex-direction: column;
@@ -132,6 +131,10 @@ code {
   color: var(--accent);
 }
 
+.link {
+  color: var(--accent);
+}
+
 h1.accent {
   color: var(--accent);
 }
@@ -157,4 +160,83 @@ h1.accent {
   to {
     transform: rotate(360deg);
   }
+}
+
+.carousel {
+  max-width: 960px;
+  margin: 24px auto;
+}
+
+.carousel-viewport {
+  position: relative;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--code-bg);
+  touch-action: none;
+  user-select: none;
+  cursor: grab;
+}
+
+.carousel-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  opacity: 0;
+  -webkit-user-drag: none;
+}
+
+.carousel-image-back {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  opacity: 0.35;
+}
+
+.carousel-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -16px 0 0 -16px;
+}
+
+.carousel-caption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.carousel-dots {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  margin-top: 8px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--border);
+  cursor: pointer;
+}
+
+.dot.active {
+  background: var(--accent);
+}
+
+.video-section {
+  max-width: 960px;
+  margin: 0 auto 32px;
+}
+
+.video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--code-bg);
 }
