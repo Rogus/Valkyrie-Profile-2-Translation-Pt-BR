@@ -1,6 +1,6 @@
 # Valkyrie Profile 2 - Silmeria Translation
 
-[Website](https://trulio2.github.io/Valkyrie-Profile-2-Translation/)
+[Showcase](https://trulio2.github.io/Valkyrie-Profile-2-Translation/)
 
 ## Cutscenes
 
