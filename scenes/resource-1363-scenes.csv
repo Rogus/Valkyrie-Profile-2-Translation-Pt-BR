@@ -1,16 +1,16 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1363,2741,3860,,,,Alicia,...,………,,
-1,2,1363,2742,4184,,,,Arngrim,...,………,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1363,2741,3860,,,,Alicia,...,………,,,duplicate
+1,2,1363,2742,4184,,,,Arngrim,...,………,,,duplicate
 1,3,1363,2743,4520,,,,Arngrim,"If killing me now makes you feel any
-better, go ahead...",今ここで俺を殺して気が〓れるならそれでもいい <PART> 一一,,
-1,4,1363,2744,5636,,,,Alicia,...,………,,
-1,5,1363,2745,5984,,,,Dog Arngrim,...Not!,なんつってな…！,,
+better, go ahead...",今ここで俺を殺して気が〓れるならそれでもいい <PART> ――,,,
+1,4,1363,2744,5636,,,,Alicia,...,………,,,duplicate
+1,5,1363,2745,5984,,,,Dog Arngrim,...Not!,なんつってな…！,,,primary
 1,6,1363,2740,6612,,,,Arngrim,"So the two of you were finally made
-einherjar...",とうとうお前らもエインフェリアにされちまったのか…,,
-1,7,1363,2747,10312,,,,Dog Arngrim,I don't think I can ever forgive myself...,自分がつくづく嫌になる…,,
-1,8,1363,2746,10904,,,,Dog Arngrim,...I was a fool.,…完敗だ,,
-1,9,1363,2748,11036,,,,Dog Arngrim,...Not!,なんつってな…！,,
-2,1,1363,2749,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-2,2,1363,2750,,,,,,Alicia,アリーシャ,,not displayed by the event script
-2,3,1363,2751,,,,,,Arngrim,アリューゼ,,not displayed by the event script
-2,4,1363,2752,,,,,,Dog Arngrim,〓アリューゼ,,not displayed by the event script
+einherjar...",とうとうお前らもエインフェリアにされちまったのか…,,,duplicate
+1,7,1363,2747,10312,,,,Dog Arngrim,I don't think I can ever forgive myself...,自分がつくづく嫌になる…,,,
+1,8,1363,2746,10904,,,,Dog Arngrim,...I was a fool.,…完敗だ,,,
+1,9,1363,2748,11036,,,,Dog Arngrim,...Not!,なんつってな…！,,,duplicate
+2,1,1363,2749,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,primary
+2,2,1363,2750,,,,,,Alicia,アリーシャ,,not displayed by the event script,duplicate
+2,3,1363,2751,,,,,,Arngrim,アリューゼ,,not displayed by the event script,duplicate
+2,4,1363,2752,,,,,,Dog Arngrim,犬アリューゼ,,not displayed by the event script,primary

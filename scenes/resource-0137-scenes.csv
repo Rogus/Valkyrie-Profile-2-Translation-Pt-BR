@@ -1,49 +1,58 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,137,2,1564,,,,Elder,"What a lovely young lady! You'd better
-take care, there are monsters all about! <PART> ---
+take care, there are monsters all about! <PART>
+---
 It's simply teeming with monsters in the
-ruins, down south in the tropics. <PART> ---
+ruins, down south in the tropics. <PART>
+---
 Watch your step <PART> ---- <PART> you really don't want to meet
-Hel, the queen of the underworld.",おや 可愛らしいお〓さんだねこの辺は魔物が多いから気をつけるんだよ <PART> ちょいと〓の〓地〓にある〓〓には強そうな魔物がうじゃうじゃいるからね <PART> うっかり足を踏み入れて 冥界の女王ヘルの元に逝かないようになさいよ,,
+Hel, the queen of the underworld.",おや 可愛らしいお〓さんだねこの辺は魔物が多いから気をつけるんだよ <PART> ちょいと〓の〓地〓にある〓〓には強そうな魔物がうじゃうじゃいるからね <PART> うっかり足を踏み入れて 冥界の女王ヘルの元に逝かないようになさいよ,,,
 1,2,137,3,1728,,,,Elder,"Lightning constantly strikes the Crawsus
-Forest Ruins. It's too dangerous for me! <PART> ---
+Forest Ruins. It's too dangerous for me! <PART>
+---
 Well, there is one way through there...
-Lightning only strikes high places. <PART> ---
+Lightning only strikes high places. <PART>
+---
 So if you stay low, you might make it.
-But make no mistake, it's still dangerous!",クローサス森〓〓〓は 常に〓が〓り続けていてね危なくて近〓れやしないよ <PART> まあ 方法が無い事もないが…〓は 地面より高い所に落ちるものだからね <PART> 伏せていれば 撃たれずにやり過ごせるはずだよけれど 危〓な事には変わりはないからねえ,,
+But make no mistake, it's still dangerous!",クローサス森〓〓〓は 常に〓が〓り続けていてね危なくて近〓れやしないよ <PART> まあ 方法が無い事もないが…〓は 地面より高い所に落ちるものだからね <PART> 伏せていれば 撃たれずにやり過ごせるはずだよけれど 危〓な事には変わりはないからねえ,,,
 1,3,137,4,1788,,,,Matron,"I picked this up a while back.
-I don't have any use for it. <PART> ---
+I don't have any use for it. <PART>
+---
 It's a hassle for me to throw it out,
-so would you mind taking it with you?",この間 こんなものを〓ったのだけど使い道がなくて… <PART> この足では捨てに行くのも面倒なのでどうか持って行ってはくれませんか,,
+so would you mind taking it with you?",この間 こんなものを〓ったのだけど使い道がなくて… <PART> この足では捨てに行くのも面倒なのでどうか持って行ってはくれませんか,,,
 1,4,137,5,1928,,,,Matron,"The gods are always watching over us,
-so don't forget to say your prayers.",神は常に私達を見ていらっしゃるのですよだから 祈りは常に欠かさないようにね,,
+so don't forget to say your prayers.",神は常に私達を見ていらっしゃるのですよだから 祈りは常に欠かさないようにね,,,
 1,5,137,6,2140,,,,Elder,"Say, now... Haven't I met you
-somewhere before? <PART> ---
+somewhere before? <PART>
+---
 You were a lot younger, but I'm sure
-we've met...",はて… 以前貴方とお会いした事はございませんでしたかな？ <PART> もっとうんと小さい頃に…確かに… どこかで…,,
+we've met...",はて… 以前貴方とお会いした事はございませんでしたかな？ <PART> もっとうんと小さい頃に…確かに… どこかで…,,,
 1,6,137,7,2232,,,,Elder,"I saw the princess's birthday celebrations
-one year when I visited Dipan. <PART> ---
+one year when I visited Dipan. <PART>
+---
 A charming young girl was waving
-from the balcony...",…以前 ディパンに旅行した時に王女の〓生〓にかち合ってね <PART> バルコニーから それは可愛らしい女の子が手を振っていたんだが… ふむ…,,
+from the balcony...",…以前 ディパンに旅行した時に王女の〓生〓にかち合ってね <PART> バルコニーから それは可愛らしい女の子が手を振っていたんだが… ふむ…,,,
 1,7,137,8,2436,,,,Elder,"What's all the fuss outside? Did the
-soldiers return from the campaign?",何やら外が騒がしいねえ遠〓部〓でも帰ってきたのかい？,,
+soldiers return from the campaign?",何やら外が騒がしいねえ遠〓部〓でも帰ってきたのかい？,,,
 1,8,137,9,2516,,,,Matron,"There was a flash outside my window.
-I wonder what it was...",〓の外がね 一瞬光ったんだよあれは何だったんだろうねえ,,
+I wonder what it was...",〓の外がね 一瞬光ったんだよあれは何だったんだろうねえ,,,
 1,9,137,10,2596,,,,Elder,"I've never been as shocked in my life
-as I was when I heard Dipan collapsed.",あのディパンが滅んでしまったそうだよいやあ 今まで生きてきて 一番驚いたよ,,
+as I was when I heard Dipan collapsed.",あのディパンが滅んでしまったそうだよいやあ 今まで生きてきて 一番驚いたよ,,,
 1,10,137,11,2676,,,,Matron,"Everyone's talking about a war starting.
-I hope they leave the elderly out of it.",これから戦争が始まると 〓らの噂ですよ年〓りはそっとしておいて欲しいけどねえ…,,
+I hope they leave the elderly out of it.",これから戦争が始まると 〓らの噂ですよ年〓りはそっとしておいて欲しいけどねえ…,,,
 1,11,137,12,2756,,,,Elder,"Now I remember who you look like... The
-princess of Dipan, who supposedly died! <PART> ---
+princess of Dipan, who supposedly died! <PART>
+---
 I only saw her for a moment, but
-you're her spitting image!",…ふむ やっぱり貴方はあの子に似ているねディパンの亡くなったと言う王女様だよ <PART> 昔 一度見ただけだったけど…うん 似ている 似ているねえ…,,
+you're her spitting image!",…ふむ やっぱり貴方はあの子に似ているねディパンの亡くなったと言う王女様だよ <PART> 昔 一度見ただけだったけど…うん 似ている 似ているねえ…,,,
 1,12,137,13,2836,,,,Matron,"Don't listen to the old man claiming
-you look like Dipan's princess. <PART> ---
+you look like Dipan's princess. <PART>
+---
 I apologize for his rude behavior.
-That poor, unfortunate country...",おじいさんたら 貴方がディパン王女に似ているって言って聞かないんですよ <PART> ごめんなさいね ディパンなんて不〓な国の王女様に似ているなんて言ってしまって…,,
-2,1,137,1,,,,,,Head outside,外へ,,not displayed by the event script
-2,2,137,14,,,,,,Acquired <PART> Busted Staff,〓れた〓 <PART> を手に入れた,,not displayed by the event script
-2,3,137,15,,,,,,Acquired <PART> Mace Head,メイス〓ッド <PART> を手に入れた,,not displayed by the event script
-2,4,137,91,,,,,,Crell Monferaigne,クレルモンフェラン,,not displayed by the event script
-2,5,137,2807,,,,,,Elder,〓人,,not displayed by the event script
-2,6,137,2808,,,,,,Matron,〓女,,not displayed by the event script
+That poor, unfortunate country...",おじいさんたら 貴方がディパン王女に似ているって言って聞かないんですよ <PART> ごめんなさいね ディパンなんて不〓な国の王女様に似ているなんて言ってしまって…,,,
+2,1,137,1,,,,,,Head outside,外へ,,not displayed by the event script,duplicate
+2,2,137,14,,,,,,Acquired <PART> Busted Staff,壊れた杖 <PART> を手に入れた,,not displayed by the event script,
+2,3,137,15,,,,,,Acquired <PART> Mace Head,メイスヘッド <PART> を手に入れた,,not displayed by the event script,
+2,4,137,91,,,,,,Crell Monferaigne,クレルモンフェラン,,not displayed by the event script,duplicate
+2,5,137,2807,,,,,,Elder,〓人,,not displayed by the event script,duplicate
+2,6,137,2808,,,,,,Matron,〓女,,not displayed by the event script,duplicate

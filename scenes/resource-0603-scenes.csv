@@ -1,12 +1,13 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,603,6,2284,,,,,"Acquired another sealpouch.
-You can now carry up to four sealstones.",〓しい封〓器を手に入れました。今後は封印石を〓まで〓時に持〓〓く事が〓〓になります。,,
+You can now carry up to four sealstones.",新しい封陣器を手に入れました。今後は封印石を〓まで同時に持ち歩く事が可能になります。,,,duplicate
 1,2,603,4,2340,,,,,"A <PART> sealpouch <PART> increases the number of
 sealstones you can carry.
-You can now carry up to two sealstones.",封〓器 <PART> は、封印石の〓帯〓界〓を〓やすアイテムです。今後は封印石をつまで〓時に持〓〓く事が〓〓です。,,
+You can now carry up to two sealstones.
+",封陣器 <PART> は、封印石の〓帯〓界数を増やすアイテムです。今後は封印石をつまで同時に持ち歩く事が可能です。,,,duplicate
 1,3,603,5,2396,,,,,"Acquired another sealpouch.
-You can now carry up to three sealstones.",〓しい封〓器を手に入れました。今後は封印石を〓まで〓時に持〓〓く事が〓〓になります。,,
-2,1,603,15,,,,,,Turgen Mine,トゥルゲン鉱山,,not displayed by the event script
-2,2,603,18,,,,,,Acquired <PART> OTH,1〓000 0TH <PART> を手に入れた,,not displayed by the event script
-2,3,603,19,,,,,,Acquired <PART> Overdrive,オーバードライブ <PART> を手に入れた,,not displayed by the event script
-2,4,603,20,,,,,,,プライムエリクサー <PART> を手に入れた,,not displayed by the event script
+You can now carry up to three sealstones.",新しい封陣器を手に入れました。今後は封印石を〓まで同時に持ち歩く事が可能になります。,,,duplicate
+2,1,603,15,,,,,,Turgen Mine,トゥルゲン鉱山,,not displayed by the event script,duplicate
+2,2,603,18,,,,,,Acquired <PART> OTH,15000 OTH <PART> を手に入れた,,not displayed by the event script,duplicate
+2,3,603,19,,,,,,Acquired <PART> Overdrive,オーバードライブ <PART> を手に入れた,,not displayed by the event script,duplicate
+2,4,603,20,,,,,,,プライムエリクサー <PART> を手に入れた,,not displayed by the event script,

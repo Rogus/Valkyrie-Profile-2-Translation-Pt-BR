@@ -1,66 +1,66 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,1211,1,2188,430,0,,Alicia,"Umm...
-So...",あの…なぁ…,,
-1,2,1211,33,2468,430,2,,Alicia,Sorry.,…何ですか？,,
-1,3,1211,3,2600,430,3,,Rufus,"Uh, you go ahead.",…先に言えよ,,
-1,4,1211,4,3404,430,5,,Rufus,I-I'm going after Odin.,俺はオーディンを倒す,,
-1,5,1211,5,4184,430,6,,Rufus,You don't seem surprised.,…驚かないのか？,,
-1,6,1211,6,4336,430,7,,Alicia,"Actually, I was going to say the same thing.",私も同じ事を言おうと思っていました,,
-1,7,1211,7,4480,430,8,,Rufus,Really?,…そうか,,
+So...",あの…なぁ…,,,
+1,2,1211,33,2468,430,2,,Alicia,Sorry.,…何ですか？,,,primary
+1,3,1211,3,2600,430,3,,Rufus,"Uh, you go ahead.",…先に言えよ,,,
+1,4,1211,4,3404,430,5,,Rufus,I-I'm going after Odin.,俺はオーディンを倒す,,,
+1,5,1211,5,4184,430,6,,Rufus,You don't seem surprised.,…驚かないのか？,,,
+1,6,1211,6,4336,430,7,,Alicia,"Actually, I was going to say the same thing.",私も同じ事を言おうと思っていました,,,
+1,7,1211,7,4480,430,8,,Rufus,Really?,…そうか,,,
 1,8,1211,31,5184,430,9,,Alicia,"But, what should we do?
-But, how do we do it?",でも どのように？でも どうやって？,,
+But, how do we do it?",でも どのように？でも どうやって？,,,
 1,9,1211,8,6192,430,11,,Rufus,"I'm going to the top of Yggdrasil. I'll
 attain the knowledge to become a god
-there.",俺は〓グドラシルの頂上へ行くそこで全ての〓〓を得て神になる,,
+there.",俺は〓グドラシルの頂上へ行くそこで全ての〓〓を得て神になる,,,
 1,10,1211,9,7144,430,12,,Rufus,"You know it, right? The tree of creation
-for all the realms, including Asgard.",知ってるだろ？ アスガルドを〓む世界の創造の源になってる樹だ,,
+for all the realms, including Asgard.",知ってるだろ？ アスガルドを〓む世界の創造の源になってる樹だ,,,
 1,11,1211,30,8004,430,15,,Rufus,"There was once a time when Odin was a
-lesser deity. He had the body of a half elf.",オーディンも昔は ハーフエルフの肉体を持つだけの下〓神だったんだ…,,
+lesser deity. He had the body of a half elf.",オーディンも昔は ハーフエルフの肉体を持つだけの下〓神だったんだ…,,,
 1,12,1211,29,8692,430,16,,Rufus,"I've thought about it for a long time,
-but now I'm determined to do it.",あいつにできた事ならきっと俺にだってできる…,,
-1,13,1211,12,9028,430,17,,Rufus,I'm not taking any more of his tyranny!,…あいつの横暴は もう許せない！,,
-1,14,1211,10,9700,430,13,,Alicia,Can you really do that?,…そんな事が！？,,
+but now I'm determined to do it.",あいつにできた事ならきっと俺にだってできる…,,,
+1,13,1211,12,9028,430,17,,Rufus,I'm not taking any more of his tyranny!,…あいつの横暴は もう許せない！,,,
+1,14,1211,10,9700,430,13,,Alicia,Can you really do that?,…そんな事が！？,,,
 1,15,1211,11,9820,430,14,,Rufus,"Even Silmeria admitted it! It's not a
-fantasy. I'm going to do it.",シルメリアも認めてたじゃないか！俺は〓上の空論で終わらせない！,,
-1,16,1211,13,9952,430,18,,Alicia,Neither am I. Let me go with you!,私も一緒に行かせてください！,,
+fantasy. I'm going to do it.",シルメリアも認めてたじゃないか！俺は〓上の空論で終わらせない！,,,
+1,16,1211,13,9952,430,18,,Alicia,Neither am I. Let me go with you!,私も一緒に行かせてください！,,,
 1,17,1211,14,11292,430,19,,Alicia,"I was planning to defeat Odin by taking
-back the Dragon Orb.",私はドラゴンオーブを取り返す事でオーディンを倒すつもりでした,,
+back the Dragon Orb.",私はドラゴンオーブを取り返す事でオーディンを倒すつもりでした,,,
 1,18,1211,15,11424,430,20,,Alicia,"But I don't know how. I can't do it on
-my own.",でも そのためにどうしたらいいか私にはわからないんです…,,
-1,19,1211,16,11580,430,21,,Alicia,I need you...to help me...,あなたに… 頼るしか…,,
-1,20,1211,17,12244,430,22,,Rufus,No chance.,…無理だな,,
-1,21,1211,19,12872,430,24,,Rufus,Because humans can't enter Yggdrasil.,人間は〓グドラシルへは入れないんだ,,
+my own.",でも そのためにどうしたらいいか私にはわからないんです…,,,
+1,19,1211,16,11580,430,21,,Alicia,I need you...to help me...,あなたに… 頼るしか…,,,
+1,20,1211,17,12244,430,22,,Rufus,No chance.,…無理だな,,,
+1,21,1211,19,12872,430,24,,Rufus,Because humans can't enter Yggdrasil.,人間は〓グドラシルへは入れないんだ,,,
 1,22,1211,20,13740,430,25,,Rufus,"Sorry, there's just no getting around
-that.",こればっかりはどうにもならないだろ…,,
-1,23,1211,23,14636,430,28,,Rufus,"Look, you're a normal human being now.",…もう 普通の人間なんだよ,,
-1,24,1211,18,17180,430,23,,Alicia,Why not!?,どうして！？,,
-1,25,1211,21,17312,430,26,,Alicia,But I can still project photons!,でも 光子だって撃てるし <PART> 一一,,
+that.",こればっかりはどうにもならないだろ…,,,
+1,23,1211,23,14636,430,28,,Rufus,"Look, you're a normal human being now.",…もう 普通の人間なんだよ,,,
+1,24,1211,18,17180,430,23,,Alicia,Why not!?,どうして！？,,,
+1,25,1211,21,17312,430,26,,Alicia,But I can still project photons!,でも 光子だって撃てるし <PART> ――,,,
 1,26,1211,22,17432,430,27,,Rufus,"Even so, you can't read objects, can
-you?",オブシェクトリーディングはできないんじゃないか？,,
-1,27,1211,24,17552,430,29,,Rufus,"Take care, Alicia.",じゃあな アリーシャ…,,
+you?",オブシェクトリーディングはできないんじゃないか？,,,
+1,27,1211,24,17552,430,29,,Rufus,"Take care, Alicia.",じゃあな アリーシャ…,,,
 1,28,1211,25,17672,430,30,,Rufus,"To reach Asgard, I'll have to pass
 through the gates of Bifrost in the
-heart of the Forest of Spirits.",アスガルドへは 精霊の森の奥にあるビフレストの〓を通る事になる,,
+heart of the Forest of Spirits.",アスガルドへは 精霊の森の奥にあるビフレストの〓を通る事になる,,,
 1,29,1211,26,17812,430,31,,Rufus,"Why don't we go together, at least as
-far as we can.",…行けるところまでだけでも一緒に行こうか,,
-1,30,1211,28,23632,430,4,,Rufus,"Alright, I'll go first.",…わかった 先に言うよ,,
-2,1,1211,2754,40452,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-2,2,1211,2755,40940,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-2,3,1211,2756,41472,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-2,4,1211,2757,41960,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-2,5,1211,2758,42736,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-2,6,1211,2759,43460,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-2,7,1211,2760,43848,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-2,8,1211,2761,44176,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-2,9,1211,2762,44564,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-3,1,1211,2366,50160,,,,,ERRORv,ERR0R！！（v190）,,
-3,2,1211,2367,50296,,,,,ERRORv,ERR0R！！（v191）,,
-3,3,1211,2368,50432,,,,,ERRORv,ERR0R！！（v191）,,
-4,1,1211,36,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,2,1211,37,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-4,3,1211,38,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,4,1211,39,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-4,5,1211,40,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-4,6,1211,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-4,7,1211,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
-4,8,1211,2753,,,,,,Rufus,ルーファス,,not displayed by the event script
+far as we can.",…行けるところまでだけでも一緒に行こうか,,,
+1,30,1211,28,23632,430,4,,Rufus,"Alright, I'll go first.",…わかった 先に言うよ,,,
+2,1,1211,2754,40452,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+2,2,1211,2755,40940,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+2,3,1211,2756,41472,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+2,4,1211,2757,41960,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+2,5,1211,2758,42736,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+2,6,1211,2759,43460,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+2,7,1211,2760,43848,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+2,8,1211,2761,44176,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+2,9,1211,2762,44564,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,primary
+3,1,1211,2366,50160,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+3,2,1211,2367,50296,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+3,3,1211,2368,50432,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,1,1211,36,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,2,1211,37,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+4,3,1211,38,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,4,1211,39,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+4,5,1211,40,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,6,1211,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+4,7,1211,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script,primary
+4,8,1211,2753,,,,,,Rufus,ルーファス,,not displayed by the event script,duplicate

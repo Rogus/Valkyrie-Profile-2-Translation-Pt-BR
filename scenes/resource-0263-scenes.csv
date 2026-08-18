@@ -1,8 +1,9 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,263,2,1296,,,,,A deadly presence lurks beyond...,この先から〓ならぬ気配を感じる…,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,263,2,1296,,,,,A deadly presence lurks beyond...,この先から〓ならぬ気配を感じる…,,,primary
 1,2,263,6,2048,,,,,"With the <PART> Divine Time Giver <PART> , you may
-exceed the preset number of attacks. <PART> Note AP cost doubles after the first set.",時〓りの神器 <PART> を入手した事で、〓定〓〓〓上の〓〓が〓〓になりました。 <PART> た〓しセット目からの〓〓は、〓〓〓〓が〓になります。,,
-2,1,263,3,,,,,,Proceed.,先へ〓〓,,not displayed by the event script
-2,2,263,4,,,,,,Stay out.,〓る,,not displayed by the event script
-2,3,263,34,,,,,,Audoula Temple on the Lake,アウドゥーラ水上神殿,,not displayed by the event script
-2,4,263,2774,,,,,,Acquired <PART> Crystal Chainmail,クリスタル〓ェイン <PART> を手に入れた,,not displayed by the event script
+exceed the preset number of attacks.
+ <PART> Note AP cost doubles after the first set.",時渡りの神器 <PART> を入手した事で、〓定回数以上の攻撃が可能になりました。 <PART> ただしセット目からの攻撃は、消費APが倍になります。,,,
+2,1,263,3,,,,,,Proceed.,先へ進む,,not displayed by the event script,primary
+2,2,263,4,,,,,,Stay out.,戻る,,not displayed by the event script,
+2,3,263,34,,,,,,Audoula Temple on the Lake,アウドゥーラ水上神殿,,not displayed by the event script,duplicate
+2,4,263,2774,,,,,,Acquired <PART> Crystal Chainmail,クリスタルチェイン <PART> を手に入れた,,not displayed by the event script,primary

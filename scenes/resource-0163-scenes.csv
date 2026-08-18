@@ -1,6 +1,6 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,163,1713,2656,,,,,"If they see us, Dipan's guards will surely
-try to stop us. We can't go any further.",ディパンの兵士… 見つかれば争いになってしまう先には進めないわ,,
-2,1,163,1,,,,,,Exit,出口,,not displayed by the event script
-2,2,163,2,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
-2,3,163,1871,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
+try to stop us. We can't go any further.",ディパンの兵士… 見つかれば争いになってしまう先には進めないわ,,,
+2,1,163,1,,,,,,Exit,出口,,not displayed by the event script,duplicate
+2,2,163,2,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script,duplicate
+2,3,163,1871,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script,duplicate

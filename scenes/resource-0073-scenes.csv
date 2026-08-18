@@ -1,111 +1,176 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,73,5,1572,,,,,There's writing on the edge of a page.,〓ーシの端に何か書いてある…,,
-1,2,73,3,1628,,,,,"I <PART> n sweep the waves of the moon, <PART> A <PART> way flow the tides of time.",い〓りて〓る〓の〓栄枯の調べを亡失す,,
-1,3,73,4,1684,,,,,...What's that supposed to mean?,…どういう意味かしら,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,73,5,1572,,,,,There's writing on the edge of a page.,〓ーシの端に何か書いてある…,,,primary
+1,2,73,3,1628,,,,,"I <PART> n sweep the waves of the moon,
+ <PART> A <PART> way flow the tides of time.
+",いざりて来る月の波栄枯の調べを亡失す,,,
+1,3,73,4,1684,,,,,...What's that supposed to mean?,…どういう意味かしら,,,
 1,4,73,6,1796,,,,,"Hey, you over there! You're a dead ringer
-for Princess Alicia! <PART> ---
+for Princess Alicia! <PART>
+---
 Her birth brought so much joy that many
-people named their daughters Alicia. <PART> ---
+people named their daughters Alicia. <PART>
+---
 For her to die at such a young age...
-Life can be so cruel...",おや あんた…アリーシャ王女様に良く似ているねえ <PART> 王女ご生〓当時は その幸せにあやかろうとアリーシャって名前がはやったもんだよ <PART> それが幼くしてあっけなく死んじまったんだから人生わかんないもんだねぇ…,,
+Life can be so cruel...",おや あんた…アリーシャ王女様に良く似ているねえ <PART> 王女ご生〓当時は その幸せにあやかろうとアリーシャって名前がはやったもんだよ <PART> それが幼くしてあっけなく死んじまったんだから人生わかんないもんだねぇ…,,,
 1,5,73,7,1888,,,,Elder,"Princess Alicia was such a cute little girl.
-Her friend Dallas became one of the mages! <PART> ---",アリーシャ様は 本当に可愛いお姫様だったよ今は三〓者となられたダレス様と仲が良くてねぇ…,,
-1,6,73,9,1980,,,,,"In battle, the lives of allies are in
+Her friend Dallas became one of the mages! <PART>
+---
+",アリーシャ様は 本当に可愛いお姫様だったよ今は三〓者となられたダレス様と仲が良くてねぇ…,,,
+1,6,73,9,1980,,,,,"
+In battle, the lives of allies are in
 the commander's hands.
 Ye who would command, know ye by
-heart these secrets... <PART> ---",〓戦術指〓〓〓 <PART> 戦〓において仲間を活かすも〓すも、全ては指〓〓の〓一つ。指〓〓たる者は、〓れに〓す〓〓を心して〓えよ。,,
-1,7,73,10,2032,,,,,"Remember at all times
+heart these secrets... <PART>
+---
+",〓戦術指南書〓 <PART> 戦闘において仲間を活かすも殺すも、全ては指揮官の腕一つ。指揮官たる者は、これに記す極意を心して覚えよ。,,,
+1,7,73,10,2032,,,,,"
+Remember at all times
 One's ability to command determines
-whether comrades live or die.",〓戦術指〓〓〓 <PART> 心〓よ。〓に戦う仲間の生死は、指〓〓たる者の〓力次〓であると知れ。,,
-1,8,73,19,2180,,,,,"Elements <PART> There are four natural elements
+whether comrades live or die.",〓戦術指南書〓 <PART> 心せよ。共に戦う仲間の生死は、指揮官たる者の実力次第であると知れ。,,,primary
+1,8,73,19,2180,,,,,"Elements <PART>
+There are four natural elements
 fire, ice, lightning, and earth.
 Beyond these, there are also the
-magic elements, holy and dark. <PART> --- <PART> Elements <PART> The fire techniques are effective against
+magic elements, holy and dark. <PART>
+---
+ <PART> Elements <PART>
+The fire techniques are effective against
 monsters weak against heat, while ice
 works well against fire-element monsters.
 Earth techniques bearing poison are
 powerful against living organisms, while
-lightning strikes metal monsters hard. <PART> --- <PART> Elements <PART> Knowing the characteristics of your
+lightning strikes metal monsters hard. <PART>
+---
+ <PART> Elements <PART>
+Knowing the characteristics of your
 enemy, and the appropriate elements to
 attack with, can be a great advantage
-in battle.",〓戦術指〓〓〓 <PART> 属〓について <PART> 属〓とは〓〓〓〓〓〓〓〓〓〓〓〓という〓の自然の力である。そして〓れらのつの〓なる上位に〓聖〓と〓〓〓と〓ばれる属〓の魔法が存在する。 <PART> 〓戦術指〓〓〓 <PART> 属〓について <PART> 火を生み出す〓術は〓に〓い魔物を〓〓とし、水を〓る〓術は火属〓の魔物によく〓くであ〓う。 〓を生み出す〓術は生〓〓に絶大な〓果を持〓、〓〓を〓〓〓つ〓術は金属〓の魔物に〓果が高い。 <PART> 〓戦術指〓〓〓 <PART> 属〓について <PART> 〓である魔物の〓〓を〓〓し、〓〓な属〓によって〓〓をすれば、戦〓を〓利に〓める事が〓〓となる。,,
-1,9,73,17,2236,,,,,"Dashing <PART> Swift movement is the key to combat.
+in battle.",〓戦術指南書〓 <PART> 属性について <PART> 属性とは『炎』『氷』『雷』『土』という種の自然の力である。そしてこれらのつの更なる上位に『聖』と『闇』と呼ばれる属性の魔法が存在する。 <PART> 〓戦術指南書〓 <PART> 属性について <PART> 火を生み出す炎術は〓に弱い魔物を得意とし、水を操る氷術は火属性の魔物によく効くであろう。 毒を生み出す土術は生命体に絶大な効果を持ち、電撃を撃ち放つ雷術は金属〓の魔物に効果が高い。 <PART> 〓戦術指南書〓 <PART> 属性について <PART> 敵である魔物の特性を理解し、〓切な属性によって攻撃をすれば、戦闘を有利に進める事が可能となる。,,,duplicate
+1,9,73,17,2236,,,,,"Dashing <PART>
+Swift movement is the key to combat.
 Whether or not you master <PART> dashing <PART> may decide
 the outcome of the battle.
-Dash by using <PART> X. <PART> --- <PART> Dashing <PART> There are three types of dash.
+Dash by using <PART> X. <PART>
+---
+ <PART> Dashing <PART>
+There are three types of dash.
 Quickly press <PART> X to move a short distance,
 hold it down to move a long distance, or
-press it twice to move a medium distance. <PART> --- <PART> Dashing <PART> You can eliminate dash recovery time by
+press it twice to move a medium distance. <PART>
+---
+ <PART> Dashing <PART>
+You can eliminate dash recovery time by
 attacking while still in motion.
-This is called <PART> dash canceling <PART> .",〓戦術指〓〓〓 <PART> ダッシュについて <PART> 素〓い〓動は戦〓において〓よりの〓となる。神〓の〓動、 <PART> ダッシュ <PART> を〓い〓な〓るかどうかで、〓〓の〓方は大きく〓わるであ〓う。 ダッシュは <PART> で発動する事が〓〓である。 <PART> 〓戦術指〓〓〓 <PART> ダッシュについて <PART> ダッシュで〓動できる〓〓には〓〓ある。 <PART> を〓く〓〓ば〓〓〓の〓動が、長く〓〓ば長〓〓の〓動が、素〓く〓〓続して〓〓ば中〓〓の〓動が〓〓である。 <PART> 〓戦術指〓〓〓 <PART> ダッシュについて <PART> 〓に、ダッシュの〓〓から〓まる事なく、そのまま流れるように〓〓に〓る事で、仲間が〓地する〓の〓を〓くす事が〓〓となる。〓れを <PART> ダッシュキャンセル <PART> と〓ぶ。,,
-1,10,73,18,2292,,,,,"Status Ailments <PART> Anything can strike in battle, including status
+This is called <PART> dash canceling <PART> .",〓戦術指南書〓 <PART> ダッシュについて <PART> 素早い移動は戦闘において何よりの要となる。神速の移動、 <PART> ダッシュ <PART> を使いこなせるかどうかで、勝敗の行方は大きく変わるであろう。 ダッシュは <PART> で発動する事が可能である。 <PART> 〓戦術指南書〓 <PART> ダッシュについて <PART> ダッシュで移動できる〓離には段階ある。 <PART> を短く押せば短〓離の移動が、長く押せば長〓離の移動が、素早く回連続して押せば中〓離の移動が可能である。 <PART> 〓戦術指南書〓 <PART> ダッシュについて <PART> 更に、ダッシュの状態から止まる事なく、そのまま流れるように攻撃に移る事で、仲間が着地する際の隙を無くす事が可能となる。これを <PART> ダッシュキャンセル <PART> と呼ぶ。,,,primary
+1,10,73,18,2292,,,,,"Status Ailments <PART>
+Anything can strike in battle, including status
 ailments. Realize that these can be deadly if
-left untreated. <PART> --- <PART> Status Ailments <PART> The status ailments below occur only in battle.
+left untreated. <PART>
+---
+ <PART> Status Ailments <PART>
+The status ailments below occur only in battle.
 Confusion renders one unable to think
 properly, and therefore unable to attack.
 Use Normalize or an applicable item to
 cure this condition.
 If you don't have the means to cure it,
-you'll have to wait it out. <PART> --- <PART> Status Ailments <PART> Paralysis causes numbness throughout
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Paralysis causes numbness throughout
 the body, making movement impossible.
 Use Normalize or an applicable item to
 cure this condition.
 If you don't have the means to cure it,
-you'll have to wait it out. <PART> --- <PART> Status Ailments <PART> Victims of Stone become like statues,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Victims of Stone become like statues,
 utterly unable to act.
 Use Normalize or an applicable item to
 cure this condition.
 If you don't have the means to cure it,
-you'll have to wait it out. <PART> --- <PART> Status Ailments <PART> Faint causes a loss of consciousness,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Faint causes a loss of consciousness,
 leaving one unable to act.
 Use Normalize or an applicable item to
 cure this condition. Absorbing an enemy
-attack will also wake one up. <PART> --- <PART> Status Ailments <PART> Transfer forcefully expels you from the
+attack will also wake one up. <PART>
+---
+ <PART> Status Ailments <PART>
+Transfer forcefully expels you from the
 battlefield, keeping you from joining your
 comrades for a certain amount of time.
 It cannot be cured by Normalize.
-Use an applicable item to cure it. <PART> --- <PART> Status Ailments <PART> The status ailments below persist even
+Use an applicable item to cure it. <PART>
+---
+ <PART> Status Ailments <PART>
+The status ailments below persist even
 after battle.
 Poison will deplete one's HP at certain
 intervals.
 Use Normalize or an applicable item to
-cure this condition. <PART> --- <PART> Status Ailments <PART> Silence forbids the use of magic, and certain
+cure this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+Silence forbids the use of magic, and certain
 enemy attacks may also be neutralized.
 Use Normalize or an applicable item to cure
-this condition. <PART> --- <PART> Status Ailments <PART> A Curse prohibits changing equipment.
+this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+A Curse prohibits changing equipment.
 Use Normalize or an applicable item to
-cure this condition. <PART> --- <PART> Status Ailments <PART> Frailty inhibits the body's ability to
+cure this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+Frailty inhibits the body's ability to
 convalesce, making healing impossible.
 It cannot be cured by Normalize.
-Use an applicable item to cure it. <PART> --- <PART> Status Ailments <PART> Unconscious characters lie on the
+Use an applicable item to cure it. <PART>
+---
+ <PART> Status Ailments <PART>
+Unconscious characters lie on the
 brink of death. Use Invoke Feather
 or an applicable item to cure it.
 Certain accessories can prevent these status
-ailments, if you can find them.",〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 戦いの中では〓々な事〓が生じる。〓〓異常もその一つ。〓〓な〓処を〓らずに置けば、〓を〓とす事もあると心〓よ。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓下の〓〓異常は、戦〓中にのみその〓果が〓れる。  〓〓乱〓 〓乱した者は〓常なる思〓を失い、〓〓 〓動を一〓〓れなくなる。 〓〓するには、オーディナリーシェイプか 〓〓アイテムを〓うべし。 〓〓すべき手〓が〓い場〓は、時が〓つ のを〓て。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓〓〓〓 〓〓にした者は全〓が〓れ、〓動きが一〓 〓れなくなる。 〓〓するには、オーディナリーシェイプか 〓〓アイテムを〓うべし。〓〓すべき手〓が 〓い場〓は、時が〓つのを〓て。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓石化〓 石化した者は石の人〓と化し、〓動きが一〓 〓れなくなる。 〓〓するには、オーディナリーシェイプか 〓〓アイテムを〓うべし。〓〓すべき手〓が 〓い場〓は、時が〓つのを〓て。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓気絶〓 気絶した者は〓識を失い、〓動きが一〓 〓れなくなる。 〓〓するには、オーディナリーシェイプか 〓〓アイテムを〓うべし。 〓は〓の〓〓を〓ければ気が〓く〓〓う。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓〓送〓 〓送にかかった者は戦場から〓制〓に〓〓 さ〓られる。一定時間を〓ないと仲間の元に 〓る事は〓されない。 オーディナリーシェイプでは〓〓不〓〓。 〓〓アイテムでのみ〓〓が〓〓となる。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓下の〓〓異常は、戦〓を〓えても持続されるので〓〓〓よ。  〓〓〓 〓に侵されると、一定時間〓とに〓〓を 〓られる。 〓〓するには、オーディナリーシェイプか 〓〓アイテムを〓うべし。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓〓〓〓 〓〓になると、魔法が〓用できなくなる。 〓の〓〓の中には、〓れにより発動を〓〓 事ができるものがある。 〓〓するには、オーディナリーシェイプか 〓〓アイテムを〓うべし。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓〓い〓 〓いにかかると、〓〓〓〓ができなくなる。 オーディナリーシェイプでは〓〓不〓〓。 〓〓アイテムでのみ〓〓が〓〓となる。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓〓〓〓 〓〓になると〓〓の〓〓力が見る間に 失われ、〓が〓える事がなくなる。 オーディナリーシェイプでは〓〓不〓〓。 〓〓アイテムでのみ〓〓が〓〓となる。 <PART> 〓戦術指〓〓〓 <PART> 〓〓異常について <PART> 〓戦〓不〓〓 戦〓不〓に〓った者は、生死の〓をさ〓う。 エヴォークフェザーか〓〓アイテムを〓う べし。 なお、〓れら〓〓異常を〓もって〓〓アクセサリーが存在するが、それは〓の手で〓すが〓い〓〓う。,,
-1,11,73,16,2348,,,,,"Casting Spells <PART> A true sorcerer knows not only how to cast
-spells, but also when and where. <PART> --- <PART> Casting Spells <PART> Usually, a character will cast a preset spell to
+ailments, if you can find them.",〓戦術指南書〓 <PART> 状態異常について <PART> 戦いの中では様々な事〓が生じる。状態異常もその一つ。〓切な対処を取らずに置けば、命を落とす事もあると心得よ。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 以下の状態異常は、戦闘中にのみその効果が現れる。  〓混乱〓 混乱した者は正常なる思考を失い、攻撃 行動を一切取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 回復すべき手段が無い場合は、時が経つ のを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓麻痺〓 麻痺にした者は全身が痺れ、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。回復すべき手段が 無い場合は、時が経つのを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓石化〓 石化した者は石の人形と化し、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。回復すべき手段が 無い場合は、時が経つのを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓気絶〓 気絶した者は意識を失い、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 又は敵の攻撃を受ければ気が付くだろう。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓転送〓 転送にかかった者は戦場から強制的に離脱 させられる。一定時間を経ないと仲間の元に 戻る事は〓されない。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 以下の状態異常は、戦闘を終えても持続されるので注意せよ。  〓毒〓 毒に侵されると、一定時間ごとにHPを 〓られる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓沈黙〓 沈黙になると、魔法が使用できなくなる。 敵の攻撃の中には、これにより発動を防ぐ 事ができるものがある。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓呪い〓 呪いにかかると、装備変更ができなくなる。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓衰弱〓 衰弱になると身体の回復力が見る間に 失われ、傷が癒える事がなくなる。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓戦闘不能〓 戦闘不能に陥った者は、生死の境をさ〓う。 エヴォークフェザーか対〓アイテムを使う べし。 なお、これら状態異常を前もって防ぐアクセサリーが存在するが、それは己の手で探すが良いだろう。,,,primary
+1,11,73,16,2348,,,,,"Casting Spells <PART>
+A true sorcerer knows not only how to cast
+spells, but also when and where. <PART>
+---
+ <PART> Casting Spells <PART>
+Usually, a character will cast a preset spell to
 expedite attacks and integrate smoothly with
 allies. However, lacking the time for proper
 spiritual concentration, the ranges and effects
-of these spells fail to meet their full potential. <PART> --- <PART> Casting Spells <PART> To increase the force of one's magic, one should
+of these spells fail to meet their full potential. <PART>
+---
+ <PART> Casting Spells <PART>
+To increase the force of one's magic, one should
 remain still, open the spellbook with <PART> and
 examine the incantation to perform.
 However, this precludes one from combining
 with allies.
 As for which attack method to use, you'll need to
-apply your know-how to each situation. <PART> --- <PART> Casting Spells <PART> There are Great Magics in this world that surpass
+apply your know-how to each situation. <PART>
+---
+ <PART> Casting Spells <PART>
+There are Great Magics in this world that surpass
 ordinary spells. Great Magic can annihilate
 multiple foes at once.
 But enemies may use it as well. When
 attacked with Great Magic, keep the status of
-those beside the targeted character in mind.",〓戦術指〓〓〓 <PART> 魔法の〓い方について <PART> 〓なる魔法〓いは、術の発動の〓方ですらも、〓〓に〓じて〓い〓けるものである。 <PART> 〓戦術指〓〓〓 <PART> 魔法の〓い方について <PART> 〓常時は、素〓い〓〓と仲間との〓〓をはかるため、あらかじめ〓に〓〓した術を〓用する。〓がそれでは〓〓な精神〓中の時間が〓れず、術の〓力と〓果〓〓は〓〓の〓力を発〓しない〓〓う。 <PART> 〓戦術指〓〓〓 <PART> 魔法の〓い方について <PART> 術の〓力を〓〓に高める場〓は、動きを〓めた上で <PART> で魔術〓を〓き、どの術を発動するか〓〓に〓味すべきである。〓がその〓わりに、仲間との〓〓を〓る事はできなくなる〓〓う。 ど〓らの〓〓方法を〓るかは、〓〓により〓が手〓で〓り〓けるが〓い。 <PART> 〓戦術指〓〓〓 <PART> 魔法の〓い方について <PART> また、〓の世には、〓常の〓力を〓える大魔法が存在する。大魔法は、一〓に多〓の〓を〓り〓る事が〓〓である。 〓が、〓れは〓も〓じ事。大魔法を発動された場〓は、〓〓とされた者〓外の〓〓も気に〓めておくべきであ〓う。,,
-2,1,73,1,,,,,,Head outside,外へ,,not displayed by the event script
-2,2,73,2,,,,,,HRead,〓〓,,not displayed by the event script
-2,3,73,8,,,,,,HRead,〓〓,,not displayed by the event script
-2,4,73,11,,,,,,,〓戦術指〓〓〓,,not displayed by the event script
-2,5,73,12,,,,,,Elements,・属〓について,,not displayed by the event script
-2,6,73,13,,,,,,Dashing,・ダッシュについて,,not displayed by the event script
-2,7,73,14,,,,,,Status Ailments,・〓〓異常について,,not displayed by the event script
-2,8,73,15,,,,,,Casting Spells,・魔法の〓い方について,,not displayed by the event script
-2,9,73,50,,,,,,Dipan,ディパン城下町,,not displayed by the event script
-2,10,73,84,,,,,,Elder,〓人,,not displayed by the event script
+those beside the targeted character in mind.",〓戦術指南書〓 <PART> 魔法の使い方について <PART> 真なる魔法使いは、術の発動の仕方ですらも、状〓に応じて使い分けるものである。 <PART> 〓戦術指南書〓 <PART> 魔法の使い方について <PART> 通常時は、素早い攻撃と仲間との連〓をはかるため、あらかじめ己に付与した術を使用する。だがそれでは十分な精神集中の時間が取れず、術の威力と効果範囲は本来の威力を発揮しないだろう。 <PART> 〓戦術指南書〓 <PART> 魔法の使い方について <PART> 術の威力を純粋に高める場合は、動きを止めた上で <PART> で魔術書を開き、どの術を発動するか十分に吟味すべきである。だがその代わりに、仲間との連〓を取る事はできなくなるだろう。 どちらの攻撃方法を取るかは、状〓により己が手腕で切り抜けるが良い。 <PART> 〓戦術指南書〓 <PART> 魔法の使い方について <PART> また、この世には、通常の威力を超える大魔法が存在する。大魔法は、一度に多数の敵を〓り去る事が可能である。 だが、これは敵も同じ事。大魔法を発動された場合は、標的とされた者以外の状態も気に留めておくべきであろう。,,,primary
+2,1,73,1,,,,,,Head outside,外へ,,not displayed by the event script,duplicate
+2,2,73,2,,,,,,HRead,読む,,not displayed by the event script,duplicate
+2,3,73,8,,,,,,HRead,読む,,not displayed by the event script,duplicate
+2,4,73,11,,,,,,,〓戦術指南書〓,,not displayed by the event script,
+2,5,73,12,,,,,,Elements,・属性について,,not displayed by the event script,duplicate
+2,6,73,13,,,,,,Dashing,・ダッシュについて,,not displayed by the event script,duplicate
+2,7,73,14,,,,,,Status Ailments,・状態異常について,,not displayed by the event script,duplicate
+2,8,73,15,,,,,,Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
+2,9,73,50,,,,,,Dipan,ディパン城下町,,not displayed by the event script,duplicate
+2,10,73,84,,,,,,Elder,〓人,,not displayed by the event script,primary

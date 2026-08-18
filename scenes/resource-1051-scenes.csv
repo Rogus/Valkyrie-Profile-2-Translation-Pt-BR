@@ -1,8 +1,8 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1051,2,676,,,,,It seems nothing will happen at the moment.,今は何も起こりそうにない…,,
-1,2,1051,5,724,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
-2,1,1051,1,,,,,,HCheck,調べる,,not displayed by the event script
-2,2,1051,3,,,,,,Inspect the area.,〓く,,not displayed by the event script
-2,3,1051,4,,,,,,Leave.,やめる,,not displayed by the event script
-2,4,1051,2969,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
-2,5,1051,2973,,,,,,Acquired <PART> Thief's Thoughts,〓〓の知識 <PART> を手に入れた,,not displayed by the event script
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1051,2,676,,,,,It seems nothing will happen at the moment.,今は何も起こりそうにない…,,,
+1,2,1051,5,724,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,,duplicate
+2,1,1051,1,,,,,,HCheck,調べる,,not displayed by the event script,duplicate
+2,2,1051,3,,,,,,Inspect the area.,〓く,,not displayed by the event script,duplicate
+2,3,1051,4,,,,,,Leave.,やめる,,not displayed by the event script,duplicate
+2,4,1051,2969,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script,duplicate
+2,5,1051,2973,,,,,,Acquired <PART> Thief's Thoughts,盗賊の知識 <PART> を手に入れた,,not displayed by the event script,duplicate

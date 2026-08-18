@@ -1,7 +1,7 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1063,4,864,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
-2,1,1063,1,,,,,,,,,not displayed by the event script
-2,2,1063,3,,,,,,HCheck,調べる,,not displayed by the event script
-2,3,1063,5,,,,,,Inspect the area.,〓く,,not displayed by the event script
-2,4,1063,6,,,,,,Leave.,やめる,,not displayed by the event script
-2,5,1063,2968,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1063,4,864,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,,primary
+2,1,1063,1,,,,,,,,,not displayed by the event script,
+2,2,1063,3,,,,,,HCheck,調べる,,not displayed by the event script,primary
+2,3,1063,5,,,,,,Inspect the area.,〓く,,not displayed by the event script,primary
+2,4,1063,6,,,,,,Leave.,やめる,,not displayed by the event script,primary
+2,5,1063,2968,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script,primary

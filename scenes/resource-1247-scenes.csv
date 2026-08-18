@@ -1,67 +1,67 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1247,32,4980,230,1,,Dylan,What's wrong?,どうした？,,
-1,2,1247,3,5160,230,2,,Rufus,"Er, nothing...",い いや…,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1247,32,4980,230,1,,Dylan,What's wrong?,どうした？,,,duplicate
+1,2,1247,3,5160,230,2,,Rufus,"Er, nothing...",い いや…,,,
 1,3,1247,38,5368,230,3,,Rufus,"There's nothing on the dais. I guess
-this is where we call in Silmeria.",〓〓には何も〓ってないぜここはシルメリアの出番だろ…,,
+this is where we call in Silmeria.",〓〓には何も〓ってないぜここはシルメリアの出番だろ…,,,
 2,1,1247,5,8492,230,4,,Lezard,"You see, there is another ally in our
-ranks...",実はもう一人 仲間がいるのです,,
-2,2,1247,6,8636,230,5,,Leone,Hm?,ふ～ん…,,
+ranks...",実はもう一人 仲間がいるのです,,,
+2,2,1247,6,8636,230,5,,Leone,Hm?,ふ～ん…,,,primary
 2,3,1247,7,8768,230,6,,Arngrim,"What's going on? Have you been hiding
-somethin' from us?",何だと！？ 今までコソコソ隠れてやがったのか！,,
-2,4,1247,8,9664,230,7,,Dylan,You will be quiet!,静かにしてろッ！,,
-2,5,1247,9,12200,230,8,,Alicia,Silmeria?,…シルメリア？,,
-2,6,1247,10,13176,230,9,,Alicia,We need you for object reading <PART> ----,早くオブシェクトリーディングを <PART> 一一,,
+somethin' from us?",何だと！？ 今までコソコソ隠れてやがったのか！,,,
+2,4,1247,8,9664,230,7,,Dylan,You will be quiet!,静かにしてろッ！,,,
+2,5,1247,9,12200,230,8,,Alicia,Silmeria?,…シルメリア？,,,duplicate
+2,6,1247,10,13176,230,9,,Alicia,We need you for object reading <PART> ----,早くオブシェクトリーディングを <PART> ――,,,
 2,7,1247,11,15108,230,10,,Lezard,"Her spiritual concentration appears to
-be blocked. Give her space.",精神集中を〓げているようですもう少し離れましょう,,
+be blocked. Give her space.",精神集中を〓げているようですもう少し離れましょう,,,
 2,8,1247,12,21852,230,11,,Lezard,"It's called ""object reading."" She is
-deciphering psychic energy in the dais.",オブシェクトリーディングといって〓〓に宿る思念を〓み取っているのです,,
-2,9,1247,13,25188,230,12,,Silmeria,The orb has been taken to Villnore.,オーブはヴィルノアに運ばれてるわ,,
-2,10,1247,14,25860,230,13,,Rufus,That's a long way from here.,…結構 遠いな,,
-2,11,1247,33,25900,230,14,,Leone,My name is Leone.,私 レオーネ <PART> 一一,,
-2,12,1247,16,26808,230,15,,Leone,We've been tagging along for a while.,さっきからご一緒させていただいてるわ,,
-2,13,1247,17,28720,230,16,,Silmeria,I'm Silmeria.,シルメリアよ,,
-2,14,1247,18,28936,230,17,,Arngrim,So she's not the same girl as before?,…さっきの女と別人なのか！？,,
+deciphering psychic energy in the dais.",オブシェクトリーディングといって〓〓に宿る思念を〓み取っているのです,,,
+2,9,1247,13,25188,230,12,,Silmeria,The orb has been taken to Villnore.,オーブはヴィルノアに運ばれてるわ,,,
+2,10,1247,14,25860,230,13,,Rufus,That's a long way from here.,…結構 遠いな,,,
+2,11,1247,33,25900,230,14,,Leone,My name is Leone.,私 レオーネ <PART> ――,,,
+2,12,1247,16,26808,230,15,,Leone,We've been tagging along for a while.,さっきからご一緒させていただいてるわ,,,
+2,13,1247,17,28720,230,16,,Silmeria,I'm Silmeria.,シルメリアよ,,,
+2,14,1247,18,28936,230,17,,Arngrim,So she's not the same girl as before?,…さっきの女と別人なのか！？,,,
 2,15,1247,19,29284,230,18,,Leone,"It's like multiple personalities, right?
-Souls sharing a single body?",多重人格者でしょう？一つの肉体に〓数の魂が宿るという <PART> 一一,,
+Souls sharing a single body?",多重人格者でしょう？一つの肉体に〓数の魂が宿るという <PART> ――,,,
 2,16,1247,20,30312,230,19,,Leone,"I've heard about it, but never actually
-seen it until now.",聞いた事があるわ見るのは初めてだけど…,,
-2,17,1247,34,30632,230,20,,Silmeria,It's something like that.,…そんなところよ,,
-2,18,1247,35,31108,230,21,,Arngrim,"Well, whaddya know?",へ～ぇ…,,
+seen it until now.",聞いた事があるわ見るのは初めてだけど…,,,
+2,17,1247,34,30632,230,20,,Silmeria,It's something like that.,…そんなところよ,,,
+2,18,1247,35,31108,230,21,,Arngrim,"Well, whaddya know?",へ～ぇ…,,,
 2,19,1247,22,31372,230,22,,Silmeria,"You're probably wasting your time
-looking for treasure around here.",ここには目ぼしい宝はなさそうだとんだ〓労だったな,,
-2,20,1247,23,32484,230,23,,Silmeria,"Well, good luck.",ではご機嫌よう…,,
-2,21,1247,36,33116,230,24,,Leone,"Oh, just one thing.",ちょっといい？,,
-2,22,1247,30,33308,230,25,,Leone,"By ""orb,"" you mean the Dragon Orb?",オーブって ドラゴンオーブの事？,,
-2,23,1247,37,34492,230,26,,Silmeria,And if I do?,…だったら？,,
+looking for treasure around here.",ここには目ぼしい宝はなさそうだとんだ〓労だったな,,,
+2,20,1247,23,32484,230,23,,Silmeria,"Well, good luck.",ではご機嫌よう…,,,
+2,21,1247,36,33116,230,24,,Leone,"Oh, just one thing.",ちょっといい？,,,
+2,22,1247,30,33308,230,25,,Leone,"By ""orb,"" you mean the Dragon Orb?",オーブって ドラゴンオーブの事？,,,
+2,23,1247,37,34492,230,26,,Silmeria,And if I do?,…だったら？,,,
 2,24,1247,25,34708,230,27,,Leone,"Well, we don't need anything that lofty,
-but could we come along?",そんな大それたものに興味はないけどこの先もご一緒していいかしら？,,
+but could we come along?",そんな大それたものに興味はないけどこの先もご一緒していいかしら？,,,
 2,25,1247,26,35056,230,28,,Leone,"I've heard the lavish treasures around the orb
-make plunderers forget what they came for.",オーブの周りには盗〓者の目を〓く宝物が隠されてるって聞いたわ,,
-2,26,1247,27,36120,230,29,,Rufus,I don't see a problem.,…いいんじゃないの？,,
-2,27,1247,28,37024,230,30,,Silmeria,(Watch your back.),〓気を許すな…〓,,
-2,28,1247,29,37156,230,31,,Alicia,Huh!?,えっ！？,,
-3,1,1247,2759,77816,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-3,2,1247,2760,78304,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-3,3,1247,2761,78836,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-3,4,1247,2762,79324,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-3,5,1247,2763,80100,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-3,6,1247,2764,80824,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-3,7,1247,2765,81212,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-3,8,1247,2766,81540,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-3,9,1247,2767,81928,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-4,1,1247,2366,103176,,,,,ERRORv,ERR0R！！（v190）,,
-4,2,1247,2367,103312,,,,,ERRORv,ERR0R！！（v191）,,
-4,3,1247,2368,103448,,,,,ERRORv,ERR0R！！（v191）,,
-5,1,1247,41,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-5,2,1247,42,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-5,3,1247,43,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-5,4,1247,44,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-5,5,1247,45,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-5,6,1247,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-5,7,1247,2752,,,,,,Dylan,ディラン,,not displayed by the event script
-5,8,1247,2753,,,,,,Rufus,ルーファス,,not displayed by the event script
-5,9,1247,2754,,,,,,Lezard,レザード,,not displayed by the event script
-5,10,1247,2755,,,,,,Leone,レオーネ,,not displayed by the event script
-5,11,1247,2756,,,,,,Arngrim,アリューゼ,,not displayed by the event script
-5,12,1247,2757,,,,,,Alicia,アリーシャ,,not displayed by the event script
-5,13,1247,2758,,,,,,Silmeria,シルメリア,,not displayed by the event script
+make plunderers forget what they came for.",オーブの周りには盗〓者の目を〓く宝物が隠されてるって聞いたわ,,,
+2,26,1247,27,36120,230,29,,Rufus,I don't see a problem.,…いいんじゃないの？,,,
+2,27,1247,28,37024,230,30,,Silmeria,(Watch your back.),〓気を許すな…〓,,,
+2,28,1247,29,37156,230,31,,Alicia,Huh!?,えっ！？,,,primary
+3,1,1247,2759,77816,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+3,2,1247,2760,78304,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+3,3,1247,2761,78836,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+3,4,1247,2762,79324,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+3,5,1247,2763,80100,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+3,6,1247,2764,80824,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+3,7,1247,2765,81212,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+3,8,1247,2766,81540,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+3,9,1247,2767,81928,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+4,1,1247,2366,103176,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+4,2,1247,2367,103312,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,3,1247,2368,103448,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+5,1,1247,41,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+5,2,1247,42,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+5,3,1247,43,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+5,4,1247,44,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+5,5,1247,45,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+5,6,1247,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+5,7,1247,2752,,,,,,Dylan,ディラン,,not displayed by the event script,duplicate
+5,8,1247,2753,,,,,,Rufus,ルーファス,,not displayed by the event script,duplicate
+5,9,1247,2754,,,,,,Lezard,レザード,,not displayed by the event script,duplicate
+5,10,1247,2755,,,,,,Leone,レオーネ,,not displayed by the event script,primary
+5,11,1247,2756,,,,,,Arngrim,アリューゼ,,not displayed by the event script,primary
+5,12,1247,2757,,,,,,Alicia,アリーシャ,,not displayed by the event script,primary
+5,13,1247,2758,,,,,,Silmeria,シルメリア,,not displayed by the event script,duplicate

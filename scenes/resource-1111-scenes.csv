@@ -1,2 +1,2 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1111,62,0,,,,,,セラフィックゲート,,
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1111,62,0,,,,,,セラフィックゲート,,,

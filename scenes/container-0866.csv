@@ -1,997 +1,1167 @@
-﻿resource,message_id,kind,offset,byte_length,original_en,original_jp,translated
-866,1,codepage,0,5,Cost,,
-866,0,codepage,0,5,Cost,入れ〓え,
-866,2,codepage,5,7,Switch,入れ〓え,
-866,3,codepage,12,7,Origin,原産地,
-866,4,codepage,19,8,Restore,〓〓,
-866,5,codepage,27,7,Cancel,キャンセル,
-866,6,codepage,34,16,Magic crystals:,魔〓石：,
-866,7,codepage,50,18,Withdrawals left:,引き出し〓〓：,
-866,8,codepage,68,12,Overall map,全〓マップ,
+﻿resource,message_id,kind,offset,byte_length,original_en,original_jp,translated,copy_status
+866,1,codepage,0,5,Cost,,,duplicate
+866,0,codepage,0,5,Cost,入れ替え,,duplicate
+866,2,codepage,5,7,Switch,入れ替え,,
+866,3,codepage,12,7,Origin,原産地,,duplicate
+866,4,codepage,19,8,Restore,返還,,
+866,5,codepage,27,7,Cancel,キャンセル,,primary
+866,6,codepage,34,16,Magic crystals:,魔晶石：,,
+866,7,codepage,50,18,Withdrawals left:,引き出し残数：,,
+866,8,codepage,68,12,Overall map,全体マップ,,
 866,10,codepage,80,43,"This sealstone will be restored.
-Proceed?",この封印石を〓〓します。よろしいですか〓,
+Proceed?","この封印石を返還します。
+よろしいですか？",,
 866,11,codepage,123,40,"Restoring this sealstone will cost
-<8094>,",この封印石を〓〓すると魔〓石を〓〓します。地脈に〓〓しますか〓,
-866,14,codepage,214,10,Sealstone,封印石,
-866,15,codepage,224,7,<0065><0065><0065><0065><0065><0065>,,
-866,16,codepage,231,4,<0065><0065><0065>,,
-866,18,codepage,235,26,<808A><999A>x^<999A>x^Sealstones held,所持中の封印石,
-866,19,codepage,261,4,Yes,はい,
-866,20,codepage,265,3,No,いいえ,
-866,21,codepage,268,15,<808A><999A>x^<999A>x^Dais,〓〓,
-866,22,codepage,283,17,<808A><999A>x^<999A>x^Spring,〓,
-866,23,codepage,300,16,<808A><999A>x^<999A>x^Shell,殻,
-866,33,codepage,316,17,<808A><999A>x^<999A>x^Spring,〓,
-866,50,codepage,333,47,Exchange held sealstone for sealstone on dais.,所持中の封印石と〓〓の封印石を入れ〓えます,
-866,51,codepage,380,33,Restore sealstone to earth vein.,封印石を地脈に〓〓します,
-866,52,codepage,413,49,Exchange held sealstone for sealstone in spring.,所持中の封印石と〓の封印石を入れ〓えます,
-866,53,codepage,462,18,View overall map.,全〓マップを〓〓します,
-866,54,codepage,480,48,Exchange held sealstone for sealstone in shell.,所〓の封印石と殻の封印石を入れ〓えます,
-866,59,codepage,528,32,<8099>RInfo<0066><8099>2<8099>3To held sealstone,〓〓〓所持中の封印石へ,
-866,60,codepage,560,19,<8099>RInfo<0066><8099>8<8099>9Page,〓〓〓ページ,
-866,61,codepage,579,47,<8099>@Switch<0066><8099>RInfo<0066><8099>2<8099>3To sealstones in place,入れ〓え〓〓〓〓〓置されている封印石へ,
-866,62,codepage,626,44,<8099>@Restore<0066><8099>RInfo<0066><8099>2<8099>3To held sealstones,〓〓〓〓〓〓所持中の封印石へ,
-866,63,codepage,670,48,<8099>@Restore<0066><8099>RInfo<0066><8099>2<8099>3To sealstones in place,〓〓〓〓〓〓〓置されている封印石へ,
-866,64,codepage,718,11,<8099>R<8099>ABack,〓る,
-866,65,codepage,729,18,<8099>@Switch<0066><8099>RInfo,入れ〓え〓〓〓,
-866,66,codepage,747,19,<8099>@Restore<0066><8099>RInfo,〓〓〓〓〓,
-866,68,codepage,767,14,Gold Blessing,金の加護,
-866,69,codepage,781,18,Treasure Blessing,宝の加護,
-866,70,codepage,799,13,Gem Blessing,〓石の加護,
-866,71,codepage,812,19,Experience Pig Law,経験を〓る〓の〓,
-866,72,codepage,831,17,Gold Grubber Law,金を食らう虫の〓,
-866,73,codepage,848,22,Experience Friend Law,経験を〓す〓の〓,
-866,74,codepage,870,23,Dancing Light Blessing,光〓の加護,
-866,75,codepage,893,23,Magical Light Blessing,光〓の加護,
-866,76,codepage,916,21,Burst Light Blessing,光〓の加護,
-866,77,codepage,937,15,Alarm Blessing,〓〓の加護,
-866,78,codepage,952,19,Black Anchor Wrath,重き〓〓の〓,
-866,79,codepage,971,18,Cotton Dust Wrath,〓き〓〓の〓,
-866,80,codepage,989,20,Powerless Cap Wrath,無力な〓〓〓の〓,
-866,81,codepage,1009,14,Fire Blessing,炎の加護,
-866,82,codepage,1023,13,Ice Blessing,〓の加護,
-866,83,codepage,1036,15,Earth Blessing,土の加護,
-866,84,codepage,1051,19,Lightning Blessing,雷の加護,
-866,85,codepage,1070,14,Brimstone Law,業炎の〓,
-866,86,codepage,1084,12,Iceberg Law,〓〓の〓,
-866,87,codepage,1096,12,Mudbank Law,〓土の〓,
-866,88,codepage,1108,17,Thundercloud Law,雷〓の〓,
-866,89,codepage,1125,15,Holy Light Law,聖光の〓,
-866,90,codepage,1140,15,Dark Night Law,〓夜の〓,
-866,91,codepage,1155,15,Achromatic Law,〓無しの〓,
-866,93,codepage,1171,12,Chasm Wrath,亀裂の〓,
-866,94,codepage,1183,16,Masochist Wrath,自〓の〓,
-866,95,codepage,1199,18,Soul-Carver Wrath,〓を〓る〓の〓,
-866,96,codepage,1217,17,Barrier Blessing,壁の加護,
-866,97,codepage,1234,19,Lifeforce Blessing,〓精の加護,
-866,98,codepage,1253,22,Six Elements Blessing,〓〓の加護,
-866,99,codepage,1275,21,Wrath of Bread Alone,〓のみ〓とする〓,
-866,100,codepage,1296,22,Wrath of Forcefulness,剣を〓とする〓,
-866,101,codepage,1318,19,Law of Consistency,常に常とする〓,
-866,102,codepage,1337,22,Desperate Soldier Law,〓なき〓〓兵の〓,
-866,103,codepage,1359,10,Chaos Law,〓〓の〓,
-866,104,codepage,1369,17,Lawbreaker's Law,異法〓しの〓,
-866,105,codepage,1386,16,Elusive Air Law,〓を〓く〓空の〓,
-866,106,codepage,1402,10,Trade Law,法を〓わす道の〓,
-866,107,codepage,1412,19,Yggdrasil Blessing,〓〓〓大〓の加護,
-866,108,codepage,1431,23,Festive Light Blessing,多光〓の加護,
-866,109,codepage,1454,19,Somber Light Wrath,〓光〓の〓,
-866,110,codepage,1473,23,Powerless Pigeon Wrath,無力な〓書〓の〓,
-866,111,codepage,1496,10,Fog Wrath,〓の〓,
-866,112,codepage,1506,15,Sword Blessing,剣の加護,
-866,113,codepage,1521,16,Sharp Sword Law,〓剣の〓,
-866,114,codepage,1537,16,Shield Blessing,〓の加護,
-866,115,codepage,1553,17,Great Shield Law,大〓の〓,
-866,116,codepage,1570,13,Ore Blessing,〓石の加護,
-866,117,codepage,1583,20,Poison Pin Blessing,〓〓の加護,
-866,118,codepage,1603,20,Silent Pin Blessing,〓〓の加護,
-866,119,codepage,1623,21,Confuse Pin Blessing,〓〓の加護,
-866,120,codepage,1644,22,Unprepared Castle Law,〓えなき城の〓,
-866,121,codepage,1666,14,Holy Blessing,聖の加護,
-866,122,codepage,1680,18,Darkness Blessing,〓の加護,
-866,123,codepage,1698,19,Stone Hurler Wrath,〓石器の〓,
-866,124,codepage,1717,18,Sleipnir Blessing,〓〓〓の加護,
-866,125,codepage,1735,16,Hunter Blessing,狩精の加護,
-866,126,codepage,1751,14,Fetters Wrath,〓〓の〓,
-866,127,codepage,1765,15,Manacles Wrath,手〓の〓,
-866,128,codepage,1780,21,Sheathed Power Wrath,〓を〓〓〓の〓,
-866,129,codepage,1801,19,Soul Wringer Wrath,〓を〓る〓力の〓,
-866,130,codepage,1820,20,Secluded Valley Law,〓谷の〓,
-866,131,codepage,1840,19,Strongman Blessing,堅者の加護,
-866,133,codepage,1860,16,Transvestal Law,〓〓の〓,
-866,134,codepage,1876,21,Paper Tiger Blessing,〓〓の加護,
-866,135,codepage,1897,11,Rust Wrath,〓の〓,
+<8094>,","この封印石を返還すると
+魔晶石を消費します。
+地脈に返還しますか？",,
+866,14,codepage,214,10,Sealstone,封印石,,primary
+866,15,codepage,224,7,<0065><0065><0065><0065><0065><0065>,,,primary
+866,16,codepage,231,4,<0065><0065><0065>,,,primary
+866,18,codepage,235,26,<808A><999A>x^<999A>x^Sealstones held,所持中の封印石,,
+866,19,codepage,261,4,Yes,はい,,duplicate
+866,20,codepage,265,3,No,いいえ,,duplicate
+866,21,codepage,268,15,<808A><999A>x^<999A>x^Dais,台座,,
+866,22,codepage,283,17,<808A><999A>x^<999A>x^Spring,〓,,primary
+866,23,codepage,300,16,<808A><999A>x^<999A>x^Shell,殻,,
+866,33,codepage,316,17,<808A><999A>x^<999A>x^Spring,〓,,duplicate
+866,50,codepage,333,47,Exchange held sealstone for sealstone on dais.,所持中の封印石と台座の封印石を入れ替えます,,
+866,51,codepage,380,33,Restore sealstone to earth vein.,封印石を地脈に返還します,,
+866,52,codepage,413,49,Exchange held sealstone for sealstone in spring.,所持中の封印石と〓の封印石を入れ替えます,,
+866,53,codepage,462,18,View overall map.,全体マップを表示します,,
+866,54,codepage,480,48,Exchange held sealstone for sealstone in shell.,所有の封印石と殻の封印石を入れ替えます,,
+866,59,codepage,528,32,<8099>RInfo<0066><8099>2<8099>3To held sealstone,詳細 所持中の封印石へ,,
+866,60,codepage,560,19,<8099>RInfo<0066><8099>8<8099>9Page,詳細 ページ,,
+866,61,codepage,579,47,<8099>@Switch<0066><8099>RInfo<0066><8099>2<8099>3To sealstones in place,入れ替え 詳細 配置されている封印石へ,,
+866,62,codepage,626,44,<8099>@Restore<0066><8099>RInfo<0066><8099>2<8099>3To held sealstones,返還 詳細 所持中の封印石へ,,
+866,63,codepage,670,48,<8099>@Restore<0066><8099>RInfo<0066><8099>2<8099>3To sealstones in place,返還 詳細 配置されている封印石へ,,
+866,64,codepage,718,11,<8099>R<8099>ABack,戻る,,primary
+866,65,codepage,729,18,<8099>@Switch<0066><8099>RInfo,入れ替え 詳細,,
+866,66,codepage,747,19,<8099>@Restore<0066><8099>RInfo,返還 詳細,,
+866,68,codepage,767,14,Gold Blessing,金の加護,,primary
+866,69,codepage,781,18,Treasure Blessing,宝の加護,,primary
+866,70,codepage,799,13,Gem Blessing,〓石の加護,,primary
+866,71,codepage,812,19,Experience Pig Law,経験を〓る〓の理,,primary
+866,72,codepage,831,17,Gold Grubber Law,金を食らう虫の理,,primary
+866,73,codepage,848,22,Experience Friend Law,経験を供す友の理,,primary
+866,74,codepage,870,23,Dancing Light Blessing,光跳の加護,,primary
+866,75,codepage,893,23,Magical Light Blessing,光呪の加護,,primary
+866,76,codepage,916,21,Burst Light Blessing,光散の加護,,primary
+866,77,codepage,937,15,Alarm Blessing,早〓の加護,,primary
+866,78,codepage,952,19,Black Anchor Wrath,重き黒〓の戒,,primary
+866,79,codepage,971,18,Cotton Dust Wrath,軽き〓〓の戒,,primary
+866,80,codepage,989,20,Powerless Cap Wrath,無力な〓〓子の戒,,primary
+866,81,codepage,1009,14,Fire Blessing,炎の加護,,primary
+866,82,codepage,1023,13,Ice Blessing,氷の加護,,primary
+866,83,codepage,1036,15,Earth Blessing,土の加護,,primary
+866,84,codepage,1051,19,Lightning Blessing,雷の加護,,primary
+866,85,codepage,1070,14,Brimstone Law,業炎の理,,primary
+866,86,codepage,1084,12,Iceberg Law,氷塊の理,,primary
+866,87,codepage,1096,12,Mudbank Law,〓土の理,,primary
+866,88,codepage,1108,17,Thundercloud Law,雷〓の理,,primary
+866,89,codepage,1125,15,Holy Light Law,聖光の理,,primary
+866,90,codepage,1140,15,Dark Night Law,闇夜の理,,primary
+866,91,codepage,1155,15,Achromatic Law,色無しの理,,primary
+866,93,codepage,1171,12,Chasm Wrath,亀裂の戒,,primary
+866,94,codepage,1183,16,Masochist Wrath,自虐の戒,,primary
+866,95,codepage,1199,18,Soul-Carver Wrath,魂を〓る〓の戒,,primary
+866,96,codepage,1217,17,Barrier Blessing,壁の加護,,primary
+866,97,codepage,1234,19,Lifeforce Blessing,命精の加護,,primary
+866,98,codepage,1253,22,Six Elements Blessing,〓〓の加護,,primary
+866,99,codepage,1275,21,Wrath of Bread Alone,命のみ糧とする戒,,primary
+866,100,codepage,1296,22,Wrath of Forcefulness,剣を〓とする戒,,primary
+866,101,codepage,1318,19,Law of Consistency,常に常とする理,,primary
+866,102,codepage,1337,22,Desperate Soldier Law,糧なき突撃兵の理,,primary
+866,103,codepage,1359,10,Chaos Law,混〓の理,,primary
+866,104,codepage,1369,17,Lawbreaker's Law,異法消しの理,,primary
+866,105,codepage,1386,16,Elusive Air Law,敵を〓く虚空の理,,primary
+866,106,codepage,1402,10,Trade Law,法を交わす道の理,,primary
+866,107,codepage,1412,19,Yggdrasil Blessing,理〓ぐ大〓の加護,,primary
+866,108,codepage,1431,23,Festive Light Blessing,多光跳の加護,,primary
+866,109,codepage,1454,19,Somber Light Wrath,〓光跳の戒,,primary
+866,110,codepage,1473,23,Powerless Pigeon Wrath,無力な伝書〓の戒,,primary
+866,111,codepage,1496,10,Fog Wrath,霧の戒,,primary
+866,112,codepage,1506,15,Sword Blessing,剣の加護,,primary
+866,113,codepage,1521,16,Sharp Sword Law,鋭剣の理,,primary
+866,114,codepage,1537,16,Shield Blessing,盾の加護,,primary
+866,115,codepage,1553,17,Great Shield Law,大盾の理,,primary
+866,116,codepage,1570,13,Ore Blessing,貴石の加護,,primary
+866,117,codepage,1583,20,Poison Pin Blessing,毒針の加護,,primary
+866,118,codepage,1603,20,Silent Pin Blessing,黙針の加護,,primary
+866,119,codepage,1623,21,Confuse Pin Blessing,混針の加護,,primary
+866,120,codepage,1644,22,Unprepared Castle Law,備えなき城の理,,primary
+866,121,codepage,1666,14,Holy Blessing,聖の加護,,primary
+866,122,codepage,1680,18,Darkness Blessing,闇の加護,,primary
+866,123,codepage,1698,19,Stone Hurler Wrath,投石器の戒,,primary
+866,124,codepage,1717,18,Sleipnir Blessing,〓足馬の加護,,primary
+866,125,codepage,1735,16,Hunter Blessing,狩精の加護,,primary
+866,126,codepage,1751,14,Fetters Wrath,足〓の戒,,primary
+866,127,codepage,1765,15,Manacles Wrath,手〓の戒,,primary
+866,128,codepage,1780,21,Sheathed Power Wrath,威を〓ぐ〓の戒,,primary
+866,129,codepage,1801,19,Soul Wringer Wrath,魂を〓る〓力の戒,,primary
+866,130,codepage,1820,20,Secluded Valley Law,〓谷の理,,primary
+866,131,codepage,1840,19,Strongman Blessing,堅者の加護,,primary
+866,133,codepage,1860,16,Transvestal Law,転性の理,,primary
+866,134,codepage,1876,21,Paper Tiger Blessing,〓子の加護,,primary
+866,135,codepage,1897,11,Rust Wrath,〓の戒,,primary
 866,169,codepage,1941,73,"Activated after victory. Money
 acquired increases to 150%
-(when held).",戦闘〓利時に〓果発生。〓〓金〓が〓〓になる。〓所〓時のみ〓〓〓,
+(when held).","戦闘勝利時に効果発生。
+獲得金〓が.倍になる。
+（所有時のみ有効）",,primary
 866,170,codepage,2014,67,"Activated in battle. Extension Gauge
-reduction slows (when held).",戦闘時に〓果発生。エクステンドゲージの〓〓〓〓が〓くなる。〓所〓時のみ〓〓〓,
+reduction slows (when held).","戦闘時に効果発生。
+エクステンドゲージの減少速度が
+〓くなる。
+（所有時のみ有効）",,primary
 866,171,codepage,2081,81,"Activated in battle. No purple and
 bright gems, get items
-instead (when held).",戦闘時に〓果発生。〓炎石と〓炎石が出なくなる。〓わりにアイテムが手に入る。〓所〓時のみ〓〓〓,
+instead (when held).","戦闘時に効果発生。
+紫炎石と輝炎石が出なくなる。
+代わりにアイテムが手に入る。
+（所有時のみ有効）",,primary
 866,172,codepage,2162,86,"Activated after victory. Experience
 doubles, but money is not acquired
-(when held).",戦闘〓利時に〓果発生。経験〓が〓になる。〓わりに〓〓金〓はゼロになる。〓所〓時のみ〓〓〓,
+(when held).","戦闘勝利時に効果発生。
+経験値が倍になる。
+代わりに獲得金〓はゼロになる。
+（所有時のみ有効）",,primary
 866,173,codepage,2248,86,"Activated after victory. Money
 triples, but experience is not
-acquired (when held).",戦闘〓利時に〓果発生。〓〓金〓が〓になる。〓わりに経験〓はゼロになる。〓所〓時のみ〓〓〓,
+acquired (when held).","戦闘勝利時に効果発生。
+獲得金〓が倍になる。
+代わりに経験値はゼロになる。
+（所有時のみ有効）",,primary
 866,174,codepage,2334,93,"Activated after victory. Distributes
 1/6 of experience to allies not
-fighting (when held).",戦闘〓利時に〓果発生。戦闘に〓加していないキャラクターにも〓の経験〓が〓り〓られる。〓所〓時のみ〓〓〓,
+fighting (when held).","戦闘勝利時に効果発生。
+戦闘に参加していないキャラクター
+にも〓の経験値が〓り振られる。
+（所有時のみ有効）",,primary
 866,175,codepage,2427,74,"Activated in field. Photons reflected
-four additional times (when held).",フィールド〓動時に〓果発生。光〓の〓〓〓〓が〓〓える。〓所〓時のみ〓〓〓,
+four additional times (when held).","フィールド移動時に効果発生。
+光子の反射回数が回増える。
+（所有時のみ有効）",,primary
 866,176,codepage,2501,73,"Activated in field. Photons can
 break Yggdrasil's pillars (when
-held).",フィールド〓動時に〓果発生。ユグドラシルのピラーを、光〓を〓てて〓壊できる。〓所〓時のみ〓〓〓,
+held).","フィールド移動時に効果発生。
+ユグドラシルのピラーを、
+光子を当てて破壊できる。
+（所有時のみ有効）",,primary
 866,177,codepage,2574,91,"Activated in field. Fire photons three
 directions at once. No repeat firing
-(when held).",フィールド〓動時に〓果発生。光〓を方〓に〓時発〓する。た〓し〓〓はできない。〓所〓時のみ〓〓〓,
+(when held).","フィールド移動時に効果発生。
+光子を方向に同時発射する。
+ただし連射はできない。
+（所有時のみ有効）",,primary
 866,178,codepage,2665,99,"Activated at fight start. Prevents
 enemy ambush when held. When
-used by enemies, assures ambush.",戦闘〓〓時に〓果発生。所持すれば不〓〓ちを〓避できる。〓に、この〓果を持つ〓との戦闘は〓ず不〓〓ちになる。,
+used by enemies, assures ambush.","戦闘開始時に効果発生。
+所持すれば不意打ちを回避できる。
+逆に、この効果を持つ敵との戦闘は
+必ず不意打ちになる。",,primary
 866,179,codepage,2764,85,"Negates forced movement in field.
 In battle, subject is thrown less
-when launched.",フィールド〓動時は、〓制〓動力を無〓化する。戦闘時は、〓果〓〓者が〓〓を〓けた時の〓き〓び量を〓〓さ〓る。,
+when launched.","フィールド移動時は、強制移動力を
+無効化する。
+戦闘時は、効果対〓者が攻撃を
+受けた時の吹き飛び量を減少させる。",,primary
 866,180,codepage,2849,87,"Increases forced movement in field.
 In battle, subject is thrown more
-when launched.",フィールド〓動時は、〓制〓動力の〓〓を〓加する。戦闘時は、〓果〓〓者が〓〓を〓けた時の〓き〓び量を〓加さ〓る。,
+when launched.","フィールド移動時は、強制移動力の
+影響を増加する。
+戦闘時は、効果対〓者が攻撃を
+受けた時の吹き飛び量を増加させる。",,primary
 866,181,codepage,2936,103,"Activated in field. Push up after
 jump to glide. No items from
 treasure chests or breaking
-enemies.",フィールド〓動時、ジャンプ中に上を〓すと、〓下〓〓が〓下する。〓わりに宝〓や戦闘時の部位〓壊によるアイテムを入手できない。,
+enemies.","フィールド移動時、ジャンプ中に
+上を押すと、落下速度が低下する。
+代わりに宝箱や戦闘時の部位破壊
+によるアイテムを入手できない。",,primary
 866,182,codepage,3039,94,"Activated in battle. Subject's fire
 attack power upped to 150%. Ice
-attack power is halved.",戦闘時に〓果発生。〓果〓〓者の炎属〓〓〓の〓力を〓〓にする。た〓し〓属〓〓〓の〓力は半〓する。,
+attack power is halved.","戦闘時に効果発生。
+効果対〓者の炎属性攻撃の威力を
+.倍にする。
+ただし氷属性攻撃の威力は半減する。",,primary
 866,183,codepage,3133,94,"Activated in battle. Subject's ice
 attack power upped to 150%. Fire
-attack power is halved.",戦闘時に〓果発生。〓果〓〓者の〓属〓〓〓の〓力を〓〓にする。た〓し炎属〓〓〓の〓力は半〓する。,
+attack power is halved.","戦闘時に効果発生。
+効果対〓者の氷属性攻撃の威力を
+.倍にする。
+ただし炎属性攻撃の威力は半減する。",,primary
 866,184,codepage,3227,101,"Activated in battle. Subject's earth
 attack power upped to 150%.
-Lightning attack power is halved.",戦闘時に〓果発生。〓果〓〓者の土属〓〓〓の〓力を〓〓にする。た〓し雷属〓〓〓の〓力は半〓する。,
+Lightning attack power is halved.","戦闘時に効果発生。
+効果対〓者の土属性攻撃の威力を
+.倍にする。
+ただし雷属性攻撃の威力は半減する。",,primary
 866,185,codepage,3328,101,"Activated in battle. Subject's
 lightning attack power upped to
-150%. Earth attack power is halved.",戦闘時に〓果発生。〓果〓〓者の雷属〓〓〓の〓力を〓〓にする。た〓し土属〓〓〓の〓力は半〓する。,
+150%. Earth attack power is halved.","戦闘時に効果発生。
+効果対〓者の雷属性攻撃の威力を
+.倍にする。
+ただし土属性攻撃の威力は半減する。",,primary
 866,186,codepage,3429,115,"Activated in battle. Subject's
 physical attack becomes fire attack.
 Absorbs fire, but loses all ice
-resistance.",戦闘時に〓果発生。〓果〓〓者の物〓〓〓を炎属〓に〓〓する。また、炎〓〓〓〓を〓る〓わりに〓耐〓を失う。,
+resistance.","戦闘時に効果発生。効果対〓者の
+物理攻撃を炎属性に変換する。
+また、炎攻撃吸収を得る代わりに
+氷耐性を失う。",,primary
 866,187,codepage,3544,114,"Activated in battle. Subject's
 physical attack becomes ice attack.
 Absorbs ice, but loses all fire
-resistance.",戦闘時に〓果発生。〓果〓〓者の物〓〓〓を〓属〓に〓〓する。また、〓〓〓〓〓を〓る〓わりに炎耐〓を失う。,
+resistance.","戦闘時に効果発生。効果対〓者の
+物理攻撃を氷属性に変換する。
+また、氷攻撃吸収を得る代わりに
+炎耐性を失う。",,primary
 866,188,codepage,3658,123,"Activated in battle. Subject's
 physical attack becomes earth
 attack. Absorbs earth, but loses all
-lightning resistance.",戦闘時に〓果発生。〓果〓〓者の物〓〓〓を土属〓に〓〓する。また、土〓〓〓〓を〓る〓わりに雷耐〓を失う。,
+lightning resistance.","戦闘時に効果発生。効果対〓者の
+物理攻撃を土属性に変換する。
+また、土攻撃吸収を得る代わりに
+雷耐性を失う。",,primary
 866,189,codepage,3781,127,"Activated in battle. Subject's
 physical attack becomes lightning
 attack. Absorbs lightning, but loses
-all earth resistance.",戦闘時に〓果発生。〓果〓〓者の物〓〓〓を雷属〓に〓〓する。また、雷〓〓〓〓を〓る〓わりに土耐〓を失う。,
+all earth resistance.","戦闘時に効果発生。効果対〓者の
+物理攻撃を雷属性に変換する。
+また、雷攻撃吸収を得る代わりに
+土耐性を失う。",,primary
 866,190,codepage,3908,116,"Activated in battle. Subject's
 physical attack becomes holy
 attack. Absorbs holy, but loses all
-dark resistance.",戦闘時に〓果発生。〓果〓〓者の物〓〓〓を聖属〓に〓〓する。また、聖〓〓〓〓を〓る〓わりに〓耐〓を失う。,
+dark resistance.","戦闘時に効果発生。効果対〓者の
+物理攻撃を聖属性に変換する。
+また、聖攻撃吸収を得る代わりに
+闇耐性を失う。",,primary
 866,191,codepage,4024,116,"Activated in battle. Subject's
 physical attack becomes dark
 attack. Absorbs dark, but loses all
-holy resistance.",戦闘時に〓果発生。〓果〓〓者の物〓〓〓を〓属〓に〓〓する。また、〓〓〓〓〓を〓る〓わりに聖耐〓を失う。,
+holy resistance.","戦闘時に効果発生。効果対〓者の
+物理攻撃を闇属性に変換する。
+また、闇攻撃吸収を得る代わりに
+聖耐性を失う。",,primary
 866,192,codepage,4140,77,"Activated in battle. Reduces
 subject's resistance to all elements
-to zero.",戦闘時に〓果発生。〓果〓〓者の属〓〓〓をゼロにする。,
+to zero.","戦闘時に効果発生。
+効果対〓者の属性抵抗をゼロにする。",,primary
 866,194,codepage,4218,60,"Activated in battle. Subject's RDM
-and RST reduced to 1/2.",戦闘時に〓果発生。〓果〓〓者の〓〓〓と〓〓〓を〓に〓〓さ〓る。,
+and RST reduced to 1/2.","戦闘時に効果発生。
+効果対〓者のRDMとRSTを
+〓に減少させる。",,primary
 866,195,codepage,4278,78,"Activated in battle. Portion of
 attack damage is reflected back
-at subject.",戦闘時に〓果発生。〓〓時に〓えたダメージの一部が〓果〓〓者に〓ね〓る。,
+at subject.","戦闘時に効果発生。
+攻撃時に与えたダメージの一部が
+効果対〓者に跳ね返る。",,primary
 866,196,codepage,4356,97,"Activated in battle. Subject suffers
 damage periodically. Damage
-suffered decreases over time.",戦闘時に〓果発生。〓果〓〓者は定期〓にダメージを〓け続ける。このダメージは〓しずつ小さくなる。,
+suffered decreases over time.","戦闘時に効果発生。
+効果対〓者は定期的にダメージを
+受け続ける。
+このダメージは少しずつ小さくなる。",,primary
 866,197,codepage,4453,63,"Activated in battle. Damage less
-than 50 points is nullified.",戦闘時に〓果発生。〓果〓〓者が〓けた〓下のダメージを無〓化する。,
+than 50 points is nullified.","戦闘時に効果発生。
+効果対〓者が受けた以下の
+ダメージを無効化する。",,primary
 866,198,codepage,4516,85,"Activated in battle. HP recovery
 doubles when subject is healed by
-items or magic.",戦闘時に〓果発生。〓果〓〓者がアイテム・魔法〓で〓〓を〓〓する時、〓〓量を〓にする。,
+items or magic.","戦闘時に効果発生。
+効果対〓者がアイテム・魔法〓で
+HPを回復する時、回復量を倍に
+する。",,primary
 866,199,codepage,4601,81,"Activated in battle. Resistance to all
 elements increases to 120% for
-subject.",戦闘時に〓果発生。〓果〓〓者の全ての属〓〓〓にを加える。,
+subject.","戦闘時に効果発生。
+効果対〓者の全ての属性抵抗に
+を加える。",,primary
 866,200,codepage,4682,91,"Activated in battle. 1/8 of damage
 inflicted added to subject's HP, but
-cannot use menu.",戦闘時に〓果発生。〓果〓〓者の〓〓時、〓えたダメージの〓の〓〓を〓〓する。〓わりにメニューを〓用できない。,
+cannot use menu.","戦闘時に効果発生。
+効果対〓者の攻撃時、与えた
+ダメージの〓のHPを回復する。
+代わりにメニューを使用できない。",,primary
 866,201,codepage,4773,71,"Activated in battle. ATK triples,
 but weapon breaks 1/5 of
-the time.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓にする。た〓し、〓〓時に〓の〓〓で〓用中の〓器が〓壊される。,
+the time.","戦闘時に効果発生。
+効果対〓者のATKを倍にする。
+ただし、攻撃時に〓の確率で
+使用中の武器が破壊される。",,primary
 866,202,codepage,4844,94,"Activated in field, battle. All long-
 term ailment and support magic
-effects are nullified.",戦闘・フィールド、〓方で〓果発生。〓果〓〓者にかけられた、ステータス異常や〓〓魔法〓の持続〓果を無〓とする。,
+effects are nullified.","戦闘・フィールド、両方で効果発生。
+効果対〓者にかけられた、ステータス
+異常や補助魔法〓の持続効果を無効
+とする。",,primary
 866,203,codepage,4938,92,"Activated in battle. ATK of subject
 increases to 150%. All HP recovery
-effects nullified.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓〓にする。〓〓〓〓〓果はすべて無〓化する。,
+effects nullified.","戦闘時に効果発生。
+効果対〓者のATKを.倍
+にする。
+HP回復効果はすべて無効化する。",,primary
 866,204,codepage,5030,93,"Activated in battle. Unknown effect
 applies to subject. This will change
-with each battle.",戦闘時に〓果発生。〓かしらの〓果を〓〓者に〓えるが、〓果は戦闘のたびに〓化する。,
+with each battle.","戦闘時に効果発生。
+何かしらの効果を対〓者に与えるが、
+効果は戦闘のたびに変化する。",,primary
 866,205,codepage,5123,83,"Activated in field, battle. Nullifies
 other sealstone effects applied to
-target.",戦闘・フィールド、〓方で〓果発生。〓果〓〓者に〓〓を〓えている他の封印石の〓果を無力化する。,
+target.","戦闘・フィールド、両方で効果発生。
+効果対〓者に影響を与えている他の
+封印石の効果を無力化する。",,primary
 866,206,codepage,5206,101,"Activated in field. Touching enemy
 does not cause battle. Can enter
-battle by hitting with weapon.",フィールド〓動時に〓果発生。〓に〓〓されても戦闘にならない。た〓し所持中のみ、〓を〓りつけて戦闘を〓〓事もできる。,
+battle by hitting with weapon.","フィールド移動時に効果発生。
+敵に接〓されても戦闘にならない。
+ただし所持中のみ、敵を斬りつけて
+戦闘を挑む事もできる。",,primary
 866,207,codepage,5307,75,"Activated in battle. Effects of ally
 and enemy sealstones are
-exchanged.",戦闘時に〓果発生。〓果〓〓者と〓〓者が持つ封印石の〓果を入れ〓える。,
+exchanged.","戦闘時に効果発生。
+効果対〓者と敵対者が持つ封印石の
+効果を入れ替える。",,primary
 866,208,codepage,5382,74,"Activated in battle. ATK, MAG, HIT,
 AVD, RST, and RDM increase to
-120%.",戦闘時に〓果発生。〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓・〓〓〓を〓〓にする。,
+120%.","戦闘時に効果発生。
+ATK・MAG・HIT・AVD・RST・RDM
+を.倍にする。",,primary
 866,209,codepage,5456,67,"Activated in field. Number of photon
-reflections increases by 20.",フィールド〓動時に〓果発生。光〓の〓〓〓〓が〓〓える。,
+reflections increases by 20.","フィールド移動時に効果発生。
+光子の反射回数が回増える。",,primary
 866,210,codepage,5523,66,"Activated in field. Number of photon
-reflections decreases by 3.",フィールド〓動時に〓果発生。光〓の〓〓〓〓が〓〓〓する。,
+reflections decreases by 3.","フィールド移動時に効果発生。
+光子の反射回数が回減少する。",,primary
 866,211,codepage,5589,113,"Activated in field. Jumping ability
 dramatically improves. No items
 from treasure chests or breaking
-enemies.",フィールド〓動時、ジャンプ力が大〓に上〓する。〓わりに宝〓や戦闘時の部位〓壊によるアイテムを入手できない。,
+enemies.","フィールド移動時、ジャンプ力が
+大〓に上昇する。
+代わりに宝箱や戦闘時の部位破壊
+によるアイテムを入手できない。",,primary
 866,212,codepage,5702,98,"Activated in field. When held, foes
 do not show on minimap. Affected
-enemies do not give chase.",フィールド〓動時に〓果発生。所持するとミニマップ上の〓〓〓が〓える。〓が〓果を〓けた場〓は〓ってこなくなる。,
+enemies do not give chase.","フィールド移動時に効果発生。
+所持するとミニマップ上の敵表示が
+消える。敵が効果を受けた場合は
+追ってこなくなる。",,primary
 866,213,codepage,5800,55,"Activated in battle. Subject's ATK
-increases to 120%.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓〓にする。,
+increases to 120%.","戦闘時に効果発生。
+効果対〓者のATKを.倍に
+する。",,primary
 866,214,codepage,5855,75,"Activated in battle. Subject's ATK
 increases to 150%, but RDM is
-halved.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓〓にする。〓わりに〓〓〓を〓に〓〓さ〓る。,
+halved.","戦闘時に効果発生。
+効果対〓者のATKを.倍
+にする。代わりにRDMを〓に
+減少させる。",,primary
 866,215,codepage,5930,55,"Activated in battle. Subject's RDM
-increases to 120%.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓〓にする。,
+increases to 120%.","戦闘時に効果発生。
+効果対〓者のRDMを.倍に
+する。",,primary
 866,216,codepage,5985,72,"Activated in battle. Subject's RDM
-doubles, but ATK is reduced to 3/4.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓にする。〓わりに〓〓〓を〓に〓〓さ〓る。,
+doubles, but ATK is reduced to 3/4.","戦闘時に効果発生。
+効果対〓者のRDMを倍
+にする。代わりにATKを〓に
+減少させる。",,primary
 866,217,codepage,6057,84,"Activated in battle. Increases
 amount of purple gems that appear
-after an attack.",戦闘時に〓果発生。〓〓によって出〓する〓炎石の量が〓加する。,
+after an attack.","戦闘時に効果発生。
+攻撃によって出現する紫炎石の量が
+増加する。",,primary
 866,218,codepage,6141,81,"Activated in battle. Small chance
 targeted enemy may be afflicted
-with Poison.",戦闘時に〓果発生。〓〓〓〓を〓〓〓で〓〓〓にする。,
+with Poison.","戦闘時に効果発生。
+攻撃対〓を低確率で毒状態に
+する。",,primary
 866,219,codepage,6222,82,"Activated in battle. Small chance
 targeted enemy may be afflicted
-with Silence.",戦闘時に〓果発生。〓〓〓〓を〓〓〓で〓〓〓〓にする。,
+with Silence.","戦闘時に効果発生。
+攻撃対〓を低確率で沈黙状態に
+する。",,primary
 866,220,codepage,6304,84,"Activated in battle. Small chance
 targeted enemy may be afflicted
-with Confusion.",戦闘時に〓果発生。〓〓〓〓を〓〓〓で〓乱〓〓にする。,
+with Confusion.","戦闘時に効果発生。
+攻撃対〓を低確率で混乱状態に
+する。",,primary
 866,221,codepage,6388,71,"Activated in battle. RDM of subject
-doubles, but menu cannot be used.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓にする。〓わりにメニューを〓用できなくなる。,
+doubles, but menu cannot be used.","戦闘時に効果発生。
+効果対〓者のRDMを倍にする。
+代わりにメニューを使用できなく
+なる。",,primary
 866,222,codepage,6459,112,"Activated in battle. Subject's holy
 element attack power upped to
 150%. Dark element attack power
-is halved.",戦闘時に〓果発生。〓果〓〓者の聖属〓〓〓の〓力を〓〓にする。た〓し〓属〓〓〓の〓力は半〓する。,
+is halved.","戦闘時に効果発生。
+効果対〓者の聖属性攻撃の威力を
+.倍にする。
+ただし闇属性攻撃の威力は半減する。",,primary
 866,223,codepage,6571,112,"Activated in battle. Subject's dark
 element attack power upped to
 150%. Holy element attack power
-is halved.",戦闘時に〓果発生。〓果〓〓者の〓属〓〓〓の〓力を〓〓にする。た〓し聖属〓〓〓の〓力は半〓する。,
+is halved.","戦闘時に効果発生。
+効果対〓者の闇属性攻撃の威力を
+.倍にする。
+ただし聖属性攻撃の威力は半減する。",,primary
 866,224,codepage,6683,96,"Activated in battle. Subject's
 projectile attack power doubles, but
-movement speed is slowed.",戦闘時に〓果発生。〓果〓〓者の〓〓による〓〓の〓力を〓にする。〓わりに〓動〓〓が〓くなる。,
+movement speed is slowed.","戦闘時に効果発生。
+効果対〓者の射撃による攻撃の
+威力を倍にする。
+代わりに移動速度が〓くなる。",,primary
 866,225,codepage,6779,74,"Activated in battle. Subject's
 evasion percentage is greatly
-increased.",戦闘時に〓果発生。〓果〓〓者の〓避〓を大〓に上〓さ〓る。,
+increased.","戦闘時に効果発生。
+効果対〓者の回避率を大〓に
+上昇させる。",,primary
 866,226,codepage,6853,69,"Activated in battle. Subject's hit
-percentage is greatly increased.",戦闘時に〓果発生。〓果〓〓者の〓中〓を大〓に上〓さ〓る。,
+percentage is greatly increased.","戦闘時に効果発生。
+効果対〓者の命中率を大〓に
+上昇させる。",,primary
 866,227,codepage,6922,62,"Activated in battle. Subject cannot
-evade or counter attack.",戦闘時に〓果発生。〓果〓〓者は〓避や〓〓を行えなくなる。,
+evade or counter attack.","戦闘時に効果発生。
+効果対〓者は回避や反撃を
+行えなくなる。",,primary
 866,228,codepage,6984,44,"Activated in battle. Subject cannot
-guard.",戦闘時に〓果発生。〓果〓〓者はガードを行えなくなる。,
+guard.","戦闘時に効果発生。
+効果対〓者はガードを
+行えなくなる。",,primary
 866,229,codepage,7028,69,"Activated in battle. Damage inflicted
-by subject is reduced to 1/4.",戦闘時に〓果発生。〓果〓〓者が〓に〓えるダメージを〓に〓〓さ〓る。,
+by subject is reduced to 1/4.","戦闘時に効果発生。
+効果対〓者が敵に与えるダメージを
+〓に減少させる。",,primary
 866,230,codepage,7097,103,"Activated in battle. Subject
 periodically suffers heavy damage.
 This damage becomes less over
-time.",戦闘時に〓果発生。〓果〓〓者は定期〓に大ダメージを〓け続ける。このダメージは〓しずつ小さくなる。,
+time.","戦闘時に効果発生。
+効果対〓者は定期的に大ダメージを
+受け続ける。
+このダメージは少しずつ小さくなる。",,primary
 866,231,codepage,7200,97,"Activated in battle. Damage
 suffered by subject reduced to 1/4.
-All healing effects nullified.",戦闘時に〓果発生。〓果〓〓者が〓けるダメージを〓にする。〓〓〓〓〓果をすべて無〓とする。,
+All healing effects nullified.","戦闘時に効果発生。
+効果対〓者が受けるダメージを
+〓にする。
+HP回復効果をすべて無効とする。",,primary
 866,232,codepage,7297,67,"Activated in battle. Subject
 becomes immune to critical
-attacks.",戦闘時に〓果発生。〓果〓〓者が〓けたクリティカルを無〓にする。,
+attacks.","戦闘時に効果発生。
+効果対〓者が受けたクリティカルを
+無効にする。",,primary
 866,234,codepage,7365,58,"Activated in battle. Reverses the
-gender of the subject.",戦闘時に〓果発生。〓果〓〓者が〓〓を持つ場〓、それを〓とみなす。,
+gender of the subject.","戦闘時に効果発生。
+効果対〓者が性別を持つ場合、
+それを逆とみなす。",,primary
 866,235,codepage,7423,84,"Activated in battle. When subject is
 at maximum HP, ATK and MAG
-increase to 120%.",戦闘時に〓果発生。〓果〓〓者の〓〓が最大の時、〓〓〓と〓〓〓が〓〓になる。,
+increase to 120%.","戦闘時に効果発生。
+効果対〓者のHPが最大の時、
+ATKとMAGが.倍になる。",,primary
 866,236,codepage,7507,67,"Activated in battle. Subject's ATK is
-reduced to 3/4, RDM to 1/2.",戦闘時に〓果発生。〓果〓〓者の〓〓〓を〓、〓〓〓を〓に〓〓さ〓る。,
-866,270,codepage,7607,11,More Money,〓〓金〓〓〓,
-866,271,codepage,7618,13,Bigger Bonus,ボーナス〓〓,
-866,272,codepage,7631,14,Items Appear?,アイテム出〓〓,
-866,273,codepage,7645,15,No Purple Gems,〓炎石発生無〓,
-866,274,codepage,7660,17,Acquired OTH = 0,〓〓金〓〓,
-866,275,codepage,7677,17,Acquired OTH x 3,〓〓金〓〓,
-866,276,codepage,7694,15,Experience = 0,経験〓〓,
-866,277,codepage,7709,15,Experience x 2,経験〓〓,
-866,278,codepage,7724,19,Experience for All,経験〓を全〓に,
-866,279,codepage,7743,19,Reflect Photons +4,光〓〓〓,
-866,280,codepage,7762,22,Photons Break Pillars,光〓でピラー〓壊,
-866,281,codepage,7784,16,Photons Scatter,光〓〓〓発〓,
-866,282,codepage,7800,22,Guaranteed Initiative,絶〓先制,
-866,283,codepage,7822,15,Increased Mass,質量〓加,
-866,284,codepage,7837,15,Decreased Mass,質量〓下,
-866,285,codepage,7852,12,Slower Fall,〓下〓〓〓下,
-866,286,codepage,7864,21,Cannot Acquire Items,アイテム入手不〓,
-866,287,codepage,7885,17,Fire Attack 150%,炎〓〓力〓〓,
-866,288,codepage,7902,16,Ice Attack 150%,〓〓〓力〓〓,
-866,289,codepage,7918,17,Earth Attack 1/2,土〓〓力〓,
-866,290,codepage,7935,21,Lightning Attack 1/2,雷〓〓力〓,
-866,291,codepage,7956,13,Turn to Fire,炎属〓化,
-866,292,codepage,7969,12,Turn to Ice,〓属〓化,
-866,293,codepage,7981,14,Turn to Earth,土属〓化,
-866,294,codepage,7995,18,Turn to Lightning,雷属〓化,
-866,295,codepage,8013,13,Turn to Holy,聖属〓化,
-866,296,codepage,8026,13,Turn to Dark,〓属〓化,
-866,297,codepage,8039,13,No Tolerance,属〓〓〓〓〓〓,
-866,298,codepage,8052,13,Negate Magic,魔法無〓,
-866,299,codepage,8065,8,RDM 1/2,〓〓〓〓,
-866,300,codepage,8073,8,RST 1/2,〓〓〓〓,
-866,301,codepage,8081,15,Reverse Damage,リバースダメージ,
-866,302,codepage,8096,16,Gradual HP Loss,時間で〓〓〓〓,
-866,303,codepage,8112,20,Negate Light Damage,小ダメージ無〓,
-866,304,codepage,8132,17,HP Recovery 200%,〓〓〓〓〓果〓,
-866,305,codepage,8149,21,Inflicted Damage 1/4,〓ダメージ〓,
-866,306,codepage,8170,18,All Tolerances Up,属〓〓〓全〓化,
-866,307,codepage,8188,17,HP Drain Enabled,〓〓〓果付〓,
-866,308,codepage,8205,21,Battle Menu Disabled,戦闘メニュー〓〓,
-866,309,codepage,8226,17,Weapon Break 1/5,〓器〓壊〓〓,
-866,310,codepage,8243,9,ATK 300%,〓〓〓〓,
-866,311,codepage,8252,17,No Status Change,〓〓〓化無〓,
-866,312,codepage,8269,17,No Support Magic,〓〓魔法無〓,
-866,313,codepage,8286,16,Negate Critical,クリティカル無〓,
-866,314,codepage,8302,15,No HP Recovery,〓〓〓〓無〓,
-866,315,codepage,8317,14,Random Effect,〓果ランダム,
-866,316,codepage,8331,18,Negate Sealstones,封印石を無力化,
-866,317,codepage,8349,18,Negate Encounters,エンカウント無〓,
-866,318,codepage,8367,21,Switch Stone Effects,封印石〓果〓〓,
-866,319,codepage,8388,14,All Status Up,全ステータス〓〓,
-866,320,codepage,8402,20,Reflect Photons +20,光〓〓〓,
-866,321,codepage,8422,19,Reflect Photons -3,光〓〓〓,
-866,322,codepage,8441,10,High Jump,ハイジャンプ,
-866,323,codepage,8451,19,Detectability Down,〓〓力〓〓〓〓,
-866,324,codepage,8470,9,ATK 120%,〓〓〓〓〓,
-866,325,codepage,8479,9,ATK 150%,〓〓〓〓〓,
-866,326,codepage,8488,9,RDM 120%,〓〓〓〓〓,
-866,327,codepage,8497,9,RDM 200%,〓〓〓〓,
-866,328,codepage,8506,8,ATK 3/4,〓〓〓〓,
-866,329,codepage,8514,8,RDM 1/2,〓〓〓〓,
-866,330,codepage,8522,17,More Purple Gems,〓炎石出〓〓〓〓,
-866,331,codepage,8539,16,Fire Attack 1/2,炎〓〓力〓,
-866,332,codepage,8555,15,Ice Attack 1/2,〓〓〓力〓,
-866,333,codepage,8570,18,Earth Attack 150%,土〓〓力〓〓,
-866,334,codepage,8588,19,Lightning Atk 150%,雷〓〓力〓〓,
-866,335,codepage,8607,17,Holy Attack 150%,聖〓〓力〓〓,
-866,336,codepage,8624,17,Dark Attack 150%,〓〓〓力〓〓,
-866,337,codepage,8641,16,Holy Attack 1/2,聖〓〓力〓,
-866,338,codepage,8657,16,Dark Attack 1/2,〓〓〓力〓,
-866,339,codepage,8673,19,Attack with Poison,〓〓に〓を付加,
-866,340,codepage,8692,20,Attack with Silence,〓〓に〓〓を付加,
-866,341,codepage,8712,20,Attack w/ Confusion,〓〓に〓乱を付加,
-866,342,codepage,8732,20,Attack Up at Max HP,無〓時〓〓力〓〓,
-866,343,codepage,8752,14,Speed Reduced,〓〓化,
-866,344,codepage,8766,20,Projectile Atk 200%,〓〓〓〓力〓,
-866,345,codepage,8786,11,Evasion Up,〓避〓〓〓,
-866,346,codepage,8797,12,Hit Rate Up,〓中〓〓〓,
-866,347,codepage,8809,17,No Evade/Counter,〓避・〓〓〓〓,
-866,348,codepage,8826,12,No Guarding,ガード〓〓,
-866,349,codepage,8838,20,Received Damage 1/4,〓ダメージ〓,
-866,350,codepage,8858,14,Rapid HP Loss,時間で〓〓大〓〓,
-866,351,codepage,8872,14,Gender Switch,〓〓〓〓,
-866,352,codepage,8886,21,Cannot Acquire Items,アイテム入手不〓,
-866,353,codepage,8907,21,Battle Menu Disabled,戦闘メニュー〓〓,
-866,354,codepage,8928,15,No HP Recovery,〓〓〓〓無〓,
-866,355,codepage,8943,9,ATK 150%,〓〓〓〓〓,
-866,356,codepage,8952,9,RDM 200%,〓〓〓〓,
-866,357,codepage,8961,8,ATK 3/4,〓〓〓〓,
-866,358,codepage,8969,8,RDM 1/2,〓〓〓〓,
-866,371,codepage,8989,8,TOP_MAP,先〓マップ,
-866,372,codepage,8997,8,Midgard,ミッドガルド,
-866,373,codepage,9005,12,ENDROLL_MAP,エンドロール〓マップ〓,
-866,374,codepage,9017,6,Solde,港町ゾルデ,
-866,375,codepage,9023,6,Solde,港町ゾルデ,
-866,376,codepage,9029,6,Solde,港町ゾルデ,
-866,377,codepage,9035,6,Solde,港町ゾルデ,
-866,378,codepage,9041,6,Solde,港町ゾルデ,
-866,379,codepage,9047,6,Solde,港町ゾルデ,
-866,380,codepage,9053,6,Solde,港町ゾルデ,
-866,381,codepage,9059,6,Solde,港町ゾルデ,
-866,382,codepage,9065,6,Solde,港町ゾルデ,
-866,383,codepage,9071,6,Solde,港町ゾルデ,
-866,384,codepage,9077,6,Dipan,ディパン城下町,
-866,385,codepage,9083,6,Dipan,ディパン城下町,
-866,386,codepage,9089,6,Dipan,ディパン城下町,
-866,387,codepage,9095,6,Dipan,ディパン城下町,
-866,388,codepage,9101,6,Dipan,ディパン城下町,
-866,389,codepage,9107,6,Dipan,ディパン城下町,
-866,390,codepage,9113,6,Dipan,ディパン城下町,
-866,391,codepage,9119,6,Dipan,ディパン城下町,
-866,392,codepage,9125,6,Dipan,ディパン城下町,
-866,393,codepage,9131,6,Dipan,ディパン城下町,
-866,394,codepage,9137,6,Dipan,ディパン城下町,
-866,395,codepage,9143,6,Dipan,ディパン城下町,
-866,396,codepage,9149,6,Dipan,ディパン城下町,
-866,397,codepage,9155,10,Coriander,コリアンドル村,
-866,398,codepage,9165,10,Coriander,コリアンドル村,
-866,399,codepage,9175,10,Coriander,コリアンドル村,
-866,400,codepage,9185,10,Coriander,コリアンドル村,
-866,401,codepage,9195,10,Coriander,コリアンドル村,
-866,402,codepage,9205,9,Villnore,ヴィルノア,
-866,403,codepage,9214,9,Villnore,ヴィルノア,
-866,404,codepage,9223,9,Villnore,ヴィルノア,
-866,405,codepage,9232,9,Villnore,ヴィルノア,
-866,406,codepage,9241,9,Villnore,ヴィルノア,
-866,407,codepage,9250,9,Villnore,ヴィルノア,
-866,408,codepage,9259,9,Villnore,ヴィルノア,
-866,409,codepage,9268,9,Villnore,ヴィルノア,
-866,410,codepage,9277,8,Kalstad,カルスタッド,
-866,411,codepage,9285,8,Kalstad,カルスタッド,
-866,412,codepage,9293,8,Kalstad,カルスタッド,
-866,413,codepage,9301,8,Kalstad,カルスタッド,
-866,414,codepage,9309,8,Kalstad,カルスタッド,
-866,415,codepage,9317,8,Kalstad,カルスタッド,
-866,416,codepage,9325,8,Kalstad,カルスタッド,
-866,417,codepage,9333,18,Crell Monferaigne,クレルモンフェラン,
-866,418,codepage,9351,18,Crell Monferaigne,クレルモンフェラン,
-866,419,codepage,9369,18,Crell Monferaigne,クレルモンフェラン,
-866,420,codepage,9387,18,Crell Monferaigne,クレルモンフェラン,
-866,421,codepage,9405,18,Crell Monferaigne,クレルモンフェラン,
-866,422,codepage,9423,18,Crell Monferaigne,クレルモンフェラン,
-866,423,codepage,9441,18,Crell Monferaigne,クレルモンフェラン,
-866,424,codepage,9459,18,Crell Monferaigne,クレルモンフェラン,
-866,425,codepage,9477,18,Crell Monferaigne,クレルモンフェラン,
-866,426,codepage,9495,18,Crell Monferaigne,クレルモンフェラン,
-866,427,codepage,9513,18,Crell Monferaigne,クレルモンフェラン,
-866,428,codepage,9531,6,Dipan,ディパン城下町,
-866,429,codepage,9537,6,Dipan,ディパン城下町,
-866,430,codepage,9543,23,Royal Underground Path,王家の地下道,
-866,431,codepage,9566,23,Royal Underground Path,王家の地下道,
-866,432,codepage,9589,23,Royal Underground Path,王家の地下道,
-866,433,codepage,9612,23,Royal Underground Path,王家の地下道,
-866,434,codepage,9635,23,Royal Underground Path,王家の地下道,
-866,435,codepage,9658,23,Royal Underground Path,王家の地下道,
-866,436,codepage,9681,23,Royal Underground Path,王家の地下道,
-866,437,codepage,9704,23,Royal Underground Path,王家の地下道,
-866,438,codepage,9727,23,Royal Underground Path,王家の地下道,
-866,439,codepage,9750,23,Royal Underground Path,王家の地下道,
-866,440,codepage,9773,23,Royal Underground Path,王家の地下道,
-866,441,codepage,9796,23,Royal Underground Path,王家の地下道,
-866,442,codepage,9819,23,Royal Underground Path,王家の地下道,
-866,443,codepage,9842,23,Royal Underground Path,王家の地下道,
-866,444,codepage,9865,23,Royal Underground Path,王家の地下道,
-866,445,codepage,9888,23,Royal Underground Path,王家の地下道,
-866,446,codepage,9911,23,Royal Underground Path,王家の地下道,
-866,447,codepage,9934,23,Royal Underground Path,王家の地下道,
-866,448,codepage,9957,23,Royal Underground Path,王家の地下道,
-866,449,codepage,9980,12,Lost Forest,喪失の森,
-866,450,codepage,9992,12,Lost Forest,喪失の森,
-866,451,codepage,10004,12,Lost Forest,喪失の森,
-866,452,codepage,10016,12,Lost Forest,喪失の森,
-866,453,codepage,10028,12,Lost Forest,喪失の森,
-866,454,codepage,10040,12,Lost Forest,喪失の森,
-866,455,codepage,10052,12,Lost Forest,喪失の森,
-866,456,codepage,10064,12,Lost Forest,喪失の森,
-866,457,codepage,10076,13,Dipan Castle,ディパン城,
-866,458,codepage,10089,13,Dipan Castle,ディパン城,
-866,459,codepage,10102,13,Dipan Castle,ディパン城,
-866,460,codepage,10115,13,Dipan Castle,ディパン城,
-866,461,codepage,10128,13,Dipan Castle,ディパン城,
-866,462,codepage,10141,13,Dipan Castle,ディパン城,
-866,463,codepage,10154,13,Dipan Castle,ディパン城,
-866,464,codepage,10167,13,Dipan Castle,ディパン城,
-866,465,codepage,10180,13,Dipan Castle,ディパン城,
-866,466,codepage,10193,13,Dipan Castle,ディパン城,
-866,467,codepage,10206,13,Dipan Castle,ディパン城,
-866,468,codepage,10219,13,Dipan Castle,ディパン城,
-866,469,codepage,10232,13,Dipan Castle,ディパン城,
-866,470,codepage,10245,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,471,codepage,10269,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,472,codepage,10293,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,473,codepage,10317,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,474,codepage,10341,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,475,codepage,10365,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,476,codepage,10389,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,477,codepage,10413,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,478,codepage,10437,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,479,codepage,10461,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,480,codepage,10485,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,481,codepage,10509,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,
-866,482,codepage,10533,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,483,codepage,10560,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,484,codepage,10587,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,485,codepage,10614,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,486,codepage,10641,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,487,codepage,10668,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,488,codepage,10695,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,489,codepage,10722,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,490,codepage,10749,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,491,codepage,10776,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,
-866,492,codepage,10803,22,Surts Volcano Caverns,スルス火山洞窟,
-866,493,codepage,10825,22,Surts Volcano Caverns,スルス火山洞窟,
-866,494,codepage,10847,22,Surts Volcano Caverns,スルス火山洞窟,
-866,495,codepage,10869,22,Surts Volcano Caverns,スルス火山洞窟,
-866,496,codepage,10891,22,Surts Volcano Caverns,スルス火山洞窟,
-866,497,codepage,10913,22,Surts Volcano Caverns,スルス火山洞窟,
-866,498,codepage,10935,22,Surts Volcano Caverns,スルス火山洞窟,
-866,499,codepage,10957,22,Surts Volcano Caverns,スルス火山洞窟,
-866,500,codepage,10979,22,Surts Volcano Caverns,スルス火山洞窟,
-866,501,codepage,11001,22,Surts Volcano Caverns,スルス火山洞窟,
-866,502,codepage,11023,22,Surts Volcano Caverns,スルス火山洞窟,
-866,503,codepage,11045,22,Surts Volcano Caverns,スルス火山洞窟,
-866,504,codepage,11067,22,Surts Volcano Caverns,スルス火山洞窟,
-866,505,codepage,11089,22,Surts Volcano Caverns,スルス火山洞窟,
-866,506,codepage,11111,22,Surts Volcano Caverns,スルス火山洞窟,
-866,507,codepage,11133,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,508,codepage,11154,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,509,codepage,11175,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,510,codepage,11196,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,511,codepage,11217,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,512,codepage,11238,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,513,codepage,11259,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,514,codepage,11280,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,515,codepage,11301,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,516,codepage,11322,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,517,codepage,11343,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,518,codepage,11364,21,Crawsus Forest Ruins,クローサス森林遺跡,
-866,519,codepage,11385,31,Palace of the Venerated Dragon,奉竜殿,
-866,520,codepage,11416,31,Palace of the Venerated Dragon,奉竜殿,
-866,521,codepage,11447,31,Palace of the Venerated Dragon,奉竜殿,
-866,522,codepage,11478,31,Palace of the Venerated Dragon,奉竜殿,
-866,523,codepage,11509,31,Palace of the Venerated Dragon,奉竜殿,
-866,524,codepage,11540,31,Palace of the Venerated Dragon,奉竜殿,
-866,525,codepage,11571,31,Palace of the Venerated Dragon,奉竜殿,
-866,526,codepage,11602,31,Palace of the Venerated Dragon,奉竜殿,
-866,527,codepage,11633,31,Palace of the Venerated Dragon,奉竜殿,
-866,528,codepage,11664,31,Palace of the Venerated Dragon,奉竜殿,
-866,529,codepage,11695,31,Palace of the Venerated Dragon,奉竜殿,
-866,530,codepage,11726,31,Palace of the Venerated Dragon,奉竜殿,
-866,531,codepage,11757,31,Palace of the Venerated Dragon,奉竜殿,
-866,532,codepage,11788,31,Palace of the Venerated Dragon,奉竜殿,
-866,533,codepage,11819,31,Palace of the Venerated Dragon,奉竜殿,
-866,534,codepage,11850,31,Palace of the Venerated Dragon,奉竜殿,
-866,535,codepage,11881,31,Palace of the Venerated Dragon,奉竜殿,
-866,536,codepage,11912,31,Palace of the Venerated Dragon,奉竜殿,
-866,537,codepage,11943,31,Palace of the Venerated Dragon,奉竜殿,
-866,538,codepage,11974,31,Palace of the Venerated Dragon,奉竜殿,
-866,539,codepage,12005,31,Palace of the Venerated Dragon,奉竜殿,
-866,540,codepage,12036,31,Palace of the Venerated Dragon,奉竜殿,
-866,541,codepage,12067,31,Palace of the Venerated Dragon,奉竜殿,
-866,542,codepage,12098,31,Palace of the Venerated Dragon,奉竜殿,
-866,543,codepage,12129,31,Palace of the Venerated Dragon,奉竜殿,
-866,544,codepage,12160,31,Palace of the Venerated Dragon,奉竜殿,
-866,545,codepage,12191,31,Palace of the Venerated Dragon,奉竜殿,
-866,546,codepage,12222,31,Palace of the Venerated Dragon,奉竜殿,
-866,547,codepage,12253,31,Palace of the Venerated Dragon,奉竜殿,
-866,548,codepage,12284,31,Palace of the Venerated Dragon,奉竜殿,
-866,549,codepage,12315,31,Palace of the Venerated Dragon,奉竜殿,
-866,550,codepage,12346,31,Palace of the Venerated Dragon,奉竜殿,
-866,551,codepage,12377,31,Palace of the Venerated Dragon,奉竜殿,
-866,552,codepage,12408,31,Palace of the Venerated Dragon,奉竜殿,
-866,553,codepage,12439,13,Dipan Castle,ディパン城,
-866,554,codepage,12452,13,Dipan Castle,ディパン城,
-866,555,codepage,12465,13,Dipan Castle,ディパン城,
-866,556,codepage,12478,13,Dipan Castle,ディパン城,
-866,557,codepage,12491,13,Dipan Castle,ディパン城,
-866,558,codepage,12504,13,Dipan Castle,ディパン城,
-866,559,codepage,12517,13,Dipan Castle,ディパン城,
-866,560,codepage,12530,13,Dipan Castle,ディパン城,
-866,561,codepage,12543,13,Dipan Castle,ディパン城,
-866,562,codepage,12556,13,Dipan Castle,ディパン城,
-866,563,codepage,12569,13,Dipan Castle,ディパン城,
-866,564,codepage,12582,13,Dipan Castle,ディパン城,
-866,565,codepage,12595,13,Dipan Castle,ディパン城,
-866,566,codepage,12608,13,Dipan Castle,ディパン城,
-866,567,codepage,12621,13,Dipan Castle,ディパン城,
-866,568,codepage,12634,13,Dipan Castle,ディパン城,
-866,569,codepage,12647,18,Forest of Spirits,精霊の森,
-866,570,codepage,12665,18,Forest of Spirits,精霊の森,
-866,571,codepage,12683,18,Forest of Spirits,精霊の森,
-866,572,codepage,12701,18,Forest of Spirits,精霊の森,
-866,573,codepage,12719,18,Forest of Spirits,精霊の森,
-866,574,codepage,12737,18,Forest of Spirits,精霊の森,
-866,575,codepage,12755,18,Forest of Spirits,精霊の森,
-866,576,codepage,12773,18,Forest of Spirits,精霊の森,
-866,577,codepage,12791,18,Forest of Spirits,精霊の森,
-866,578,codepage,12809,18,Forest of Spirits,精霊の森,
-866,579,codepage,12827,18,Forest of Spirits,精霊の森,
-866,580,codepage,12845,18,Forest of Spirits,精霊の森,
-866,581,codepage,12863,8,Bifrost,ビフレスト,
-866,582,codepage,12871,8,Bifrost,ビフレスト,
-866,583,codepage,12879,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,584,codepage,12896,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,585,codepage,12913,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,586,codepage,12930,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,587,codepage,12947,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,588,codepage,12964,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,589,codepage,12981,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,590,codepage,12998,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,591,codepage,13015,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,592,codepage,13032,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,593,codepage,13049,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,594,codepage,13066,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,595,codepage,13083,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,596,codepage,13100,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,597,codepage,13117,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,598,codepage,13134,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,599,codepage,13151,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,600,codepage,13168,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,601,codepage,13185,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,602,codepage,13202,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,603,codepage,13219,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,604,codepage,13236,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,605,codepage,13253,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,606,codepage,13270,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,607,codepage,13287,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,608,codepage,13304,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,609,codepage,13321,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,610,codepage,13338,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,611,codepage,13355,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,612,codepage,13372,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,613,codepage,13389,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,614,codepage,13406,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,615,codepage,13423,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,616,codepage,13440,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,617,codepage,13457,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,618,codepage,13474,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,619,codepage,13491,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,620,codepage,13508,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,621,codepage,13525,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,622,codepage,13542,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,623,codepage,13559,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,624,codepage,13576,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,625,codepage,13593,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,626,codepage,13610,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,627,codepage,13627,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,628,codepage,13644,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,629,codepage,13661,17,Hall of Valhalla,ヴァルハラ宮殿,
-866,630,codepage,13678,15,Ancient Forest,蒼枯の森,
-866,631,codepage,13693,15,Ancient Forest,蒼枯の森,
-866,632,codepage,13708,15,Ancient Forest,蒼枯の森,
-866,633,codepage,13723,15,Ancient Forest,蒼枯の森,
-866,634,codepage,13738,15,Ancient Forest,蒼枯の森,
-866,635,codepage,13753,15,Ancient Forest,蒼枯の森,
-866,636,codepage,13768,15,Ancient Forest,蒼枯の森,
-866,637,codepage,13783,15,Ancient Forest,蒼枯の森,
-866,638,codepage,13798,15,Ancient Forest,蒼枯の森,
-866,639,codepage,13813,15,Ancient Forest,蒼枯の森,
-866,640,codepage,13828,15,Ancient Forest,蒼枯の森,
-866,641,codepage,13843,15,Ancient Forest,蒼枯の森,
-866,642,codepage,13858,15,Ancient Forest,蒼枯の森,
-866,643,codepage,13873,18,Chateau Obsession,昏き妄執の館,
-866,644,codepage,13891,18,Chateau Obsession,昏き妄執の館,
-866,645,codepage,13909,18,Chateau Obsession,昏き妄執の館,
-866,646,codepage,13927,18,Chateau Obsession,昏き妄執の館,
-866,647,codepage,13945,18,Chateau Obsession,昏き妄執の館,
-866,648,codepage,13963,18,Chateau Obsession,昏き妄執の館,
-866,649,codepage,13981,18,Chateau Obsession,昏き妄執の館,
-866,650,codepage,13999,18,Chateau Obsession,昏き妄執の館,
-866,651,codepage,14017,18,Chateau Obsession,昏き妄執の館,
-866,652,codepage,14035,12,Turgen Mine,トゥルゲン鉱山,
-866,653,codepage,14047,12,Turgen Mine,トゥルゲン鉱山,
-866,654,codepage,14059,12,Turgen Mine,トゥルゲン鉱山,
-866,655,codepage,14071,12,Turgen Mine,トゥルゲン鉱山,
-866,656,codepage,14083,12,Turgen Mine,トゥルゲン鉱山,
-866,657,codepage,14095,12,Turgen Mine,トゥルゲン鉱山,
-866,658,codepage,14107,12,Turgen Mine,トゥルゲン鉱山,
-866,659,codepage,14119,12,Turgen Mine,トゥルゲン鉱山,
-866,660,codepage,14131,15,Ravine Caverns,狭間の洞窟,
-866,661,codepage,14146,15,Ravine Caverns,狭間の洞窟,
-866,662,codepage,14161,15,Ravine Caverns,狭間の洞窟,
-866,663,codepage,14176,15,Ravine Caverns,狭間の洞窟,
-866,664,codepage,14191,15,Ravine Caverns,狭間の洞窟,
-866,665,codepage,14206,15,Ravine Caverns,狭間の洞窟,
-866,666,codepage,14221,15,Ravine Caverns,狭間の洞窟,
-866,667,codepage,14236,15,Ravine Caverns,狭間の洞窟,
-866,668,codepage,14251,15,Ravine Caverns,狭間の洞窟,
-866,669,codepage,14266,15,Ravine Caverns,狭間の洞窟,
-866,670,codepage,14281,15,Ravine Caverns,狭間の洞窟,
-866,671,codepage,14296,15,Ravine Caverns,狭間の洞窟,
-866,672,codepage,14311,15,Ravine Caverns,狭間の洞窟,
-866,673,codepage,14326,15,Ravine Caverns,狭間の洞窟,
-866,674,codepage,14341,15,Ravine Caverns,狭間の洞窟,
-866,675,codepage,14356,15,Ravine Caverns,狭間の洞窟,
-866,676,codepage,14371,15,Ravine Caverns,狭間の洞窟,
-866,677,codepage,14386,15,Ravine Caverns,狭間の洞窟,
-866,678,codepage,14401,15,Ravine Caverns,狭間の洞窟,
-866,679,codepage,14416,15,Ravine Caverns,狭間の洞窟,
-866,680,codepage,14431,15,Ravine Caverns,狭間の洞窟,
-866,681,codepage,14446,15,Ravine Caverns,狭間の洞窟,
-866,682,codepage,14461,15,Ravine Caverns,狭間の洞窟,
-866,683,codepage,14476,15,Ravine Caverns,狭間の洞窟,
-866,684,codepage,14491,15,Ravine Caverns,狭間の洞窟,
-866,685,codepage,14506,15,Ravine Caverns,狭間の洞窟,
-866,686,codepage,14521,15,Ravine Caverns,狭間の洞窟,
-866,687,codepage,14536,15,Ravine Caverns,狭間の洞窟,
-866,688,codepage,14551,15,Ravine Caverns,狭間の洞窟,
-866,689,codepage,14566,15,Ravine Caverns,狭間の洞窟,
-866,690,codepage,14581,15,Ravine Caverns,狭間の洞窟,
-866,691,codepage,14596,15,Ravine Caverns,狭間の洞窟,
-866,692,codepage,14611,15,Ravine Caverns,狭間の洞窟,
-866,693,codepage,14626,10,Yggdrasil,ユグドラシル,
-866,694,codepage,14636,10,Yggdrasil,ユグドラシル,
-866,695,codepage,14646,10,Yggdrasil,ユグドラシル,
-866,696,codepage,14656,10,Yggdrasil,ユグドラシル,
-866,697,codepage,14666,10,Yggdrasil,ユグドラシル,
-866,698,codepage,14676,10,Yggdrasil,ユグドラシル,
-866,699,codepage,14686,10,Yggdrasil,ユグドラシル,
-866,700,codepage,14696,10,Yggdrasil,ユグドラシル,
-866,701,codepage,14706,10,Yggdrasil,ユグドラシル,
-866,702,codepage,14716,10,Yggdrasil,ユグドラシル,
-866,703,codepage,14726,10,Yggdrasil,ユグドラシル,
-866,704,codepage,14736,10,Yggdrasil,ユグドラシル,
-866,705,codepage,14746,10,Yggdrasil,ユグドラシル,
-866,706,codepage,14756,10,Yggdrasil,ユグドラシル,
-866,707,codepage,14766,10,Yggdrasil,ユグドラシル,
-866,708,codepage,14776,10,Yggdrasil,ユグドラシル,
-866,709,codepage,14786,10,Yggdrasil,ユグドラシル,
-866,710,codepage,14796,10,Yggdrasil,ユグドラシル,
-866,711,codepage,14806,10,Yggdrasil,ユグドラシル,
-866,712,codepage,14816,10,Yggdrasil,ユグドラシル,
-866,713,codepage,14826,10,Yggdrasil,ユグドラシル,
-866,714,codepage,14836,10,Yggdrasil,ユグドラシル,
-866,715,codepage,14846,10,Yggdrasil,ユグドラシル,
-866,716,codepage,14856,10,Yggdrasil,ユグドラシル,
-866,717,codepage,14866,10,Yggdrasil,ユグドラシル,
-866,718,codepage,14876,10,Yggdrasil,ユグドラシル,
-866,719,codepage,14886,10,Yggdrasil,ユグドラシル,
-866,720,codepage,14896,10,Yggdrasil,ユグドラシル,
-866,721,codepage,14906,10,Yggdrasil,ユグドラシル,
-866,722,codepage,14916,10,Yggdrasil,ユグドラシル,
-866,723,codepage,14926,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,724,codepage,14949,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,725,codepage,14972,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,726,codepage,14995,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,727,codepage,15018,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,728,codepage,15041,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,729,codepage,15064,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,730,codepage,15087,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,731,codepage,15110,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,732,codepage,15133,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,733,codepage,15156,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,734,codepage,15179,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,735,codepage,15202,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,736,codepage,15225,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,737,codepage,15248,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,738,codepage,15271,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,739,codepage,15294,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,740,codepage,15317,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,741,codepage,15340,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,742,codepage,15363,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,743,codepage,15386,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,744,codepage,15409,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,745,codepage,15432,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,746,codepage,15455,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,747,codepage,15478,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,748,codepage,15501,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,749,codepage,15524,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,
-866,750,codepage,15547,14,Seraphic Gate,セラフィックゲート,
-866,751,codepage,15561,14,Seraphic Gate,セラフィックゲート,
-866,752,codepage,15575,14,Seraphic Gate,セラフィックゲート,
-866,753,codepage,15589,14,Seraphic Gate,セラフィックゲート,
-866,754,codepage,15603,14,Seraphic Gate,セラフィックゲート,
-866,755,codepage,15617,14,Seraphic Gate,セラフィックゲート,
-866,756,codepage,15631,14,Seraphic Gate,セラフィックゲート,
-866,757,codepage,15645,14,Seraphic Gate,セラフィックゲート,
-866,758,codepage,15659,14,Seraphic Gate,セラフィックゲート,
-866,759,codepage,15673,14,Seraphic Gate,セラフィックゲート,
-866,760,codepage,15687,14,Seraphic Gate,セラフィックゲート,
-866,761,codepage,15701,14,Seraphic Gate,セラフィックゲート,
-866,762,codepage,15715,14,Seraphic Gate,セラフィックゲート,
-866,763,codepage,15729,14,Seraphic Gate,セラフィックゲート,
-866,764,codepage,15743,14,Seraphic Gate,セラフィックゲート,
-866,765,codepage,15757,14,Seraphic Gate,セラフィックゲート,
-866,766,codepage,15771,14,Seraphic Gate,セラフィックゲート,
-866,767,codepage,15785,14,Seraphic Gate,セラフィックゲート,
-866,768,codepage,15799,14,Seraphic Gate,セラフィックゲート,
-866,769,codepage,15813,14,Seraphic Gate,セラフィックゲート,
-866,770,codepage,15827,14,Seraphic Gate,セラフィックゲート,
-866,771,codepage,15841,14,Seraphic Gate,セラフィックゲート,
-866,772,codepage,15855,14,Seraphic Gate,セラフィックゲート,
-866,773,codepage,15869,14,Seraphic Gate,セラフィックゲート,
-866,774,codepage,15883,14,Seraphic Gate,セラフィックゲート,
-866,775,codepage,15897,14,Seraphic Gate,セラフィックゲート,
-866,776,codepage,15911,14,Seraphic Gate,セラフィックゲート,
-866,777,codepage,15925,14,Seraphic Gate,セラフィックゲート,
-866,778,codepage,15939,14,Seraphic Gate,セラフィックゲート,
-866,779,codepage,15953,14,Seraphic Gate,セラフィックゲート,
-866,780,codepage,15967,14,Seraphic Gate,セラフィックゲート,
-866,781,codepage,15981,14,Seraphic Gate,セラフィックゲート,
-866,782,codepage,15995,14,Seraphic Gate,セラフィックゲート,
-866,783,codepage,16009,14,Seraphic Gate,セラフィックゲート,
-866,784,codepage,16023,14,Seraphic Gate,セラフィックゲート,
-866,785,codepage,16037,14,Seraphic Gate,セラフィックゲート,
-866,786,codepage,16051,14,Seraphic Gate,セラフィックゲート,
-866,787,codepage,16065,14,Seraphic Gate,セラフィックゲート,
-866,788,codepage,16079,14,Seraphic Gate,セラフィックゲート,
-866,789,codepage,16093,14,Seraphic Gate,セラフィックゲート,
-866,790,codepage,16107,14,Seraphic Gate,セラフィックゲート,
-866,791,codepage,16121,14,Seraphic Gate,セラフィックゲート,
-866,792,codepage,16135,14,Seraphic Gate,セラフィックゲート,
-866,793,codepage,16149,14,Seraphic Gate,セラフィックゲート,
-866,794,codepage,16163,14,Seraphic Gate,セラフィックゲート,
-866,795,codepage,16177,14,Seraphic Gate,セラフィックゲート,
-866,796,codepage,16191,14,Seraphic Gate,セラフィックゲート,
-866,797,codepage,16205,14,Seraphic Gate,セラフィックゲート,
-866,798,codepage,16219,14,Seraphic Gate,セラフィックゲート,
-866,799,codepage,16233,14,Seraphic Gate,セラフィックゲート,
-866,800,codepage,16247,14,Seraphic Gate,セラフィックゲート,
-866,801,codepage,16261,14,Seraphic Gate,セラフィックゲート,
-866,802,codepage,16275,14,Seraphic Gate,セラフィックゲート,
-866,803,codepage,16289,14,Seraphic Gate,セラフィックゲート,
-866,804,codepage,16303,14,Seraphic Gate,セラフィックゲート,
-866,805,codepage,16317,14,Seraphic Gate,セラフィックゲート,
-866,806,codepage,16331,14,Seraphic Gate,セラフィックゲート,
-866,807,codepage,16345,14,Seraphic Gate,セラフィックゲート,
-866,808,codepage,16359,14,Seraphic Gate,セラフィックゲート,
-866,809,codepage,16373,14,Seraphic Gate,セラフィックゲート,
-866,810,codepage,16387,14,Seraphic Gate,セラフィックゲート,
-866,811,codepage,16401,14,Seraphic Gate,セラフィックゲート,
-866,812,codepage,16415,14,Seraphic Gate,セラフィックゲート,
-866,813,codepage,16429,14,Seraphic Gate,セラフィックゲート,
-866,814,codepage,16443,14,Seraphic Gate,セラフィックゲート,
-866,815,codepage,16457,14,Seraphic Gate,セラフィックゲート,
-866,816,codepage,16471,14,Seraphic Gate,セラフィックゲート,
-866,817,codepage,16485,14,Seraphic Gate,セラフィックゲート,
-866,818,codepage,16499,13,Sahma Desert,サーマ砂漠,
-866,819,codepage,16512,13,Sahma Desert,サーマ砂漠,
-866,820,codepage,16525,13,Sahma Desert,サーマ砂漠,
-866,821,codepage,16538,13,Sahma Desert,サーマ砂漠,
-866,822,codepage,16551,15,Kythena Plains,キセナ草原,
-866,823,codepage,16566,15,Kythena Plains,キセナ草原,
-866,824,codepage,16581,15,Kythena Plains,キセナ草原,
-866,825,codepage,16596,15,Kythena Plains,キセナ草原,
-866,826,codepage,16611,7,Asgard,アスガルド,
-866,827,codepage,16618,7,Asgard,アスガルド,
-866,828,codepage,16625,7,Asgard,アスガルド,
-866,829,codepage,16632,7,Asgard,アスガルド,
-866,830,codepage,16639,13,Dragonscrypt,竜の墓場,
-866,831,codepage,16652,13,Dragonscrypt,竜の墓場,
-866,832,codepage,16665,13,Dragonscrypt,竜の墓場,
-866,833,codepage,16678,13,Dragonscrypt,竜の墓場,
-866,834,codepage,16691,14,Sukavia Gorge,スカビア渓谷,
-866,835,codepage,16705,14,Sukavia Gorge,スカビア渓谷,
-866,836,codepage,16719,14,Sukavia Gorge,スカビア渓谷,
-866,837,codepage,16733,14,Sukavia Gorge,スカビア渓谷,
-866,838,codepage,16747,14,Sukavia Gorge,スカビア渓谷,
-866,839,codepage,16761,14,Sukavia Gorge,スカビア渓谷,
-866,840,codepage,16775,10,EVENT_MAP,イベントマップ,
-866,841,codepage,16785,10,EVENT_MAP,イベントマップ,
-866,842,codepage,16795,10,EVENT_MAP,イベントマップ,
-866,843,codepage,16805,10,EVENT_MAP,イベントマップ,
-866,844,codepage,16815,10,EVENT_MAP,イベントマップ,
-866,845,codepage,16825,10,EVENT_MAP,イベントマップ,
-866,846,codepage,16835,10,EVENT_MAP,イベントマップ,
-866,847,codepage,16845,10,EVENT_MAP,イベントマップ,
-866,848,codepage,16855,10,EVENT_MAP,イベントマップ,
-866,849,codepage,16865,10,EVENT_MAP,イベントマップ,
-866,850,codepage,16875,10,EVENT_MAP,イベントマップ,
-866,851,codepage,16885,10,EVENT_MAP,イベントマップ,
-866,852,codepage,16895,10,EVENT_MAP,イベントマップ,
-866,853,codepage,16905,10,EVENT_MAP,イベントマップ,
-866,854,codepage,16915,10,EVENT_MAP,イベントマップ,
-866,855,codepage,16925,10,EVENT_MAP,イベントマップ,
-866,856,codepage,16935,10,EVENT_MAP,イベントマップ,
-866,857,codepage,16945,10,EVENT_MAP,イベントマップ,
-866,858,codepage,16955,10,EVENT_MAP,イベントマップ,
-866,859,codepage,16965,10,EVENT_MAP,イベントマップ,
-866,860,codepage,16975,10,EVENT_MAP,イベントマップ,
-866,861,codepage,16985,10,EVENT_MAP,イベントマップ,
-866,862,codepage,16995,10,EVENT_MAP,イベントマップ,
-866,863,codepage,17005,10,EVENT_MAP,イベントマップ,
-866,864,codepage,17015,10,EVENT_MAP,イベントマップ,
-866,865,codepage,17025,10,EVENT_MAP,イベントマップ,
-866,866,codepage,17035,10,EVENT_MAP,イベントマップ,
-866,867,codepage,17045,10,EVENT_MAP,イベントマップ,
-866,868,codepage,17055,10,EVENT_MAP,イベントマップ,
-866,869,codepage,17065,10,EVENT_MAP,イベントマップ,
-866,870,codepage,17075,10,EVENT_MAP,イベントマップ,
-866,871,codepage,17085,10,EVENT_MAP,イベントマップ,
-866,872,codepage,17095,10,EVENT_MAP,イベントマップ,
-866,873,codepage,17105,10,EVENT_MAP,イベントマップ,
-866,874,codepage,17115,10,EVENT_MAP,イベントマップ,
-866,875,codepage,17125,10,EVENT_MAP,イベントマップ,
-866,876,codepage,17135,10,EVENT_MAP,イベントマップ,
-866,877,codepage,17145,10,EVENT_MAP,イベントマップ,
-866,878,codepage,17155,10,EVENT_MAP,イベントマップ,
-866,879,codepage,17165,10,EVENT_MAP,イベントマップ,
-866,880,codepage,17175,10,EVENT_MAP,イベントマップ,
-866,881,codepage,17185,10,EVENT_MAP,イベントマップ,
-866,882,codepage,17195,10,EVENT_MAP,イベントマップ,
-866,883,codepage,17205,10,EVENT_MAP,イベントマップ,
-866,884,codepage,17215,10,EVENT_MAP,イベントマップ,
-866,885,codepage,17225,10,EVENT_MAP,イベントマップ,
-866,886,codepage,17235,10,EVENT_MAP,イベントマップ,
-866,887,codepage,17245,10,EVENT_MAP,イベントマップ,
-866,888,codepage,17255,10,EVENT_MAP,イベントマップ,
-866,889,codepage,17265,10,EVENT_MAP,イベントマップ,
-866,890,codepage,17275,10,EVENT_MAP,イベントマップ,
-866,891,codepage,17285,10,EVENT_MAP,イベントマップ,
-866,892,codepage,17295,10,EVENT_MAP,イベントマップ,
-866,893,codepage,17305,10,EVENT_MAP,イベントマップ,
-866,894,codepage,17315,10,EVENT_MAP,イベントマップ,
-866,895,codepage,17325,10,EVENT_MAP,イベントマップ,
-866,896,codepage,17335,10,EVENT_MAP,イベントマップ,
-866,897,codepage,17345,10,EVENT_MAP,イベントマップ,
-866,898,codepage,17355,10,EVENT_MAP,イベントマップ,
-866,899,codepage,17365,10,EVENT_MAP,イベントマップ,
-866,900,codepage,17375,10,EVENT_MAP,イベントマップ,
-866,901,codepage,17385,10,EVENT_MAP,イベントマップ,
-866,902,codepage,17395,10,EVENT_MAP,イベントマップ,
-866,903,codepage,17405,10,EVENT_MAP,イベントマップ,
-866,904,codepage,17415,10,EVENT_MAP,イベントマップ,
-866,905,codepage,17425,10,EVENT_MAP,イベントマップ,
-866,906,codepage,17435,10,EVENT_MAP,イベントマップ,
-866,907,codepage,17445,10,EVENT_MAP,イベントマップ,
-866,908,codepage,17455,10,EVENT_MAP,イベントマップ,
-866,909,codepage,17465,10,EVENT_MAP,イベントマップ,
-866,910,codepage,17475,10,EVENT_MAP,イベントマップ,
-866,911,codepage,17485,10,EVENT_MAP,イベントマップ,
-866,912,codepage,17495,10,EVENT_MAP,イベントマップ,
-866,913,codepage,17505,10,EVENT_MAP,イベントマップ,
-866,914,codepage,17515,10,EVENT_MAP,イベントマップ,
-866,915,codepage,17525,10,EVENT_MAP,イベントマップ,
-866,916,codepage,17535,10,EVENT_MAP,イベントマップ,
-866,917,codepage,17545,10,EVENT_MAP,イベントマップ,
-866,918,codepage,17555,10,EVENT_MAP,イベントマップ,
-866,919,codepage,17565,10,EVENT_MAP,イベントマップ,
-866,920,codepage,17575,10,EVENT_MAP,イベントマップ,
-866,921,codepage,17585,10,EVENT_MAP,イベントマップ,
-866,922,codepage,17595,10,EVENT_MAP,イベントマップ,
-866,923,codepage,17605,10,EVENT_MAP,イベントマップ,
-866,924,codepage,17615,10,EVENT_MAP,イベントマップ,
-866,925,codepage,17625,10,EVENT_MAP,イベントマップ,
-866,926,codepage,17635,10,EVENT_MAP,イベントマップ,
-866,927,codepage,17645,10,EVENT_MAP,イベントマップ,
-866,928,codepage,17655,10,EVENT_MAP,イベントマップ,
-866,929,codepage,17665,10,EVENT_MAP,イベントマップ,
-866,930,codepage,17675,10,EVENT_MAP,イベントマップ,
-866,931,codepage,17685,10,EVENT_MAP,イベントマップ,
-866,932,codepage,17695,10,EVENT_MAP,イベントマップ,
-866,933,codepage,17705,10,EVENT_MAP,イベントマップ,
-866,934,codepage,17715,10,EVENT_MAP,イベントマップ,
-866,935,codepage,17725,10,EVENT_MAP,イベントマップ,
-866,936,codepage,17735,10,EVENT_MAP,イベントマップ,
-866,937,codepage,17745,10,EVENT_MAP,イベントマップ,
-866,938,codepage,17755,10,EVENT_MAP,イベントマップ,
-866,939,codepage,17765,11,Sound Mode,サウンド・モード,
-866,940,codepage,17776,10,CHECK_MAP,チェック用マップ,
-866,941,codepage,17786,10,CHECK_MAP,チェック用マップ,
-866,942,codepage,17796,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,943,codepage,17805,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,944,codepage,17814,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,945,codepage,17823,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,946,codepage,17832,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,947,codepage,17841,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,948,codepage,17850,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,949,codepage,17859,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,950,codepage,17868,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,951,codepage,17877,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,952,codepage,17886,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,953,codepage,17895,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,954,codepage,17904,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,955,codepage,17913,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,956,codepage,17922,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,957,codepage,17931,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,958,codepage,17940,9,D_PUZZLE,光〓パズル〓〓〓図〓,
-866,959,codepage,17949,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,960,codepage,17961,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,961,codepage,17973,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,962,codepage,17985,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,963,codepage,17997,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,964,codepage,18009,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,965,codepage,18021,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,966,codepage,18033,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,967,codepage,18045,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,968,codepage,18057,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,969,codepage,18069,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,970,codepage,18081,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,971,codepage,18093,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,972,codepage,18105,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,973,codepage,18117,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,974,codepage,18129,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,975,codepage,18141,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,976,codepage,18153,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,977,codepage,18165,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,978,codepage,18177,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,979,codepage,18189,12,D_TUTORIAL1,封印石チュートリアル〓〓〓図〓,
-866,980,codepage,18201,10,DEBUG_MAP,デバッグ用マップ,
-866,981,codepage,18211,10,DEBUG_MAP,デバッグ用マップ,
-866,982,codepage,18221,8,SCEBOOT,〓動用マップ,
+reduced to 3/4, RDM to 1/2.","戦闘時に効果発生。
+効果対〓者のATKを〓、
+RDMを〓に減少させる。",,primary
+866,270,codepage,7607,11,More Money,獲得金〓〓P,,primary
+866,271,codepage,7618,13,Bigger Bonus,ボーナス〓P,,primary
+866,272,codepage,7631,14,Items Appear?,アイテム出現？,,primary
+866,273,codepage,7645,15,No Purple Gems,紫炎石発生無効,,primary
+866,274,codepage,7660,17,Acquired OTH = 0,獲得金〓〓,,primary
+866,275,codepage,7677,17,Acquired OTH x 3,獲得金〓×,,primary
+866,276,codepage,7694,15,Experience = 0,経験値〓,,primary
+866,277,codepage,7709,15,Experience x 2,経験値×,,primary
+866,278,codepage,7724,19,Experience for All,経験値を全員に,,primary
+866,279,codepage,7743,19,Reflect Photons +4,光子反射,,primary
+866,280,codepage,7762,22,Photons Break Pillars,光子でピラー破壊,,primary
+866,281,codepage,7784,16,Photons Scatter,光子散弾発射,,primary
+866,282,codepage,7800,22,Guaranteed Initiative,絶対先制,,primary
+866,283,codepage,7822,15,Increased Mass,質量増加,,primary
+866,284,codepage,7837,15,Decreased Mass,質量低下,,primary
+866,285,codepage,7852,12,Slower Fall,落下速度低下,,primary
+866,286,codepage,7864,21,Cannot Acquire Items,アイテム入手不可,,primary
+866,287,codepage,7885,17,Fire Attack 150%,炎攻撃力×.,,primary
+866,288,codepage,7902,16,Ice Attack 150%,氷攻撃力×.,,primary
+866,289,codepage,7918,17,Earth Attack 1/2,土攻撃力〓,,primary
+866,290,codepage,7935,21,Lightning Attack 1/2,雷攻撃力〓,,primary
+866,291,codepage,7956,13,Turn to Fire,炎属性化,,primary
+866,292,codepage,7969,12,Turn to Ice,氷属性化,,primary
+866,293,codepage,7981,14,Turn to Earth,土属性化,,primary
+866,294,codepage,7995,18,Turn to Lightning,雷属性化,,primary
+866,295,codepage,8013,13,Turn to Holy,聖属性化,,primary
+866,296,codepage,8026,13,Turn to Dark,闇属性化,,primary
+866,297,codepage,8039,13,No Tolerance,属性抵抗A〓〓,,primary
+866,298,codepage,8052,13,Negate Magic,魔法無効,,primary
+866,299,codepage,8065,8,RDM 1/2,RDM〓,,primary
+866,300,codepage,8073,8,RST 1/2,RST〓,,primary
+866,301,codepage,8081,15,Reverse Damage,リバースダメージ,,primary
+866,302,codepage,8096,16,Gradual HP Loss,時間でHP減少,,primary
+866,303,codepage,8112,20,Negate Light Damage,小ダメージ無効,,primary
+866,304,codepage,8132,17,HP Recovery 200%,HP回復効果×,,primary
+866,305,codepage,8149,21,Inflicted Damage 1/4,与ダメージ〓,,primary
+866,306,codepage,8170,18,All Tolerances Up,属性抵抗全強化,,primary
+866,307,codepage,8188,17,HP Drain Enabled,吸血効果付与,,primary
+866,308,codepage,8205,21,Battle Menu Disabled,戦闘メニュー禁止,,primary
+866,309,codepage,8226,17,Weapon Break 1/5,武器破壊率〓,,primary
+866,310,codepage,8243,9,ATK 300%,ATK×,,primary
+866,311,codepage,8252,17,No Status Change,状態変化無効,,primary
+866,312,codepage,8269,17,No Support Magic,補助魔法無効,,primary
+866,313,codepage,8286,16,Negate Critical,クリティカル無効,,primary
+866,314,codepage,8302,15,No HP Recovery,HP回復無効,,primary
+866,315,codepage,8317,14,Random Effect,効果ランダム,,primary
+866,316,codepage,8331,18,Negate Sealstones,封印石を無力化,,primary
+866,317,codepage,8349,18,Negate Encounters,エンカウント無効,,primary
+866,318,codepage,8367,21,Switch Stone Effects,封印石効果交換,,primary
+866,319,codepage,8388,14,All Status Up,全ステータス〓P,,primary
+866,320,codepage,8402,20,Reflect Photons +20,光子反射,,primary
+866,321,codepage,8422,19,Reflect Photons -3,光子反射,,primary
+866,322,codepage,8441,10,High Jump,ハイジャンプ,,primary
+866,323,codepage,8451,19,Detectability Down,索敵力D〓W〓,,primary
+866,324,codepage,8470,9,ATK 120%,ATK×.,,primary
+866,325,codepage,8479,9,ATK 150%,ATK×.,,primary
+866,326,codepage,8488,9,RDM 120%,RDM×.,,primary
+866,327,codepage,8497,9,RDM 200%,RDM×,,primary
+866,328,codepage,8506,8,ATK 3/4,ATK〓,,primary
+866,329,codepage,8514,8,RDM 1/2,RDM〓,,duplicate
+866,330,codepage,8522,17,More Purple Gems,紫炎石出現数〓P,,primary
+866,331,codepage,8539,16,Fire Attack 1/2,炎攻撃力〓,,primary
+866,332,codepage,8555,15,Ice Attack 1/2,氷攻撃力〓,,primary
+866,333,codepage,8570,18,Earth Attack 150%,土攻撃力×.,,primary
+866,334,codepage,8588,19,Lightning Atk 150%,雷攻撃力×.,,primary
+866,335,codepage,8607,17,Holy Attack 150%,聖攻撃力×.,,primary
+866,336,codepage,8624,17,Dark Attack 150%,闇攻撃力×.,,primary
+866,337,codepage,8641,16,Holy Attack 1/2,聖攻撃力〓,,primary
+866,338,codepage,8657,16,Dark Attack 1/2,闇攻撃力〓,,primary
+866,339,codepage,8673,19,Attack with Poison,攻撃に毒を付加,,primary
+866,340,codepage,8692,20,Attack with Silence,攻撃に沈黙を付加,,primary
+866,341,codepage,8712,20,Attack w/ Confusion,攻撃に混乱を付加,,primary
+866,342,codepage,8732,20,Attack Up at Max HP,無傷時攻撃力〓P,,primary
+866,343,codepage,8752,14,Speed Reduced,〓足化,,primary
+866,344,codepage,8766,20,Projectile Atk 200%,射撃攻撃力×,,primary
+866,345,codepage,8786,11,Evasion Up,回避率〓P,,primary
+866,346,codepage,8797,12,Hit Rate Up,命中率〓P,,primary
+866,347,codepage,8809,17,No Evade/Counter,回避・反撃禁止,,primary
+866,348,codepage,8826,12,No Guarding,ガード禁止,,primary
+866,349,codepage,8838,20,Received Damage 1/4,受ダメージ〓,,primary
+866,350,codepage,8858,14,Rapid HP Loss,時間でHP大〓減,,primary
+866,351,codepage,8872,14,Gender Switch,性別反転,,primary
+866,352,codepage,8886,21,Cannot Acquire Items,アイテム入手不可,,duplicate
+866,353,codepage,8907,21,Battle Menu Disabled,戦闘メニュー禁止,,duplicate
+866,354,codepage,8928,15,No HP Recovery,HP回復無効,,duplicate
+866,355,codepage,8943,9,ATK 150%,ATK×.,,duplicate
+866,356,codepage,8952,9,RDM 200%,RDM×,,duplicate
+866,357,codepage,8961,8,ATK 3/4,ATK〓,,duplicate
+866,358,codepage,8969,8,RDM 1/2,RDM〓,,duplicate
+866,371,codepage,8989,8,TOP_MAP,先頭マップ,,duplicate
+866,372,codepage,8997,8,Midgard,ミッドガルド,,duplicate
+866,373,codepage,9005,12,ENDROLL_MAP,エンドロール（マップ）,,duplicate
+866,374,codepage,9017,6,Solde,港町ゾルデ,,duplicate
+866,375,codepage,9023,6,Solde,港町ゾルデ,,duplicate
+866,376,codepage,9029,6,Solde,港町ゾルデ,,duplicate
+866,377,codepage,9035,6,Solde,港町ゾルデ,,duplicate
+866,378,codepage,9041,6,Solde,港町ゾルデ,,duplicate
+866,379,codepage,9047,6,Solde,港町ゾルデ,,duplicate
+866,380,codepage,9053,6,Solde,港町ゾルデ,,duplicate
+866,381,codepage,9059,6,Solde,港町ゾルデ,,duplicate
+866,382,codepage,9065,6,Solde,港町ゾルデ,,duplicate
+866,383,codepage,9071,6,Solde,港町ゾルデ,,duplicate
+866,384,codepage,9077,6,Dipan,ディパン城下町,,duplicate
+866,385,codepage,9083,6,Dipan,ディパン城下町,,duplicate
+866,386,codepage,9089,6,Dipan,ディパン城下町,,duplicate
+866,387,codepage,9095,6,Dipan,ディパン城下町,,duplicate
+866,388,codepage,9101,6,Dipan,ディパン城下町,,duplicate
+866,389,codepage,9107,6,Dipan,ディパン城下町,,duplicate
+866,390,codepage,9113,6,Dipan,ディパン城下町,,duplicate
+866,391,codepage,9119,6,Dipan,ディパン城下町,,duplicate
+866,392,codepage,9125,6,Dipan,ディパン城下町,,duplicate
+866,393,codepage,9131,6,Dipan,ディパン城下町,,duplicate
+866,394,codepage,9137,6,Dipan,ディパン城下町,,duplicate
+866,395,codepage,9143,6,Dipan,ディパン城下町,,duplicate
+866,396,codepage,9149,6,Dipan,ディパン城下町,,duplicate
+866,397,codepage,9155,10,Coriander,コリアンドル村,,duplicate
+866,398,codepage,9165,10,Coriander,コリアンドル村,,duplicate
+866,399,codepage,9175,10,Coriander,コリアンドル村,,duplicate
+866,400,codepage,9185,10,Coriander,コリアンドル村,,duplicate
+866,401,codepage,9195,10,Coriander,コリアンドル村,,duplicate
+866,402,codepage,9205,9,Villnore,ヴィルノア,,duplicate
+866,403,codepage,9214,9,Villnore,ヴィルノア,,duplicate
+866,404,codepage,9223,9,Villnore,ヴィルノア,,duplicate
+866,405,codepage,9232,9,Villnore,ヴィルノア,,duplicate
+866,406,codepage,9241,9,Villnore,ヴィルノア,,duplicate
+866,407,codepage,9250,9,Villnore,ヴィルノア,,duplicate
+866,408,codepage,9259,9,Villnore,ヴィルノア,,duplicate
+866,409,codepage,9268,9,Villnore,ヴィルノア,,duplicate
+866,410,codepage,9277,8,Kalstad,カルスタッド,,duplicate
+866,411,codepage,9285,8,Kalstad,カルスタッド,,duplicate
+866,412,codepage,9293,8,Kalstad,カルスタッド,,duplicate
+866,413,codepage,9301,8,Kalstad,カルスタッド,,duplicate
+866,414,codepage,9309,8,Kalstad,カルスタッド,,duplicate
+866,415,codepage,9317,8,Kalstad,カルスタッド,,duplicate
+866,416,codepage,9325,8,Kalstad,カルスタッド,,duplicate
+866,417,codepage,9333,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,418,codepage,9351,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,419,codepage,9369,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,420,codepage,9387,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,421,codepage,9405,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,422,codepage,9423,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,423,codepage,9441,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,424,codepage,9459,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,425,codepage,9477,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,426,codepage,9495,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,427,codepage,9513,18,Crell Monferaigne,クレルモンフェラン,,duplicate
+866,428,codepage,9531,6,Dipan,ディパン城下町,,duplicate
+866,429,codepage,9537,6,Dipan,ディパン城下町,,duplicate
+866,430,codepage,9543,23,Royal Underground Path,王家の地下道,,duplicate
+866,431,codepage,9566,23,Royal Underground Path,王家の地下道,,duplicate
+866,432,codepage,9589,23,Royal Underground Path,王家の地下道,,duplicate
+866,433,codepage,9612,23,Royal Underground Path,王家の地下道,,duplicate
+866,434,codepage,9635,23,Royal Underground Path,王家の地下道,,duplicate
+866,435,codepage,9658,23,Royal Underground Path,王家の地下道,,duplicate
+866,436,codepage,9681,23,Royal Underground Path,王家の地下道,,duplicate
+866,437,codepage,9704,23,Royal Underground Path,王家の地下道,,duplicate
+866,438,codepage,9727,23,Royal Underground Path,王家の地下道,,duplicate
+866,439,codepage,9750,23,Royal Underground Path,王家の地下道,,duplicate
+866,440,codepage,9773,23,Royal Underground Path,王家の地下道,,duplicate
+866,441,codepage,9796,23,Royal Underground Path,王家の地下道,,duplicate
+866,442,codepage,9819,23,Royal Underground Path,王家の地下道,,duplicate
+866,443,codepage,9842,23,Royal Underground Path,王家の地下道,,duplicate
+866,444,codepage,9865,23,Royal Underground Path,王家の地下道,,duplicate
+866,445,codepage,9888,23,Royal Underground Path,王家の地下道,,duplicate
+866,446,codepage,9911,23,Royal Underground Path,王家の地下道,,duplicate
+866,447,codepage,9934,23,Royal Underground Path,王家の地下道,,duplicate
+866,448,codepage,9957,23,Royal Underground Path,王家の地下道,,duplicate
+866,449,codepage,9980,12,Lost Forest,喪失の森,,duplicate
+866,450,codepage,9992,12,Lost Forest,喪失の森,,duplicate
+866,451,codepage,10004,12,Lost Forest,喪失の森,,duplicate
+866,452,codepage,10016,12,Lost Forest,喪失の森,,duplicate
+866,453,codepage,10028,12,Lost Forest,喪失の森,,duplicate
+866,454,codepage,10040,12,Lost Forest,喪失の森,,duplicate
+866,455,codepage,10052,12,Lost Forest,喪失の森,,duplicate
+866,456,codepage,10064,12,Lost Forest,喪失の森,,duplicate
+866,457,codepage,10076,13,Dipan Castle,ディパン城,,duplicate
+866,458,codepage,10089,13,Dipan Castle,ディパン城,,duplicate
+866,459,codepage,10102,13,Dipan Castle,ディパン城,,duplicate
+866,460,codepage,10115,13,Dipan Castle,ディパン城,,duplicate
+866,461,codepage,10128,13,Dipan Castle,ディパン城,,duplicate
+866,462,codepage,10141,13,Dipan Castle,ディパン城,,duplicate
+866,463,codepage,10154,13,Dipan Castle,ディパン城,,duplicate
+866,464,codepage,10167,13,Dipan Castle,ディパン城,,duplicate
+866,465,codepage,10180,13,Dipan Castle,ディパン城,,duplicate
+866,466,codepage,10193,13,Dipan Castle,ディパン城,,duplicate
+866,467,codepage,10206,13,Dipan Castle,ディパン城,,duplicate
+866,468,codepage,10219,13,Dipan Castle,ディパン城,,duplicate
+866,469,codepage,10232,13,Dipan Castle,ディパン城,,duplicate
+866,470,codepage,10245,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,471,codepage,10269,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,472,codepage,10293,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,473,codepage,10317,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,474,codepage,10341,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,475,codepage,10365,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,476,codepage,10389,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,477,codepage,10413,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,478,codepage,10437,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,479,codepage,10461,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,480,codepage,10485,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,481,codepage,10509,24,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,duplicate
+866,482,codepage,10533,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,483,codepage,10560,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,484,codepage,10587,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,485,codepage,10614,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,486,codepage,10641,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,487,codepage,10668,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,488,codepage,10695,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,489,codepage,10722,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,490,codepage,10749,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,491,codepage,10776,27,Audoula Temple on the Lake,アウドゥーラ水上神殿,,duplicate
+866,492,codepage,10803,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,493,codepage,10825,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,494,codepage,10847,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,495,codepage,10869,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,496,codepage,10891,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,497,codepage,10913,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,498,codepage,10935,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,499,codepage,10957,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,500,codepage,10979,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,501,codepage,11001,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,502,codepage,11023,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,503,codepage,11045,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,504,codepage,11067,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,505,codepage,11089,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,506,codepage,11111,22,Surts Volcano Caverns,スルス火山洞窟,,duplicate
+866,507,codepage,11133,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,508,codepage,11154,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,509,codepage,11175,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,510,codepage,11196,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,511,codepage,11217,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,512,codepage,11238,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,513,codepage,11259,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,514,codepage,11280,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,515,codepage,11301,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,516,codepage,11322,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,517,codepage,11343,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,518,codepage,11364,21,Crawsus Forest Ruins,クローサス森林遺跡,,duplicate
+866,519,codepage,11385,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,520,codepage,11416,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,521,codepage,11447,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,522,codepage,11478,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,523,codepage,11509,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,524,codepage,11540,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,525,codepage,11571,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,526,codepage,11602,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,527,codepage,11633,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,528,codepage,11664,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,529,codepage,11695,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,530,codepage,11726,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,531,codepage,11757,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,532,codepage,11788,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,533,codepage,11819,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,534,codepage,11850,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,535,codepage,11881,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,536,codepage,11912,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,537,codepage,11943,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,538,codepage,11974,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,539,codepage,12005,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,540,codepage,12036,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,541,codepage,12067,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,542,codepage,12098,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,543,codepage,12129,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,544,codepage,12160,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,545,codepage,12191,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,546,codepage,12222,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,547,codepage,12253,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,548,codepage,12284,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,549,codepage,12315,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,550,codepage,12346,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,551,codepage,12377,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,552,codepage,12408,31,Palace of the Venerated Dragon,奉竜殿,,duplicate
+866,553,codepage,12439,13,Dipan Castle,ディパン城,,duplicate
+866,554,codepage,12452,13,Dipan Castle,ディパン城,,duplicate
+866,555,codepage,12465,13,Dipan Castle,ディパン城,,duplicate
+866,556,codepage,12478,13,Dipan Castle,ディパン城,,duplicate
+866,557,codepage,12491,13,Dipan Castle,ディパン城,,duplicate
+866,558,codepage,12504,13,Dipan Castle,ディパン城,,duplicate
+866,559,codepage,12517,13,Dipan Castle,ディパン城,,duplicate
+866,560,codepage,12530,13,Dipan Castle,ディパン城,,duplicate
+866,561,codepage,12543,13,Dipan Castle,ディパン城,,duplicate
+866,562,codepage,12556,13,Dipan Castle,ディパン城,,duplicate
+866,563,codepage,12569,13,Dipan Castle,ディパン城,,duplicate
+866,564,codepage,12582,13,Dipan Castle,ディパン城,,duplicate
+866,565,codepage,12595,13,Dipan Castle,ディパン城,,duplicate
+866,566,codepage,12608,13,Dipan Castle,ディパン城,,duplicate
+866,567,codepage,12621,13,Dipan Castle,ディパン城,,duplicate
+866,568,codepage,12634,13,Dipan Castle,ディパン城,,duplicate
+866,569,codepage,12647,18,Forest of Spirits,精霊の森,,duplicate
+866,570,codepage,12665,18,Forest of Spirits,精霊の森,,duplicate
+866,571,codepage,12683,18,Forest of Spirits,精霊の森,,duplicate
+866,572,codepage,12701,18,Forest of Spirits,精霊の森,,duplicate
+866,573,codepage,12719,18,Forest of Spirits,精霊の森,,duplicate
+866,574,codepage,12737,18,Forest of Spirits,精霊の森,,duplicate
+866,575,codepage,12755,18,Forest of Spirits,精霊の森,,duplicate
+866,576,codepage,12773,18,Forest of Spirits,精霊の森,,duplicate
+866,577,codepage,12791,18,Forest of Spirits,精霊の森,,duplicate
+866,578,codepage,12809,18,Forest of Spirits,精霊の森,,duplicate
+866,579,codepage,12827,18,Forest of Spirits,精霊の森,,duplicate
+866,580,codepage,12845,18,Forest of Spirits,精霊の森,,duplicate
+866,581,codepage,12863,8,Bifrost,ビフレスト,,duplicate
+866,582,codepage,12871,8,Bifrost,ビフレスト,,duplicate
+866,583,codepage,12879,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,584,codepage,12896,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,585,codepage,12913,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,586,codepage,12930,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,587,codepage,12947,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,588,codepage,12964,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,589,codepage,12981,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,590,codepage,12998,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,591,codepage,13015,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,592,codepage,13032,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,593,codepage,13049,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,594,codepage,13066,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,595,codepage,13083,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,596,codepage,13100,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,597,codepage,13117,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,598,codepage,13134,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,599,codepage,13151,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,600,codepage,13168,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,601,codepage,13185,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,602,codepage,13202,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,603,codepage,13219,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,604,codepage,13236,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,605,codepage,13253,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,606,codepage,13270,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,607,codepage,13287,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,608,codepage,13304,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,609,codepage,13321,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,610,codepage,13338,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,611,codepage,13355,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,612,codepage,13372,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,613,codepage,13389,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,614,codepage,13406,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,615,codepage,13423,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,616,codepage,13440,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,617,codepage,13457,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,618,codepage,13474,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,619,codepage,13491,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,620,codepage,13508,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,621,codepage,13525,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,622,codepage,13542,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,623,codepage,13559,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,624,codepage,13576,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,625,codepage,13593,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,626,codepage,13610,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,627,codepage,13627,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,628,codepage,13644,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,629,codepage,13661,17,Hall of Valhalla,ヴァルハラ宮殿,,duplicate
+866,630,codepage,13678,15,Ancient Forest,蒼枯の森,,duplicate
+866,631,codepage,13693,15,Ancient Forest,蒼枯の森,,duplicate
+866,632,codepage,13708,15,Ancient Forest,蒼枯の森,,duplicate
+866,633,codepage,13723,15,Ancient Forest,蒼枯の森,,duplicate
+866,634,codepage,13738,15,Ancient Forest,蒼枯の森,,duplicate
+866,635,codepage,13753,15,Ancient Forest,蒼枯の森,,duplicate
+866,636,codepage,13768,15,Ancient Forest,蒼枯の森,,duplicate
+866,637,codepage,13783,15,Ancient Forest,蒼枯の森,,duplicate
+866,638,codepage,13798,15,Ancient Forest,蒼枯の森,,duplicate
+866,639,codepage,13813,15,Ancient Forest,蒼枯の森,,duplicate
+866,640,codepage,13828,15,Ancient Forest,蒼枯の森,,duplicate
+866,641,codepage,13843,15,Ancient Forest,蒼枯の森,,duplicate
+866,642,codepage,13858,15,Ancient Forest,蒼枯の森,,duplicate
+866,643,codepage,13873,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,644,codepage,13891,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,645,codepage,13909,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,646,codepage,13927,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,647,codepage,13945,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,648,codepage,13963,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,649,codepage,13981,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,650,codepage,13999,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,651,codepage,14017,18,Chateau Obsession,昏き妄執の館,,duplicate
+866,652,codepage,14035,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,653,codepage,14047,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,654,codepage,14059,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,655,codepage,14071,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,656,codepage,14083,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,657,codepage,14095,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,658,codepage,14107,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,659,codepage,14119,12,Turgen Mine,トゥルゲン鉱山,,duplicate
+866,660,codepage,14131,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,661,codepage,14146,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,662,codepage,14161,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,663,codepage,14176,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,664,codepage,14191,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,665,codepage,14206,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,666,codepage,14221,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,667,codepage,14236,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,668,codepage,14251,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,669,codepage,14266,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,670,codepage,14281,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,671,codepage,14296,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,672,codepage,14311,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,673,codepage,14326,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,674,codepage,14341,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,675,codepage,14356,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,676,codepage,14371,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,677,codepage,14386,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,678,codepage,14401,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,679,codepage,14416,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,680,codepage,14431,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,681,codepage,14446,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,682,codepage,14461,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,683,codepage,14476,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,684,codepage,14491,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,685,codepage,14506,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,686,codepage,14521,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,687,codepage,14536,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,688,codepage,14551,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,689,codepage,14566,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,690,codepage,14581,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,691,codepage,14596,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,692,codepage,14611,15,Ravine Caverns,狭間の洞窟,,duplicate
+866,693,codepage,14626,10,Yggdrasil,ユグドラシル,,duplicate
+866,694,codepage,14636,10,Yggdrasil,ユグドラシル,,duplicate
+866,695,codepage,14646,10,Yggdrasil,ユグドラシル,,duplicate
+866,696,codepage,14656,10,Yggdrasil,ユグドラシル,,duplicate
+866,697,codepage,14666,10,Yggdrasil,ユグドラシル,,duplicate
+866,698,codepage,14676,10,Yggdrasil,ユグドラシル,,duplicate
+866,699,codepage,14686,10,Yggdrasil,ユグドラシル,,duplicate
+866,700,codepage,14696,10,Yggdrasil,ユグドラシル,,duplicate
+866,701,codepage,14706,10,Yggdrasil,ユグドラシル,,duplicate
+866,702,codepage,14716,10,Yggdrasil,ユグドラシル,,duplicate
+866,703,codepage,14726,10,Yggdrasil,ユグドラシル,,duplicate
+866,704,codepage,14736,10,Yggdrasil,ユグドラシル,,duplicate
+866,705,codepage,14746,10,Yggdrasil,ユグドラシル,,duplicate
+866,706,codepage,14756,10,Yggdrasil,ユグドラシル,,duplicate
+866,707,codepage,14766,10,Yggdrasil,ユグドラシル,,duplicate
+866,708,codepage,14776,10,Yggdrasil,ユグドラシル,,duplicate
+866,709,codepage,14786,10,Yggdrasil,ユグドラシル,,duplicate
+866,710,codepage,14796,10,Yggdrasil,ユグドラシル,,duplicate
+866,711,codepage,14806,10,Yggdrasil,ユグドラシル,,duplicate
+866,712,codepage,14816,10,Yggdrasil,ユグドラシル,,duplicate
+866,713,codepage,14826,10,Yggdrasil,ユグドラシル,,duplicate
+866,714,codepage,14836,10,Yggdrasil,ユグドラシル,,duplicate
+866,715,codepage,14846,10,Yggdrasil,ユグドラシル,,duplicate
+866,716,codepage,14856,10,Yggdrasil,ユグドラシル,,duplicate
+866,717,codepage,14866,10,Yggdrasil,ユグドラシル,,duplicate
+866,718,codepage,14876,10,Yggdrasil,ユグドラシル,,duplicate
+866,719,codepage,14886,10,Yggdrasil,ユグドラシル,,duplicate
+866,720,codepage,14896,10,Yggdrasil,ユグドラシル,,duplicate
+866,721,codepage,14906,10,Yggdrasil,ユグドラシル,,duplicate
+866,722,codepage,14916,10,Yggdrasil,ユグドラシル,,duplicate
+866,723,codepage,14926,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,724,codepage,14949,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,725,codepage,14972,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,726,codepage,14995,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,727,codepage,15018,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,728,codepage,15041,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,729,codepage,15064,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,730,codepage,15087,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,731,codepage,15110,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,732,codepage,15133,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,733,codepage,15156,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,734,codepage,15179,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,735,codepage,15202,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,736,codepage,15225,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,737,codepage,15248,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,738,codepage,15271,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,739,codepage,15294,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,740,codepage,15317,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,741,codepage,15340,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,742,codepage,15363,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,743,codepage,15386,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,744,codepage,15409,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,745,codepage,15432,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,746,codepage,15455,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,747,codepage,15478,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,748,codepage,15501,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,749,codepage,15524,23,Tower of Lezard Valeth,レザード・ヴァレスの塔,,duplicate
+866,750,codepage,15547,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,751,codepage,15561,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,752,codepage,15575,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,753,codepage,15589,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,754,codepage,15603,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,755,codepage,15617,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,756,codepage,15631,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,757,codepage,15645,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,758,codepage,15659,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,759,codepage,15673,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,760,codepage,15687,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,761,codepage,15701,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,762,codepage,15715,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,763,codepage,15729,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,764,codepage,15743,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,765,codepage,15757,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,766,codepage,15771,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,767,codepage,15785,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,768,codepage,15799,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,769,codepage,15813,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,770,codepage,15827,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,771,codepage,15841,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,772,codepage,15855,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,773,codepage,15869,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,774,codepage,15883,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,775,codepage,15897,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,776,codepage,15911,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,777,codepage,15925,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,778,codepage,15939,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,779,codepage,15953,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,780,codepage,15967,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,781,codepage,15981,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,782,codepage,15995,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,783,codepage,16009,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,784,codepage,16023,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,785,codepage,16037,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,786,codepage,16051,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,787,codepage,16065,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,788,codepage,16079,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,789,codepage,16093,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,790,codepage,16107,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,791,codepage,16121,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,792,codepage,16135,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,793,codepage,16149,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,794,codepage,16163,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,795,codepage,16177,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,796,codepage,16191,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,797,codepage,16205,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,798,codepage,16219,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,799,codepage,16233,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,800,codepage,16247,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,801,codepage,16261,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,802,codepage,16275,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,803,codepage,16289,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,804,codepage,16303,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,805,codepage,16317,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,806,codepage,16331,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,807,codepage,16345,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,808,codepage,16359,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,809,codepage,16373,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,810,codepage,16387,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,811,codepage,16401,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,812,codepage,16415,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,813,codepage,16429,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,814,codepage,16443,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,815,codepage,16457,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,816,codepage,16471,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,817,codepage,16485,14,Seraphic Gate,セラフィックゲート,,duplicate
+866,818,codepage,16499,13,Sahma Desert,サーマ砂漠,,duplicate
+866,819,codepage,16512,13,Sahma Desert,サーマ砂漠,,duplicate
+866,820,codepage,16525,13,Sahma Desert,サーマ砂漠,,duplicate
+866,821,codepage,16538,13,Sahma Desert,サーマ砂漠,,duplicate
+866,822,codepage,16551,15,Kythena Plains,キセナ草原,,duplicate
+866,823,codepage,16566,15,Kythena Plains,キセナ草原,,duplicate
+866,824,codepage,16581,15,Kythena Plains,キセナ草原,,duplicate
+866,825,codepage,16596,15,Kythena Plains,キセナ草原,,duplicate
+866,826,codepage,16611,7,Asgard,アスガルド,,duplicate
+866,827,codepage,16618,7,Asgard,アスガルド,,duplicate
+866,828,codepage,16625,7,Asgard,アスガルド,,duplicate
+866,829,codepage,16632,7,Asgard,アスガルド,,duplicate
+866,830,codepage,16639,13,Dragonscrypt,竜の墓場,,duplicate
+866,831,codepage,16652,13,Dragonscrypt,竜の墓場,,duplicate
+866,832,codepage,16665,13,Dragonscrypt,竜の墓場,,duplicate
+866,833,codepage,16678,13,Dragonscrypt,竜の墓場,,duplicate
+866,834,codepage,16691,14,Sukavia Gorge,スカビア渓谷,,duplicate
+866,835,codepage,16705,14,Sukavia Gorge,スカビア渓谷,,duplicate
+866,836,codepage,16719,14,Sukavia Gorge,スカビア渓谷,,duplicate
+866,837,codepage,16733,14,Sukavia Gorge,スカビア渓谷,,duplicate
+866,838,codepage,16747,14,Sukavia Gorge,スカビア渓谷,,duplicate
+866,839,codepage,16761,14,Sukavia Gorge,スカビア渓谷,,duplicate
+866,840,codepage,16775,10,EVENT_MAP,イベントマップ,,duplicate
+866,841,codepage,16785,10,EVENT_MAP,イベントマップ,,duplicate
+866,842,codepage,16795,10,EVENT_MAP,イベントマップ,,duplicate
+866,843,codepage,16805,10,EVENT_MAP,イベントマップ,,duplicate
+866,844,codepage,16815,10,EVENT_MAP,イベントマップ,,duplicate
+866,845,codepage,16825,10,EVENT_MAP,イベントマップ,,duplicate
+866,846,codepage,16835,10,EVENT_MAP,イベントマップ,,duplicate
+866,847,codepage,16845,10,EVENT_MAP,イベントマップ,,duplicate
+866,848,codepage,16855,10,EVENT_MAP,イベントマップ,,duplicate
+866,849,codepage,16865,10,EVENT_MAP,イベントマップ,,duplicate
+866,850,codepage,16875,10,EVENT_MAP,イベントマップ,,duplicate
+866,851,codepage,16885,10,EVENT_MAP,イベントマップ,,duplicate
+866,852,codepage,16895,10,EVENT_MAP,イベントマップ,,duplicate
+866,853,codepage,16905,10,EVENT_MAP,イベントマップ,,duplicate
+866,854,codepage,16915,10,EVENT_MAP,イベントマップ,,duplicate
+866,855,codepage,16925,10,EVENT_MAP,イベントマップ,,duplicate
+866,856,codepage,16935,10,EVENT_MAP,イベントマップ,,duplicate
+866,857,codepage,16945,10,EVENT_MAP,イベントマップ,,duplicate
+866,858,codepage,16955,10,EVENT_MAP,イベントマップ,,duplicate
+866,859,codepage,16965,10,EVENT_MAP,イベントマップ,,duplicate
+866,860,codepage,16975,10,EVENT_MAP,イベントマップ,,duplicate
+866,861,codepage,16985,10,EVENT_MAP,イベントマップ,,duplicate
+866,862,codepage,16995,10,EVENT_MAP,イベントマップ,,duplicate
+866,863,codepage,17005,10,EVENT_MAP,イベントマップ,,duplicate
+866,864,codepage,17015,10,EVENT_MAP,イベントマップ,,duplicate
+866,865,codepage,17025,10,EVENT_MAP,イベントマップ,,duplicate
+866,866,codepage,17035,10,EVENT_MAP,イベントマップ,,duplicate
+866,867,codepage,17045,10,EVENT_MAP,イベントマップ,,duplicate
+866,868,codepage,17055,10,EVENT_MAP,イベントマップ,,duplicate
+866,869,codepage,17065,10,EVENT_MAP,イベントマップ,,duplicate
+866,870,codepage,17075,10,EVENT_MAP,イベントマップ,,duplicate
+866,871,codepage,17085,10,EVENT_MAP,イベントマップ,,duplicate
+866,872,codepage,17095,10,EVENT_MAP,イベントマップ,,duplicate
+866,873,codepage,17105,10,EVENT_MAP,イベントマップ,,duplicate
+866,874,codepage,17115,10,EVENT_MAP,イベントマップ,,duplicate
+866,875,codepage,17125,10,EVENT_MAP,イベントマップ,,duplicate
+866,876,codepage,17135,10,EVENT_MAP,イベントマップ,,duplicate
+866,877,codepage,17145,10,EVENT_MAP,イベントマップ,,duplicate
+866,878,codepage,17155,10,EVENT_MAP,イベントマップ,,duplicate
+866,879,codepage,17165,10,EVENT_MAP,イベントマップ,,duplicate
+866,880,codepage,17175,10,EVENT_MAP,イベントマップ,,duplicate
+866,881,codepage,17185,10,EVENT_MAP,イベントマップ,,duplicate
+866,882,codepage,17195,10,EVENT_MAP,イベントマップ,,duplicate
+866,883,codepage,17205,10,EVENT_MAP,イベントマップ,,duplicate
+866,884,codepage,17215,10,EVENT_MAP,イベントマップ,,duplicate
+866,885,codepage,17225,10,EVENT_MAP,イベントマップ,,duplicate
+866,886,codepage,17235,10,EVENT_MAP,イベントマップ,,duplicate
+866,887,codepage,17245,10,EVENT_MAP,イベントマップ,,duplicate
+866,888,codepage,17255,10,EVENT_MAP,イベントマップ,,duplicate
+866,889,codepage,17265,10,EVENT_MAP,イベントマップ,,duplicate
+866,890,codepage,17275,10,EVENT_MAP,イベントマップ,,duplicate
+866,891,codepage,17285,10,EVENT_MAP,イベントマップ,,duplicate
+866,892,codepage,17295,10,EVENT_MAP,イベントマップ,,duplicate
+866,893,codepage,17305,10,EVENT_MAP,イベントマップ,,duplicate
+866,894,codepage,17315,10,EVENT_MAP,イベントマップ,,duplicate
+866,895,codepage,17325,10,EVENT_MAP,イベントマップ,,duplicate
+866,896,codepage,17335,10,EVENT_MAP,イベントマップ,,duplicate
+866,897,codepage,17345,10,EVENT_MAP,イベントマップ,,duplicate
+866,898,codepage,17355,10,EVENT_MAP,イベントマップ,,duplicate
+866,899,codepage,17365,10,EVENT_MAP,イベントマップ,,duplicate
+866,900,codepage,17375,10,EVENT_MAP,イベントマップ,,duplicate
+866,901,codepage,17385,10,EVENT_MAP,イベントマップ,,duplicate
+866,902,codepage,17395,10,EVENT_MAP,イベントマップ,,duplicate
+866,903,codepage,17405,10,EVENT_MAP,イベントマップ,,duplicate
+866,904,codepage,17415,10,EVENT_MAP,イベントマップ,,duplicate
+866,905,codepage,17425,10,EVENT_MAP,イベントマップ,,duplicate
+866,906,codepage,17435,10,EVENT_MAP,イベントマップ,,duplicate
+866,907,codepage,17445,10,EVENT_MAP,イベントマップ,,duplicate
+866,908,codepage,17455,10,EVENT_MAP,イベントマップ,,duplicate
+866,909,codepage,17465,10,EVENT_MAP,イベントマップ,,duplicate
+866,910,codepage,17475,10,EVENT_MAP,イベントマップ,,duplicate
+866,911,codepage,17485,10,EVENT_MAP,イベントマップ,,duplicate
+866,912,codepage,17495,10,EVENT_MAP,イベントマップ,,duplicate
+866,913,codepage,17505,10,EVENT_MAP,イベントマップ,,duplicate
+866,914,codepage,17515,10,EVENT_MAP,イベントマップ,,duplicate
+866,915,codepage,17525,10,EVENT_MAP,イベントマップ,,duplicate
+866,916,codepage,17535,10,EVENT_MAP,イベントマップ,,duplicate
+866,917,codepage,17545,10,EVENT_MAP,イベントマップ,,duplicate
+866,918,codepage,17555,10,EVENT_MAP,イベントマップ,,duplicate
+866,919,codepage,17565,10,EVENT_MAP,イベントマップ,,duplicate
+866,920,codepage,17575,10,EVENT_MAP,イベントマップ,,duplicate
+866,921,codepage,17585,10,EVENT_MAP,イベントマップ,,duplicate
+866,922,codepage,17595,10,EVENT_MAP,イベントマップ,,duplicate
+866,923,codepage,17605,10,EVENT_MAP,イベントマップ,,duplicate
+866,924,codepage,17615,10,EVENT_MAP,イベントマップ,,duplicate
+866,925,codepage,17625,10,EVENT_MAP,イベントマップ,,duplicate
+866,926,codepage,17635,10,EVENT_MAP,イベントマップ,,duplicate
+866,927,codepage,17645,10,EVENT_MAP,イベントマップ,,duplicate
+866,928,codepage,17655,10,EVENT_MAP,イベントマップ,,duplicate
+866,929,codepage,17665,10,EVENT_MAP,イベントマップ,,duplicate
+866,930,codepage,17675,10,EVENT_MAP,イベントマップ,,duplicate
+866,931,codepage,17685,10,EVENT_MAP,イベントマップ,,duplicate
+866,932,codepage,17695,10,EVENT_MAP,イベントマップ,,duplicate
+866,933,codepage,17705,10,EVENT_MAP,イベントマップ,,duplicate
+866,934,codepage,17715,10,EVENT_MAP,イベントマップ,,duplicate
+866,935,codepage,17725,10,EVENT_MAP,イベントマップ,,duplicate
+866,936,codepage,17735,10,EVENT_MAP,イベントマップ,,duplicate
+866,937,codepage,17745,10,EVENT_MAP,イベントマップ,,duplicate
+866,938,codepage,17755,10,EVENT_MAP,イベントマップ,,duplicate
+866,939,codepage,17765,11,Sound Mode,サウンド・モード,,duplicate
+866,940,codepage,17776,10,CHECK_MAP,チェック用マップ,,duplicate
+866,941,codepage,17786,10,CHECK_MAP,チェック用マップ,,duplicate
+866,942,codepage,17796,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,943,codepage,17805,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,944,codepage,17814,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,945,codepage,17823,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,946,codepage,17832,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,947,codepage,17841,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,948,codepage,17850,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,949,codepage,17859,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,950,codepage,17868,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,951,codepage,17877,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,952,codepage,17886,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,953,codepage,17895,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,954,codepage,17904,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,955,codepage,17913,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,956,codepage,17922,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,957,codepage,17931,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,958,codepage,17940,9,D_PUZZLE,光子パズル（設計図）,,duplicate
+866,959,codepage,17949,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,960,codepage,17961,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,961,codepage,17973,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,962,codepage,17985,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,963,codepage,17997,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,964,codepage,18009,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,965,codepage,18021,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,966,codepage,18033,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,967,codepage,18045,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,968,codepage,18057,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,969,codepage,18069,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,970,codepage,18081,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,971,codepage,18093,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,972,codepage,18105,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,973,codepage,18117,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,974,codepage,18129,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,975,codepage,18141,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,976,codepage,18153,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,977,codepage,18165,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,978,codepage,18177,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,979,codepage,18189,12,D_TUTORIAL1,封印石チュートリアル（設計図）,,duplicate
+866,980,codepage,18201,10,DEBUG_MAP,デバッグ用マップ,,duplicate
+866,981,codepage,18211,10,DEBUG_MAP,デバッグ用マップ,,duplicate
+866,982,codepage,18221,8,SCEBOOT,起動用マップ,,duplicate

@@ -1,168 +1,168 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1393,2,804,,,,Musician,"1 song, 1ooo OTH!",〓〓〓〓〓〓 〓〓〓！,,
-1,2,1393,6,972,,,,Musician,What a tightwad!,このドケチ！,,
-1,3,1393,7,1088,,,,Musician,"If you can't pay, we don't play.",金ないじゃん ひやかしお断り,,
-1,4,1393,8,1152,,,,Musician,Any requests?,リクエストは？,,
-1,5,1393,9,2184,,,,Talent Agent,We request 2ooo OTH per song.,〓〓2〓〓〓 〓〓〓で御〓います,,
-1,6,1393,13,2352,,,,Talent Agent,Please take this.,では お引取り下さい,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1393,2,804,,,,Musician,"1 song, 1ooo OTH!",〓〓〓〓〓〓 〓〓〓！,,,
+1,2,1393,6,972,,,,Musician,What a tightwad!,このドケチ！,,,
+1,3,1393,7,1088,,,,Musician,"If you can't pay, we don't play.",金ないじゃん ひやかしお断り,,,
+1,4,1393,8,1152,,,,Musician,Any requests?,リクエストは？,,,primary
+1,5,1393,9,2184,,,,Talent Agent,We request 2ooo OTH per song.,〓〓2〓〓〓 〓〓〓で御〓います,,,
+1,6,1393,13,2352,,,,Talent Agent,Please take this.,では お引取り下さい,,,
 1,7,1393,14,2468,,,,Talent Agent,"It seems you don't have enough money.
-Come when you have a rendezvous.",所持金が足りないようですね持ち合わせのある時におこし下さい,,
-1,8,1393,15,2532,,,,Talent Agent,Any requests?,リクエストは？,,
-2,1,1393,196,7372,,,,Musician,You're not ready for that song.,この〓は〓まだ〓かせられない。,,
+Come when you have a rendezvous.",所持金が足りないようですね持ち合わせのある時におこし下さい,,,
+1,8,1393,15,2532,,,,Talent Agent,Any requests?,リクエストは？,,,duplicate
+2,1,1393,196,7372,,,,Musician,You're not ready for that song.,この〓は〓まだ〓かせられない。,,,
 2,2,1393,218,7420,,,,Talent Agent,"You're not ready for that song.
-Pick another one.",この〓は まだお〓かせできません別の〓をご指定下さい,,
-3,1,1393,1,,,,,,Sound Mode,サウンド・モード,,not displayed by the event script
-3,2,1393,3,,,,,,Pay  OTH?,〓〓〓〓,,not displayed by the event script
-3,3,1393,4,,,,,,Pay up.,〓う,,not displayed by the event script
-3,4,1393,5,,,,,,Pay no mind.,〓わない,,not displayed by the event script
-3,5,1393,10,,,,,,Pay  OTH?,〓〓〓〓,,not displayed by the event script
-3,6,1393,11,,,,,,Pay up.,〓う,,not displayed by the event script
-3,7,1393,12,,,,,,Pay no mind.,〓わない,,not displayed by the event script
-3,8,1393,16,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,9,1393,17,,,,,,A -,〓〓〓〓,,not displayed by the event script
-3,10,1393,18,,,,,,B -,〓〓〓〓,,not displayed by the event script
-3,11,1393,19,,,,,,C -,〓〓〓〓,,not displayed by the event script
-3,12,1393,20,,,,,,D -,〓〓〓〓,,not displayed by the event script
-3,13,1393,26,,,,,,E -,〓〓〓〓,,not displayed by the event script
-3,14,1393,27,,,,,,F -,〓〓〓〓,,not displayed by the event script
-3,15,1393,28,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,16,1393,29,,,,,,A-,〓,,not displayed by the event script
-3,17,1393,30,,,,,,A-,〓,,not displayed by the event script
-3,18,1393,31,,,,,,A-,〓,,not displayed by the event script
-3,19,1393,32,,,,,,A-,〓,,not displayed by the event script
-3,20,1393,33,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,21,1393,34,,,,,,B-,〓,,not displayed by the event script
-3,22,1393,35,,,,,,B-,〓,,not displayed by the event script
-3,23,1393,36,,,,,,B-,〓,,not displayed by the event script
-3,24,1393,37,,,,,,B-,〓,,not displayed by the event script
-3,25,1393,38,,,,,,B-,〓,,not displayed by the event script
-3,26,1393,39,,,,,,B-,〓,,not displayed by the event script
-3,27,1393,40,,,,,,B-,〓,,not displayed by the event script
-3,28,1393,41,,,,,,Next,次へ,,not displayed by the event script
-3,29,1393,42,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,30,1393,43,,,,,,B-,〓,,not displayed by the event script
-3,31,1393,44,,,,,,B-,〓,,not displayed by the event script
-3,32,1393,45,,,,,,B-,〓,,not displayed by the event script
-3,33,1393,46,,,,,,B-,〓,,not displayed by the event script
-3,34,1393,47,,,,,,B-,〓,,not displayed by the event script
-3,35,1393,48,,,,,,B-,〓,,not displayed by the event script
-3,36,1393,49,,,,,,Back,〓へ,,not displayed by the event script
-3,37,1393,50,,,,,,Next,次へ,,not displayed by the event script
-3,38,1393,51,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,39,1393,52,,,,,,B-,〓,,not displayed by the event script
-3,40,1393,53,,,,,,B-,〓,,not displayed by the event script
-3,41,1393,54,,,,,,B-,〓,,not displayed by the event script
-3,42,1393,55,,,,,,B-,〓,,not displayed by the event script
-3,43,1393,56,,,,,,B-,〓,,not displayed by the event script
-3,44,1393,57,,,,,,B-,〓,,not displayed by the event script
-3,45,1393,58,,,,,,B-,〓,,not displayed by the event script
-3,46,1393,59,,,,,,Back,〓へ,,not displayed by the event script
-3,47,1393,60,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,48,1393,61,,,,,,C-,〓,,not displayed by the event script
-3,49,1393,62,,,,,,C-,〓,,not displayed by the event script
-3,50,1393,63,,,,,,C-,〓,,not displayed by the event script
-3,51,1393,64,,,,,,C-,〓,,not displayed by the event script
-3,52,1393,65,,,,,,C-,〓,,not displayed by the event script
-3,53,1393,66,,,,,,C-,〓,,not displayed by the event script
-3,54,1393,67,,,,,,C-,〓,,not displayed by the event script
-3,55,1393,68,,,,,,Next,次へ,,not displayed by the event script
-3,56,1393,69,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,57,1393,70,,,,,,C-,〓,,not displayed by the event script
-3,58,1393,71,,,,,,C-,〓,,not displayed by the event script
-3,59,1393,72,,,,,,C-,〓,,not displayed by the event script
-3,60,1393,73,,,,,,C-,〓,,not displayed by the event script
-3,61,1393,74,,,,,,C-,〓,,not displayed by the event script
-3,62,1393,75,,,,,,C-,〓,,not displayed by the event script
-3,63,1393,76,,,,,,Back,〓へ,,not displayed by the event script
-3,64,1393,77,,,,,,Next,次へ,,not displayed by the event script
-3,65,1393,78,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,66,1393,79,,,,,,C-,〓,,not displayed by the event script
-3,67,1393,80,,,,,,C-,〓,,not displayed by the event script
-3,68,1393,81,,,,,,C-,〓,,not displayed by the event script
-3,69,1393,82,,,,,,C-,〓,,not displayed by the event script
-3,70,1393,83,,,,,,Back,〓へ,,not displayed by the event script
-3,71,1393,87,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,72,1393,88,,,,,,D-,〓,,not displayed by the event script
-3,73,1393,89,,,,,,D-,〓,,not displayed by the event script
-3,74,1393,90,,,,,,D-,〓,,not displayed by the event script
-3,75,1393,91,,,,,,D-,〓,,not displayed by the event script
-3,76,1393,92,,,,,,D-,〓,,not displayed by the event script
-3,77,1393,93,,,,,,D-,〓,,not displayed by the event script
-3,78,1393,94,,,,,,D-,〓,,not displayed by the event script
-3,79,1393,95,,,,,,Next,次へ,,not displayed by the event script
-3,80,1393,96,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,81,1393,97,,,,,,D-,〓,,not displayed by the event script
-3,82,1393,98,,,,,,D-,〓,,not displayed by the event script
-3,83,1393,99,,,,,,D-,〓,,not displayed by the event script
-3,84,1393,100,,,,,,D-,〓,,not displayed by the event script
-3,85,1393,101,,,,,,D-,〓,,not displayed by the event script
-3,86,1393,102,,,,,,D-,〓,,not displayed by the event script
-3,87,1393,103,,,,,,Back,〓へ,,not displayed by the event script
-3,88,1393,105,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,89,1393,106,,,,,,E-,〓,,not displayed by the event script
-3,90,1393,107,,,,,,E-,〓,,not displayed by the event script
-3,91,1393,108,,,,,,E-,〓,,not displayed by the event script
-3,92,1393,109,,,,,,E-,〓,,not displayed by the event script
-3,93,1393,110,,,,,,E-,〓,,not displayed by the event script
-3,94,1393,111,,,,,,E-,〓,,not displayed by the event script
-3,95,1393,112,,,,,,E-,〓,,not displayed by the event script
-3,96,1393,113,,,,,,Next,次へ,,not displayed by the event script
-3,97,1393,114,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,98,1393,115,,,,,,E-,〓,,not displayed by the event script
-3,99,1393,116,,,,,,E-,〓,,not displayed by the event script
-3,100,1393,117,,,,,,E-,〓,,not displayed by the event script
-3,101,1393,118,,,,,,E-,〓,,not displayed by the event script
-3,102,1393,123,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,103,1393,124,,,,,,F-,〓,,not displayed by the event script
-3,104,1393,125,,,,,,F-,〓,,not displayed by the event script
-3,105,1393,126,,,,,,F-,〓,,not displayed by the event script
-3,106,1393,127,,,,,,F-,〓,,not displayed by the event script
-3,107,1393,172,,,,,,F-,〓,,not displayed by the event script
-3,108,1393,173,,,,,,F-,〓,,not displayed by the event script
-3,109,1393,174,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,110,1393,175,,,,,,F-,〓,,not displayed by the event script
-3,111,1393,176,,,,,,F-,〓,,not displayed by the event script
-3,112,1393,177,,,,,,F-,〓,,not displayed by the event script
-3,113,1393,178,,,,,,F-,〓,,not displayed by the event script
-3,114,1393,179,,,,,,F-,〓,,not displayed by the event script
-3,115,1393,180,,,,,,F-,〓,,not displayed by the event script
-3,116,1393,181,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,117,1393,182,,,,,,F-,〓,,not displayed by the event script
-3,118,1393,183,,,,,,F-,〓,,not displayed by the event script
-3,119,1393,184,,,,,,F-,〓,,not displayed by the event script
-3,120,1393,185,,,,,,F-,〓,,not displayed by the event script
-3,121,1393,186,,,,,,F-,〓,,not displayed by the event script
-3,122,1393,187,,,,,,F-,〓,,not displayed by the event script
-3,123,1393,188,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,124,1393,189,,,,,,D-,〓,,not displayed by the event script
-3,125,1393,190,,,,,,D-,〓,,not displayed by the event script
-3,126,1393,191,,,,,,D-,〓,,not displayed by the event script
-3,127,1393,192,,,,,,D-,〓,,not displayed by the event script
-3,128,1393,193,,,,,,D-,〓,,not displayed by the event script
-3,129,1393,194,,,,,,D-,〓,,not displayed by the event script
-3,130,1393,195,,,,,,Back,〓へ,,not displayed by the event script
-3,131,1393,197,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,132,1393,198,,,,,,F-,〓,,not displayed by the event script
-3,133,1393,199,,,,,,F-,〓,,not displayed by the event script
-3,134,1393,200,,,,,,F-,〓,,not displayed by the event script
-3,135,1393,201,,,,,,F-,〓,,not displayed by the event script
-3,136,1393,202,,,,,,F-,〓,,not displayed by the event script
-3,137,1393,203,,,,,,F-,〓,,not displayed by the event script
-3,138,1393,204,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,139,1393,205,,,,,,F-,〓,,not displayed by the event script
-3,140,1393,206,,,,,,F-,〓,,not displayed by the event script
-3,141,1393,207,,,,,,F-,〓,,not displayed by the event script
-3,142,1393,208,,,,,,F-,〓,,not displayed by the event script
-3,143,1393,209,,,,,,F-,〓,,not displayed by the event script
-3,144,1393,210,,,,,,F-,〓,,not displayed by the event script
-3,145,1393,211,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script
-3,146,1393,212,,,,,,F-,〓,,not displayed by the event script
-3,147,1393,213,,,,,,F-,〓,,not displayed by the event script
-3,148,1393,214,,,,,,F-,〓,,not displayed by the event script
-3,149,1393,215,,,,,,F-,〓,,not displayed by the event script
-3,150,1393,216,,,,,,F-,〓,,not displayed by the event script
-3,151,1393,217,,,,,,F-,〓,,not displayed by the event script
-3,152,1393,219,,,,,,Back,〓へ,,not displayed by the event script
-3,153,1393,220,,,,,,Sound Mode,サウンド・モード,,not displayed by the event script
-3,154,1393,226,,,,,,Musician,ミュージシャン,,not displayed by the event script
-3,155,1393,227,,,,,,Talent Agent,マネージャー,,not displayed by the event script
+Pick another one.",この〓は まだお〓かせできません別の〓をご指定下さい,,,
+3,1,1393,1,,,,,,Sound Mode,サウンド・モード,,not displayed by the event script,duplicate
+3,2,1393,3,,,,,,Pay  OTH?,〓TH？,,not displayed by the event script,primary
+3,3,1393,4,,,,,,Pay up.,払う,,not displayed by the event script,primary
+3,4,1393,5,,,,,,Pay no mind.,払わない,,not displayed by the event script,primary
+3,5,1393,10,,,,,,Pay  OTH?,〓TH？,,not displayed by the event script,duplicate
+3,6,1393,11,,,,,,Pay up.,払う,,not displayed by the event script,duplicate
+3,7,1393,12,,,,,,Pay no mind.,払わない,,not displayed by the event script,duplicate
+3,8,1393,16,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,primary
+3,9,1393,17,,,,,,A -,A（〓）,,not displayed by the event script,
+3,10,1393,18,,,,,,B -,B（〓）,,not displayed by the event script,
+3,11,1393,19,,,,,,C -,〓（〓）,,not displayed by the event script,
+3,12,1393,20,,,,,,D -,D（〓）,,not displayed by the event script,
+3,13,1393,26,,,,,,E -,〓（〓）,,not displayed by the event script,
+3,14,1393,27,,,,,,F -,〓（〓）,,not displayed by the event script,
+3,15,1393,28,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,16,1393,29,,,,,,A-,A,,not displayed by the event script,primary
+3,17,1393,30,,,,,,A-,A,,not displayed by the event script,duplicate
+3,18,1393,31,,,,,,A-,A,,not displayed by the event script,duplicate
+3,19,1393,32,,,,,,A-,A,,not displayed by the event script,duplicate
+3,20,1393,33,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,21,1393,34,,,,,,B-,B,,not displayed by the event script,primary
+3,22,1393,35,,,,,,B-,B,,not displayed by the event script,duplicate
+3,23,1393,36,,,,,,B-,B,,not displayed by the event script,duplicate
+3,24,1393,37,,,,,,B-,B,,not displayed by the event script,duplicate
+3,25,1393,38,,,,,,B-,B,,not displayed by the event script,duplicate
+3,26,1393,39,,,,,,B-,B,,not displayed by the event script,duplicate
+3,27,1393,40,,,,,,B-,B,,not displayed by the event script,duplicate
+3,28,1393,41,,,,,,Next,次へ,,not displayed by the event script,duplicate
+3,29,1393,42,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,30,1393,43,,,,,,B-,B,,not displayed by the event script,duplicate
+3,31,1393,44,,,,,,B-,B,,not displayed by the event script,duplicate
+3,32,1393,45,,,,,,B-,B,,not displayed by the event script,duplicate
+3,33,1393,46,,,,,,B-,B,,not displayed by the event script,duplicate
+3,34,1393,47,,,,,,B-,B,,not displayed by the event script,duplicate
+3,35,1393,48,,,,,,B-,B,,not displayed by the event script,duplicate
+3,36,1393,49,,,,,,Back,前へ,,not displayed by the event script,primary
+3,37,1393,50,,,,,,Next,次へ,,not displayed by the event script,duplicate
+3,38,1393,51,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,39,1393,52,,,,,,B-,B,,not displayed by the event script,duplicate
+3,40,1393,53,,,,,,B-,B,,not displayed by the event script,duplicate
+3,41,1393,54,,,,,,B-,B,,not displayed by the event script,duplicate
+3,42,1393,55,,,,,,B-,B,,not displayed by the event script,duplicate
+3,43,1393,56,,,,,,B-,B,,not displayed by the event script,duplicate
+3,44,1393,57,,,,,,B-,B,,not displayed by the event script,duplicate
+3,45,1393,58,,,,,,B-,B,,not displayed by the event script,duplicate
+3,46,1393,59,,,,,,Back,前へ,,not displayed by the event script,duplicate
+3,47,1393,60,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,48,1393,61,,,,,,C-,〓,,not displayed by the event script,primary
+3,49,1393,62,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,50,1393,63,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,51,1393,64,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,52,1393,65,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,53,1393,66,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,54,1393,67,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,55,1393,68,,,,,,Next,次へ,,not displayed by the event script,duplicate
+3,56,1393,69,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,57,1393,70,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,58,1393,71,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,59,1393,72,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,60,1393,73,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,61,1393,74,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,62,1393,75,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,63,1393,76,,,,,,Back,前へ,,not displayed by the event script,duplicate
+3,64,1393,77,,,,,,Next,次へ,,not displayed by the event script,duplicate
+3,65,1393,78,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,66,1393,79,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,67,1393,80,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,68,1393,81,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,69,1393,82,,,,,,C-,〓,,not displayed by the event script,duplicate
+3,70,1393,83,,,,,,Back,前へ,,not displayed by the event script,duplicate
+3,71,1393,87,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,72,1393,88,,,,,,D-,D,,not displayed by the event script,primary
+3,73,1393,89,,,,,,D-,D,,not displayed by the event script,duplicate
+3,74,1393,90,,,,,,D-,D,,not displayed by the event script,duplicate
+3,75,1393,91,,,,,,D-,D,,not displayed by the event script,duplicate
+3,76,1393,92,,,,,,D-,D,,not displayed by the event script,duplicate
+3,77,1393,93,,,,,,D-,D,,not displayed by the event script,duplicate
+3,78,1393,94,,,,,,D-,D,,not displayed by the event script,duplicate
+3,79,1393,95,,,,,,Next,次へ,,not displayed by the event script,duplicate
+3,80,1393,96,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,81,1393,97,,,,,,D-,D,,not displayed by the event script,duplicate
+3,82,1393,98,,,,,,D-,D,,not displayed by the event script,duplicate
+3,83,1393,99,,,,,,D-,D,,not displayed by the event script,duplicate
+3,84,1393,100,,,,,,D-,D,,not displayed by the event script,duplicate
+3,85,1393,101,,,,,,D-,D,,not displayed by the event script,duplicate
+3,86,1393,102,,,,,,D-,D,,not displayed by the event script,duplicate
+3,87,1393,103,,,,,,Back,前へ,,not displayed by the event script,duplicate
+3,88,1393,105,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,89,1393,106,,,,,,E-,〓,,not displayed by the event script,primary
+3,90,1393,107,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,91,1393,108,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,92,1393,109,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,93,1393,110,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,94,1393,111,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,95,1393,112,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,96,1393,113,,,,,,Next,次へ,,not displayed by the event script,duplicate
+3,97,1393,114,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,98,1393,115,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,99,1393,116,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,100,1393,117,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,101,1393,118,,,,,,E-,〓,,not displayed by the event script,duplicate
+3,102,1393,123,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,103,1393,124,,,,,,F-,〓,,not displayed by the event script,primary
+3,104,1393,125,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,105,1393,126,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,106,1393,127,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,107,1393,172,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,108,1393,173,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,109,1393,174,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,110,1393,175,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,111,1393,176,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,112,1393,177,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,113,1393,178,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,114,1393,179,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,115,1393,180,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,116,1393,181,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,117,1393,182,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,118,1393,183,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,119,1393,184,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,120,1393,185,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,121,1393,186,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,122,1393,187,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,123,1393,188,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,124,1393,189,,,,,,D-,D,,not displayed by the event script,duplicate
+3,125,1393,190,,,,,,D-,D,,not displayed by the event script,duplicate
+3,126,1393,191,,,,,,D-,D,,not displayed by the event script,duplicate
+3,127,1393,192,,,,,,D-,D,,not displayed by the event script,duplicate
+3,128,1393,193,,,,,,D-,D,,not displayed by the event script,duplicate
+3,129,1393,194,,,,,,D-,D,,not displayed by the event script,duplicate
+3,130,1393,195,,,,,,Back,前へ,,not displayed by the event script,duplicate
+3,131,1393,197,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,132,1393,198,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,133,1393,199,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,134,1393,200,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,135,1393,201,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,136,1393,202,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,137,1393,203,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,138,1393,204,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,139,1393,205,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,140,1393,206,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,141,1393,207,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,142,1393,208,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,143,1393,209,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,144,1393,210,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,145,1393,211,,,,,,Sound Select,サウンドセレクト,,not displayed by the event script,duplicate
+3,146,1393,212,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,147,1393,213,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,148,1393,214,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,149,1393,215,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,150,1393,216,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,151,1393,217,,,,,,F-,〓,,not displayed by the event script,duplicate
+3,152,1393,219,,,,,,Back,前へ,,not displayed by the event script,duplicate
+3,153,1393,220,,,,,,Sound Mode,サウンド・モード,,not displayed by the event script,duplicate
+3,154,1393,226,,,,,,Musician,ミュージシャン,,not displayed by the event script,
+3,155,1393,227,,,,,,Talent Agent,マネージャー,,not displayed by the event script,

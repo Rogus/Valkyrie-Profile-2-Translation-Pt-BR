@@ -1,5 +1,5 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,389,8,616,,,,,"There's a depression in the statue,
-as if something could be placed there.",女性像に何かをはめこむための〓が開いている。,,
-2,1,389,1,,,,,,,,,not displayed by the event script
-2,2,389,2750,,,,,,Palace of the Venerated Dragon,奉竜殿,,not displayed by the event script
+as if something could be placed there.",女性像に何かをはめこむための〓が開いている。,,,duplicate
+2,1,389,1,,,,,,,,,not displayed by the event script,
+2,2,389,2750,,,,,,Palace of the Venerated Dragon,奉竜殿,,not displayed by the event script,duplicate

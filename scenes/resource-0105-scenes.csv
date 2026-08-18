@@ -1,123 +1,144 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,105,11,6052,,,,Townsperson,"Welcome to Kalstad, the ""oasis in the sand.""
-...More like just sand now, though.",砂漠のオアシス カルスタッドへようこそ…と言っても ほとんど砂に埋もれてるけどね,,
+...More like just sand now, though.",砂漠のオアシス カルスタッドへようこそ…と言っても ほとんど砂に埋もれてるけどね,,,
 1,2,105,10,6144,,,,Townsperson,"My family runs a bed and breakfast in town.
-My sister's there now if you need a rest. <PART> ---",ねえ旅の人 私達宿屋〓料〓をやっているの姉さんが〓番してるから 良かったら〓って行って,,
+My sister's there now if you need a rest. <PART>
+---
+",ねえ旅の人 私達宿屋〓料〓をやっているの姉さんが〓番してるから 良かったら〓って行って,,,
 1,3,105,12,6288,,,,Townsperson,"If I sweep any more, my arms'll fall off!
-But if I stop, the sand will bury me. <PART> ---
+But if I stop, the sand will bury me. <PART>
+---
 I'm sick of it! I can't take it anymore!
-Yet if I stop, I'll hear it from the missus.",はあ…〓いても〓いてもキリがねェかといって やらなきゃ砂に埋もれちまうしなァ <PART> ああ 面倒くせえ面倒くせェかといって やらなきゃ母ちゃんがうるさいしなァ…,,
+Yet if I stop, I'll hear it from the missus.",はあ…〓いても〓いてもキリがねェかといって やらなきゃ砂に埋もれちまうしなァ <PART> ああ 面倒くせえ面倒くせェかといって やらなきゃ母ちゃんがうるさいしなァ…,,,
 1,4,105,13,6380,,,,Townsperson,"Things were better when I was a lad...
-Nowadays, the dunes tower over the houses!",俺がガキの頃は もうちょっとマシだったがネ今じゃ砂の方が人間様よりデカイ顔してるよ,,
+Nowadays, the dunes tower over the houses!",俺がガキの頃は もうちょっとマシだったがネ今じゃ砂の方が人間様よりデカイ顔してるよ,,,
 1,5,105,14,6664,,,,Adventurer,"The sands slash at the town without mercy.
-Years from now, there might not be a town! <PART> ---
+Years from now, there might not be a town! <PART>
+---
 A way-stop to Villnore may be convenient,
-but these conditions are intolerable!",噂以上に砂の害がひどい街だな数年後には 街ごと埋もれてるんじゃないか？ <PART> いくらヴィルノアへの中継地〓といってもこれじゃ〓わうはずもねえよなあ…,,
+but these conditions are intolerable!",噂以上に砂の害がひどい街だな数年後には 街ごと埋もれてるんじゃないか？ <PART> いくらヴィルノアへの中継地〓といってもこれじゃ〓わうはずもねえよなあ…,,,
 1,6,105,15,6756,,,,Adventurer,"I stopped in another town the other day and
-heard about a bird that laid golden eggs.",この間立ち〓った村で聞いたんだが…金の〓を産む〓がどこかに居るらしいぜ,,
+heard about a bird that laid golden eggs.",この間立ち〓った村で聞いたんだが…金の〓を産む〓がどこかに居るらしいぜ,,,
 1,7,105,17,7548,,,,Townsperson,"Can magic change the environment? If so,
-we could get rid of this desert...",魔法って 〓境を変える事もできるのかしらそうしたら砂の無い街にしてもらうのに…,,
+we could get rid of this desert...",魔法って 〓境を変える事もできるのかしらそうしたら砂の無い街にしてもらうのに…,,,
 1,8,105,16,7640,,,,Townsperson,"Apparently, the liner leaving Solde for
-Dipan has been stopped. <PART> ---
+Dipan has been stopped. <PART>
+---
 It takes a while for the news to reach us
-out here in the middle of nowhere.",ソルデから出てるディパンへの定期船って〓航してたんですってね <PART> こんな辺境だと どうしても情報に遅れが出ちゃうなあ…,,
+out here in the middle of nowhere.",ソルデから出てるディパンへの定期船って〓航してたんですってね <PART> こんな辺境だと どうしても情報に遅れが出ちゃうなあ…,,,
 1,9,105,18,7848,,,,Townsperson,"Dipan's that country up north, right?
-The boats stopped and then started again...",ディパンって〓の方にある国だよナ？船が止まったとか再開したとか何とか…,,
+The boats stopped and then started again...",ディパンって〓の方にある国だよナ？船が止まったとか再開したとか何とか…,,,
 1,10,105,19,7940,,,,Townsperson,"I don't get it. Are boats such a big deal?
-Merchants make mountains out of molehills...",良く分からんが 定期船って止まると大変なのか？〓人や〓〓者が騒いでるんだがイマイチねェ…,,
+Merchants make mountains out of molehills...",良く分からんが 定期船って止まると大変なのか？〓人や〓〓者が騒いでるんだがイマイチねェ…,,,
 1,11,105,20,8408,,,,Adventurer,"Long ago, I traveled with a friend,
-but I haven't heard from him lately. <PART> ---
+but I haven't heard from him lately. <PART>
+---
 I heard he explored the nearby ruins,
-so I hope he made it back...",昔 一緒に旅をしたヤツが居たんだが最近 〓〓〓が無くてな… <PART> この辺の〓〓を巡ってたって聞いたんだが…どこかで野たれ死んじまったのかな…,,
+so I hope he made it back...",昔 一緒に旅をしたヤツが居たんだが最近 〓〓〓が無くてな… <PART> この辺の〓〓を巡ってたって聞いたんだが…どこかで野たれ死んじまったのかな…,,,
 1,12,105,21,8500,,,,Adventurer,"The ruins nearby are dangerous, and many
-don't make it out alive. Poor guy...",この辺の〓〓は危〓で 死んだヤツも多いと聞いたんだが… やっぱりアイツも…,,
-1,13,105,23,8696,,,,Adventurer,What do you want from me?,ん？ 何か俺に用なのか？,,
+don't make it out alive. Poor guy...",この辺の〓〓は危〓で 死んだヤツも多いと聞いたんだが… やっぱりアイツも…,,,
+1,13,105,23,8696,,,,Adventurer,What do you want from me?,ん？ 何か俺に用なのか？,,,
 1,14,105,22,8868,,,,Adventurer,"His kid made this <PART> ---- <PART> it's a good luck charm.
-Any day can be your last in this business...",このお守り…アイツのガキが作ったんだよいつ死ぬかわからねえ〓業だが…やり切れないな,,
-1,15,105,27,8976,,,,,This here...,あの これ…,,
+Any day can be your last in this business...",このお守り…アイツのガキが作ったんだよいつ死ぬかわからねえ〓業だが…やり切れないな,,,
+1,15,105,27,8976,,,,,This here...,あの これ…,,,
 1,16,105,28,9016,,,,Adventurer,"This was his...!
-Where did you find it!? <PART> ---
+Where did you find it!? <PART>
+---
 ...Oh, then I guess he really is gone.
-Well, at least I know for sure now. <PART> ---
+Well, at least I know for sure now. <PART>
+---
 I'll have to bring this charm to his family.
-Take this for your troubles...",これはアイツの…！アンタ 一体これをどこで〓った！？ <PART> …そう か やっぱり死んじまってたかいや ありがとうな 生死がわかっただけで十分だ <PART> このお守りくらい 家族に届けてやらなきゃなああ 礼と言っちゃなんだがこれを受け取ってくれ,,
-1,17,105,35,9116,,,,Adventurer,...? State your business or be on your way.,…？ 用が無いのなら早く行けよ,,
-1,18,105,34,9332,,,,Adventurer,What's your problem?,何だよ 変なヤツだな…,,
+Take this for your troubles...",これはアイツの…！アンタ 一体これをどこで〓った！？ <PART> …そう か やっぱり死んじまってたかいや ありがとうな 生死がわかっただけで十分だ <PART> このお守りくらい 家族に届けてやらなきゃなああ 礼と言っちゃなんだがこれを受け取ってくれ,,,
+1,17,105,35,9116,,,,Adventurer,...? State your business or be on your way.,…？ 用が無いのなら早く行けよ,,,
+1,18,105,34,9332,,,,Adventurer,What's your problem?,何だよ 変なヤツだな…,,,
 1,19,105,36,9744,,,,Adventurer,"Somewhere in this world lies one of
-the legendary Four Treasures. <PART> ---
+the legendary Four Treasures. <PART>
+---
 Merely laying eyes upon it would be a dream
-come true for any treasure hunter.",この世のどこかに 四宝の一つと言われる宝〓があるらしいのだけど… <PART> トレシャーハンターとしては〓非一度お目に掛かりたいものよね,,
+come true for any treasure hunter.",この世のどこかに 四宝の一つと言われる宝〓があるらしいのだけど… <PART> トレシャーハンターとしては〓非一度お目に掛かりたいものよね,,,
 1,20,105,37,9836,,,,Adventurer,"They say monsters and the undead are
-drawn to power and psychic energy, right? <PART> ---
+drawn to power and psychic energy, right? <PART>
+---
 If that's true, the places with stronger
-monsters probably hold great treasures...",魔物や不死者というのは 大きな力や強い思念に〓かれやすいって言うでしょ？ <PART> だから より強い魔物が〓がる場所にこそ凄い宝があると思うんだけど…,,
-1,21,105,39,10724,,,,Townsperson,"They came over here after their campaign <PART> ---- <PART> terrified soldiers from Crell Monferaigne, <PART> ---
+monsters probably hold great treasures...",魔物や不死者というのは 大きな力や強い思念に〓かれやすいって言うでしょ？ <PART> だから より強い魔物が〓がる場所にこそ凄い宝があると思うんだけど…,,,
+1,21,105,39,10724,,,,Townsperson,"They came over here after their campaign <PART> ---- <PART>
+terrified soldiers from Crell Monferaigne, <PART>
+---
 talking about things in Dipan...
-What happened over there?",遠〓ついでにさぼりに来ていたクレルモンフェランの傭兵が〓てて帰っちゃったの <PART> ディパンがどうしたとか…何かあったのかしら？,,
+What happened over there?",遠〓ついでにさぼりに来ていたクレルモンフェランの傭兵が〓てて帰っちゃったの <PART> ディパンがどうしたとか…何かあったのかしら？,,,
 1,22,105,40,10816,,,,Townsperson,"What exactly happened in Dipan?
-Everybody's all abuzz about it.",ディパンで何かあったのかしら？来る人来る人 皆その話ばかりで…,,
+Everybody's all abuzz about it.",ディパンで何かあったのかしら？来る人来る人 皆その話ばかりで…,,,
 1,23,105,41,11004,,,,Townsperson,"All day I hear Dipan this, Dipan that...
-What would I know about Dipan? <PART> ---
+What would I know about Dipan? <PART>
+---
 I have my hands full trying to figure out
-whether we'll be buried by the desert!",何だかこの間からディパンディパンってうるさいねェそんな国の事なんか知るもんか <PART> こちとら砂に埋もれるかどうかで手一〓なんだって,,
+whether we'll be buried by the desert!",何だかこの間からディパンディパンってうるさいねェそんな国の事なんか知るもんか <PART> こちとら砂に埋もれるかどうかで手一〓なんだって,,,
 1,24,105,42,11096,,,,Townsperson,"We've got too much to deal with here
-to worry about some other country!",俺達は 目の前の事でいっぱいいっぱいだどこかのお国がどうなろうと関係ないネ,,
+to worry about some other country!",俺達は 目の前の事でいっぱいいっぱいだどこかのお国がどうなろうと関係ないネ,,,
 1,25,105,45,11284,,,,Adventurer,"From here, you go to Villnore, stop in some
-village, take the Kythena Plains to Solde... <PART> ---
+village, take the Kythena Plains to Solde... <PART>
+---
 That's the way to Dipan, right?
-Hm? That's the scenic route? <PART> ---
+Hm? That's the scenic route? <PART>
+---
 Well, I suppose the Sukavia Gorge is quicker,
-though traversing an icy mountain's no fun.",ここからヴィルノアに行って 途中でどこかの村を中継して キセナ草〓を〓けてソルデに行って… <PART> ディパンへの道って これで合ってるよね？え？ 遠回りしてる？ <PART> そりゃ スカビア〓〓〓けたほうが早いけど…あの〓山を〓えるのはちょっと…,,
+though traversing an icy mountain's no fun.",ここからヴィルノアに行って 途中でどこかの村を中継して キセナ草〓を〓けてソルデに行って… <PART> ディパンへの道って これで合ってるよね？え？ 遠回りしてる？ <PART> そりゃ スカビア〓〓〓けたほうが早いけど…あの〓山を〓えるのはちょっと…,,,
 1,26,105,46,11376,,,,Adventurer,"Almost nobody uses the Sukavia Gorge now.
-The snow is simply too much!",スカビア〓〓って 今はほとんど使用する人はいないよ 〓がひどすぎるもの,,
+The snow is simply too much!",スカビア〓〓って 今はほとんど使用する人はいないよ 〓がひどすぎるもの,,,
 1,27,105,47,12000,,,,Townsperson,"Word has it that Dipan was leveled in a day.
-They finally went too far for the gods. <PART> ---
+They finally went too far for the gods. <PART>
+---
 Lots of refugees are bound to show up, so
-I'd better prepare the inn!",ディパンが一〓で崩壊したんですってとうとう神の怒りを買ったとか何とか… <PART> これから大量に難民が出るわね宿屋の準備 しっかりしなくっちゃ！,,
+I'd better prepare the inn!",ディパンが一〓で崩壊したんですってとうとう神の怒りを買ったとか何とか… <PART> これから大量に難民が出るわね宿屋の準備 しっかりしなくっちゃ！,,,
 1,28,105,48,12092,,,,Townsperson,"Several refugees will be coming from Dipan.
-I only hope it doesn't lead to more fighting.",ディパンやソルデから大量の難民が出るわねこれが争いの素にならなければいいけど,,
+I only hope it doesn't lead to more fighting.",ディパンやソルデから大量の難民が出るわねこれが争いの素にならなければいいけど,,,
 1,29,105,49,12296,,,,Adventurer,"Good to see you again. Thanks for last time.
-I gave the memento to his family. <PART> ---
+I gave the memento to his family. <PART>
+---
 They've lost their breadwinner, and now
-Dipan's fall may be a prelude to war...",ああ アンタらか この間はありがとなアイツの形見 家族に渡してきたぜ <PART> ディパン崩壊でこれから戦かもしれないって時に〓ぎ〓失うなんてな…,,
+Dipan's fall may be a prelude to war...",ああ アンタらか この間はありがとなアイツの形見 家族に渡してきたぜ <PART> ディパン崩壊でこれから戦かもしれないって時に〓ぎ〓失うなんてな…,,,
 1,30,105,50,12388,,,,Adventurer,"Even if you try to reach Valhalla,
-it's all over once you die.",例え戦乙女に選ばれてヴァルハラに行こうとも死んじまったらお仕〓だよ,,
+it's all over once you die.",例え戦乙女に選ばれてヴァルハラに行こうとも死んじまったらお仕〓だよ,,,
 1,31,105,51,13136,,,,Townsperson,"Maybe I'm crazy, but is the fall of Dipan
-really such a big deal? <PART> ---
+really such a big deal? <PART>
+---
 Some country disappearing doesn't mean
-this desert's going anywhere, does it?",今更なんだが…ディパンの崩壊ってのはそんなに大変な事なのか？ <PART> どっかの国が無くなったからといってここの砂が無くなるわけじゃねえんだろ？,,
+this desert's going anywhere, does it?",今更なんだが…ディパンの崩壊ってのはそんなに大変な事なのか？ <PART> どっかの国が無くなったからといってここの砂が無くなるわけじゃねえんだろ？,,,
 1,32,105,52,13228,,,,Townsperson,"Everyone should focus less on Dipan and
-more on gathering food and sweeping sand. <PART> ---
+more on gathering food and sweeping sand. <PART>
+---
 People need to think about their own lives
-before they go worrying about others'.",ディパン崩壊より明日のメシ 明日の砂〓きそれがこの街のすべてだ〓 <PART> 人間ってのは どっかのお国の一大事より目先の生活のほうが重要なのサ,,
+before they go worrying about others'.",ディパン崩壊より明日のメシ 明日の砂〓きそれがこの街のすべてだ〓 <PART> 人間ってのは どっかのお国の一大事より目先の生活のほうが重要なのサ,,,
 1,33,105,53,13660,,,,Townsperson,"Crell Monferaigne to the east, Villnore
-to the west, and Artolia to the south... <PART> ---
+to the west, and Artolia to the south... <PART>
+---
 This town occupies strategic territory,
-but is, ironically, ignored by all.",〓を向けばクレルモンフェラン〓を向けばヴィルノア 〓はアルトリア <PART> こんな要所に〓っている街なのに〓肉な事にどこからも相手にされてないのよね,,
+but is, ironically, ignored by all.",〓を向けばクレルモンフェラン〓を向けばヴィルノア 〓はアルトリア <PART> こんな要所に〓っている街なのに〓肉な事にどこからも相手にされてないのよね,,,
 1,34,105,54,13752,,,,Townsperson,"Who'd bother fighting a country that will
-eventually be conquered by sand, anyway?",後数年で砂に埋もれてしまいそうな街なんてどこの国からも相手にされないのね,,
+eventually be conquered by sand, anyway?",後数年で砂に埋もれてしまいそうな街なんてどこの国からも相手にされないのね,,,
 1,35,105,55,13988,,,,Townsperson,"As long as there aren't any wars around here,
-who cares what countries are destroyed? <PART> ---
+who cares what countries are destroyed? <PART>
+---
 You think I'm being cold? It's only natural
-for people to look out for number one. Don't you?",ここら辺で戦さえ起きなければ俺達にはどこの国が滅びようと関係ねえ〓 <PART> 〓たいって思うか？ だが人間なんて所詮自分一人で手一〓なんだ〓 アンタもそうだろ？,,
+for people to look out for number one. Don't you?",ここら辺で戦さえ起きなければ俺達にはどこの国が滅びようと関係ねえ〓 <PART> 〓たいって思うか？ だが人間なんて所詮自分一人で手一〓なんだ〓 アンタもそうだろ？,,,
 1,36,105,56,14080,,,,Townsperson,"Whatever happens to Dipan doesn't make a
-difference in our lives, or to the sand.",ディパンが滅びようと何だろうと俺達の生活も砂の量も変わりはないネ,,
-2,1,105,1,,,,,,,,,not displayed by the event script
-2,2,105,2,,,,,,,,,not displayed by the event script
-2,3,105,3,,,,,,Inn,〓〓,,not displayed by the event script
-2,4,105,4,,,,,,House,民家,,not displayed by the event script
-2,5,105,5,,,,,,Kalstad,カルスタッド,,not displayed by the event script
-2,6,105,6,,,,,,Exit,出口,,not displayed by the event script
-2,7,105,7,,,,,,Leave Kalstad?,カルスタッドから出ます,,not displayed by the event script
-2,8,105,8,,,,,,Yes,はい,,not displayed by the event script
-2,9,105,9,,,,,,No,いいえ,,not displayed by the event script
-2,10,105,26,,,,,,Acquired <PART> Charm,お守り <PART> を手に入れた,,not displayed by the event script
-2,11,105,29,,,,,,Acquired <PART> Foolproof Talisman,〓〓のタリスマン <PART> を手に入れた,,not displayed by the event script
-2,12,105,30,,,,,,Acquired <PART> Charm,お守り <PART> を手に入れた,,not displayed by the event script
-2,13,105,31,,,,,,Hand over the charm?,お守りを〓す〓,,not displayed by the event script
-2,14,105,32,,,,,,Yes,はい,,not displayed by the event script
-2,15,105,33,,,,,,No,いいえ,,not displayed by the event script
-2,16,105,38,,,,,,Acquired <PART> Golden Egg,金の〓 <PART> を手に入れた,,not displayed by the event script
-2,17,105,57,,,,,,Kalstad,カルスタッド,,not displayed by the event script
-2,18,105,2800,,,,,,Townsperson,カルスタッド住人,,not displayed by the event script
-2,19,105,2801,,,,,,Adventurer,〓〓者,,not displayed by the event script
+difference in our lives, or to the sand.",ディパンが滅びようと何だろうと俺達の生活も砂の量も変わりはないネ,,,
+2,1,105,1,,,,,,,,,not displayed by the event script,
+2,2,105,2,,,,,,,,,not displayed by the event script,
+2,3,105,3,,,,,,Inn,宿屋,,not displayed by the event script,duplicate
+2,4,105,4,,,,,,House,民家,,not displayed by the event script,duplicate
+2,5,105,5,,,,,,Kalstad,カルスタッド,,not displayed by the event script,duplicate
+2,6,105,6,,,,,,Exit,出口,,not displayed by the event script,duplicate
+2,7,105,7,,,,,,Leave Kalstad?,カルスタッドから出ます,,not displayed by the event script,primary
+2,8,105,8,,,,,,Yes,はい,,not displayed by the event script,duplicate
+2,9,105,9,,,,,,No,いいえ,,not displayed by the event script,duplicate
+2,10,105,26,,,,,,Acquired <PART> Charm,お守り <PART> を手に入れた,,not displayed by the event script,primary
+2,11,105,29,,,,,,Acquired <PART> Foolproof Talisman,無欠のタリスマン <PART> を手に入れた,,not displayed by the event script,primary
+2,12,105,30,,,,,,Acquired <PART> Charm,お守り <PART> を手に入れた,,not displayed by the event script,duplicate
+2,13,105,31,,,,,,Hand over the charm?,お守りを渡す？,,not displayed by the event script,
+2,14,105,32,,,,,,Yes,はい,,not displayed by the event script,duplicate
+2,15,105,33,,,,,,No,いいえ,,not displayed by the event script,duplicate
+2,16,105,38,,,,,,Acquired <PART> Golden Egg,金の卵 <PART> を手に入れた,,not displayed by the event script,duplicate
+2,17,105,57,,,,,,Kalstad,カルスタッド,,not displayed by the event script,duplicate
+2,18,105,2800,,,,,,Townsperson,カルスタッド住人,,not displayed by the event script,duplicate
+2,19,105,2801,,,,,,Adventurer,冒険者,,not displayed by the event script,duplicate

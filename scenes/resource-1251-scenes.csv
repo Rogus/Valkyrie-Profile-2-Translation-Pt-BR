@@ -1,79 +1,79 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1251,1,2408,850,0,,Rufus,It's here! The orb!,あったぞ！ オーブだ！,,
-1,2,1251,2,3468,850,1,,Rufus,Amazing! Look at that glow!,すげーよ！ この輝き…,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1251,1,2408,850,0,,Rufus,It's here! The orb!,あったぞ！ オーブだ！,,,
+1,2,1251,2,3468,850,1,,Rufus,Amazing! Look at that glow!,すげーよ！ この輝き…,,,
 1,3,1251,5,4120,850,2,,Rufus,"Hey, isn't anybody else excited about
-this?",お前ら もっと喜んだらどうだよ！,,
-1,4,1251,29,4536,850,3,,Alicia,I am...,ええ…,,
+this?",お前ら もっと喜んだらどうだよ！,,,
+1,4,1251,29,4536,850,3,,Alicia,I am...,ええ…,,,
 1,5,1251,3,4656,850,4,,Lezard,"That is not the Dragon Orb. It is a
-sealstone formed by a geological anomaly.",それはドラゴンオーブではありません地〓の乱れにより生じる封印石です,,
-1,6,1251,8,5800,850,5,,Rufus,And what's that?,…何だよ そりゃ？,,
-1,7,1251,7,5920,850,6,,Lezard,A mass of energy.,精気の〓です,,
+sealstone formed by a geological anomaly.",それはドラゴンオーブではありません地〓の乱れにより生じる封印石です,,,
+1,6,1251,8,5800,850,5,,Rufus,And what's that?,…何だよ そりゃ？,,,
+1,7,1251,7,5920,850,6,,Lezard,A mass of energy.,精気の〓です,,,
 1,8,1251,6,6172,850,7,,Lezard,"It is a substance without matter,
 normally impalpable and invisible
-to human senses.",本来 常人には見る事も〓る事もできないはずの非物〓ですが <PART> 一一,,
+to human senses.",本来 常人には見る事も〓る事もできないはずの非物〓ですが <PART> ――,,,
 1,9,1251,9,7116,850,8,,Silmeria,"It resonates with my spiritual energy,
-causing it to radiate visible light.",おそらく私の精神に呼応して目視が可能な光を放っているんでしょう,,
+causing it to radiate visible light.",おそらく私の精神に呼応して目視が可能な光を放っているんでしょう,,,
 1,10,1251,12,7960,850,9,,Silmeria,"Photons convert energy absorbed from
 the roots of the world tree, Yggdrasil,
-to light.",大地を支える〓グドラシルの根から放たれる力を〓収し 光に変えたのが光子,,
+to light.",大地を支える〓グドラシルの根から放たれる力を〓収し 光に変えたのが光子,,,
 1,11,1251,11,8080,850,10,,Silmeria,"Sealstones are residue formed from
 the hardened ""sap"" that drips from
-Yggdrasil's roots.",封印石は〓グドラシルの根から〓れ出て〓まった いわば〓のようなものね,,
-1,12,1251,10,8528,850,11,,Rufus,You mean like amber from Yggdrasil...,〓グドラシルのカスって事か…,,
+Yggdrasil's roots.",封印石は〓グドラシルの根から〓れ出て〓まった いわば〓のようなものね,,,
+1,12,1251,10,8528,850,11,,Rufus,You mean like amber from Yggdrasil...,〓グドラシルのカスって事か…,,,
 1,13,1251,13,8648,850,12,,Lezard,"Call it amber if you will. A sealstone
-exerts power over the area it is placed.",カスとはいえ封印石は安置された場に力を与えます,,
+exerts power over the area it is placed.",カスとはいえ封印石は安置された場に力を与えます,,,
 1,14,1251,14,9248,850,13,,Lezard,"It suppresses the actions of enemies
 bound to this location and the
-surrounding areas.",この場所と 周〓一〓に縁のある敵の動きを〓えてくれるでしょう,,
+surrounding areas.",この場所と 周〓一〓に縁のある敵の動きを〓えてくれるでしょう,,,
 1,15,1251,15,9912,850,14,,Rufus,"Then, how about if we take it with us
-for protection?",じゃあ持って歩けばお守りになるのか？,,
+for protection?",じゃあ持って歩けばお守りになるのか？,,,
 1,16,1251,16,10032,850,15,,Lezard,"Sealstones don't just affect enemies.
-The bearer may also be subject to some change.",〓えられるのは敵ばかりではありません持つ者も何らかの影〓を受けるでしょう,,
+The bearer may also be subject to some change.",〓えられるのは敵ばかりではありません持つ者も何らかの影〓を受けるでしょう,,,
 1,17,1251,17,10152,850,16,,Lezard,"If you were to carry it, Sir Rufus, then
-the effects would be felt by all of us.",仮にルーファス殿が持つのなら行動を共にする我々にも です,,
-1,18,1251,18,10272,850,17,,Rufus,What kind of effects?,…どんな影〓だよ？,,
+the effects would be felt by all of us.",仮にルーファス殿が持つのなら行動を共にする我々にも です,,,
+1,18,1251,18,10272,850,17,,Rufus,What kind of effects?,…どんな影〓だよ？,,,
 1,19,1251,19,10488,850,18,,Lezard,"I'm afraid that's just it...
-One cannot know until one tries.",さあ そればかりは…やってみなければわかりません,,
+One cannot know until one tries.",さあ そればかりは…やってみなければわかりません,,,
 1,20,1251,20,10776,850,19,,Dylan,"The tribe that guarded the Dragon Orb had
-to be very familiar with these sealstones.",ドラゴンオーブを守護する一族はこの封印石の力を熟知していたはずだ,,
+to be very familiar with these sealstones.",ドラゴンオーブを守護する一族はこの封印石の力を熟知していたはずだ,,,
 1,21,1251,21,11272,850,20,,Rufus,"So, they used that knowledge in building
-palaces to keep the Dragon Orb safe...",その知恵でもって ドラゴンオーブを安置する神殿を〓てたってのか…,,
+palaces to keep the Dragon Orb safe...",その知恵でもって ドラゴンオーブを安置する神殿を〓てたってのか…,,,
 1,22,1251,22,11708,850,21,,Rufus,"Sounds like it wouldn't hurt to take it
-with us.",やっぱり持ってって損はなさそうだな,,
+with us.",やっぱり持ってって損はなさそうだな,,,
 1,23,1251,23,12868,850,24,,Silmeria,"Sealstones cannot be disposed of, nor
-can they be held onto forever.",途中で捨てる事もできなければ永遠に持ち続ける事も不可能 <PART> 一一,,
+can they be held onto forever.",途中で捨てる事もできなければ永遠に持ち続ける事も不可能 <PART> ――,,,
 1,24,1251,24,13576,850,25,,Silmeria,"At some point, their world-sustaining
-power will crush the holder.",いずれ大地を支える力に〓し潰される事になるでしょうね,,
-1,25,1251,26,15624,850,28,,Alicia,Umm...,…ええ,,
-1,26,1251,27,16048,850,29,,Rufus,"Real funny... Thanks a lot, Silmeria.",なんだよ… シルメリアも意地悪だな,,
+power will crush the holder.",いずれ大地を支える力に〓し潰される事になるでしょうね,,,
+1,25,1251,26,15624,850,28,,Alicia,Umm...,…ええ,,,primary
+1,26,1251,27,16048,850,29,,Rufus,"Real funny... Thanks a lot, Silmeria.",なんだよ… シルメリアも意地悪だな,,,
 1,27,1251,28,21144,850,23,,Silmeria,"During the process of transferring from
 a dais to another dais, the carrier acts
-as a base.",〓り所となる〓〓から〓〓へ〓す間は運ぶ者がその〓〓代わりになる,,
-1,28,1251,30,22520,850,22,,Silmeria,Sealstones constantly require a base.,封印石は絶えず〓り所を必要とする,,
+as a base.",〓り所となる〓〓から〓〓へ〓す間は運ぶ者がその〓〓代わりになる,,,
+1,28,1251,30,22520,850,22,,Silmeria,Sealstones constantly require a base.,封印石は絶えず〓り所を必要とする,,,
 1,29,1251,31,23204,850,26,,Rufus,"Alright, so I can't handle it. You could
-have said that from the beginning, y'know?",要するに俺じゃ無理だって事だろ？初めからそう言やいいのに…,,
+have said that from the beginning, y'know?",要するに俺じゃ無理だって事だろ？初めからそう言やいいのに…,,,
 1,30,1251,32,23884,850,27,,Rufus,"Okay, what now?
-It's your call.",さあ どうすんのか？〓断は任せたぜ,,
-2,1,1251,2757,34956,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-2,2,1251,2758,35444,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-2,3,1251,2759,35976,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-2,4,1251,2760,36464,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-2,5,1251,2761,37240,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-2,6,1251,2762,37964,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-2,7,1251,2763,38352,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-2,8,1251,2764,38680,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-2,9,1251,2765,39068,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-3,1,1251,2366,44664,,,,,ERRORv,ERR0R！！（v190）,,
-3,2,1251,2367,44800,,,,,ERRORv,ERR0R！！（v191）,,
-3,3,1251,2368,44936,,,,,ERRORv,ERR0R！！（v191）,,
-4,1,1251,35,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,2,1251,36,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-4,3,1251,37,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,4,1251,38,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-4,5,1251,39,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-4,6,1251,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-4,7,1251,2752,,,,,,Rufus,ルーファス,,not displayed by the event script
-4,8,1251,2753,,,,,,Alicia,アリーシャ,,not displayed by the event script
-4,9,1251,2754,,,,,,Lezard,レザード,,not displayed by the event script
-4,10,1251,2755,,,,,,Silmeria,シルメリア,,not displayed by the event script
-4,11,1251,2756,,,,,,Dylan,ディラン,,not displayed by the event script
+It's your call.",さあ どうすんのか？〓断は任せたぜ,,,
+2,1,1251,2757,34956,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+2,2,1251,2758,35444,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+2,3,1251,2759,35976,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+2,4,1251,2760,36464,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+2,5,1251,2761,37240,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+2,6,1251,2762,37964,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+2,7,1251,2763,38352,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+2,8,1251,2764,38680,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+2,9,1251,2765,39068,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+3,1,1251,2366,44664,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+3,2,1251,2367,44800,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+3,3,1251,2368,44936,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,1,1251,35,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,2,1251,36,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+4,3,1251,37,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,4,1251,38,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+4,5,1251,39,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,6,1251,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+4,7,1251,2752,,,,,,Rufus,ルーファス,,not displayed by the event script,duplicate
+4,8,1251,2753,,,,,,Alicia,アリーシャ,,not displayed by the event script,duplicate
+4,9,1251,2754,,,,,,Lezard,レザード,,not displayed by the event script,duplicate
+4,10,1251,2755,,,,,,Silmeria,シルメリア,,not displayed by the event script,duplicate
+4,11,1251,2756,,,,,,Dylan,ディラン,,not displayed by the event script,duplicate

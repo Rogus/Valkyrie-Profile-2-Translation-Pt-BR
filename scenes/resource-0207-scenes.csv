@@ -1,4 +1,4 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,207,4,0,,,,,,,,
-1,2,207,5,0,,,,,,,,
-1,3,207,48,0,,,,,,ディパン城,,
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,207,4,0,,,,,,,,,
+1,2,207,5,0,,,,,,,,,
+1,3,207,48,0,,,,,,ディパン城,,,

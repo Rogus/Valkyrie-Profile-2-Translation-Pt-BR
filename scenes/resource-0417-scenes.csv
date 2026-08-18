@@ -1,9 +1,11 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,417,5,748,,,,,"Special Attacks <PART> Special attacks can be used by building the
 special attack gauge up to  when certain
-weapons are equipped. <PART> If multiple characters are capable of special
+weapons are equipped. <PART>
+If multiple characters are capable of special
 attacks, characters may use their special
-attacks one after another.",〓め技について <PART> 〓定の〓器を〓〓している時、〓め技ゲージをまでためる事で〓め技を〓用する事ができます。 <PART> 〓用〓〓キャラが〓〓いるのであれば、〓め技後に〓のキャラが〓め技を〓用する事も〓〓です。,,
-2,1,417,2,,,,,,HSpecial Attacks,〓め技について,,not displayed by the event script
-2,2,417,1800,,,,,,Dipan Castle,ディパン城,,not displayed by the event script
-2,3,417,2747,,,,,,,クレストエストック <PART> を手に入れた,,not displayed by the event script
+attacks one after another.
+",決め技について <PART> 特定の武器を装備している時、決め技ゲージをまでためる事で決め技を使用する事ができます。 <PART> 使用可能キャラが複数いるのであれば、決め技後に別のキャラが決め技を使用する事も可能です。,,,duplicate
+2,1,417,2,,,,,,HSpecial Attacks,決め技について,,not displayed by the event script,duplicate
+2,2,417,1800,,,,,,Dipan Castle,ディパン城,,not displayed by the event script,duplicate
+2,3,417,2747,,,,,,,クレストエストック <PART> を手に入れた,,not displayed by the event script,

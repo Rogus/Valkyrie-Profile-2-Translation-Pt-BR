@@ -1,10 +1,10 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1143,1,0,,,,,,,,
-1,2,1143,8,0,,,,,,,,
-1,3,1143,9,0,,,,,,,,
-1,4,1143,71,0,,,,,Seraphic Gate,セラフィックゲート,,
-1,5,1143,159,0,,,,,Acquired <PART> Dead End,デッドエンド <PART> を手に入れた,,
-1,6,1143,160,0,,,,,Acquired <PART> Bloody Duster,ブラッディダスター <PART> を手に入れた,,
-1,7,1143,161,0,,,,,Acquired <PART> Prime Elixir,プライムエリクサー <PART> を手に入れた,,
-1,8,1143,162,0,,,,,Acquired <PART> Double-check,ダブルサー〓 <PART> を手に入れた,,
-1,9,1143,163,0,,,,,,ノーブルエリクサー <PART> を手に入れた,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1143,1,0,,,,,,,,,
+1,2,1143,8,0,,,,,,,,,
+1,3,1143,9,0,,,,,,,,,
+1,4,1143,71,0,,,,,Seraphic Gate,セラフィックゲート,,,duplicate
+1,5,1143,159,0,,,,,Acquired <PART> Dead End,デッドエンド <PART> を手に入れた,,,
+1,6,1143,160,0,,,,,Acquired <PART> Bloody Duster,ブラッディダスター <PART> を手に入れた,,,
+1,7,1143,161,0,,,,,Acquired <PART> Prime Elixir,プライムエリクサー <PART> を手に入れた,,,duplicate
+1,8,1143,162,0,,,,,Acquired <PART> Double-check,ダブルサーチ <PART> を手に入れた,,,duplicate
+1,9,1143,163,0,,,,,,ノーブルエリクサー <PART> を手に入れた,,,

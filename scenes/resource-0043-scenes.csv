@@ -1,100 +1,142 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,43,2,1468,,,,Shopkeeper,"This is your first time in this shop, eh?
-Betcha don't recognize some of my wares. <PART> ---
+Betcha don't recognize some of my wares. <PART>
+---
 These aren't normally sold in stores, and
-they require certain materials to make. <PART> ---
+they require certain materials to make. <PART>
+---
 If you sell me the requisite materials,
-I can make you lots of rare items. <PART> ---
+I can make you lots of rare items. <PART>
+---
 You'll just have to wait to try it and see!
-However, making is different from selling! <PART> ---
+However, making is different from selling! <PART>
+---
 And I only do it for my best customers,
-so keep that in mind!",アンタこの〓来るの初めてだよな？〓品の中に 名前のわからねえのがあっただろ <PART> あれは『お得意様用』ってヤツでね常連〓にのみ 特別に〓品を作ってるんだ <PART> 作成に必要な素材さえ揃えてくれれば普通じゃ手に入らない品を作ってやるぜ！ <PART> ん？ どんな〓品があるかって？そりゃあ 常連にしか教えられねえよ <PART> ま ウチの〓品をたくさん買ってくれればそれに応じて教えてやらん事もないぞ？,,
-1,2,43,3,1560,,,,Shopkeeper,Our items are the best! Come again soon!,また来てくれよ いいモン揃えて待ってるぜ,,
+so keep that in mind!",アンタこの〓来るの初めてだよな？〓品の中に 名前のわからねえのがあっただろ <PART> あれは『お得意様用』ってヤツでね常連〓にのみ 特別に〓品を作ってるんだ <PART> 作成に必要な素材さえ揃えてくれれば普通じゃ手に入らない品を作ってやるぜ！ <PART> ん？ どんな〓品があるかって？そりゃあ 常連にしか教えられねえよ <PART> ま ウチの〓品をたくさん買ってくれればそれに応じて教えてやらん事もないぞ？,,,
+1,2,43,3,1560,,,,Shopkeeper,Our items are the best! Come again soon!,また来てくれよ いいモン揃えて待ってるぜ,,,primary
 1,3,43,4,1844,,,,Adventurer,"I see... Well, well... How about that!
-Oh, would you like to have a look? <PART> ---
+Oh, would you like to have a look? <PART>
+---
 I borrowed it from the shopkeeper. It's called
-""How to Make Valued Customer Items.""",うーん… なるほど… こうなってたんだ…あ 貴方もこれ〓む？ <PART> 『お得意様用アイテムの作り方』ここの〓主さんに惜りたんだ,,
+""How to Make Valued Customer Items.""",うーん… なるほど… こうなってたんだ…あ 貴方もこれ〓む？ <PART> 『お得意様用アイテムの作り方』ここの〓主さんに惜りたんだ,,,
 1,4,43,5,1948,,,,Adventurer,"Oh, would you like to have a look?
-""How to Make Valued Customer Items.""",あ 貴方も見る？『お得意様用アイテムの作り方』,,
-1,5,43,6,2220,,,,Shopkeeper,Step right up! Only the finest merchandise!,いらっしゃい！ ウチはいい品揃えてるよ！,,
-1,6,43,7,2460,,,,Shopkeeper,Step right up! Only the finest merchandise!,いらっしゃい！ ウチはいい品揃えてるよ！,,
+""How to Make Valued Customer Items.""",あ 貴方も見る？『お得意様用アイテムの作り方』,,,
+1,5,43,6,2220,,,,Shopkeeper,Step right up! Only the finest merchandise!,いらっしゃい！ ウチはいい品揃えてるよ！,,,primary
+1,6,43,7,2460,,,,Shopkeeper,Step right up! Only the finest merchandise!,いらっしゃい！ ウチはいい品揃えてるよ！,,,duplicate
 1,7,43,8,2776,,,,Adventurer,"I came here on the last ship
-out of Dipan. <PART> ---
+out of Dipan. <PART>
+---
 The town of Dipan was packed with troops.
-Did they know the gods would attack?",ディパンからの最後の船でこちらに渡ってきたんだけど… <PART> ディパンの街には 異常なくらい兵士が〓れてたまさか神々の襲撃を〓期してたって事なの？,,
+Did they know the gods would attack?",ディパンからの最後の船でこちらに渡ってきたんだけど… <PART> ディパンの街には 異常なくらい兵士が〓れてたまさか神々の襲撃を〓期してたって事なの？,,,
 1,8,43,9,2868,,,,Adventurer,"How could they have wanted a war?
-Humans don't stand a chance against gods!",まさか神様と戦おうだなんて…私達人間が勝てるはずもないのに…,,
+Humans don't stand a chance against gods!",まさか神様と戦おうだなんて…私達人間が勝てるはずもないのに…,,,
 1,9,43,11,3044,,,,Shopkeeper,"Sounds like Dipan is in
-some serious trouble. <PART> ---
-They should've been more prepared for war.",ディパンが何だか大変な事になってるらしいじゃねえか <PART> もし向かう気なら 備えはしっかりしていけよ！,,
-1,10,43,12,3224,,,,Shopkeeper,"Hey, a customer! Step right up!",おお お〓さんだ！ いらっしゃい！,,
+some serious trouble. <PART>
+---
+They should've been more prepared for war.",ディパンが何だか大変な事になってるらしいじゃねえか <PART> もし向かう気なら 備えはしっかりしていけよ！,,,
+1,10,43,12,3224,,,,Shopkeeper,"Hey, a customer! Step right up!",おお お〓さんだ！ いらっしゃい！,,,
 1,11,43,13,3456,,,,Shopkeeper,"Good to see you!
-It's rough goings nowadays, isn't it?",いらっしゃい！何だか大変な事になっちまってるなあ,,
-1,12,43,15,3760,,,,Shopkeeper,Our items are the best! Come again soon!,また来てくれよ いいモン揃えて待ってるぜ,,
-1,13,43,16,3820,,,,Shopkeeper,Take it easy out there!,無理はすんなよ 気をつけてな！,,
+It's rough goings nowadays, isn't it?",いらっしゃい！何だか大変な事になっちまってるなあ,,,
+1,12,43,15,3760,,,,Shopkeeper,Our items are the best! Come again soon!,また来てくれよ いいモン揃えて待ってるぜ,,,duplicate
+1,13,43,16,3820,,,,Shopkeeper,Take it easy out there!,無理はすんなよ 気をつけてな！,,,
 1,14,43,17,3880,,,,Shopkeeper,"I don't know what will happen to Solde,
-but my shop will always be here!",ソルデがどうなるかわからんが俺の〓は元気だぜ！,,
+but my shop will always be here!",ソルデがどうなるかわからんが俺の〓は元気だぜ！,,,
 1,15,43,18,3940,,,,Shopkeeper,"There may be almost no one left in Solde,
-but I'm keeping the store running!",ソルデもすっかり人が減っちまったが最後の最後まで 俺の〓は続けるぜ！,,
-1,16,43,26,3992,,,,,Dryad <PART> Body <PART> Slop <PART> Head <PART> Maelstrom <PART> Body,〓魔〓の宝〓〓 <PART> クラリオーネ <PART> 〓 〓〓 <PART> アンクリアネス <PART> 〓 〓 <PART> メイルシュトローム <PART> 〓 〓〓,,
-1,17,43,30,4048,,,,,Tear Soul <PART> Core <PART> Kobold King <PART> Head <PART> Phantom Lurker <PART> Apparition,〓〓ーリィス〓ネル〓 <PART> ティア・ソウル <PART> 〓 中心部〓 <PART> コ〓ルトキング <PART> 〓 〓 <PART> ファントム〓ーダー <PART> 〓 亡霊,,
-1,18,43,29,4104,,,,,Phantom Lurker <PART> Mirror <PART> Spectral Knight <PART> Armor,〓魔鏡の〓〓〓 <PART> ファントム〓ーダー <PART> 〓 鏡 <PART> スペクトラルナイト <PART> 〓 〓,,
-1,19,43,28,4160,,,,,Wild Troll <PART> Polearm <PART> Muscular Stalker <PART> Weapon,〓〓〓鉱〓 <PART> 〓イルドトロル <PART> 〓 〓 <PART> マスカリティストーカー <PART> 〓 〓器,,
-1,20,43,31,4216,,,,,King Slug <PART> Shell <PART> Gigantic Moth <PART> Shell,〓大〓の〓〓〓 <PART> デンデンキング <PART> 〓 〓 <PART> ギガントマイマイ <PART> 〓 〓,,
-1,21,43,27,4272,,,,,Winter Wolf <PART> Leg <PART> Wild Wolf <PART> Leg,〓〓〓の〓〓 <PART> ウィンターウルフ <PART> 〓 〓 <PART> 〓イルドウルフ <PART> 〓 〓,,
-1,22,43,37,4328,,,,,"What's a Valued Customer Item? <PART> As the name implies, Valued Customer
+but I'm keeping the store running!",ソルデもすっかり人が減っちまったが最後の最後まで 俺の〓は続けるぜ！,,,
+1,16,43,26,3992,,,,,"Dryad <PART> Body
+ <PART> Slop <PART> Head
+ <PART> Maelstrom <PART> Body",〓魔眼の宝珠〓 <PART> クラリオーネ <PART> ： 〓体 <PART> アンクリアネス <PART> ： 頭 <PART> メイルシュトローム <PART> 〓 〓体,,,
+1,17,43,30,4048,,,,,"Tear Soul <PART> Core
+ <PART> Kobold King <PART> Head
+ <PART> Phantom Lurker <PART> Apparition
+",〓ホーリィスピネル〓 <PART> ティア・ソウル <PART> ： 中心部分 <PART> コボルトキング <PART> ： 頭 <PART> ファントムボーダー <PART> ： 亡霊,,,
+1,18,43,29,4104,,,,,"Phantom Lurker <PART> Mirror
+ <PART> Spectral Knight <PART> Armor
+",〓魔鏡の欠片〓 <PART> ファントムボーダー <PART> ： 鏡 <PART> スペクトラルナイト <PART> ： 鎧,,,
+1,19,43,28,4160,,,,,"Wild Troll <PART> Polearm
+ <PART> Muscular Stalker <PART> Weapon
+",〓錬赤鉱〓 <PART> ワイルドトロル <PART> ： 〓 <PART> マスカリティストーカー <PART> ： 武器,,,
+1,20,43,31,4216,,,,,"King Slug <PART> Shell
+ <PART> Gigantic Moth <PART> Shell
+",〓大粒の真珠〓 <PART> デンデンキング <PART> ： 殻 <PART> ギガントマイマイ <PART> ： 殻,,,
+1,21,43,27,4272,,,,,"Winter Wolf <PART> Leg
+ <PART> Wild Wolf <PART> Leg
+",〓黒曜の爪〓 <PART> ウィンターウルフ <PART> ： 足 <PART> ワイルドウルフ <PART> ： 足,,,
+1,22,43,37,4328,,,,,"What's a Valued Customer Item? <PART>
+As the name implies, Valued Customer
 Items are items solely reserved for
 preferred patrons.
 Among these are items normally difficult
-to obtain and items not found elsewhere.",〓お〓〓〓用アイテムの〓り方〓 <PART> お〓〓〓用アイテムとは〓 <PART> お〓〓〓用アイテムとは、その〓の〓りお〓〓〓しか見れないレアアイテムの事です。 〓〓は手に入りにくいアイテムや、その〓でしか〓えない〓定アイテムが存在します。,,
-1,23,43,43,4384,,,,,"How do I see the items for sale? <PART> Item names appearing as ? will become visible when you become a valued
+to obtain and items not found elsewhere.",〓お得意様用アイテムの作り方〓 <PART> お得意様用アイテムとは？ <PART> お得意様用アイテムとは、その名の通りお得意様しか見れないレアアイテムの事です。 普段は手に入りにくいアイテムや、その〓でしか買えない〓定アイテムが存在します。,,,
+1,23,43,43,4384,,,,,"How do I see the items for sale? <PART>
+Item names appearing as ? will become visible when you become a valued
 customer.
 If you don't see the names, it's because
 the shopkeeper judges your level of
-patronage insufficient. <PART> --- <PART> How do I see the items for sale? <PART> The more things you buy at a shop, the
+patronage insufficient. <PART>
+---
+ <PART> How do I see the items for sale? <PART>
+The more things you buy at a shop, the
 higher your customer value will rise,
-making more and more items visible.",〓お〓〓〓用アイテムの〓り方〓 <PART> 〓っているアイテムを見るには〓 <PART> 〓〓〓で〓されているアイテムは、お〓の〓〓〓になるに〓って、〓〓が〓〓されるようになります。 〓〓が〓〓されないものは、〓〓から〓ま〓〓〓〓としてのレベルが〓りない〓と見なされているためです。 <PART> 〓お〓〓〓用アイテムの〓り方〓 <PART> 〓っているアイテムを見るには〓 <PART> その〓の商〓をたくさ〓〓入した〓ほど〓〓〓〓が上がり、より多くのアイテムを見る事ができるようになります。,,
-1,24,43,44,4440,,,,,"Tell me what materials I need <PART> Once you know the item name, it's time to
+making more and more items visible.",〓お得意様用アイテムの作り方〓 <PART> 売っているアイテムを見るには？ <PART> 『？』で示されているアイテムは、お〓の得意〓になるに従って、名前が表示されるようになります。 名前が表示されないものは、〓主から『まだ得意〓としてのレベルが足りない』と見なされているためです。 <PART> 〓お得意様用アイテムの作り方〓 <PART> 売っているアイテムを見るには？ <PART> その〓の商品をたくさん〓入した〓ほど得意〓度が上がり、より多くのアイテムを見る事ができるようになります。,,,
+1,24,43,44,4440,,,,,"Tell me what materials I need <PART>
+Once you know the item name, it's time to
 get the materials. Materials are listed for
 each item, so you just need to get them.
 Most materials can be obtained by
-defeating monsters. <PART> --- <PART> Tell me what materials I need <PART> What you get varies according to which
+defeating monsters. <PART>
+---
+ <PART> Tell me what materials I need <PART>
+What you get varies according to which
 monster parts break off.
 Which parts supply which materials is
-listed in the <PART> Shopkeeper's Notes <PART> somewhere in the shop.",〓お〓〓〓用アイテムの〓り方〓 <PART> 〓〓素〓を〓め〓〓 <PART> 〓ってくれるアイテム〓がわかったら、〓〓素〓の調達です。〓アイテム〓とに指定されている素〓があるので、それを〓めます。 〓な素〓は魔物を〓すと入手できます。 <PART> 〓お〓〓〓用アイテムの〓り方〓 <PART> 〓〓素〓を〓め〓〓 <PART> た〓し、〓〓した魔物の部位によって入手できる素〓が〓わります。 どの部位からどの素〓が〓れるかは、お〓のど〓かにある <PART> 〓〓〓メモ〓 <PART> を見ると〓いでし〓う。,,
-1,25,43,45,4496,,,,,"Make my item <PART> When you possess the items needed to
+listed in the <PART> Shopkeeper's Notes <PART>
+somewhere in the shop.",〓お得意様用アイテムの作り方〓 <PART> 必要素材を集めろ〓 <PART> 作ってくれるアイテム名がわかったら、早速素材の調達です。各アイテムごとに指定されている素材があるので、それを集めます。 主な素材は魔物を倒すと入手できます。 <PART> 〓お得意様用アイテムの作り方〓 <PART> 必要素材を集めろ〓 <PART> ただし、切断した魔物の部位によって入手できる素材が変わります。 どの部位からどの素材が取れるかは、お〓のどこかにある <PART> 『〓主メモ』 <PART> を見ると良いでし〓う。,,,
+1,25,43,45,4496,,,,,"Make my item <PART>
+When you possess the items needed to
 create a Valued Customer Item, the
 material items will appear <PART> yellow <PART> when
-you sell them. <PART> --- <PART> Make my item <PART> When the name of the item you want made is visible and you've sold the requisite
-materials to the shopkeeper, the item will be made. <PART> --- <PART> Make my item <PART> When the Valued Customer Items appear
+you sell them. <PART>
+---
+ <PART> Make my item <PART>
+When the name of the item you want made is visible and you've sold the requisite
+materials to the shopkeeper, the item will be made. <PART>
+---
+ <PART> Make my item <PART>
+When the Valued Customer Items appear
 a darker shade of yellow, it means the
 materials have not yet been sold to the
 shopkeeper.
 It also means that the customer has the
-necessary items. <PART> --- <PART> Make my item <PART> The number of items that can be made
+necessary items. <PART>
+---
+ <PART> Make my item <PART>
+The number of items that can be made
 with the materials sold will be shown in
-parentheses after the purchase quantity. <PART> Example Elixir  X <PART> () <PART> In this example,  elixirs can be made
-with the materials sold.",〓お〓〓〓用アイテムの〓り方〓 <PART> い〓 アイテム〓〓〓 <PART> 持っているアイテムの中に、お〓〓〓用のアイテム〓〓に〓〓な素〓があった場〓は、お〓に〓る時にその素〓アイテムが <PART> 〓〓 <PART> で〓〓されます。 <PART> 〓お〓〓〓用アイテムの〓り方〓 <PART> い〓 アイテム〓〓〓 <PART> 〓りたいアイテム〓が〓〓されている〓〓で、〓〓とされる素〓を全て〓〓に〓〓すれば、〓〓はその場でアイテムを〓〓してくれるでし〓う。 <PART> 〓お〓〓〓用アイテムの〓り方〓 <PART> い〓 アイテム〓〓〓 <PART> お〓で〓られているお〓〓〓用のアイテム〓が暗めの〓〓で〓〓されていた場〓は、いわ〓る〓〓〓〓〓〓の〓〓となります。 その時点で、〓〓が、〓〓に〓〓な素〓を全て持っているという事です。 <PART> 〓お〓〓〓用アイテムの〓り方〓 <PART> い〓 アイテム〓〓〓 <PART> 素〓を〓〓すると、所持〓〓の横にある〓 〓〓に、〓った素〓で目〓のアイテムがいくつ〓れるのかが〓〓されます。 <PART> 〓〓エリクサー  〓  〓 <PART> 〓〓 <PART> 〓〓と、〓った素〓でエリクサーが〓〓れるという事になります。,,
-2,1,43,1,,,,,,Head outside,外へ,,not displayed by the event script
-2,2,43,10,,,,,,HTalk,〓す,,not displayed by the event script
-2,3,43,14,,,,,,HRead,〓〓,,not displayed by the event script
-2,4,43,19,,,,,,,〓〓〓メモ〓,,not displayed by the event script
-2,5,43,20,,,,,,Evil Eye Gem,魔〓の宝〓,,not displayed by the event script
-2,6,43,21,,,,,,Sacred Spinel,〓ーリィス〓ネル,,not displayed by the event script
-2,7,43,22,,,,,,Mirror Fragment,魔鏡の〓〓,,not displayed by the event script
-2,8,43,23,,,,,,Polished Red Ore,〓〓鉱,,not displayed by the event script
-2,9,43,24,,,,,,Giant Pearl,大〓の〓〓,,not displayed by the event script
-2,10,43,25,,,,,,Obsidian Claw,〓〓の〓,,not displayed by the event script
-2,11,43,32,,,,,,,〓お〓〓〓用アイテムの〓り方〓,,not displayed by the event script
-2,12,43,33,,,,,,What's a Valued Customer Item?,お〓〓〓アイテムとは〓,,not displayed by the event script
-2,13,43,34,,,,,,How do I see the items for sale?,〓っているアイテムを見るには〓,,not displayed by the event script
-2,14,43,35,,,,,,Tell me what materials I need,〓〓素〓を〓め〓〓,,not displayed by the event script
-2,15,43,36,,,,,,Make my item,い〓 アイテム〓〓〓,,not displayed by the event script
-2,16,43,38,,,,,,,〓お〓〓〓用アイテムの〓り方〓,,not displayed by the event script
-2,17,43,39,,,,,,What's a Valued Customer Item?,お〓〓〓アイテムとは〓,,not displayed by the event script
-2,18,43,40,,,,,,How do I see the items for sale?,〓っているアイテムを見るには〓,,not displayed by the event script
-2,19,43,41,,,,,,Tell me what materials I need,〓〓素〓を〓め〓〓,,not displayed by the event script
-2,20,43,42,,,,,,Make my item,い〓 アイテム〓〓〓,,not displayed by the event script
-2,21,43,385,,,,,,Solde,港町ゾルデ,,not displayed by the event script
-2,22,43,2787,,,,,,Shopkeeper,〓〓,,not displayed by the event script
-2,23,43,2788,,,,,,Adventurer,〓〓者,,not displayed by the event script
+parentheses after the purchase quantity.
+ <PART> Example Elixir  X <PART> () <PART>
+In this example,  elixirs can be made
+with the materials sold.",〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> 持っているアイテムの中に、お得意様用のアイテム作成に必要な素材があった場合は、お〓に売る時にその素材アイテムが <PART> 黄色 <PART> で表示されます。 <PART> 〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> 作りたいアイテム名が表示されている状態で、必要とされる素材を全て〓主に売〓すれば、〓主はその場でアイテムを作成してくれるでし〓う。 <PART> 〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> お〓で売られているお得意様用のアイテム名が暗めの黄色で表示されていた場合は、いわゆる『売〓待ち』の状態となります。 その時点で、〓側が、作成に必要な素材を全て持っているという事です。 <PART> 〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> 素材を売〓すると、所持〓数の横にある（ ）内に、売った素材で目的のアイテムがいくつ作れるのかが表示されます。 <PART> 例）エリクサー  ×  〓 <PART> （） <PART> 例だと、売った素材でエリクサーが〓作れるという事になります。,,,
+2,1,43,1,,,,,,Head outside,外へ,,not displayed by the event script,duplicate
+2,2,43,10,,,,,,HTalk,話す,,not displayed by the event script,duplicate
+2,3,43,14,,,,,,HRead,読む,,not displayed by the event script,primary
+2,4,43,19,,,,,,,〓〓主メモ〓,,not displayed by the event script,
+2,5,43,20,,,,,,Evil Eye Gem,魔眼の宝珠,,not displayed by the event script,duplicate
+2,6,43,21,,,,,,Sacred Spinel,ホーリィスピネル,,not displayed by the event script,duplicate
+2,7,43,22,,,,,,Mirror Fragment,魔鏡の欠片,,not displayed by the event script,duplicate
+2,8,43,23,,,,,,Polished Red Ore,錬赤鉱,,not displayed by the event script,duplicate
+2,9,43,24,,,,,,Giant Pearl,大粒の真珠,,not displayed by the event script,duplicate
+2,10,43,25,,,,,,Obsidian Claw,黒曜の爪,,not displayed by the event script,duplicate
+2,11,43,32,,,,,,,〓お得意様用アイテムの作り方〓,,not displayed by the event script,
+2,12,43,33,,,,,,What's a Valued Customer Item?,お得意様アイテムとは？,,not displayed by the event script,primary
+2,13,43,34,,,,,,How do I see the items for sale?,売っているアイテムを見るには？,,not displayed by the event script,primary
+2,14,43,35,,,,,,Tell me what materials I need,必要素材を集めろ〓,,not displayed by the event script,primary
+2,15,43,36,,,,,,Make my item,いざ アイテム作成〓,,not displayed by the event script,primary
+2,16,43,38,,,,,,,〓お得意様用アイテムの作り方〓,,not displayed by the event script,
+2,17,43,39,,,,,,What's a Valued Customer Item?,お得意様アイテムとは？,,not displayed by the event script,duplicate
+2,18,43,40,,,,,,How do I see the items for sale?,売っているアイテムを見るには？,,not displayed by the event script,duplicate
+2,19,43,41,,,,,,Tell me what materials I need,必要素材を集めろ〓,,not displayed by the event script,duplicate
+2,20,43,42,,,,,,Make my item,いざ アイテム作成〓,,not displayed by the event script,duplicate
+2,21,43,385,,,,,,Solde,港町ゾルデ,,not displayed by the event script,duplicate
+2,22,43,2787,,,,,,Shopkeeper,〓主,,not displayed by the event script,primary
+2,23,43,2788,,,,,,Adventurer,冒険者,,not displayed by the event script,duplicate

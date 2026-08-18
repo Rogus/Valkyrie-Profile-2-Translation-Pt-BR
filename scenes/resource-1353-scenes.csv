@@ -1,57 +1,57 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1353,2752,7728,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-1,2,1353,2753,8216,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-1,3,1353,2754,8748,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-1,4,1353,2755,9236,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-1,5,1353,2756,10012,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-1,6,1353,2757,10736,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-1,7,1353,2758,11124,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-1,8,1353,2759,11452,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-1,9,1353,2760,11840,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-2,1,1353,1416,16716,650,0,,Lezard,Welcome. My world's first visitors.,我が世界 最初の訪問者達よ <PART> 一一,,
-2,2,1353,1417,19892,650,2,,Hrist,No god shall kneel before a man!,神が人間にひざまずく事はないッ！,,
-2,3,1353,1418,20644,650,3,,Lezard,Blasphemy!,〓えよ！,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1353,2752,7728,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+1,2,1353,2753,8216,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+1,3,1353,2754,8748,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+1,4,1353,2755,9236,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+1,5,1353,2756,10012,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+1,6,1353,2757,10736,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+1,7,1353,2758,11124,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+1,8,1353,2759,11452,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+1,9,1353,2760,11840,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+2,1,1353,1416,16716,650,0,,Lezard,Welcome. My world's first visitors.,我が世界 最初の訪問者達よ <PART> ――,,,primary
+2,2,1353,1417,19892,650,2,,Hrist,No god shall kneel before a man!,神が人間にひざまずく事はないッ！,,,
+2,3,1353,1418,20644,650,3,,Lezard,Blasphemy!,〓えよ！,,,
 2,4,1353,1419,22096,650,4,,Lezard,"I am the inheritor of your fool Odin's soul.
-I am the creator of this world <PART> ----",我は貴様らの愚神オーディンの魂を引き継いだ この世界の創造主 <PART> 一一,,
-2,5,1353,1420,23096,650,5,,Lezard,I am the absolute entity. I am god!,唯一絶対の存在 〓ち 神…,,
-2,6,1353,1421,23948,650,6,,Lezard,You lesser beings shall bow down to me.,貴様ら下々に干〓の余地はないッ！,,
+I am the creator of this world <PART> ----",我は貴様らの愚神オーディンの魂を引き継いだ この世界の創造主 <PART> ――,,,
+2,5,1353,1420,23096,650,5,,Lezard,I am the absolute entity. I am god!,唯一絶対の存在 〓ち 神…,,,
+2,6,1353,1421,23948,650,6,,Lezard,You lesser beings shall bow down to me.,貴様ら下々に干〓の余地はないッ！,,,
 2,7,1353,1439,24448,650,7,,Lenneth,"How ironic that one who so scorned the
-gods now calls himself one.",神々を愚弄した未に自らが神を名乗るとは…,,
+gods now calls himself one.",神々を愚弄した未に自らが神を名乗るとは…,,,
 2,8,1353,1423,27100,650,9,,Lezard,"Rule over all is but a fleeting fancy.
-I have but one desire...",〓物の支配など望むに値せぬ我が望むはただ一つ <PART> 一一,,
-2,9,1353,1424,27696,650,10,,Lezard,To rule my beloved goddess.,愛しき女神を支配する事,,
-2,10,1353,1425,29152,650,11,,Lezard,"Welcome, my dearest Lenneth Valkyrie.",一一 <PART> ようこそレナス・ヴァルキュリアよ,,
+I have but one desire...",〓物の支配など望むに値せぬ我が望むはただ一つ <PART> ――,,,
+2,9,1353,1424,27696,650,10,,Lezard,To rule my beloved goddess.,愛しき女神を支配する事,,,
+2,10,1353,1425,29152,650,11,,Lezard,"Welcome, my dearest Lenneth Valkyrie.",―― <PART> ようこそレナス・ヴァルキュリアよ,,,
 2,11,1353,1426,31172,650,12,,Brahms,"Pathetic wretch. All this was merely to
-satisfy your lust?",見下げ果てた奴… 全ては〓の邪欲のためだったというのか…,,
+satisfy your lust?",見下げ果てた奴… 全ては〓の邪欲のためだったというのか…,,,
 2,12,1353,1427,32008,650,13,,Lenneth,"You have blindly twisted nature and
-destroyed worlds like a savage.",あらゆる摂理を歪める〓〓 世界を滅ぼした〓行の数々 <PART> 一一,,
+destroyed worlds like a savage.",あらゆる摂理を歪める〓〓 世界を滅ぼした〓行の数々 <PART> ――,,,
 2,13,1353,1437,33104,650,14,,Lenneth,"As creator of the world that spawned
-you, I shall exact justice upon you!",貴様が元いた世界の創造主として今ここに成敗してくれる！,,
+you, I shall exact justice upon you!",貴様が元いた世界の創造主として今ここに成敗してくれる！,,,
 2,14,1353,1428,33516,650,15,,Lezard,"Is it the Dragon Orb that elicits such
-gallant prose?",その強気な物言いの〓り所はドラゴンオーブか…,,
+gallant prose?",その強気な物言いの〓り所はドラゴンオーブか…,,,
 2,15,1353,1429,34300,650,16,,Lezard,"Though a divine treasure, it pales in
-comparison to Gungnir.",しかしそれもグングニルの前には神の道〓として見〓りする…,,
+comparison to Gungnir.",しかしそれもグングニルの前には神の道〓として見〓りする…,,,
 2,16,1353,1430,34916,650,17,,Lenneth,"Weakling! Our strength doesn't come from
-the Four Treasures!",見くびるな！我らは安〓に四宝の力を頼みにしない,,
-2,17,1353,1431,36912,650,18,,Lenneth,"You play with fire, and you will be burned!",貴様… 大きな火〓を負う事になるぞ！,,
-2,18,1353,1432,38452,650,19,,Lezard,That icy gaze sends chills down my spine!,たまらない その〓ややかな〓 <PART> 一一,,
-2,19,1353,1433,39000,650,20,,Lezard,"Though you deny it,",あなたは認めたくないらしい…,,
+the Four Treasures!",見くびるな！我らは安〓に四宝の力を頼みにしない,,,
+2,17,1353,1431,36912,650,18,,Lenneth,"You play with fire, and you will be burned!",貴様… 大きな火〓を負う事になるぞ！,,,
+2,18,1353,1432,38452,650,19,,Lezard,That icy gaze sends chills down my spine!,たまらない その〓ややかな〓 <PART> ――,,,
+2,19,1353,1433,39000,650,20,,Lezard,"Though you deny it,",あなたは認めたくないらしい…,,,
 2,20,1353,1440,39260,650,21,,Lezard,"I rule not only all matter, but time as well,
-and you are here because I will it!",我が〓物のみならず時間をも支配しあなたをこの地へ導いた事を,,
+and you are here because I will it!",我が〓物のみならず時間をも支配しあなたをこの地へ導いた事を,,,
 2,21,1353,1435,53860,650,1,,Lezard,"Will you join me? Will you die? The choice
-shall be yours.",〓となるか ここで死ぬか <PART> 一一 <PART> 選ばせてさしあげよう,,
+shall be yours.",〓となるか ここで死ぬか <PART> ―― <PART> 選ばせてさしあげよう,,,primary
 2,22,1353,1438,57104,650,8,,Lenneth,"Simply being a god doesn't grant you
-rule over all! It's not that simple!",神とはその存在だけで〓物を支配できるほど 〓き務めではないッ！,,
-3,1,1353,2366,69916,,,,,ERRORv,ERR0R！！（v190）,,
-3,2,1353,2367,70052,,,,,ERRORv,ERR0R！！（v191）,,
-3,3,1353,2368,70188,,,,,ERRORv,ERR0R！！（v191）,,
-4,1,1353,3,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,2,1353,4,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-4,3,1353,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,4,1353,6,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-4,5,1353,7,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-4,6,1353,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-4,7,1353,2761,,,,,,Lezard,レザード,,not displayed by the event script
-4,8,1353,2762,,,,,,Hrist,アーリィ,,not displayed by the event script
-4,9,1353,2763,,,,,,Lenneth,レナス,,not displayed by the event script
-4,10,1353,2764,,,,,,Brahms,ブラムス,,not displayed by the event script
+rule over all! It's not that simple!",神とはその存在だけで〓物を支配できるほど 〓き務めではないッ！,,,
+3,1,1353,2366,69916,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+3,2,1353,2367,70052,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+3,3,1353,2368,70188,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,1,1353,3,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,2,1353,4,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+4,3,1353,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,4,1353,6,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+4,5,1353,7,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,6,1353,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+4,7,1353,2761,,,,,,Lezard,レザード,,not displayed by the event script,duplicate
+4,8,1353,2762,,,,,,Hrist,アーリィ,,not displayed by the event script,duplicate
+4,9,1353,2763,,,,,,Lenneth,レナス,,not displayed by the event script,duplicate
+4,10,1353,2764,,,,,,Brahms,ブラムス,,not displayed by the event script,duplicate

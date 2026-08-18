@@ -1,6 +1,6 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,499,1,0,,,,,,,,
-1,2,499,7,0,,,,,Hall of Valhalla,ヴァルハラ宮殿,,
-1,3,499,8,0,,,,,Acquired <PART> Golden Egg,金の〓 <PART> を手に入れた,,
-1,4,499,9,0,,,,,Acquired <PART> Might Potion,マイト〓ーシ〓ン <PART> を手に入れた,,
-1,5,499,10,0,,,,,,〓ーリィクリスタル <PART> を手に入れた,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,499,1,0,,,,,,,,,
+1,2,499,7,0,,,,,Hall of Valhalla,ヴァルハラ宮殿,,,duplicate
+1,3,499,8,0,,,,,Acquired <PART> Golden Egg,金の卵 <PART> を手に入れた,,,duplicate
+1,4,499,9,0,,,,,Acquired <PART> Might Potion,マイトポーシヨン <PART> を手に入れた,,,duplicate
+1,5,499,10,0,,,,,,ホーリィクリスタル <PART> を手に入れた,,,

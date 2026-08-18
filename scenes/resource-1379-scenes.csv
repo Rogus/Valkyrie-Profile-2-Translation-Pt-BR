@@ -1,11 +1,24 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1379,2740,3636,,,,Dog Lezard,Welcome. My world's first visitors.,我が世界 <PART> 最初の訪問者達よ <PART> 一一,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1379,2740,3636,,,,Dog Lezard,Welcome. My world's first visitors.,我が世界 <PART> 最初の訪問者達よ <PART> ――,,,duplicate
 1,2,1379,2741,6448,,,,Dog Lezard,"Will you join me? Will you die?
-The choice shall be yours.",しもべとなるか <PART> ここで死ぬか <PART> 一一 <PART> 選ばせてさしあげよう,,
-1,3,1379,2742,8652,,,,Dog Lezard,"Tough guy, <PART> prepare to die!",貴様は <PART> 死にたまえ,,
-1,4,1379,2743,9416,,,,Dog Lezard,"Cutie-pie, <PART> be my love slave.",チミは <PART> しもべね,,
-1,5,1379,2744,18888,,,,Dog Lezard,...Not!!,なんつってな…！,,
-1,6,1379,2746,21832,,,,,CAST <PART> Dog Alicia ... Kobold <PART> Dog Silmeria ... Kobold <PART> Dog Rufus ... Kobold <PART> Dog Lezard ... Kobold <PART> Dog Hrist ... Kobold <PART> Dog Arngrim ... Kobold <PART> Lord of the Undead ... Kobold <PART> Dog Lenneth ... Kobold <PART> Dog Odin ... Kobold <PART> Dog Freya ... Kobold <PART> Director ... Kobold <PART> ...and you <PART> The End,キャスト <PART> 〓アリーシャ …… コ求ルト <PART> 〓シルメリア …… コ求ルト <PART> 〓ルーファス …… コ求ルト <PART> 〓レザード …… コ求ルト <PART> 〓アーリィ …… コ求ルト <PART> 〓アリューゼ …… コ求ルト <PART> 不死者王 …… コ求ルト <PART> 〓レナス …… コ求ルト <PART> 〓オーディン …… コ求ルト <PART> 〓フレイ …… コ求ルト <PART> 〓〓 …… コ求ルト <PART> …… 〓〓〓 〓〓〓 <PART> 完,,
-2,1,1379,2745,,,,,,Acquired <PART> Tiny Bugs,〓いさな〓 <PART> を手に入れた,,not displayed by the event script
-2,2,1379,2747,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-2,3,1379,2749,,,,,,Dog Lezard,〓レザード,,not displayed by the event script
+The choice shall be yours.",しもべとなるか <PART> ここで死ぬか <PART> ―― <PART> 選ばせてさしあげよう,,,duplicate
+1,3,1379,2742,8652,,,,Dog Lezard,"Tough guy, <PART> prepare to die!",貴様は <PART> 死にたまえ,,,
+1,4,1379,2743,9416,,,,Dog Lezard,"Cutie-pie, <PART> be my love slave.",チミは <PART> しもべね,,,
+1,5,1379,2744,18888,,,,Dog Lezard,...Not!!,なんつってな…！,,,
+1,6,1379,2746,21832,,,,,"CAST
+ <PART> Dog Alicia ... Kobold
+ <PART> Dog Silmeria ... Kobold
+ <PART> Dog Rufus ... Kobold
+ <PART> Dog Lezard ... Kobold
+ <PART> Dog Hrist ... Kobold
+ <PART> Dog Arngrim ... Kobold
+ <PART> Lord of the Undead ... Kobold
+ <PART> Dog Lenneth ... Kobold
+ <PART> Dog Odin ... Kobold
+ <PART> Dog Freya ... Kobold
+ <PART> Director ... Kobold
+ <PART> ...and you
+ <PART> The End",キャスト <PART> 〓アリーシャ …… コ求ルト <PART> 〓シルメリア …… コ求ルト <PART> 〓ルーファス …… コ求ルト <PART> 〓レザード …… コ求ルト <PART> 〓アーリィ …… コ求ルト <PART> 〓アリューゼ …… コ求ルト <PART> 不死者王 …… コ求ルト <PART> 〓レナス …… コ求ルト <PART> 〓オーディン …… コ求ルト <PART> 〓フレイ …… コ求ルト <PART> 〓〓 …… コ求ルト <PART> …… 〓〓〓 〓〓〓 <PART> 完,,,
+2,1,1379,2745,,,,,,Acquired <PART> Tiny Bugs,ちいさな虫 <PART> を手に入れた,,not displayed by the event script,
+2,2,1379,2747,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+2,3,1379,2749,,,,,,Dog Lezard,犬レザード,,not displayed by the event script,duplicate

@@ -1,223 +1,246 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,89,12,3284,,,,Girl,"Welcome to Villnore, home of steel and commerce!
-How about a flower to celebrate the occasion?",〓業と鉄〓の街 ヴィルノアへようこそ！記念にお花はいかがですか？,,
-1,2,89,14,7000,,,,Girl,I'm afraid that...that's not enough...,ちょっとその…お金が…,,
-1,3,89,15,7232,,,,Girl,"Oh, okay, then...",そうですか…,,
+How about a flower to celebrate the occasion?",〓業と鉄〓の街 ヴィルノアへようこそ！記念にお花はいかがですか？,,,
+1,2,89,14,7000,,,,Girl,I'm afraid that...that's not enough...,ちょっとその…お金が…,,,
+1,3,89,15,7232,,,,Girl,"Oh, okay, then...",そうですか…,,,primary
 1,4,89,16,7692,,,,Boy,"Greetings <PART> ---- <PART> I mean, hello <PART> ---- <PART> I mean...
-Uh... What do I mean? Right, uh...",あ あのお姉さん…あのね その なんて言うか…その…,,
+Uh... What do I mean? Right, uh...",あ あのお姉さん…あのね その なんて言うか…その…,,,
 1,5,89,17,7788,,,,Lady,"There you are! Come back for flowers today?
-Men who appreciate flowers are hard to come by!",いらっしゃいませ！ 今日もお花買いに来たの？いつもありがとう 花が好きな男の子って嬉しいわ,,
+Men who appreciate flowers are hard to come by!",いらっしゃいませ！ 今日もお花買いに来たの？いつもありがとう 花が好きな男の子って嬉しいわ,,,
 1,6,89,18,7848,,,,Boy,"Um...right. Yeah...I'm here to buy flowers?
-Of course! I'm here to buy flowers! Haha!",あ…うん…そ そうなんだ花を買いに来たんだ！ あは…ははは…,,
+Of course! I'm here to buy flowers! Haha!",あ…うん…そ そうなんだ花を買いに来たんだ！ あは…ははは…,,,
 1,7,89,20,8424,,,,Boy,"Uh... Were you just listening to that?
-Let's keep this between you and me.",…聞いてたんですか？うん…何も言わないでください…,,
+Let's keep this between you and me.",…聞いてたんですか？うん…何も言わないでください…,,,
 1,8,89,21,8516,,,,Boy,"That flower girl is beauty personified.
-You must see her while you're in Villnore!",花屋のお姉さん 凄く可愛いんですよヴィルノアに来たら一度は会っておかないと！,,
+You must see her while you're in Villnore!",花屋のお姉さん 凄く可愛いんですよヴィルノアに来たら一度は会っておかないと！,,,
 1,9,89,22,8648,,,,Gentleman,"You want to know about ruins around here?
-Hmm... There is that shrine on the water. <PART> ---
-But I'll tell you one thing, young lady <PART> ---- <PART> I wouldn't go near there if I were you. <PART> ---
+Hmm... There is that shrine on the water. <PART>
+---
+But I'll tell you one thing, young lady <PART> ---- <PART>
+I wouldn't go near there if I were you. <PART>
+---
 Many went out in search of treasure,
-but none came back.",ん？ この近くにある〓〓だって？ああ 確か入り〓に神殿みたいな〓物はあるが… <PART> 一つ〓告するよ お〓さんそこには近付かない方がいい <PART> 宝目当てで行ったヤツが何人かいたが誰一人帰って来ないんだ,,
+but none came back.",ん？ この近くにある〓〓だって？ああ 確か入り〓に神殿みたいな〓物はあるが… <PART> 一つ〓告するよ お〓さんそこには近付かない方がいい <PART> 宝目当てで行ったヤツが何人かいたが誰一人帰って来ないんだ,,,
 1,10,89,23,8844,,,,Gentleman,"The ruins nearby were once hailed as
-the temple of water. <PART> ---
+the temple of water. <PART>
+---
 But a massive tsunami sent half of the
-shrine into the sea. <PART> ---
+shrine into the sea. <PART>
+---
 You might be able to drain the water
-by opening the floodgate... <PART> ---
+by opening the floodgate... <PART>
+---
 But chances are the monsters there would
-eat you alive before you had the chance.",入り〓の〓〓は かつて水の神殿と呼ばれるほど栄えていたんだ <PART> だがある日 〓大な〓波が襲ってきてそれっきり今でも大半が海の下さ <PART> 水〓を開ける事ができれば水も引くかもしれないが… <PART> 多分無理だな 住み着いた魔物にやられるのがオチってところだよ お〓さん,,
+eat you alive before you had the chance.",入り〓の〓〓は かつて水の神殿と呼ばれるほど栄えていたんだ <PART> だがある日 〓大な〓波が襲ってきてそれっきり今でも大半が海の下さ <PART> 水〓を開ける事ができれば水も引くかもしれないが… <PART> 多分無理だな 住み着いた魔物にやられるのがオチってところだよ お〓さん,,,
 1,11,89,24,9488,,,,Gentleman,"Say there, you're the young lady from before!
-You didn't happen to visit the ruins, did you?",おや…この間のお〓さんだよね？もしかして〓〓に行ったのかい？,,
+You didn't happen to visit the ruins, did you?",おや…この間のお〓さんだよね？もしかして〓〓に行ったのかい？,,,
 1,12,89,27,9664,,,,Gentleman,"You actually made it out of there alive?
-That is no small feat! <PART> ---
+That is no small feat! <PART>
+---
 You are both lovely and rugged, it would seem.
-Here is a small reward for you...",驚いたな まさか無事で帰ってくるなんて…〓のその勇気と強さを〓えるよ <PART> 〓みたいな素敵な女性にはコレを…ちょっとしたご〓〓さ,,
+Here is a small reward for you...",驚いたな まさか無事で帰ってくるなんて…〓のその勇気と強さを〓えるよ <PART> 〓みたいな素敵な女性にはコレを…ちょっとしたご〓〓さ,,,
 1,13,89,29,9748,,,,Gentleman,"Of course, how silly of me to think a delicate
-thing like you would ever go near such a place.",そうだよね 〓みたいなか弱い女性が近づく場所じゃない 懸命な〓断だよ,,
+thing like you would ever go near such a place.",そうだよね 〓みたいなか弱い女性が近づく場所じゃない 懸命な〓断だよ,,,
 1,14,89,30,9808,,,,Gentleman,"It appears Solde's liner still isn't operating.
-I guess I'll trade with Crell Monferaigne.",ソルデの定期船はまだ復航しないみたいだなしばらくはクレルモンフェランと取引か…,,
+I guess I'll trade with Crell Monferaigne.",ソルデの定期船はまだ復航しないみたいだなしばらくはクレルモンフェランと取引か…,,,
 1,15,89,31,10536,,,,Boy,"Isn't the flower girl a sweetheart?
-How I long to befriend her...",花屋のお姉さんって 可愛いですよね…何とか仲良くなれないかなぁ…,,
+How I long to befriend her...",花屋のお姉さんって 可愛いですよね…何とか仲良くなれないかなぁ…,,,
 1,16,89,32,10760,,,,Townsperson,"Imports from Dipan have become rather scarce.
-The rumors about the ships must be true. <PART> ---
+The rumors about the ships must be true. <PART>
+---
 If something happened to Dipan, Artolia and
-Crell Monferaigne will soon make their move. <PART> ---
+Crell Monferaigne will soon make their move. <PART>
+---
 I hope Villnore will be left out of it,
-but I wouldn't count on it.",ディパンからの品が急に品〓になってねえ定期船が〓航しているってのは本当みたいだね <PART> もしディパンに〓一の事があった場合アルトリアとクレルモンフェランが動くだろうね <PART> ヴィルノアに害が及ばなきゃいいんだけど…何だか心配だよ…,,
+but I wouldn't count on it.",ディパンからの品が急に品〓になってねえ定期船が〓航しているってのは本当みたいだね <PART> もしディパンに〓一の事があった場合アルトリアとクレルモンフェランが動くだろうね <PART> ヴィルノアに害が及ばなきゃいいんだけど…何だか心配だよ…,,,
 1,17,89,33,10852,,,,Townsperson,"When your nerves are frayed by stress,
-a cup of chamomille tea will do the trick.",気持ちが不安定で疲れている時はカモミールの花のお茶がいいんだよ,,
+a cup of chamomille tea will do the trick.",気持ちが不安定で疲れている時はカモミールの花のお茶がいいんだよ,,,
 1,18,89,34,11388,,,,Girl,"Flowers soothe the troubled soul.
-Would you like one?",不安な時はお花を見ると少し落ち着きますよお一ついかがですか？,,
-1,19,89,38,11676,,,,Girl,"Oh, okay, then...",そうですか…,,
+Would you like one?",不安な時はお花を見ると少し落ち着きますよお一ついかがですか？,,,
+1,19,89,38,11676,,,,Girl,"Oh, okay, then...",そうですか…,,,duplicate
 1,20,89,39,12356,,,,Townsperson,"I can't believe it...Dipan has...
-A bulletin was posted at the castle...",…ディパンが……だって城に知らせが……,,
+A bulletin was posted at the castle...",…ディパンが……だって城に知らせが……,,,
 1,21,89,40,12412,,,,Townsperson,"The rumors were true, Dipan's completely...
-That foolish Barbarossa...",噂は本当……これでディパンも……バルバロッサ王も愚かな……,,
+That foolish Barbarossa...",噂は本当……これでディパンも……バルバロッサ王も愚かな……,,,
 1,22,89,41,12772,,,,Gentleman,"My friend working at the castle told me that
-Dipan is under attack or something! <PART> ---
+Dipan is under attack or something! <PART>
+---
 They saw smoke rising from the direction of
-Dipan through the telescope.",ディパンがどこかから襲撃を受けているらしいさっき城〓めの〓人に聞いたんだ <PART> 遠眼〓でも ディパン方面から〓が上がっているのが確認できるそうだ,,
+Dipan through the telescope.",ディパンがどこかから襲撃を受けているらしいさっき城〓めの〓人に聞いたんだ <PART> 遠眼〓でも ディパン方面から〓が上がっているのが確認できるそうだ,,,
 1,23,89,42,12864,,,,Gentleman,"What country could have the audacity to attack
-a military superpower like Dipan?",ディパンほどの大国を襲撃するなんて…一体どこの国の軍〓なんだ…,,
+a military superpower like Dipan?",ディパンほどの大国を襲撃するなんて…一体どこの国の軍〓なんだ…,,,
 1,24,89,43,12956,,,,Townsperson,"Rumors that Dipan was conducting questionable
-research have been swirling for a while. <PART> ---
+research have been swirling for a while. <PART>
+---
 Some thought Dipan was preparing for war.
-I guess they were right.",前から噂にはなってたんだよディパンが変な研究してるってさ <PART> 戦争の準備だとか色々言われていたけど…こうなると本当だったんだねえ,,
+I guess they were right.",前から噂にはなってたんだよディパンが変な研究してるってさ <PART> 戦争の準備だとか色々言われていたけど…こうなると本当だったんだねえ,,,
 1,25,89,44,13048,,,,Townsperson,"I suspect this attack on Dipan was in response
-to their suspicious research.",今回の襲撃は やっぱりディパンが進めていたという研究が〓因なのかねえ,,
+to their suspicious research.",今回の襲撃は やっぱりディパンが進めていたという研究が〓因なのかねえ,,,
 1,26,89,45,13236,,,,Boy,"My father was suddenly summoned to the castle,
-even though he was off duty... <PART> ---
+even though he was off duty... <PART>
+---
 I think they called an emergency meeting for
-everybody who works at the castle.",父さんが急にお城に呼び出されたんです非番だったのに… <PART> 他のお城〓めの人達にも 〓急〓集がかかったそうですよ,,
+everybody who works at the castle.",父さんが急にお城に呼び出されたんです非番だったのに… <PART> 他のお城〓めの人達にも 〓急〓集がかかったそうですよ,,,
 1,27,89,46,13328,,,,Boy,"What in the name of the gods happened to Dipan?
-It has everyone in Villnore Castle on edge...",ディパンで一体何があったんだろう…ヴィルノア城の人達まで〓っているし…,,
+It has everyone in Villnore Castle on edge...",ディパンで一体何があったんだろう…ヴィルノア城の人達まで焦っているし…,,,
 1,28,89,47,14832,,,,Gentleman,"It's hard to believe a city like Dipan
-was obliterated in a single night... <PART> ---
+was obliterated in a single night... <PART>
+---
 It's as if the gods set an example for
-anyone who would oppose them...",あのディパンが一〓で滅ぶなんて…ちょっと信じられないね <PART> 所詮 人は神には逆らえないといういわば見せしめみたいなものだったのかな,,
+anyone who would oppose them...",あのディパンが一〓で滅ぶなんて…ちょっと信じられないね <PART> 所詮 人は神には逆らえないといういわば見せしめみたいなものだったのかな,,,
 1,29,89,48,14924,,,,Gentleman,"They've been holding a council in Villnore
-Castle ever since Dipan fell. <PART> ---
+Castle ever since Dipan fell. <PART>
+---
 What could be in store for this town?
-I know things are going to change...",ディパン崩壊の報を聞いて ヴィルノア城ではずっと会議が開かれているらしい <PART> この街は この先どうなるんだろうな…このままではいられないのはわかっているが…,,
+I know things are going to change...",ディパン崩壊の報を聞いて ヴィルノア城ではずっと会議が開かれているらしい <PART> この街は この先どうなるんだろうな…このままではいられないのはわかっているが…,,,
 1,30,89,49,15884,,,,Townsperson,"Where could a revered king like Barbarossa
-possibly have gone wrong?",名〓と〓われたバルバロッサ王も一体どこで道を〓ったんだか…,,
-1,31,89,50,15976,,,,Townsperson,I hope there won't be wars with Dipan gone <PART> ---- <PART> I won't last long in battle at my age.,ディパン崩壊で戦争が起きなければいいけど…この〓になって戦に〓き込まれるのは御免だよ,,
+possibly have gone wrong?",名〓と〓われたバルバロッサ王も一体どこで道を〓ったんだか…,,,
+1,31,89,50,15976,,,,Townsperson,"I hope there won't be wars with Dipan gone <PART> ---- <PART>
+I won't last long in battle at my age.",ディパン崩壊で戦争が起きなければいいけど…この〓になって戦に〓き込まれるのは御免だよ,,,
 1,32,89,51,16252,,,,Boy,"At times like these I want to
-be there for her... <PART> ---
-But I just can't make the first move.",こんな時だからこそ 〓がお姉さんの力になるべきなんですよね <PART> けれど その一歩が踏み出せないんです…,,
+be there for her... <PART>
+---
+But I just can't make the first move.",こんな時だからこそ 〓がお姉さんの力になるべきなんですよね <PART> けれど その一歩が踏み出せないんです…,,,
 1,33,89,52,16332,,,,Girl,"It's important to have flowers to keep your
-mind off all the sad news lately.",〓い話題ばかりですから そういう時くらい〓〓なお花が必要だと思うんです…,,
+mind off all the sad news lately.",〓い話題ばかりですから そういう時くらい〓〓なお花が必要だと思うんです…,,,
 1,34,89,56,17104,,,,Girl,"Care for a flower? Let the scent wash
-your troubles away!",お花はいかがですか？ 〓〓な花を見て嫌な〓〓気は吹き〓ばしましょう！,,
-1,35,89,60,17392,,,,Girl,"Oh, okay then...",そうですか…,,
+your troubles away!",お花はいかがですか？ 〓〓な花を見て嫌な〓〓気は吹き〓ばしましょう！,,,
+1,35,89,60,17392,,,,Girl,"Oh, okay then...",そうですか…,,,
 1,36,89,61,19912,,,,Gentleman,"People ask me what they should do, but
-I don't even know what to do myself!",どうするって言われても…俺だってどう身を振ればいいか…,,
+I don't even know what to do myself!",どうするって言われても…俺だってどう身を振ればいいか…,,,
 1,37,89,62,19976,,,,Townsperson,"The government is taking over commerce.
-This is going to kill my profits!",これからは城の主導で〓業を行うって…どうするんだい？ 〓けが少なくなるよ！,,
+This is going to kill my profits!",これからは城の主導で〓業を行うって…どうするんだい？ 〓けが少なくなるよ！,,,
 1,38,89,63,20100,,,,Townsperson,"Everything was going so smoothly, and now
-the castle has to butt into my business!?",ああもう… これまで順調にやってきたってのに行〓が〓業に口を出すなんて…,,
+the castle has to butt into my business!?",ああもう… これまで順調にやってきたってのに行〓が〓業に口を出すなんて…,,,
 1,39,89,64,20308,,,,Gentleman,"The castle announced just the other day that
-they'd be taking over steel and commerce... <PART> ---
+they'd be taking over steel and commerce... <PART>
+---
 It's all because of Dipan's collapse.
-So much for free trade in Villnore!",ついこの間 城からお達しが出たんだこの先 〓業も鉄〓業も全て行〓主導で行うと… <PART> これも ディパン崩壊の影〓だもう〓業のヴィルノアも終わりだな…,,
+So much for free trade in Villnore!",ついこの間 城からお達しが出たんだこの先 〓業も鉄〓業も全て行〓主導で行うと… <PART> これも ディパン崩壊の影〓だもう〓業のヴィルノアも終わりだな…,,,
 1,40,89,65,20400,,,,Gentleman,"The castle is pushing for militarization.
-Some are suggesting a draft.",城では軍事化を進めたがっているらしい噂では じきに〓兵も行われるとか…,,
+Some are suggesting a draft.",城では軍事化を進めたがっているらしい噂では じきに〓兵も行われるとか…,,,
 1,41,89,66,20588,,,,Boy,"After he'd come back from the castle,
-my father looked terribly dour. <PART> ---
+my father looked terribly dour. <PART>
+---
 Things won't be like they used to and
-war could break out any time, he said.",城から帰ってきた父さんが凄く悲しそうな顔をしていたんです <PART> これからは昔のように暮らせないいつ戦が起こるかわからないって…,,
+war could break out any time, he said.",城から帰ってきた父さんが凄く悲しそうな顔をしていたんです <PART> これからは昔のように暮らせないいつ戦が起こるかわからないって…,,,
 1,42,89,67,20680,,,,Boy,"If ever there should be a war,
-I will fight for the flower girl! <PART> ---",もし戦が起こっても〓は必ず花屋のお姉さんを守ります…！,,
+I will fight for the flower girl! <PART>
+---
+",もし戦が起こっても〓は必ず花屋のお姉さんを守ります…！,,,
 1,43,89,68,20788,,,,Boy,"The flowers sold at the shop change
-according to the season.",花屋さんで売っている花は時〓ごとに色々変わるんですよ,,
-1,44,89,73,20912,,,,,Looks hungry...,〓が欲しいみたい…,,
-1,45,89,78,21224,,,,,Eat up!,たくさん食べてね,,
+according to the season.",花屋さんで売っている花は時〓ごとに色々変わるんですよ,,,
+1,44,89,73,20912,,,,,Looks hungry...,〓が欲しいみたい…,,,duplicate
+1,45,89,78,21224,,,,,Eat up!,たくさん食べてね,,,duplicate
 1,46,89,81,21708,,,,,"Umm...
-Right... Thank you.",ええと…あ…ありがとう…,,
+Right... Thank you.",ええと…あ…ありがとう…,,,duplicate
 1,47,89,84,21816,,,,,"Umm...
-Right... Thank you.",ええと…あ…ありがとう…,,
+Right... Thank you.",ええと…あ…ありがとう…,,,duplicate
 1,48,89,86,21884,,,,,"Umm...
-Right... Thank you.",ええと…あ…ありがとう…,,
+Right... Thank you.",ええと…あ…ありがとう…,,,duplicate
 1,49,89,88,21952,,,,,"Umm...
-Right... Thank you.",ええと…あ…ありがとう…,,
+Right... Thank you.",ええと…あ…ありがとう…,,,duplicate
 1,50,89,89,21996,,,,,"I'm sorry...
-I don't have any food for you.",ごめんなさい…今 あげられる物は何も無いの,,
+I don't have any food for you.",ごめんなさい…今 あげられる物は何も無いの,,,duplicate
 1,51,89,91,22292,,,,Dog,"Whoa! You can understand what I'm saying?
-What a remarkable human specimen! <PART> ---
+What a remarkable human specimen! <PART>
+---
 I've lived alongside humans for some while,
-but I have to say this is a first! <PART> ---
+but I have to say this is a first! <PART>
+---
 Well, if you can understand me, there's
-no need for the song and dance... <PART> ---
+no need for the song and dance... <PART>
+---
 Here's the bottom line <PART> ---- <PART> I want food.
-The sudden changes have made everyone stingy.",ほほう… 我が言葉が分かるのか〓有な人間がいたものだな <PART> 我も人と共に暮らして長いがそなたのような人物は初めてだ <PART> ふむ そうだな言葉が分かるのならば話が早い <PART> 〓をくれないか？皆 急激な情勢の変動で余〓がないようでな,,
+The sudden changes have made everyone stingy.",ほほう… 我が言葉が分かるのか〓有な人間がいたものだな <PART> 我も人と共に暮らして長いがそなたのような人物は初めてだ <PART> ふむ そうだな言葉が分かるのならば話が早い <PART> 〓をくれないか？皆 急激な情勢の変動で余〓がないようでな,,,
 1,52,89,92,22368,,,,Dog,"Look who it is! Spare some chops?
-I can't repay you, I'm just hungry.",おお そなたか 一つ〓をくれないか？〓返しはできんが 腹が減って仕方なくてな,,
-1,53,89,97,22656,,,,,Here you go!,はい どうぞ,,
+I can't repay you, I'm just hungry.",おお そなたか 一つ〓をくれないか？〓返しはできんが 腹が減って仕方なくてな,,,
+1,53,89,97,22656,,,,,Here you go!,はい どうぞ,,,duplicate
 1,54,89,98,22748,,,,Dog,"Thanks, I really appreciate it.
-For a human, you're pretty cool.",うむ すまぬなそなたは優しい人間のようだ,,
+For a human, you're pretty cool.",うむ すまぬなそなたは優しい人間のようだ,,,
 1,55,89,100,22868,,,,,"I'm sorry...
-I don't have any food for you.",ごめんなさい…今 あげられる物は何も無いの,,
+I don't have any food for you.",ごめんなさい…今 あげられる物は何も無いの,,,duplicate
 1,56,89,101,22936,,,,Dog,"Well...I guess it can't be helped...
-Sorry for asking.",そうか… ならば仕方あるまい無理を言ってすまなかったな,,
-1,57,89,102,23008,,,,Dog,I don't think I like you very much.,何ともまあ 心の〓い人間よ,,
-1,58,89,106,23084,,,,Girl,Thank you! Please take good care of it.,ありがとうございました大切にしてあげてくださいね,,
+Sorry for asking.",そうか… ならば仕方あるまい無理を言ってすまなかったな,,,
+1,57,89,102,23008,,,,Dog,I don't think I like you very much.,何ともまあ 心の〓い人間よ,,,
+1,58,89,106,23084,,,,Girl,Thank you! Please take good care of it.,ありがとうございました大切にしてあげてくださいね,,,
 1,59,89,107,23136,,,,Girl,"Oh, I'm sorry! I don't have any flowers
-I can sell you right now...",あ…… ごめんなさい！お売りできるお花がもう無いみたいです…,,
+I can sell you right now...",あ…… ごめんなさい！お売りできるお花がもう無いみたいです…,,,
 1,60,89,110,23212,,,,Girl,"Thank you! Umm...I don't know how
-you're feeling, but try to cheer up!",ありがとうございました えっと…良く分かりませんが…元気出してくださいね,,
+you're feeling, but try to cheer up!",ありがとうございました えっと…良く分かりませんが…元気出してくださいね,,,
 1,61,89,113,23296,,,,Girl,"Thank you! The flower is happy that
-you bought it <PART> ---- <PART> trust me!",ありがとうございました貴方に買って頂けて お花も喜んでますよ,,
+you bought it <PART> ---- <PART> trust me!",ありがとうございました貴方に買って頂けて お花も喜んでますよ,,,
 1,62,89,116,23380,,,,Girl,"Thank you! I'm always here for whenever
-you need flowers!",ありがとうございました 私はいつまでもここで花を売っていますから また来てくださいね,,
-2,1,89,2885,28536,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-2,2,89,2886,29024,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-2,3,89,2887,29556,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-2,4,89,2888,30044,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-2,5,89,2889,30820,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-2,6,89,2890,31544,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-2,7,89,2891,31932,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-2,8,89,2892,32260,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-2,9,89,2893,32648,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-3,1,89,2482,38392,,,,,ERRORv,ERR0R！！（v190）,,
-3,2,89,2483,38528,,,,,ERRORv,ERR0R！！（v191）,,
-3,3,89,2484,38664,,,,,ERRORv,ERR0R！！（v191）,,
-4,1,89,1,,,,,,Inn,〓〓,,not displayed by the event script
-4,2,89,2,,,,,,House,民家,,not displayed by the event script
-4,3,89,3,,,,,,House,民家,,not displayed by the event script
-4,4,89,5,,,,,,Villnore,ヴィルノア,,not displayed by the event script
-4,5,89,6,,,,,,Exit,出口,,not displayed by the event script
-4,6,89,7,,,,,,Leave Villnore?,ヴィルノアから出ます,,not displayed by the event script
-4,7,89,8,,,,,,Yes,はい,,not displayed by the event script
-4,8,89,9,,,,,,No,いいえ,,not displayed by the event script
-4,9,89,10,,,,,,I'll buy.,〓う,,not displayed by the event script
-4,10,89,11,,,,,,Bye-bye.,〓わない,,not displayed by the event script
-4,11,89,13,,,,,,Tiny flower  OTH,〓いさな〓  0TH,,not displayed by the event script
-4,12,89,19,,,,,,HListen,〓く,,not displayed by the event script
-4,13,89,25,,,,,,Been there.,〓った,,not displayed by the event script
-4,14,89,26,,,,,,Been elsewhere.,〓ってない,,not displayed by the event script
-4,15,89,28,,,,,,Acquired <PART> Prism Crystal,プリズムクリスタル <PART> を手に入れた,,not displayed by the event script
-4,16,89,35,,,,,,Lily  OTH,リリィ  0TH,,not displayed by the event script
-4,17,89,36,,,,,,I'll buy.,〓う,,not displayed by the event script
-4,18,89,37,,,,,,Bye-bye.,〓わない,,not displayed by the event script
-4,19,89,53,,,,,,Weeping Lily  OTH,スズラン  0TH,,not displayed by the event script
-4,20,89,54,,,,,,I'll buy.,〓う,,not displayed by the event script
-4,21,89,55,,,,,,Bye-bye.,〓わない,,not displayed by the event script
-4,22,89,57,,,,,,Gladiolus  OTH,グラジオラス  0TH,,not displayed by the event script
-4,23,89,58,,,,,,I'll buy.,〓う,,not displayed by the event script
-4,24,89,59,,,,,,Bye-bye.,〓わない,,not displayed by the event script
-4,25,89,74,,,,,,Feed it meat chops?,〓〓き〓をあ〓る,,not displayed by the event script
-4,26,89,75,,,,,,Sure.,あ〓る,,not displayed by the event script
-4,27,89,76,,,,,,Nope.,あ〓ない,,not displayed by the event script
-4,28,89,77,,,,,,Acquired <PART> Meat Chops,〓〓き〓 <PART> を手に入れた,,not displayed by the event script
-4,29,89,79,,,,,,Acquired <PART> Meat Chops,〓〓き〓 <PART> を手に入れた,,not displayed by the event script
-4,30,89,80,,,,,,Acquired <PART> Sucked Bone,し〓ぶった〓 <PART> を手に入れた,,not displayed by the event script
-4,31,89,83,,,,,,Acquired <PART> Chewed-up Shoes,かじった〓 <PART> を手に入れた,,not displayed by the event script
-4,32,89,85,,,,,,Acquired <PART> Squalid Cloth,〓〓〓〓の〓 <PART> を手に入れた,,not displayed by the event script
-4,33,89,87,,,,,,Acquired <PART> Dog Poop,い〓のふ〓 <PART> を手に入れた,,not displayed by the event script
-4,34,89,90,,,,,,Acquired <PART> Solomon's Ring,ソロモンの指〓 <PART> を手に入れた,,not displayed by the event script
-4,35,89,93,,,,,,Feed it meat chops?,〓〓き〓をあ〓る,,not displayed by the event script
-4,36,89,94,,,,,,Sure.,あ〓る,,not displayed by the event script
-4,37,89,95,,,,,,Nope.,あ〓ない,,not displayed by the event script
-4,38,89,96,,,,,,Acquired <PART> Meat Chops,〓〓き〓 <PART> を手に入れた,,not displayed by the event script
-4,39,89,99,,,,,,Acquired <PART> Meat Chops,〓〓き〓 <PART> を手に入れた,,not displayed by the event script
-4,40,89,103,,,,,,Acquired <PART> Solomon's Ring,ソロモンの指〓 <PART> を手に入れた,,not displayed by the event script
-4,41,89,104,,,,,,Acquired <PART> Tiny Flower,〓いさな〓 <PART> を手に入れた,,not displayed by the event script
-4,42,89,105,,,,,,Acquired <PART> Tiny Flower,〓いさな〓 <PART> を手に入れた,,not displayed by the event script
-4,43,89,108,,,,,,Acquired <PART> Lily,リリィ <PART> を手に入れた,,not displayed by the event script
-4,44,89,109,,,,,,Acquired <PART> Lily,リリィ <PART> を手に入れた,,not displayed by the event script
-4,45,89,111,,,,,,Acquired <PART> Weeping Lily,スズラン <PART> を手に入れた,,not displayed by the event script
-4,46,89,112,,,,,,Acquired <PART> Weeping Lily,スズラン <PART> を手に入れた,,not displayed by the event script
-4,47,89,114,,,,,,Acquired <PART> Gladiolus,グラジオラス <PART> を手に入れた,,not displayed by the event script
-4,48,89,115,,,,,,Acquired <PART> Gladiolus,グラジオラス <PART> を手に入れた,,not displayed by the event script
-4,49,89,119,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,50,89,120,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-4,51,89,121,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,52,89,122,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-4,53,89,123,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-4,54,89,2488,,,,,,Villnore,ヴィルノア,,not displayed by the event script
-4,55,89,2879,,,,,,Girl,〓女,,not displayed by the event script
-4,56,89,2880,,,,,,Boy,〓〓,,not displayed by the event script
-4,57,89,2881,,,,,,Lady,街〓,,not displayed by the event script
-4,58,89,2882,,,,,,Gentleman,〓〓,,not displayed by the event script
-4,59,89,2883,,,,,,Townsperson,ヴィルノア住人,,not displayed by the event script
-4,60,89,2884,,,,,,Dog,〓,,not displayed by the event script
+you need flowers!",ありがとうございました 私はいつまでもここで花を売っていますから また来てくださいね,,,
+2,1,89,2885,28536,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+2,2,89,2886,29024,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+2,3,89,2887,29556,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+2,4,89,2888,30044,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+2,5,89,2889,30820,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+2,6,89,2890,31544,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+2,7,89,2891,31932,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+2,8,89,2892,32260,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+2,9,89,2893,32648,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+3,1,89,2482,38392,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+3,2,89,2483,38528,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+3,3,89,2484,38664,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,1,89,1,,,,,,Inn,宿屋,,not displayed by the event script,duplicate
+4,2,89,2,,,,,,House,民家,,not displayed by the event script,duplicate
+4,3,89,3,,,,,,House,民家,,not displayed by the event script,duplicate
+4,4,89,5,,,,,,Villnore,ヴィルノア,,not displayed by the event script,duplicate
+4,5,89,6,,,,,,Exit,出口,,not displayed by the event script,primary
+4,6,89,7,,,,,,Leave Villnore?,ヴィルノアから出ます,,not displayed by the event script,primary
+4,7,89,8,,,,,,Yes,はい,,not displayed by the event script,primary
+4,8,89,9,,,,,,No,いいえ,,not displayed by the event script,primary
+4,9,89,10,,,,,,I'll buy.,買う,,not displayed by the event script,primary
+4,10,89,11,,,,,,Bye-bye.,買わない,,not displayed by the event script,primary
+4,11,89,13,,,,,,Tiny flower  OTH,ちいさな花  OTH,,not displayed by the event script,
+4,12,89,19,,,,,,HListen,聞く,,not displayed by the event script,duplicate
+4,13,89,25,,,,,,Been there.,行った,,not displayed by the event script,
+4,14,89,26,,,,,,Been elsewhere.,行ってない,,not displayed by the event script,
+4,15,89,28,,,,,,Acquired <PART> Prism Crystal,プリズムクリスタル <PART> を手に入れた,,not displayed by the event script,
+4,16,89,35,,,,,,Lily  OTH,リリィ  OTH,,not displayed by the event script,
+4,17,89,36,,,,,,I'll buy.,買う,,not displayed by the event script,duplicate
+4,18,89,37,,,,,,Bye-bye.,買わない,,not displayed by the event script,duplicate
+4,19,89,53,,,,,,Weeping Lily  OTH,スズラン  OTH,,not displayed by the event script,
+4,20,89,54,,,,,,I'll buy.,買う,,not displayed by the event script,duplicate
+4,21,89,55,,,,,,Bye-bye.,買わない,,not displayed by the event script,duplicate
+4,22,89,57,,,,,,Gladiolus  OTH,グラジオラス  OTH,,not displayed by the event script,
+4,23,89,58,,,,,,I'll buy.,買う,,not displayed by the event script,duplicate
+4,24,89,59,,,,,,Bye-bye.,買わない,,not displayed by the event script,duplicate
+4,25,89,74,,,,,,Feed it meat chops?,骨付き肉をあげる,,not displayed by the event script,primary
+4,26,89,75,,,,,,Sure.,あげる,,not displayed by the event script,duplicate
+4,27,89,76,,,,,,Nope.,あげない,,not displayed by the event script,duplicate
+4,28,89,77,,,,,,Acquired <PART> Meat Chops,骨付き肉 <PART> を手に入れた,,not displayed by the event script,primary
+4,29,89,79,,,,,,Acquired <PART> Meat Chops,骨付き肉 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,30,89,80,,,,,,Acquired <PART> Sucked Bone,しやぶった骨 <PART> を手に入れた,,not displayed by the event script,
+4,31,89,83,,,,,,Acquired <PART> Chewed-up Shoes,かじった靴 <PART> を手に入れた,,not displayed by the event script,
+4,32,89,85,,,,,,Acquired <PART> Squalid Cloth,ぼろぼろの布 <PART> を手に入れた,,not displayed by the event script,
+4,33,89,87,,,,,,Acquired <PART> Dog Poop,いぬのふん <PART> を手に入れた,,not displayed by the event script,
+4,34,89,90,,,,,,Acquired <PART> Solomon's Ring,ソロモンの指輪 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,35,89,93,,,,,,Feed it meat chops?,骨付き肉をあげる,,not displayed by the event script,duplicate
+4,36,89,94,,,,,,Sure.,あげる,,not displayed by the event script,duplicate
+4,37,89,95,,,,,,Nope.,あげない,,not displayed by the event script,duplicate
+4,38,89,96,,,,,,Acquired <PART> Meat Chops,骨付き肉 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,39,89,99,,,,,,Acquired <PART> Meat Chops,骨付き肉 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,40,89,103,,,,,,Acquired <PART> Solomon's Ring,ソロモンの指輪 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,41,89,104,,,,,,Acquired <PART> Tiny Flower,ちいさな花 <PART> を手に入れた,,not displayed by the event script,primary
+4,42,89,105,,,,,,Acquired <PART> Tiny Flower,ちいさな花 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,43,89,108,,,,,,Acquired <PART> Lily,リリィ <PART> を手に入れた,,not displayed by the event script,primary
+4,44,89,109,,,,,,Acquired <PART> Lily,リリィ <PART> を手に入れた,,not displayed by the event script,duplicate
+4,45,89,111,,,,,,Acquired <PART> Weeping Lily,スズラン <PART> を手に入れた,,not displayed by the event script,primary
+4,46,89,112,,,,,,Acquired <PART> Weeping Lily,スズラン <PART> を手に入れた,,not displayed by the event script,duplicate
+4,47,89,114,,,,,,Acquired <PART> Gladiolus,グラジオラス <PART> を手に入れた,,not displayed by the event script,primary
+4,48,89,115,,,,,,Acquired <PART> Gladiolus,グラジオラス <PART> を手に入れた,,not displayed by the event script,duplicate
+4,49,89,119,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,50,89,120,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+4,51,89,121,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,52,89,122,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+4,53,89,123,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+4,54,89,2488,,,,,,Villnore,ヴィルノア,,not displayed by the event script,duplicate
+4,55,89,2879,,,,,,Girl,少女,,not displayed by the event script,duplicate
+4,56,89,2880,,,,,,Boy,少年,,not displayed by the event script,duplicate
+4,57,89,2881,,,,,,Lady,街娘,,not displayed by the event script,duplicate
+4,58,89,2882,,,,,,Gentleman,青年,,not displayed by the event script,duplicate
+4,59,89,2883,,,,,,Townsperson,ヴィルノア住人,,not displayed by the event script,primary
+4,60,89,2884,,,,,,Dog,犬,,not displayed by the event script,duplicate

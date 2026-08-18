@@ -1,79 +1,79 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1303,1,3064,332,0,,Hrist,We go to Dipan.,ディパンへ行くぞ,,
-2,1,1303,2753,21328,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-2,2,1303,2754,21816,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-2,3,1303,2755,22348,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-2,4,1303,2756,22836,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-2,5,1303,2757,23612,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-2,6,1303,2758,24336,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-2,7,1303,2759,24724,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-2,8,1303,2760,25052,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-2,9,1303,2761,25440,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-3,1,1303,1209,29384,572,0,,Hrist,Arngrim!,アリューゼ！,,
-3,2,1303,1210,30864,572,1,,Hrist,Come. It's important.,来い 一大事だ,,
-3,3,1303,1211,31600,572,2,,Arngrim,"Not to me, it isn't.",…関係ねぇな,,
-3,4,1303,1212,31900,572,3,,Hrist,What's that?,なんだと…,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1303,1,3064,332,0,,Hrist,We go to Dipan.,ディパンへ行くぞ,,,
+2,1,1303,2753,21328,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+2,2,1303,2754,21816,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+2,3,1303,2755,22348,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+2,4,1303,2756,22836,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+2,5,1303,2757,23612,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+2,6,1303,2758,24336,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+2,7,1303,2759,24724,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+2,8,1303,2760,25052,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+2,9,1303,2761,25440,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+3,1,1303,1209,29384,572,0,,Hrist,Arngrim!,アリューゼ！,,,duplicate
+3,2,1303,1210,30864,572,1,,Hrist,Come. It's important.,来い 一大事だ,,,
+3,3,1303,1211,31600,572,2,,Arngrim,"Not to me, it isn't.",…関係ねぇな,,,
+3,4,1303,1212,31900,572,3,,Hrist,What's that?,なんだと…,,,
 3,5,1303,1213,32600,572,4,,Arngrim,"You're off to save Odin, right?
-I don't give a damn.",オーディンを助けに行くんだろ？そんな仕事は真っ平だ,,
-3,6,1303,1214,33260,572,5,,Hrist,How did you know?,…なぜ知っている？,,
-3,7,1303,1215,33380,572,6,,Arngrim,"Oh, I think everyone knows.",とっくに噂になってるぜ,,
+I don't give a damn.",オーディンを助けに行くんだろ？そんな仕事は真っ平だ,,,
+3,6,1303,1214,33260,572,5,,Hrist,How did you know?,…なぜ知っている？,,,
+3,7,1303,1215,33380,572,6,,Arngrim,"Oh, I think everyone knows.",とっくに噂になってるぜ,,,
 3,8,1303,1216,36468,572,7,,Arngrim,"It goes without saying that humans would
-be better off without him.",人間にとっちゃ あんな奴いないほうがいいに決まってる…,,
-3,9,1303,1218,42944,572,8,,Arngrim,Don't you think?,違うか？,,
-4,1,1303,1254,47384,580,0,,Arngrim,Alicia?,…アリーシャ？,,
-4,2,1303,1220,47916,580,1,,Arngrim,"Rufus, you're here, too?",ルーファスも一緒なのか！？,,
+be better off without him.",人間にとっちゃ あんな奴いないほうがいいに決まってる…,,,
+3,9,1303,1218,42944,572,8,,Arngrim,Don't you think?,違うか？,,,
+4,1,1303,1254,47384,580,0,,Arngrim,Alicia?,…アリーシャ？,,,primary
+4,2,1303,1220,47916,580,1,,Arngrim,"Rufus, you're here, too?",ルーファスも一緒なのか！？,,,
 4,3,1303,1221,49072,580,2,,Arngrim,"So the two of you were finally made
-einherjar...",とうとうお前らもエインフェリアにされちまったのか…,,
-5,1,1303,1251,51680,580,5,,Arngrim,I apologize for what I did to Barbarossa.,…バルバロッサ王の事はすまなかった,,
-5,2,1303,1250,51720,580,6,,Rufus,"Yeah? Well, an apology won't cut it!",謝って〓む問題じゃねぇぞ！,,
+einherjar...",とうとうお前らもエインフェリアにされちまったのか…,,,primary
+5,1,1303,1251,51680,580,5,,Arngrim,I apologize for what I did to Barbarossa.,…バルバロッサ王の事はすまなかった,,,
+5,2,1303,1250,51720,580,6,,Rufus,"Yeah? Well, an apology won't cut it!",謝って〓む問題じゃねぇぞ！,,,
 5,3,1303,1252,52064,580,8,,Arngrim,"If killing me now makes you feel any
-better, go ahead.",今ここで俺を殺して気が〓れるならそれでもいい <PART> 一一,,
-6,1,1303,1228,54388,580,10,,Rufus,"Hey, what happened to you?",…何かあったのか？,,
+better, go ahead.",今ここで俺を殺して気が〓れるならそれでもいい <PART> ――,,,
+6,1,1303,1228,54388,580,10,,Rufus,"Hey, what happened to you?",…何かあったのか？,,,
 6,2,1303,1230,54832,580,12,,Arngrim,"I told myself I was a soldier of the gods,
-but einherjar are just pathetic lackeys.",今まで神の傭兵のつもりで〓えてきたがエインフェリアなんてただの使い〓りさ,,
+but einherjar are just pathetic lackeys.",今まで神の傭兵のつもりで〓えてきたがエインフェリアなんてただの使い〓りさ,,,
 6,3,1303,1234,55988,580,16,,Arngrim,"You've got to be kidding. That smarmy
-magician?",何だって！？ あの辛気くさい魔導師が…,,
-6,4,1303,1255,56628,580,17,,Arngrim,Not bad for a twerp.,やるじゃねぇか アイツ…,,
-6,5,1303,1237,57220,580,19,,Alicia,"I don't know what it is, but I'm afraid for all of us.",よくわからないのですが…とても大きな事を,,
-6,6,1303,1253,59128,580,22,,Arngrim,You went to fight Odin? Just you two?,たった二人でオーディンと戦ったのか？,,
-6,7,1303,1242,60096,580,24,,Arngrim,I was a fool.,…完敗だ,,
-6,8,1303,1243,60480,580,25,,Arngrim,I don't think I can ever forgive myself.,自分がつくづく嫌になる…,,
-6,9,1303,1245,62660,580,27,,Arngrim,You serious?,…いいのか！？,,
-6,10,1303,1246,63152,580,28,,Alicia,Yes.,ええ,,
-6,11,1303,1248,65788,580,30,,Arngrim,Right. We'd better hurry.,わかった 急ごう！,,
+magician?",何だって！？ あの辛気くさい魔導師が…,,,
+6,4,1303,1255,56628,580,17,,Arngrim,Not bad for a twerp.,やるじゃねぇか アイツ…,,,
+6,5,1303,1237,57220,580,19,,Alicia,"I don't know what it is, but I'm afraid for all of us.",よくわからないのですが…とても大きな事を,,,
+6,6,1303,1253,59128,580,22,,Arngrim,You went to fight Odin? Just you two?,たった二人でオーディンと戦ったのか？,,,
+6,7,1303,1242,60096,580,24,,Arngrim,I was a fool.,…完敗だ,,,
+6,8,1303,1243,60480,580,25,,Arngrim,I don't think I can ever forgive myself.,自分がつくづく嫌になる…,,,
+6,9,1303,1245,62660,580,27,,Arngrim,You serious?,…いいのか！？,,,primary
+6,10,1303,1246,63152,580,28,,Alicia,Yes.,ええ,,,duplicate
+6,11,1303,1248,65788,580,30,,Arngrim,Right. We'd better hurry.,わかった 急ごう！,,,
 6,12,1303,1249,66112,580,31,,Arngrim,"From what I hear, Midgard is in some
-serious danger!",ミッドガルドは相当ヤバい事になってるって話だからな,,
-7,1,1303,1227,68480,580,9,,Arngrim,I was wrong.,…俺は間違ってた,,
-7,2,1303,1222,69348,580,3,,Alicia,Don't come near us!,近〓らないでくださいッ！,,
-7,3,1303,1223,69520,580,4,,Rufus,Valkyrie lap dog.,ヴァルキリーの〓い〓が…,,
-7,4,1303,1226,69640,580,7,,Arngrim,You're right.,わかってる…,,
-7,5,1303,1229,69760,580,11,,Arngrim,Nothing. I'm done with them.,何もないからこうしてるんだ,,
-7,6,1303,1231,69892,580,13,,Arngrim,I'm sick of it. I quit.,もうウンザリだ 俺は〓りた,,
+serious danger!",ミッドガルドは相当ヤバい事になってるって話だからな,,,
+7,1,1303,1227,68480,580,9,,Arngrim,I was wrong.,…俺は間違ってた,,,
+7,2,1303,1222,69348,580,3,,Alicia,Don't come near us!,近〓らないでくださいッ！,,,
+7,3,1303,1223,69520,580,4,,Rufus,Valkyrie lap dog.,ヴァルキリーの〓い〓が…,,,
+7,4,1303,1226,69640,580,7,,Arngrim,You're right.,わかってる…,,,
+7,5,1303,1229,69760,580,11,,Arngrim,Nothing. I'm done with them.,何もないからこうしてるんだ,,,
+7,6,1303,1231,69892,580,13,,Arngrim,I'm sick of it. I quit.,もうウンザリだ 俺は〓りた,,,
 7,7,1303,1232,70032,580,14,,Arngrim,"But at least one good thing happened.
-Some guy kidnapped Odin.",でも一つだけ〓報があるオーディンが誰かに連れ去られたらしい,,
-7,8,1303,1233,70188,580,15,,Rufus,We know. It was Lezard.,知ってるよ レザードの仕業だ,,
+Some guy kidnapped Odin.",でも一つだけ〓報があるオーディンが誰かに連れ去られたらしい,,,
+7,8,1303,1233,70188,580,15,,Rufus,We know. It was Lezard.,知ってるよ レザードの仕業だ,,,
 7,9,1303,1236,70332,580,18,,Alicia,"Yeah, but there's more to it than just a
 kidnapping. We think that Lezard is
-going to do something terrible.",そんな〓単な話ではありません彼は私達に何か隠しています,,
+going to do something terrible.",そんな〓単な話ではありません彼は私達に何か隠しています,,,
 7,10,1303,1238,70496,580,20,,Rufus,"We were squaring off with Odin when he
 suddenly appeared. Lezard came out of
-nowhere.",俺達がオーディンとやり合ってるとこで横からかっさらって行きやがったんだぜ,,
-7,11,1303,1239,70616,580,21,,Arngrim,You're kidding.,お前ら…,,
-7,12,1303,1241,70772,580,23,,Rufus,"Well, you know.",…まあな,,
+nowhere.",俺達がオーディンとやり合ってるとこで横からかっさらって行きやがったんだぜ,,,
+7,11,1303,1239,70616,580,21,,Arngrim,You're kidding.,お前ら…,,,
+7,12,1303,1241,70772,580,23,,Rufus,"Well, you know.",…まあな,,,
 7,13,1303,1244,70924,580,26,,Rufus,"Say, why don't you work as our mercenary?
-Not that we'll pay you or anything.",じゃあ俺達の傭兵になってくれよ金は払えねぇけどな,,
+Not that we'll pay you or anything.",じゃあ俺達の傭兵になってくれよ金は払えねぇけどな,,,
 7,14,1303,1247,71056,580,29,,Alicia,"Sir Arngrim, will you come look for the
-Dragon Orb with us?",一緒にドラゴンオーブを探してもらえますか？,,
-8,1,1303,2366,88408,,,,,ERRORv,ERR0R！！（v190）,,
-8,2,1303,2367,88544,,,,,ERRORv,ERR0R！！（v191）,,
-8,3,1303,2368,88680,,,,,ERRORv,ERR0R！！（v191）,,
-9,1,1303,4,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-9,2,1303,5,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-9,3,1303,6,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-9,4,1303,7,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-9,5,1303,8,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-9,6,1303,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-9,7,1303,2752,,,,,,Hrist,アーリィ,,not displayed by the event script
-9,8,1303,2762,,,,,,Arngrim,アリューゼ,,not displayed by the event script
-9,9,1303,2763,,,,,,Rufus,ルーファス,,not displayed by the event script
-9,10,1303,2764,,,,,,Alicia,アリーシャ,,not displayed by the event script
+Dragon Orb with us?",一緒にドラゴンオーブを探してもらえますか？,,,
+8,1,1303,2366,88408,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+8,2,1303,2367,88544,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+8,3,1303,2368,88680,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+9,1,1303,4,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+9,2,1303,5,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+9,3,1303,6,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+9,4,1303,7,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+9,5,1303,8,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+9,6,1303,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+9,7,1303,2752,,,,,,Hrist,アーリィ,,not displayed by the event script,duplicate
+9,8,1303,2762,,,,,,Arngrim,アリューゼ,,not displayed by the event script,duplicate
+9,9,1303,2763,,,,,,Rufus,ルーファス,,not displayed by the event script,primary
+9,10,1303,2764,,,,,,Alicia,アリーシャ,,not displayed by the event script,duplicate

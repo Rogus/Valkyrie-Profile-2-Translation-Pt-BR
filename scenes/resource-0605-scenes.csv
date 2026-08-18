@@ -1,13 +1,13 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,605,4,968,,,,,We need to find the way.,とにかく早く先へ進まないと…！,,
-1,2,605,9,1016,,,,,We need to find the ring.,今は指輪を探さないと…,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,605,4,968,,,,,We need to find the way.,とにかく早く先へ進まないと…！,,,
+1,2,605,9,1016,,,,,We need to find the ring.,今は指輪を探さないと…,,,
 1,3,605,8,2508,,,,,"If the timer at the bottom left reaches zero,
-Rufus's soul will disappear, ending the game.",画面〓下のタイマーがゼロになるとルーファスの〓が〓〓し、ゲームオーバーとなります。,,
-2,1,605,1,,,,,,,,,not displayed by the event script
-2,2,605,2,,,,,,Ravine Caverns,狭間の洞窟,,not displayed by the event script
-2,3,605,3,,,,,,The Forest of Spirits,精霊の森へ,,not displayed by the event script
+Rufus's soul will disappear, ending the game.",画面左下のタイマーがゼロになるとルーファスの魂が消滅し、ゲームオーバーとなります。,,,
+2,1,605,1,,,,,,,,,not displayed by the event script,
+2,2,605,2,,,,,,Ravine Caverns,狭間の洞窟,,not displayed by the event script,duplicate
+2,3,605,3,,,,,,The Forest of Spirits,精霊の森へ,,not displayed by the event script,
 2,4,605,5,,,,,,"Leave Ravine Caverns?
-Sealstones return to original places.",狭間の洞窟から出ます〓封印石の〓置は〓期化されます〓,,not displayed by the event script
-2,5,605,6,,,,,,Yes,はい,,not displayed by the event script
-2,6,605,7,,,,,,No,いいえ,,not displayed by the event script
-2,7,605,10,,,,,,Ravine Caverns,狭間の洞窟,,not displayed by the event script
+Sealstones return to original places.",狭間の洞窟から出ます（封印石の配置は初期化されます）,,not displayed by the event script,primary
+2,5,605,6,,,,,,Yes,はい,,not displayed by the event script,duplicate
+2,6,605,7,,,,,,No,いいえ,,not displayed by the event script,duplicate
+2,7,605,10,,,,,,Ravine Caverns,狭間の洞窟,,not displayed by the event script,primary

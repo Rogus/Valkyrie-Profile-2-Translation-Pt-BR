@@ -1,38 +1,38 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1223,1,10728,73,0,,Silmeria,My einherjar!,エインフェリアよ <PART> 一一,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1223,1,10728,73,0,,Silmeria,My einherjar!,エインフェリアよ <PART> ――,,,duplicate
 1,2,1223,3,11076,73,2,,Dylan,"Midgard is in trouble, right?
-I'm ready to go with you.",ミッドガルドの危機なんだろう？このまま一緒に行かせてくれ,,
-1,3,1223,8,12092,73,6,,Dylan,Dylan.,ディランだ,,
-1,4,1223,7,12332,73,7,,Silmeria,Welcome.,よろしく,,
-1,5,1223,4,12620,73,8,,Rufus,Are you sure you know where we're going?,道はこっちで間違いないのか？,,
-1,6,1223,5,13420,73,11,,Rufus,What are you talking about?,何だそりゃ…,,
-1,7,1223,6,14416,73,13,,Rufus,"Actually, no.",…知らねぇな！,,
-1,8,1223,2,15716,73,1,,Dylan,Stop.,待ってくれ,,
-1,9,1223,9,18760,73,3,,Silmeria,So your body is strong enough?,肉体の状〓は問題ないようね,,
-1,10,1223,10,25076,73,4,,Dylan,As is my soul.,魂もだ,,
-1,11,1223,11,25208,73,5,,Silmeria,That's good.,心強いわ,,
+I'm ready to go with you.",ミッドガルドの危機なんだろう？このまま一緒に行かせてくれ,,,
+1,3,1223,8,12092,73,6,,Dylan,Dylan.,ディランだ,,,
+1,4,1223,7,12332,73,7,,Silmeria,Welcome.,よろしく,,,
+1,5,1223,4,12620,73,8,,Rufus,Are you sure you know where we're going?,道はこっちで間違いないのか？,,,
+1,6,1223,5,13420,73,11,,Rufus,What are you talking about?,何だそりゃ…,,,
+1,7,1223,6,14416,73,13,,Rufus,"Actually, no.",…知らねぇな！,,,
+1,8,1223,2,15716,73,1,,Dylan,Stop.,待ってくれ,,,
+1,9,1223,9,18760,73,3,,Silmeria,So your body is strong enough?,肉体の状〓は問題ないようね,,,
+1,10,1223,10,25076,73,4,,Dylan,As is my soul.,魂もだ,,,
+1,11,1223,11,25208,73,5,,Silmeria,That's good.,心強いわ,,,primary
 1,12,1223,12,25440,73,9,,Silmeria,"I've been checking our path by reading psychic
-energy present in objects along the way.",オブシェクトに宿る残〓思念を〓み取りながら 道を確認している,,
-1,13,1223,13,25572,73,10,,Silmeria,I know where we're going.,一一 <PART> 間違いなどあり得ない,,
-1,14,1223,14,26308,73,12,,Dylan,You've never heard of object reading?,オブシェクトリーディングを知らないのか？,,
-2,1,1223,2755,36972,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-2,2,1223,2756,37460,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-2,3,1223,2757,37992,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-2,4,1223,2758,38480,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-2,5,1223,2759,39256,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-2,6,1223,2760,39980,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-2,7,1223,2761,40368,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-2,8,1223,2762,40696,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-2,9,1223,2763,41084,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-3,1,1223,2366,59620,,,,,ERRORv,ERR0R！！（v190）,,
-3,2,1223,2367,59756,,,,,ERRORv,ERR0R！！（v191）,,
-3,3,1223,2368,59892,,,,,ERRORv,ERR0R！！（v191）,,
-4,1,1223,17,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,2,1223,18,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-4,3,1223,19,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,4,1223,20,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-4,5,1223,21,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-4,6,1223,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-4,7,1223,2752,,,,,,Silmeria,シルメリア,,not displayed by the event script
-4,8,1223,2753,,,,,,Dylan,ディラン,,not displayed by the event script
-4,9,1223,2754,,,,,,Rufus,ルーファス,,not displayed by the event script
+energy present in objects along the way.",オブシェクトに宿る残〓思念を〓み取りながら 道を確認している,,,
+1,13,1223,13,25572,73,10,,Silmeria,I know where we're going.,―― <PART> 間違いなどあり得ない,,,
+1,14,1223,14,26308,73,12,,Dylan,You've never heard of object reading?,オブシェクトリーディングを知らないのか？,,,
+2,1,1223,2755,36972,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+2,2,1223,2756,37460,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+2,3,1223,2757,37992,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+2,4,1223,2758,38480,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+2,5,1223,2759,39256,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+2,6,1223,2760,39980,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+2,7,1223,2761,40368,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+2,8,1223,2762,40696,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+2,9,1223,2763,41084,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+3,1,1223,2366,59620,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+3,2,1223,2367,59756,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+3,3,1223,2368,59892,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,1,1223,17,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,primary
+4,2,1223,18,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,primary
+4,3,1223,19,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,4,1223,20,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,primary
+4,5,1223,21,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,primary
+4,6,1223,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+4,7,1223,2752,,,,,,Silmeria,シルメリア,,not displayed by the event script,duplicate
+4,8,1223,2753,,,,,,Dylan,ディラン,,not displayed by the event script,duplicate
+4,9,1223,2754,,,,,,Rufus,ルーファス,,not displayed by the event script,duplicate

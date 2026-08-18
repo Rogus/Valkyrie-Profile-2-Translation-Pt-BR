@@ -1,75 +1,75 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1229,1,8224,170,0,,Walther,"Why the long face, my dear?",何もそんなお顔をなさらなくても…,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1229,1,8224,170,0,,Walther,"Why the long face, my dear?",何もそんなお顔をなさらなくても…,,,
 1,2,1229,10,9356,170,1,,Walther,"You'll just have to sit tight for a
-spell while we finish our research.",我々の研究が完成するまで しばしお待ちいただくだけですから,,
+spell while we finish our research.",我々の研究が完成するまで しばしお待ちいただくだけですから,,,
 1,3,1229,2,13524,170,2,,Walther,"But it's straight to the guillotine for
-you two!",お前達は直ちに処刑場へ連行じゃ！,,
-1,4,1229,3,16080,170,3,,Dylan,You won't harm her.,させるかッ！,,
-1,5,1229,4,19128,170,4,,Rufus,Back off!,くそッ！,,
-1,6,1229,5,23532,170,5,,Lezard,"Wings of providence, carry me to safety!",一一 <PART> 天〓ける〓よ 我を誘え！,,
-1,7,1229,6,28728,170,6,,Walther,Great Odin's raven!,こ これはッ…,,
+you two!",お前達は直ちに処刑場へ連行じゃ！,,,
+1,4,1229,3,16080,170,3,,Dylan,You won't harm her.,させるかッ！,,,
+1,5,1229,4,19128,170,4,,Rufus,Back off!,くそッ！,,,
+1,6,1229,5,23532,170,5,,Lezard,"Wings of providence, carry me to safety!",―― <PART> 天〓ける〓よ 我を誘え！,,,
+1,7,1229,6,28728,170,6,,Walther,Great Odin's raven!,こ これはッ…,,,
 1,8,1229,7,33144,170,8,,Gyne,"It was a teleportation spell.
-That traitor Dallas <PART> ----",〓送方陣にございますおのれダレスの奴ッ <PART> 一一,,
+That traitor Dallas <PART> ----",〓送方陣にございますおのれダレスの奴ッ <PART> ――,,,
 1,9,1229,8,33940,170,9,,Barbarossa,"Dallas is locked securely in the
-dungeon.",ダレスは〓に閉じ込めておる,,
-1,10,1229,11,41508,170,7,,Barbarossa,What happened?,何事だ！？,,
-1,11,1229,12,43544,170,11,,Walther,The new apprentice!,…あの新参者ッ！,,
+dungeon.",ダレスは〓に閉じ込めておる,,,
+1,10,1229,11,41508,170,7,,Barbarossa,What happened?,何事だ！？,,,
+1,11,1229,12,43544,170,11,,Walther,The new apprentice!,…あの新参者ッ！,,,
 1,12,1229,14,55404,170,10,,Barbarossa,"Who other than the Three Mages could be
-capable of casting such a spell?",このような高度な術を 三〓者の他に誰が使えるというのだ！？,,
-2,1,1229,2758,75512,,,,,Dylan <PART> has joined the party.,,,
-2,2,1229,2759,76000,,,,,Lezard <PART> has joined the party.,,,
-2,3,1229,2760,76532,,,,,Leone <PART> has joined the party.,,,
-2,4,1229,2761,77020,,,,,Arngrim <PART> has joined the party.,,,
-2,5,1229,2762,77796,,,,,Mithra <PART> has joined the party.,,,
-2,6,1229,2763,78520,,,,,Lenneth <PART> has joined the party.,,,
-2,7,1229,2764,78908,,,,,Silmeria <PART> has joined the party.,,,
-2,8,1229,2765,79236,,,,,Brahms <PART> has joined the party.,,,
-2,9,1229,2766,79624,,,,,Hrist <PART> has joined the party.,,,
-3,1,1229,139,83012,110,0,,Rufus,"Well, then.",さて と…,,
-3,2,1229,140,83880,110,2,,Alicia,"Yes, but I don't know how.",でも どうしたらいいか…,,
+capable of casting such a spell?",このような高度な術を 三〓者の他に誰が使えるというのだ！？,,,
+2,1,1229,2758,75512,,,,,Dylan <PART> has joined the party.,,,,duplicate
+2,2,1229,2759,76000,,,,,Lezard <PART> has joined the party.,,,,duplicate
+2,3,1229,2760,76532,,,,,Leone <PART> has joined the party.,,,,duplicate
+2,4,1229,2761,77020,,,,,Arngrim <PART> has joined the party.,,,,duplicate
+2,5,1229,2762,77796,,,,,Mithra <PART> has joined the party.,,,,duplicate
+2,6,1229,2763,78520,,,,,Lenneth <PART> has joined the party.,,,,duplicate
+2,7,1229,2764,78908,,,,,Silmeria <PART> has joined the party.,,,,duplicate
+2,8,1229,2765,79236,,,,,Brahms <PART> has joined the party.,,,,duplicate
+2,9,1229,2766,79624,,,,,Hrist <PART> has joined the party.,,,,duplicate
+3,1,1229,139,83012,110,0,,Rufus,"Well, then.",さて と…,,,
+3,2,1229,140,83880,110,2,,Alicia,"Yes, but I don't know how.",でも どうしたらいいか…,,,
 3,3,1229,141,84240,110,3,,Rufus,"Hey! Is Silmeria Valkyrie
-sleeping up there!?",おいおいシルメリア・ヴァルキュリアは〓てんのか？,,
-3,4,1229,142,84528,110,4,,Alicia,I don't know. She won't answer me.,わかりません呼んでも〓えてくれなくて…,,
+sleeping up there!?",おいおいシルメリア・ヴァルキュリアは〓てんのか？,,,
+3,4,1229,142,84528,110,4,,Alicia,I don't know. She won't answer me.,わかりません呼んでも〓えてくれなくて…,,,
 3,5,1229,143,84828,110,5,,Dylan,"Perhaps she sensed Hrist and now she's
-hiding.",アーリィの波動を感じて隠れてるのかもしれないな,,
-3,6,1229,154,85220,110,6,,Rufus,Are we being followed?,…追われてんのか？,,
-3,7,1229,144,86512,110,9,,Alicia,Dallas.,…ダレス,,
-3,8,1229,145,87024,110,10,,Rufus,Who's that?,誰だ…？,,
-3,9,1229,146,87312,110,11,,Alicia,If Dallas were here...,ダレスがいれば…,,
+hiding.",アーリィの波動を感じて隠れてるのかもしれないな,,,
+3,6,1229,154,85220,110,6,,Rufus,Are we being followed?,…追われてんのか？,,,
+3,7,1229,144,86512,110,9,,Alicia,Dallas.,…ダレス,,,
+3,8,1229,145,87024,110,10,,Rufus,Who's that?,誰だ…？,,,
+3,9,1229,146,87312,110,11,,Alicia,If Dallas were here...,ダレスがいれば…,,,
 3,10,1229,147,87772,110,12,,Alicia,"He's a childhood friend. I heard he
-became one of the Three Mages.",私の幼なじみですが三〓者の一人になったと聞いています,,
-3,11,1229,148,88868,110,13,,Rufus,The Three Mages?,三〓者か…,,
-3,12,1229,160,89916,110,18,,Dylan,Let's go.,探そう,,
+became one of the Three Mages.",私の幼なじみですが三〓者の一人になったと聞いています,,,
+3,11,1229,148,88868,110,13,,Rufus,The Three Mages?,三〓者か…,,,
+3,12,1229,160,89916,110,18,,Dylan,Let's go.,探そう,,,duplicate
 3,13,1229,149,90216,110,19,,Alicia,"I hope we can find them.
-Let's stick together.",…申し訳ありません お願いします,,
-3,14,1229,150,91676,110,20,,Alicia,"Please, speak to me. I need your help...",黙ってないで 助けてちょうだい…,,
+Let's stick together.",…申し訳ありません お願いします,,,
+3,14,1229,150,91676,110,20,,Alicia,"Please, speak to me. I need your help...",黙ってないで 助けてちょうだい…,,,
 3,15,1229,156,95220,110,1,,Rufus,"Before we meet His Highness, I believe the
-plan was to assess Dipan's situation.",王様に会う前に ディパンの〓てを見極めるんだったよな？,,
+plan was to assess Dipan's situation.",王様に会う前に ディパンの〓てを見極めるんだったよな？,,,
 3,16,1229,155,96176,110,7,,Rufus,"Wait, nobody said anything about that!
-This is getting out of hand.",聞いてないぞ そんな話…こうしちゃいられないぜ,,
+This is getting out of hand.",聞いてないぞ そんな話…こうしちゃいられないぜ,,,
 3,17,1229,151,97844,110,8,,Rufus,"You don't have any loyal servants
-left in the castle, do you?",〓臣の一人や二人城に残ってないのか？,,
+left in the castle, do you?",〓臣の一人や二人城に残ってないのか？,,,
 3,18,1229,152,99820,110,15,,Alicia,"I'm pretty sure the Three Mages'
-laboratory is underground.",三〓者の研究施〓は確か地下だったはずです,,
+laboratory is underground.",三〓者の研究施〓は確か地下だったはずです,,,
 3,19,1229,153,100136,110,16,,Alicia,"But that's just what I've heard <PART> ---- <PART> I've
-never actually been down there.",…地下だと聞いた覚えがあるだけで行った事はないんです,,
+never actually been down there.",…地下だと聞いた覚えがあるだけで行った事はないんです,,,
 3,20,1229,158,101168,110,17,,Dylan,"I remember underground chambers, only
-back then they were used as dungeons.",俺がいた時代から地下施〓はあった〓〓として使われていたはずだがな,,
+back then they were used as dungeons.",俺がいた時代から地下施〓はあった〓〓として使われていたはずだがな,,,
 3,21,1229,159,102920,110,14,,Rufus,"Do you think they'll know what Dipan's
-up to?",ディパンの〓てにも〓しそうだな,,
-4,1,1229,2292,111024,,,,,ERRORv,,,
-4,2,1229,2293,111160,,,,,ERRORv,,,
-4,3,1229,2294,111296,,,,,ERRORv,,,
-5,1,1229,17,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script
-5,2,1229,18,,,,,,Acquired <PART> Antique Pendant,,,not displayed by the event script
-5,3,1229,19,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script
-5,4,1229,20,,,,,,Acquired <PART> Dragon Orb,,,not displayed by the event script
-5,5,1229,21,,,,,,Acquired <PART> Water Mirror,,,not displayed by the event script
-5,6,1229,2735,,,,,,EVENT_MAP,,,not displayed by the event script
-5,7,1229,2752,,,,,,Walther,,,not displayed by the event script
-5,8,1229,2753,,,,,,Dylan,,,not displayed by the event script
-5,9,1229,2754,,,,,,Rufus,,,not displayed by the event script
-5,10,1229,2755,,,,,,Lezard,,,not displayed by the event script
-5,11,1229,2756,,,,,,Gyne,,,not displayed by the event script
-5,12,1229,2757,,,,,,Barbarossa,,,not displayed by the event script
-5,13,1229,2767,,,,,,Alicia,,,not displayed by the event script
+up to?",ディパンの〓てにも〓しそうだな,,,
+4,1,1229,2292,111024,,,,,ERRORv,,,,duplicate
+4,2,1229,2293,111160,,,,,ERRORv,,,,primary
+4,3,1229,2294,111296,,,,,ERRORv,,,,primary
+5,1,1229,17,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script,duplicate
+5,2,1229,18,,,,,,Acquired <PART> Antique Pendant,,,not displayed by the event script,duplicate
+5,3,1229,19,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script,duplicate
+5,4,1229,20,,,,,,Acquired <PART> Dragon Orb,,,not displayed by the event script,duplicate
+5,5,1229,21,,,,,,Acquired <PART> Water Mirror,,,not displayed by the event script,duplicate
+5,6,1229,2735,,,,,,EVENT_MAP,,,not displayed by the event script,primary
+5,7,1229,2752,,,,,,Walther,,,not displayed by the event script,primary
+5,8,1229,2753,,,,,,Dylan,,,not displayed by the event script,duplicate
+5,9,1229,2754,,,,,,Rufus,,,not displayed by the event script,duplicate
+5,10,1229,2755,,,,,,Lezard,,,not displayed by the event script,primary
+5,11,1229,2756,,,,,,Gyne,,,not displayed by the event script,primary
+5,12,1229,2757,,,,,,Barbarossa,,,not displayed by the event script,primary
+5,13,1229,2767,,,,,,Alicia,,,not displayed by the event script,duplicate

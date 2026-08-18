@@ -1,9 +1,14 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,165,2,1276,,,,,"Number of Attacks in Battle <PART> The number of attacks depends upon
-the weapon equipped. <PART> Equip weapons with multiple attacks, and
-characters can unleash more techniques. <PART> --- <PART> Number of Attacks in Battle <PART> Also, press <PART> G to change equipment
-or use items from the menu.",戦〓時の〓〓〓〓について <PART> 〓〓する〓器によって〓〓となる〓〓の〓〓が〓化します。 <PART> 〓〓〓〓の多い〓器を〓〓する事で、より多くの技を〓り出す事が〓〓になります。 <PART> 戦〓時の〓〓〓〓について <PART> また、 <PART> を〓す事により、メニューから〓〓〓〓やアイテムを〓用する事ができます。,,
-2,1,165,1,,,,,,,,,not displayed by the event script
-2,2,165,3,,,,,,HNumber of Attacks,〓〓〓〓について,,not displayed by the event script
-2,3,165,1841,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script
-2,4,165,2745,,,,,,,シャムシール <PART> を手に入れた,,not displayed by the event script
+the weapon equipped. <PART>
+Equip weapons with multiple attacks, and
+characters can unleash more techniques.
+ <PART>
+---
+ <PART> Number of Attacks in Battle <PART> Also, press <PART> G to change equipment
+or use items from the menu.
+",戦闘時の攻撃回数について <PART> 装備する武器によって〓本となる攻撃の回数が変化します。 <PART> 攻撃回数の多い武器を装備する事で、より多くの技を繰り出す事が可能になります。 <PART> 戦闘時の攻撃回数について <PART> また、 <PART> を押す事により、メニューから装備変更やアイテムを使用する事ができます。,,,
+2,1,165,1,,,,,,,,,not displayed by the event script,
+2,2,165,3,,,,,,HNumber of Attacks,攻撃回数について,,not displayed by the event script,
+2,3,165,1841,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script,duplicate
+2,4,165,2745,,,,,,,シャムシール <PART> を手に入れた,,not displayed by the event script,

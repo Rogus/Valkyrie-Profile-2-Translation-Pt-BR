@@ -1,8 +1,8 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1147,3,5336,,,,,Mystical music begins to play...,不思議な〓楽が〓りはじめた……。,,
-2,1,1147,1,,,,,,,,,not displayed by the event script
-2,2,1147,4,,,,,,,,,not displayed by the event script
-2,3,1147,66,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
-2,4,1147,154,,,,,,Acquired <PART> Ether Greaves,エーテルグリーブ <PART> を手に入れた,,not displayed by the event script
-2,5,1147,156,,,,,,Acquired <PART> Mithril Crown,ミスリルクラウン <PART> を手に入れた,,not displayed by the event script
-2,6,1147,157,,,,,,Acquired <PART> Mithril Greaves,ミスリルグリーブ <PART> を手に入れた,,not displayed by the event script
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1147,3,5336,,,,,Mystical music begins to play...,不思議な〓楽が〓りはじめた……。,,,
+2,1,1147,1,,,,,,,,,not displayed by the event script,
+2,2,1147,4,,,,,,,,,not displayed by the event script,
+2,3,1147,66,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script,duplicate
+2,4,1147,154,,,,,,Acquired <PART> Ether Greaves,エーテルグリーブ <PART> を手に入れた,,not displayed by the event script,
+2,5,1147,156,,,,,,Acquired <PART> Mithril Crown,ミスリルクラウン <PART> を手に入れた,,not displayed by the event script,
+2,6,1147,157,,,,,,Acquired <PART> Mithril Greaves,ミスリルグリーブ <PART> を手に入れた,,not displayed by the event script,

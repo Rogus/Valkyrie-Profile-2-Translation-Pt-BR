@@ -1,4 +1,4 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,31,1,680,,,,,"Continue to the title screen
 and select New Game to start
 another quest with a higher
@@ -8,5 +8,6 @@ each time you beat the game.
 Note that if you reset or
 turn your console off
 before selecting New Game,
-the difficulty will not change. <PART> @ <PART> ATo Title Screen",引き続きタイトル画面から〓〓E〓 〓〓〓E〓を〓〓すると、より〓〓〓の高い〓〓でゲームを〓〓する事ができます。〓〓降、ゲームをクリアーするたびに〓〓〓が上がります。〓なお、リセットを〓ったり〓〓を入れ〓してから〓〓E〓 〓〓〓E〓を〓〓した場〓は〓〓〓は〓化しま〓〓。 <PART> タイトル画面へ,,
-2,1,31,4,,,,,,,エンドロール〓マップ〓,,not displayed by the event script
+the difficulty will not change.
+ <PART> @ <PART> ATo Title Screen",引き続きタイトル画面から『〓E〓 〓AME』を選択すると、より難〓度の高い状態でゲームを開始する事ができます。（以降、ゲームをクリアーするたびに難〓度が上がります。）なお、リセットを行ったり電源を入れ直してから『〓E〓 〓AME』を選択した場合は難〓度は変化しません。 <PART> タイトル画面へ,,,
+2,1,31,4,,,,,,,エンドロール（マップ）,,not displayed by the event script,

@@ -1,4 +1,4 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,213,4,0,,,,,,,,
-1,2,213,7,0,,,,,Dipan Castle,ディパン城,,
-1,3,213,8,0,,,,,,〓00 0TH <PART> を手に入れた,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,213,4,0,,,,,,,,,
+1,2,213,7,0,,,,,Dipan Castle,ディパン城,,,duplicate
+1,3,213,8,0,,,,,,〓00 OTH <PART> を手に入れた,,,

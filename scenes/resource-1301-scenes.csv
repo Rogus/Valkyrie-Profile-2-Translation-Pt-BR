@@ -1,21 +1,21 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1301,1,2276,571,0,,Hrist,Arngrim! Come here!,アリューゼ！ いるか？,,
-2,1,1301,2753,20260,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-2,2,1301,2754,20748,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-2,3,1301,2755,21280,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-2,4,1301,2756,21768,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-2,5,1301,2757,22544,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-2,6,1301,2758,23268,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-2,7,1301,2759,23656,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-2,8,1301,2760,23984,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-2,9,1301,2761,24372,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-3,1,1301,2366,30396,,,,,ERRORv,ERR0R！！（v190）,,
-3,2,1301,2367,30532,,,,,ERRORv,ERR0R！！（v191）,,
-3,3,1301,2368,30668,,,,,ERRORv,ERR0R！！（v191）,,
-4,1,1301,4,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,2,1301,5,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-4,3,1301,6,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-4,4,1301,7,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-4,5,1301,8,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-4,6,1301,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-4,7,1301,2752,,,,,,Hrist,アーリィ,,not displayed by the event script
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1301,1,2276,571,0,,Hrist,Arngrim! Come here!,アリューゼ！ いるか？,,,
+2,1,1301,2753,20260,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,primary
+2,2,1301,2754,20748,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,primary
+2,3,1301,2755,21280,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,primary
+2,4,1301,2756,21768,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,primary
+2,5,1301,2757,22544,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,primary
+2,6,1301,2758,23268,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,primary
+2,7,1301,2759,23656,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,primary
+2,8,1301,2760,23984,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,primary
+2,9,1301,2761,24372,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,primary
+3,1,1301,2366,30396,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+3,2,1301,2367,30532,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+3,3,1301,2368,30668,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+4,1,1301,4,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,primary
+4,2,1301,5,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,primary
+4,3,1301,6,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+4,4,1301,7,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,primary
+4,5,1301,8,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,primary
+4,6,1301,2372,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+4,7,1301,2752,,,,,,Hrist,アーリィ,,not displayed by the event script,primary

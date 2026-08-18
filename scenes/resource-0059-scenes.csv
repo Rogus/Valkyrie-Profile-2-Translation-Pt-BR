@@ -1,6 +1,7 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,59,1,756,,,,Dipan Soldier,"What business have you back here? <PART> ---
-The entrance to the castle is in front.",…何だ お前達はこんな所で何をしている <PART> 城に用なら 正面に回れ,,
-2,1,59,2,,,,,,_ <PART> Dipan <PART> Postern Gate,ディパン城下町 <PART> 城裏口,,not displayed by the event script
-2,2,59,2740,,,,,,Dipan,ディパン城下町,,not displayed by the event script
-2,3,59,2741,,,,,,Dipan Soldier,ディパン兵士,,not displayed by the event script
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,59,1,756,,,,Dipan Soldier,"What business have you back here? <PART>
+---
+The entrance to the castle is in front.",…何だ お前達はこんな所で何をしている <PART> 城に用なら 正面に回れ,,,
+2,1,59,2,,,,,,_ <PART> Dipan <PART> Postern Gate,ディパン城下町 <PART> 城裏口,,not displayed by the event script,primary
+2,2,59,2740,,,,,,Dipan,ディパン城下町,,not displayed by the event script,duplicate
+2,3,59,2741,,,,,,Dipan Soldier,ディパン兵士,,not displayed by the event script,primary

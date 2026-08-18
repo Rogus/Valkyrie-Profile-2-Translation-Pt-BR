@@ -1,93 +1,93 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1243,1,3584,210,1,,Lezard,It might not be here.,ここにあるとは限りませんよ,,
-1,2,1243,19,4108,210,2,,Rufus,Are you serious!?,…何だと！？,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1243,1,3584,210,1,,Lezard,It might not be here.,ここにあるとは限りませんよ,,,
+1,2,1243,19,4108,210,2,,Rufus,Are you serious!?,…何だと！？,,,
 1,3,1243,2,4780,210,3,,Lezard,"The tribe that guarded it often moved the
-orb from place to place for its protection...",ドラゴンオーブは守護者一族によってしばしば安置場所を変えられてきました,,
-1,4,1243,18,4912,210,4,,Lezard,But the last of the guardians have died out.,その守護者一族は 既に死に絶えているのです,,
-1,5,1243,4,5508,210,6,,Lezard,Silmeria?,シルメリア殿 <PART> 一一,,
-1,6,1243,5,6304,210,7,,Silmeria,I'll give it a try.,やってみよう,,
+orb from place to place for its protection...",ドラゴンオーブは守護者一族によってしばしば安置場所を変えられてきました,,,
+1,4,1243,18,4912,210,4,,Lezard,But the last of the guardians have died out.,その守護者一族は 既に死に絶えているのです,,,
+1,5,1243,4,5508,210,6,,Lezard,Silmeria?,シルメリア殿 <PART> ――,,,primary
+1,6,1243,5,6304,210,7,,Silmeria,I'll give it a try.,やってみよう,,,
 1,7,1243,6,7044,210,9,,Lezard,"We may find the orb by picking up a
-trail of psychic energy.",残〓思念を〓っていけばいつかオーブに行き着けるかと…,,
+trail of psychic energy.",残〓思念を〓っていけばいつかオーブに行き着けるかと…,,,
 1,8,1243,7,7332,210,10,,Rufus,"Just one problem <PART> ---- <PART> I don't see any
-objects to read.",でもどこにオブシェクトがあるってんだよ？,,
-1,9,1243,8,8784,210,13,,Rufus,"Yes, ma'am.",…わかったよ〓,,
-1,10,1243,20,9284,210,14,,Silmeria,...!,！,,
-1,11,1243,9,10476,210,16,,Silmeria,( You mustn't speak to me now. ),（ しばらく話しかけるな… ）,,
-1,12,1243,10,10764,210,17,,Alicia,...?,…,,
-1,13,1243,13,13636,210,20,,Alicia,I'll call you when we find the dais.,〓〓を見つけたら呼ぶわ,,
-1,14,1243,11,14008,210,15,,Alicia,What's the matter?,…どうしたの？,,
-1,15,1243,12,14704,210,19,,Alicia,"Oh, it's, uh, nothing.",…いいえ 別に,,
-1,16,1243,15,15364,210,0,,Rufus,"So, where's the orb?",さあ オーブはどこだ？,,
+objects to read.",でもどこにオブシェクトがあるってんだよ？,,,
+1,9,1243,8,8784,210,13,,Rufus,"Yes, ma'am.",…わかったよ〓,,,
+1,10,1243,20,9284,210,14,,Silmeria,...!,！,,,duplicate
+1,11,1243,9,10476,210,16,,Silmeria,( You mustn't speak to me now. ),（ しばらく話しかけるな… ）,,,
+1,12,1243,10,10764,210,17,,Alicia,...?,…,,,duplicate
+1,13,1243,13,13636,210,20,,Alicia,I'll call you when we find the dais.,〓〓を見つけたら呼ぶわ,,,
+1,14,1243,11,14008,210,15,,Alicia,What's the matter?,…どうしたの？,,,
+1,15,1243,12,14704,210,19,,Alicia,"Oh, it's, uh, nothing.",…いいえ 別に,,,
+1,16,1243,15,15364,210,0,,Rufus,"So, where's the orb?",さあ オーブはどこだ？,,,
 1,17,1243,16,16712,210,11,,Silmeria,"If they placed the orb here for safekeeping,
 they would have needed a strong dais to
-hold it.",オーブを安置するからには それなりに〓〓な造りの〓〓があるはず <PART> 一一,,
-1,18,1243,22,20496,210,12,,Silmeria,Go find it.,探しなさい,,
-1,19,1243,21,25016,210,8,,Rufus,More object reading again?,…オブシェクトリーディングか？,,
-1,20,1243,23,25236,210,18,,Dylan,What is it?,どうした？,,
-1,21,1243,24,25544,210,5,,Rufus,Fine. What exactly are we doing here then?,じゃ 何しにここへ来たんだ！？,,
-2,1,1243,2757,41600,,,,,Dylan <PART> has joined the party.,,,
-2,2,1243,2758,42088,,,,,Lezard <PART> has joined the party.,,,
-2,3,1243,2759,42620,,,,,Leone <PART> has joined the party.,,,
-2,4,1243,2760,43108,,,,,Arngrim <PART> has joined the party.,,,
-2,5,1243,2761,43884,,,,,Mithra <PART> has joined the party.,,,
-2,6,1243,2762,44608,,,,,Lenneth <PART> has joined the party.,,,
-2,7,1243,2763,44996,,,,,Silmeria <PART> has joined the party.,,,
-2,8,1243,2764,45324,,,,,Brahms <PART> has joined the party.,,,
-2,9,1243,2765,45712,,,,,Hrist <PART> has joined the party.,,,
-3,1,1243,2207,51308,,,,,ERRORv,,,
-3,2,1243,2208,51444,,,,,ERRORv,,,
-3,3,1243,2209,51580,,,,,ERRORv,,,
-4,1,1243,2654,57420,240,0,,Rufus,*yawns*,っあぁ～っ,,
+hold it.",オーブを安置するからには それなりに〓〓な造りの〓〓があるはず <PART> ――,,,
+1,18,1243,22,20496,210,12,,Silmeria,Go find it.,探しなさい,,,
+1,19,1243,21,25016,210,8,,Rufus,More object reading again?,…オブシェクトリーディングか？,,,
+1,20,1243,23,25236,210,18,,Dylan,What is it?,どうした？,,,duplicate
+1,21,1243,24,25544,210,5,,Rufus,Fine. What exactly are we doing here then?,じゃ 何しにここへ来たんだ！？,,,
+2,1,1243,2757,41600,,,,,Dylan <PART> has joined the party.,,,,duplicate
+2,2,1243,2758,42088,,,,,Lezard <PART> has joined the party.,,,,duplicate
+2,3,1243,2759,42620,,,,,Leone <PART> has joined the party.,,,,duplicate
+2,4,1243,2760,43108,,,,,Arngrim <PART> has joined the party.,,,,duplicate
+2,5,1243,2761,43884,,,,,Mithra <PART> has joined the party.,,,,duplicate
+2,6,1243,2762,44608,,,,,Lenneth <PART> has joined the party.,,,,duplicate
+2,7,1243,2763,44996,,,,,Silmeria <PART> has joined the party.,,,,duplicate
+2,8,1243,2764,45324,,,,,Brahms <PART> has joined the party.,,,,duplicate
+2,9,1243,2765,45712,,,,,Hrist <PART> has joined the party.,,,,duplicate
+3,1,1243,2207,51308,,,,,ERRORv,,,,duplicate
+3,2,1243,2208,51444,,,,,ERRORv,,,,duplicate
+3,3,1243,2209,51580,,,,,ERRORv,,,,duplicate
+4,1,1243,2654,57420,240,0,,Rufus,*yawns*,っあぁ～っ,,,
 4,2,1243,2655,58280,240,1,,Arngrim,"Stop loafing. We have to set out for
-Villnore while it's still light.",グズグズするな明るいうちにヴィルノアへ行くぞ,,
+Villnore while it's still light.",グズグズするな明るいうちにヴィルノアへ行くぞ,,,
 4,3,1243,2656,58624,240,2,,Dylan,"No fun taking orders from a graverobber
-like that, is it?",コソ〓に指〓されたんじゃおもしろくないな…,,
-4,4,1243,2657,59276,240,3,,Arngrim,What did you call me?,…何だと！？,,
-4,5,1243,2658,60380,240,4,,Leone,"Stand down, Arngrim!",よしなさい アリューゼ！,,
+like that, is it?",コソ〓に指〓されたんじゃおもしろくないな…,,,
+4,4,1243,2657,59276,240,3,,Arngrim,What did you call me?,…何だと！？,,,
+4,5,1243,2658,60380,240,4,,Leone,"Stand down, Arngrim!",よしなさい アリューゼ！,,,
 5,1,1243,2677,62596,240,6,,Leone,"Arngrim was merely pointing out that the
-roads can be dangerous at night.",アリューゼは〓道の〓動は大変だろうとよかれと思って言ったまでよ,,
-5,2,1243,2659,63720,240,7,,Leone,Weren't you?,そうでしょう？,,
+roads can be dangerous at night.",アリューゼは〓道の〓動は大変だろうとよかれと思って言ったまでよ,,,
+5,2,1243,2659,63720,240,7,,Leone,Weren't you?,そうでしょう？,,,
 5,3,1243,2678,64044,240,8,,Arngrim,"I've been a bandit and a pirate, but
-nobody calls me a graverobber!",…頼まれれば盗賊でも海賊でもするがコソ〓呼ばわりは腹に〓えかねる,,
+nobody calls me a graverobber!",…頼まれれば盗賊でも海賊でもするがコソ〓呼ばわりは腹に〓えかねる,,,
 5,4,1243,2686,64556,240,9,,Leone,"To them, it's all the same. Besides, it's
-not like you to get upset so easily.",〓から見れば同じよ こんな事で怒るなんてあなたらしくないわ,,
-6,1,1243,2662,66404,240,11,,Leone,Do I sense mistrust towards us?,…ひょっとして私達怪しまれてるの？,,
-6,2,1243,2663,67044,240,12,,Lezard,Perish the thought <PART> ---- <PART> nothing of the sort.,いいえ 私は決してそんな事は,,
-6,3,1243,2664,67540,240,13,,Leone,And you?,あなたは？,,
-6,4,1243,2665,67728,240,14,,Alicia,"No, of course not. Not at all.",私もそんな事はありません,,
-6,5,1243,2666,68352,240,15,,Leone,What about your friend?,もうお一方は？,,
+not like you to get upset so easily.",〓から見れば同じよ こんな事で怒るなんてあなたらしくないわ,,,
+6,1,1243,2662,66404,240,11,,Leone,Do I sense mistrust towards us?,…ひょっとして私達怪しまれてるの？,,,
+6,2,1243,2663,67044,240,12,,Lezard,Perish the thought <PART> ---- <PART> nothing of the sort.,いいえ 私は決してそんな事は,,,
+6,3,1243,2664,67540,240,13,,Leone,And you?,あなたは？,,,
+6,4,1243,2665,67728,240,14,,Alicia,"No, of course not. Not at all.",私もそんな事はありません,,,
+6,5,1243,2666,68352,240,15,,Leone,What about your friend?,もうお一方は？,,,
 6,6,1243,2667,69132,240,16,,Leone,"Can you use this object reading to read
-people's minds?",オブシェクトリーディングとやらで人の心も〓めるんじゃなくて？,,
-6,7,1243,2668,70468,240,17,,Leone,Lady Silmeria Valkyrie.,シルメリア・ヴァルキュリア殿,,
-6,8,1243,2669,74276,240,18,,Silmeria,Would you like yours read?,〓んでほしいのか？,,
+people's minds?",オブシェクトリーディングとやらで人の心も〓めるんじゃなくて？,,,
+6,7,1243,2668,70468,240,17,,Leone,Lady Silmeria Valkyrie.,シルメリア・ヴァルキュリア殿,,,duplicate
+6,8,1243,2669,74276,240,18,,Silmeria,Would you like yours read?,〓んでほしいのか？,,,
 6,9,1243,2670,74564,240,19,,Leone,"If it would alleviate suspicion, we
-would gladly oblige. Right, Arngrim?",あらぬ疑いが〓れるのなら喜んでねえ アリューゼ,,
-6,10,1243,2679,74696,240,20,,Arngrim,Sure. Why not?,おもしろそうだ,,
-6,11,1243,2671,80972,240,22,,Silmeria,There's nothing for me to read.,…何も〓み取れるものがない,,
-6,12,1243,2672,82360,240,23,,Rufus,What? Nothing at all?,なんだ つまんねぇ…,,
+would gladly oblige. Right, Arngrim?",あらぬ疑いが〓れるのなら喜んでねえ アリューゼ,,,
+6,10,1243,2679,74696,240,20,,Arngrim,Sure. Why not?,おもしろそうだ,,,
+6,11,1243,2671,80972,240,22,,Silmeria,There's nothing for me to read.,…何も〓み取れるものがない,,,
+6,12,1243,2672,82360,240,23,,Rufus,What? Nothing at all?,なんだ つまんねぇ…,,,
 6,13,1243,2673,82480,240,24,,Leone,"Oh, I see!
-So you WERE suspicious of us?",ひどいわね…やっぱり私達を怪しんでたの？,,
-6,14,1243,2674,83352,240,25,,Rufus,"No, that's not what I meant.",いや そういうわけじゃないけどさ…,,
-6,15,1243,2675,83880,240,26,,Dylan,Alright.,悪かったな…,,
-6,16,1243,2680,84352,240,27,,Dylan,You're not a graverobber.,“コソ〓”は〓回する,,
+So you WERE suspicious of us?",ひどいわね…やっぱり私達を怪しんでたの？,,,
+6,14,1243,2674,83352,240,25,,Rufus,"No, that's not what I meant.",いや そういうわけじゃないけどさ…,,,
+6,15,1243,2675,83880,240,26,,Dylan,Alright.,悪かったな…,,,
+6,16,1243,2680,84352,240,27,,Dylan,You're not a graverobber.,“コソ〓”は〓回する,,,
 6,17,1243,2676,86228,240,28,,Arngrim,"I'm impressed though. I never knew that
-valkyries could read thoughts in objects.",しかし物に宿る思念を〓めるなんて…ヴァルキリーってのはスゲえんだな,,
+valkyries could read thoughts in objects.",しかし物に宿る思念を〓めるなんて…ヴァルキリーってのはスゲえんだな,,,
 6,18,1243,2681,87024,240,29,,Silmeria,"It is not a valkyrie's power. It is mine
-alone.",ヴァルキリーの力でなく 私だけの力よ,,
-6,19,1243,2682,108940,240,10,,Arngrim,"Not like me, huh?",らしくない か…,,
+alone.",ヴァルキリーの力でなく 私だけの力よ,,,
+6,19,1243,2682,108940,240,10,,Arngrim,"Not like me, huh?",らしくない か…,,,
 6,20,1243,2683,110320,240,5,,Leone,"We're not here to give orders, and I'm
-sorry if we offended you.",私達は指〓するつもりなんてない気に〓ったのなら謝るわ,,
-6,21,1243,2685,111056,240,21,,Silmeria,It's no use.,ダメだ…,,
-7,1,1243,27,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script
-7,2,1243,28,,,,,,Acquired <PART> Antique Pendant,,,not displayed by the event script
-7,3,1243,29,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script
-7,4,1243,30,,,,,,Acquired <PART> Dragon Orb,,,not displayed by the event script
-7,5,1243,31,,,,,,Acquired <PART> Water Mirror,,,not displayed by the event script
-7,6,1243,2740,,,,,,EVENT_MAP,,,not displayed by the event script
-7,7,1243,2752,,,,,,Lezard,,,not displayed by the event script
-7,8,1243,2753,,,,,,Rufus,,,not displayed by the event script
-7,9,1243,2754,,,,,,Silmeria,,,not displayed by the event script
-7,10,1243,2755,,,,,,Alicia,,,not displayed by the event script
-7,11,1243,2756,,,,,,Dylan,,,not displayed by the event script
-7,12,1243,2766,,,,,,Arngrim,,,not displayed by the event script
-7,13,1243,2767,,,,,,Leone,,,not displayed by the event script
+sorry if we offended you.",私達は指〓するつもりなんてない気に〓ったのなら謝るわ,,,
+6,21,1243,2685,111056,240,21,,Silmeria,It's no use.,ダメだ…,,,
+7,1,1243,27,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script,primary
+7,2,1243,28,,,,,,Acquired <PART> Antique Pendant,,,not displayed by the event script,duplicate
+7,3,1243,29,,,,,,Acquired <PART> Ghoul Powder,,,not displayed by the event script,duplicate
+7,4,1243,30,,,,,,Acquired <PART> Dragon Orb,,,not displayed by the event script,duplicate
+7,5,1243,31,,,,,,Acquired <PART> Water Mirror,,,not displayed by the event script,duplicate
+7,6,1243,2740,,,,,,EVENT_MAP,,,not displayed by the event script,duplicate
+7,7,1243,2752,,,,,,Lezard,,,not displayed by the event script,duplicate
+7,8,1243,2753,,,,,,Rufus,,,not displayed by the event script,duplicate
+7,9,1243,2754,,,,,,Silmeria,,,not displayed by the event script,duplicate
+7,10,1243,2755,,,,,,Alicia,,,not displayed by the event script,duplicate
+7,11,1243,2756,,,,,,Dylan,,,not displayed by the event script,duplicate
+7,12,1243,2766,,,,,,Arngrim,,,not displayed by the event script,duplicate
+7,13,1243,2767,,,,,,Leone,,,not displayed by the event script,duplicate

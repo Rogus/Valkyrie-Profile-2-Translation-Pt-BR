@@ -1,87 +1,87 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1239,33,2528,180,0,,Alicia,Where are we?,…ここは？,,
-1,2,1239,1,2828,180,1,,Rufus,Did the castle collapse?,城が崩れたのか？,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1239,33,2528,180,0,,Alicia,Where are we?,…ここは？,,,primary
+1,2,1239,1,2828,180,1,,Rufus,Did the castle collapse?,城が崩れたのか？,,,
 1,3,1239,2,3380,180,3,,Lezard,"It was a teleportation spell.
-Alicia, Your Majesty.",〓送方陣にございますアリーシャ様 <PART> 一一,,
-2,1,1239,41,4936,180,5,,Alicia,And you are...?,…あなたは？,,
-2,2,1239,42,5072,180,6,,Lezard,Lezard.,レザード…,,
+Alicia, Your Majesty.",〓送方陣にございますアリーシャ様 <PART> ――,,,
+2,1,1239,41,4936,180,5,,Alicia,And you are...?,…あなたは？,,,primary
+2,2,1239,42,5072,180,6,,Lezard,Lezard.,レザード…,,,primary
 2,3,1239,4,6004,180,8,,Lezard,"I had been assisting the Three Mages
-in their research as an apprentice.",〓者様方の下で研究のお手伝いをさせていただいておりました,,
-2,4,1239,5,6336,180,9,,Alicia,"I'm sorry, but why did you rescue us?",なぜ私達を逃がしてくれたのです？,,
+in their research as an apprentice.",〓者様方の下で研究のお手伝いをさせていただいておりました,,,
+2,4,1239,5,6336,180,9,,Alicia,"I'm sorry, but why did you rescue us?",なぜ私達を逃がしてくれたのです？,,,
 2,5,1239,6,6552,180,10,,Lezard,"I thought you, Princess, could put a
-stop to the king's dangerous research.",アリーシャ様なら 王の危〓な研究をやめさせられると思いました,,
+stop to the king's dangerous research.",アリーシャ様なら 王の危〓な研究をやめさせられると思いました,,,
 2,6,1239,7,7640,180,11,,Alicia,"Could you tell me more about this
-dangerous research?",その危〓な研究の事 <PART> 一一 <PART> 聞かせてもらえますか？,,
-2,7,1239,8,8436,180,12,,Lezard,The king...,王は <PART> 一一,,
+dangerous research?",その危〓な研究の事 <PART> ―― <PART> 聞かせてもらえますか？,,,
+2,7,1239,8,8436,180,12,,Lezard,The king...,王は <PART> ――,,,duplicate
 2,8,1239,9,8628,180,13,,Lezard,"is seeking to transcend this mortal coil
-by creating a closed timeline.",閉じた時間〓を作り 死の運命から逃れる事を望んでいます,,
-2,9,1239,11,11036,180,15,,Lezard,"In other words, independence from the gods.",一一 <PART> 〓ち 神々との決別,,
+by creating a closed timeline.",閉じた時間〓を作り 死の運命から逃れる事を望んでいます,,,primary
+2,9,1239,11,11036,180,15,,Lezard,"In other words, independence from the gods.",―― <PART> 〓ち 神々との決別,,,primary
 2,10,1239,12,11904,180,16,,Silmeria,"That is beyond transcendence. What he seeks
-is a power possessed by Odin alone.",〓相転〓とも違う オーディンすら持たぬ術を得ようというのか…,,
-2,11,1239,13,12060,180,17,,Silmeria,Is that why they need the Dragon Orb?,そのためにドラゴンオーブを？,,
+is a power possessed by Odin alone.",〓相転〓とも違う オーディンすら持たぬ術を得ようというのか…,,,
+2,11,1239,13,12060,180,17,,Silmeria,Is that why they need the Dragon Orb?,そのためにドラゴンオーブを？,,,
 2,12,1239,14,12180,180,18,,Lezard,"That was their conclusion...following
 countless failed experiments on elves and
-the undead.",不死者やエルフで実〓をくり返し失敗を重ね たどり着いた結論です,,
-2,13,1239,15,12660,180,19,,Rufus,Damn...,クッ…,,
+the undead.",不死者やエルフで実〓をくり返し失敗を重ね たどり着いた結論です,,,
+2,13,1239,15,12660,180,19,,Rufus,Damn...,クッ…,,,
 2,14,1239,16,12816,180,20,,Silmeria,"So Dipan alone would break free from the laws
-of nature and enjoy eternal prosperity...",ディパンだけが自然の摂理から逃れ永遠の〓栄を〓受しようとは…,,
-2,15,1239,17,12948,180,21,,Lezard,I myself found it absurd...,私も〓〓不可能だと思いました,,
-2,16,1239,18,13068,180,22,,Lezard,Lady Silmeria Valkyrie.,シルメリア・ヴァルキュリア殿 <PART> 一一,,
-2,17,1239,19,13284,180,23,,Silmeria,So you know of me.,私を知っているの？,,
-2,18,1239,20,13596,180,24,,Lezard,Just what Dallas told me.,ダレス様から 少々 <PART> 一一,,
+of nature and enjoy eternal prosperity...",ディパンだけが自然の摂理から逃れ永遠の〓栄を〓受しようとは…,,,
+2,15,1239,17,12948,180,21,,Lezard,I myself found it absurd...,私も〓〓不可能だと思いました,,,
+2,16,1239,18,13068,180,22,,Lezard,Lady Silmeria Valkyrie.,シルメリア・ヴァルキュリア殿 <PART> ――,,,primary
+2,17,1239,19,13284,180,23,,Silmeria,So you know of me.,私を知っているの？,,,
+2,18,1239,20,13596,180,24,,Lezard,Just what Dallas told me.,ダレス様から 少々 <PART> ――,,,
 2,19,1239,25,14344,180,25,,Silmeria,"It is said the Dragon Orb has enough
-power to set the whole world aflame.",ドラゴンオーブには世界を焼き尽くし滅ぼすほどの力があるという,,
+power to set the whole world aflame.",ドラゴンオーブには世界を焼き尽くし滅ぼすほどの力があるという,,,
 2,20,1239,26,14740,180,26,,Silmeria,"Even gods are powerless before it.
-The king's plan may be feasible.",その前では神々も無力…あながち不可能とは言い切れまい,,
-2,21,1239,21,16368,180,32,,Dylan,The oath I swore to Dipan still holds.,ディパンに〓った〓〓は未だ〓せてはいない,,
+The king's plan may be feasible.",その前では神々も無力…あながち不可能とは言い切れまい,,,
+2,21,1239,21,16368,180,32,,Dylan,The oath I swore to Dipan still holds.,ディパンに〓った〓〓は未だ〓せてはいない,,,
 2,22,1239,22,16704,180,33,,Rufus,"You say that now, but maybe you'll just
-take the orb and run to Odin!",あんた そう言いながらオーブをオーディンに渡す気じゃないだろうな？,,
-2,23,1239,23,17612,180,36,,Rufus,I'll show you sincere!,…やってやる！,,
+take the orb and run to Odin!",あんた そう言いながらオーブをオーディンに渡す気じゃないだろうな？,,,
+2,23,1239,23,17612,180,36,,Rufus,I'll show you sincere!,…やってやる！,,,
 2,24,1239,24,18788,180,38,,Lezard,"Let us then depart the forest for
-Coriander before pursuit draws near.",それでは追手が来る前に森を出てコリアンドル村へ向かいましょう,,
-2,25,1239,31,19064,180,40,,Lezard,It was the last recorded sanctuary of the orb...,オーブの安置場所として最後に記〓されているのです,,
+Coriander before pursuit draws near.",それでは追手が来る前に森を出てコリアンドル村へ向かいましょう,,,
+2,25,1239,31,19064,180,40,,Lezard,It was the last recorded sanctuary of the orb...,オーブの安置場所として最後に記〓されているのです,,,
 3,1,1239,3,21764,180,4,,Lezard,"I beg your pardon. I had no choice but
-to resort to such crude methods.",手荒な真似をお許しくださいしかしあの場では他に方法がなく <PART> 一一,,
+to resort to such crude methods.",手荒な真似をお許しくださいしかしあの場では他に方法がなく <PART> ――,,,
 4,1,1239,27,27796,180,27,,Dylan,"You're not thinking of finding the orb
-for Dipan, are you!?",まさかディパンのためにオーブを探す気なのか？,,
-4,2,1239,28,27964,180,28,,Silmeria,For Dipan? No. For all Midgard.,探すのはディパンのためではないミッドガルドのためよ,,
+for Dipan, are you!?",まさかディパンのためにオーブを探す気なのか？,,,
+4,2,1239,28,27964,180,28,,Silmeria,For Dipan? No. For all Midgard.,探すのはディパンのためではないミッドガルドのためよ,,,
 4,3,1239,29,28144,180,29,,Silmeria,"I will find the orb, and Alicia shall be
-the Guardian.",私がオーブを見つけアリーシャがその守護者になる,,
+the Guardian.",私がオーブを見つけアリーシャがその守護者になる,,,
 4,4,1239,30,28264,180,30,,Silmeria,"That would put an end to the king's dangerous
-research <PART> ---- <PART> would it not, Sir Lezard?",王の危〓な研究をやめさせるとはそういう事でしょう？ レザード殿 <PART> 一一,,
-4,5,1239,32,29240,180,39,,Rufus,"So, is that where we'll find the Dragon Orb?",そこにドラゴンオーブがあるのか？,,
+research <PART> ---- <PART> would it not, Sir Lezard?",王の危〓な研究をやめさせるとはそういう事でしょう？ レザード殿 <PART> ――,,,
+4,5,1239,32,29240,180,39,,Rufus,"So, is that where we'll find the Dragon Orb?",そこにドラゴンオーブがあるのか？,,,
 4,6,1239,34,31068,180,14,,Lezard,"A new world tree stemming from neither
 the heavens, the underworld, nor the
-world of mortals.",神界 人間界 冥界 そのどれにも〓さぬ新たなる世界樹の創造 <PART> 一一,,
+world of mortals.",神界 人間界 冥界 そのどれにも〓さぬ新たなる世界樹の創造 <PART> ――,,,primary
 4,7,1239,36,31200,180,34,,Silmeria,"Well, if that's your theory, then come
-along and keep it from happening.",本気でそう思うなら ついて来て力づくで〓止してみたらどう？,,
+along and keep it from happening.",本気でそう思うなら ついて来て力づくで〓止してみたらどう？,,,
 4,8,1239,35,31344,180,35,,Silmeria,"But if you aren't sincere about fighting
-Odin, you won't stand a chance.",…もっとも本気でオーディンと戦う心構えがなければ 無理な話ね,,
-4,9,1239,37,31712,180,2,,Dylan,I believe we're outside.,外に出たらしいが…,,
-4,10,1239,38,31844,180,7,,Lezard,"Lezard Valeth, at your service.",レザード・ヴァレスと申します,,
-4,11,1239,39,36388,180,31,,Lezard,You are everything I had hoped you would be.,あなたは私が期待したとおりの方だ,,
+Odin, you won't stand a chance.",…もっとも本気でオーディンと戦う心構えがなければ 無理な話ね,,,
+4,9,1239,37,31712,180,2,,Dylan,I believe we're outside.,外に出たらしいが…,,,
+4,10,1239,38,31844,180,7,,Lezard,"Lezard Valeth, at your service.",レザード・ヴァレスと申します,,,
+4,11,1239,39,36388,180,31,,Lezard,You are everything I had hoped you would be.,あなたは私が期待したとおりの方だ,,,
 4,12,1239,40,38076,180,37,,Alicia,"We'll need everyone's strength to get
-through this. I'm counting on you all.",みなさんのお力 頼りにしていますよろしくお願いします,,
-5,1,1239,2757,53612,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,
-5,2,1239,2758,54100,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,
-5,3,1239,2759,54632,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,
-5,4,1239,2760,55120,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,
-5,5,1239,2761,55896,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,
-5,6,1239,2762,56620,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,
-5,7,1239,2763,57008,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,
-5,8,1239,2764,57336,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,
-5,9,1239,2765,57724,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,
-6,1,1239,2334,63320,,,,,ERRORv,ERR0R！！（v190）,,
-6,2,1239,2335,63456,,,,,ERRORv,ERR0R！！（v191）,,
-6,3,1239,2336,63592,,,,,ERRORv,ERR0R！！（v191）,,
-7,1,1239,45,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-7,2,1239,46,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script
-7,3,1239,47,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script
-7,4,1239,48,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script
-7,5,1239,49,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script
-7,6,1239,2735,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script
-7,7,1239,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script
-7,8,1239,2753,,,,,,Rufus,ルーファス,,not displayed by the event script
-7,9,1239,2754,,,,,,Lezard,レザード,,not displayed by the event script
-7,10,1239,2755,,,,,,Silmeria,シルメリア,,not displayed by the event script
-7,11,1239,2756,,,,,,Dylan,ディラン,,not displayed by the event script
+through this. I'm counting on you all.",みなさんのお力 頼りにしていますよろしくお願いします,,,
+5,1,1239,2757,53612,,,,,Dylan <PART> has joined the party.,ディラン <PART> が仲間に加わりました,,,duplicate
+5,2,1239,2758,54100,,,,,Lezard <PART> has joined the party.,レザード <PART> が仲間に加わりました,,,duplicate
+5,3,1239,2759,54632,,,,,Leone <PART> has joined the party.,レオーネ <PART> が仲間に加わりました,,,duplicate
+5,4,1239,2760,55120,,,,,Arngrim <PART> has joined the party.,アリューゼ <PART> が仲間に加わりました,,,duplicate
+5,5,1239,2761,55896,,,,,Mithra <PART> has joined the party.,ミトラ <PART> が仲間に加わりました,,,duplicate
+5,6,1239,2762,56620,,,,,Lenneth <PART> has joined the party.,レナス <PART> が仲間に加わりました,,,duplicate
+5,7,1239,2763,57008,,,,,Silmeria <PART> has joined the party.,シルメリア <PART> が仲間に加わりました,,,duplicate
+5,8,1239,2764,57336,,,,,Brahms <PART> has joined the party.,ブラムス <PART> が仲間に加わりました,,,duplicate
+5,9,1239,2765,57724,,,,,Hrist <PART> has joined the party.,アーリィ <PART> が仲間に加わりました,,,duplicate
+6,1,1239,2334,63320,,,,,ERRORv,ERROR！！（v190）,,,duplicate
+6,2,1239,2335,63456,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+6,3,1239,2336,63592,,,,,ERRORv,ERROR！！（v191）,,,duplicate
+7,1,1239,45,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+7,2,1239,46,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
+7,3,1239,47,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
+7,4,1239,48,,,,,,Acquired <PART> Dragon Orb,ドラゴンオーブ <PART> を手に入れた,,not displayed by the event script,duplicate
+7,5,1239,49,,,,,,Acquired <PART> Water Mirror,水鏡 <PART> を手に入れた,,not displayed by the event script,duplicate
+7,6,1239,2735,,,,,,EVENT_MAP,イベントマップ,,not displayed by the event script,duplicate
+7,7,1239,2752,,,,,,Alicia,アリーシャ,,not displayed by the event script,duplicate
+7,8,1239,2753,,,,,,Rufus,ルーファス,,not displayed by the event script,duplicate
+7,9,1239,2754,,,,,,Lezard,レザード,,not displayed by the event script,primary
+7,10,1239,2755,,,,,,Silmeria,シルメリア,,not displayed by the event script,duplicate
+7,11,1239,2756,,,,,,Dylan,ディラン,,not displayed by the event script,primary

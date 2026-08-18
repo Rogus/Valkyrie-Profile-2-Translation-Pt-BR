@@ -1,5 +1,5 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,449,3,896,,,,,Health and status ailments healed,〓力とステータス異常が〓〓した,,
-2,1,449,1,,,,,,Bifrost,ビフレスト,,not displayed by the event script
-2,2,449,2,,,,,,HRainbow Spring,〓の〓,,not displayed by the event script
-2,3,449,4,,,,,,,ビフレスト,,not displayed by the event script
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,449,3,896,,,,,Health and status ailments healed,体力とステータス異常が回復した,,,
+2,1,449,1,,,,,,Bifrost,ビフレスト,,not displayed by the event script,duplicate
+2,2,449,2,,,,,,HRainbow Spring,虹の〓,,not displayed by the event script,
+2,3,449,4,,,,,,,ビフレスト,,not displayed by the event script,

@@ -1,8 +1,8 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,1055,2,824,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
-2,1,1055,1,,,,,,HCheck,調べる,,not displayed by the event script
-2,2,1055,3,,,,,,Inspect the area.,〓く,,not displayed by the event script
-2,3,1055,4,,,,,,Leave.,やめる,,not displayed by the event script
-2,4,1055,2966,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
-2,5,1055,2970,,,,,,Acquired <PART> Guard Potion,ガード〓ーシ〓ン <PART> を手に入れた,,not displayed by the event script
-2,6,1055,2971,,,,,,Acquired <PART> Second Oracle,〓〓〓 <PART> を手に入れた,,not displayed by the event script
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,1055,2,824,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,,duplicate
+2,1,1055,1,,,,,,HCheck,調べる,,not displayed by the event script,duplicate
+2,2,1055,3,,,,,,Inspect the area.,〓く,,not displayed by the event script,duplicate
+2,3,1055,4,,,,,,Leave.,やめる,,not displayed by the event script,duplicate
+2,4,1055,2966,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script,duplicate
+2,5,1055,2970,,,,,,Acquired <PART> Guard Potion,ガードポーシヨン <PART> を手に入れた,,not displayed by the event script,duplicate
+2,6,1055,2971,,,,,,Acquired <PART> Second Oracle,預言書 <PART> を手に入れた,,not displayed by the event script,

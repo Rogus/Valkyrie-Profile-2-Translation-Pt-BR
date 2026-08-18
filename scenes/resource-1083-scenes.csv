@@ -1,9 +1,9 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,1083,1,696,,,,,"This exit is one-way.
-No transferring can be done.",出口〓用のようだ転送できない,,
-1,2,1083,4,1580,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
-2,1,1083,2,,,,,,,,,not displayed by the event script
-2,2,1083,3,,,,,,HCheck,調べる,,not displayed by the event script
-2,3,1083,5,,,,,,Inspect the area.,〓く,,not displayed by the event script
-2,4,1083,6,,,,,,Leave.,やめる,,not displayed by the event script
-2,5,1083,2968,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script
+No transferring can be done.",出口〓用のようだ転送できない,,,
+1,2,1083,4,1580,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,,duplicate
+2,1,1083,2,,,,,,,,,not displayed by the event script,
+2,2,1083,3,,,,,,HCheck,調べる,,not displayed by the event script,duplicate
+2,3,1083,5,,,,,,Inspect the area.,〓く,,not displayed by the event script,duplicate
+2,4,1083,6,,,,,,Leave.,やめる,,not displayed by the event script,duplicate
+2,5,1083,2968,,,,,,Seraphic Gate,セラフィックゲート,,not displayed by the event script,duplicate

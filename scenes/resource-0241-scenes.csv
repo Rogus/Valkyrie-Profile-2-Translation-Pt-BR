@@ -1,8 +1,11 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,241,3,1176,,,,,"Divinity Voids <PART> Divinity Voids are areas where Yggdrasil's power
-does not reach. <PART> Photons cannot be projected in them, and
-sealstone effects are nullified.",加護〓しの間 <PART> 加護〓しの間とは、ユグドラシルの地脈の力がまったく〓ばない場所です。 <PART> 〓〓では〓〓を発〓する事ができなくなり、封印石もその〓力を失います。,,
-2,1,241,1,,,,,,,,,not displayed by the event script
-2,2,241,2,,,,,,,,,not displayed by the event script
-2,3,241,4,,,,,,HDivinity Voids,加護〓しの間について,,not displayed by the event script
-2,4,241,16,,,,,,,セルドベルグ山岳遺跡,,not displayed by the event script
+does not reach.
+ <PART>
+Photons cannot be projected in them, and
+sealstone effects are nullified.
+",加護無しの間 <PART> 加護無しの間とは、ユグドラシルの地脈の力がまったく及ばない場所です。 <PART> ここでは光子を発射する事ができなくなり、封印石もその効力を失います。,,,
+2,1,241,1,,,,,,,,,not displayed by the event script,
+2,2,241,2,,,,,,,,,not displayed by the event script,
+2,3,241,4,,,,,,HDivinity Voids,加護無しの間について,,not displayed by the event script,
+2,4,241,16,,,,,,,セルドベルグ山岳遺跡,,not displayed by the event script,

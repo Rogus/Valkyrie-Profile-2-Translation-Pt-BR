@@ -1,5 +1,5 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,409,2,984,,,,,What kind of machine is this?,…これは何かの〓置かしら？,,
-1,2,409,3,1028,,,,,This is where Lezard...,ここからレザードが………,,
-2,1,409,1,,,,,,,,,not displayed by the event script
-2,2,409,2746,,,,,,Dipan Castle,ディパン城,,not displayed by the event script
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,409,2,984,,,,,What kind of machine is this?,…これは何かの〓置かしら？,,,
+1,2,409,3,1028,,,,,This is where Lezard...,ここからレザードが………,,,
+2,1,409,1,,,,,,,,,not displayed by the event script,
+2,2,409,2746,,,,,,Dipan Castle,ディパン城,,not displayed by the event script,duplicate

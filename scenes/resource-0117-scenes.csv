@@ -1,22 +1,25 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,117,5,3356,,,,Townsperson,"If you're going further, be careful.
-Crell Monferaigne's forces are about. <PART> ---
+Crell Monferaigne's forces are about. <PART>
+---
 They say they're just on maneuvers,
-but it's clear they're preparing for war. <PART> ---
+but it's clear they're preparing for war. <PART>
+---
 They didn't miss a beat after hearing about
-Dipan. World powers love to expand.",この先に行くのなら気をつけろよ近くにクレルモンフェランの部〓が来てたんだ <PART> 〓練のための遠〓だとか聞いたが明らかに戦争の下見だな <PART> ディパンの妙な噂が流れたかと思ったらすぐこれだ大国ってのは領土を広げるのが好きだねえ,,
+Dipan. World powers love to expand.",この先に行くのなら気をつけろよ近くにクレルモンフェランの部〓が来てたんだ <PART> 〓練のための遠〓だとか聞いたが明らかに戦争の下見だな <PART> ディパンの妙な噂が流れたかと思ったらすぐこれだ大国ってのは領土を広げるのが好きだねえ,,,
 1,2,117,6,3448,,,,Townsperson,"I don't care where countries fight their
-battles, so long as it isn't here.",他の国がどこで戦争しようと構わないがこの近辺でだけはやめて欲しいね,,
+battles, so long as it isn't here.",他の国がどこで戦争しようと構わないがこの近辺でだけはやめて欲しいね,,,
 1,3,117,7,5652,,,,Townsperson,"""To the one who ends all,
-the sacred gates shall open."" <PART> ---
+the sacred gates shall open."" <PART>
+---
 That's an old passage that's been passed down,
-but I don't really understand it.",全てを終えし者にこそ聖なる〓は開け放たれる <PART> 昔から伝わる〓〓なんだがいまいち意味がわからん…,,
+but I don't really understand it.",全てを終えし者にこそ聖なる〓は開け放たれる <PART> 昔から伝わる〓〓なんだがいまいち意味がわからん…,,,
 1,4,117,8,5744,,,,Townsperson,"The sands have grown higher again...
-It was habitable here only years ago.",またここの砂が〓したな…数年前は まだ何とか住めたってのによ,,
-2,1,117,1,,,,,,Exit,出口,,not displayed by the event script
-2,2,117,2,,,,,,Leave Kalstad?,カルスタッドから出ます,,not displayed by the event script
-2,3,117,3,,,,,,Yes,はい,,not displayed by the event script
-2,4,117,4,,,,,,No,いいえ,,not displayed by the event script
-2,5,117,9,,,,,,_ <PART> Kalstad <PART> Sahma Desert,カルスタッド <PART> アウル砂漠,,not displayed by the event script
-2,6,117,66,,,,,,Kalstad,カルスタッド,,not displayed by the event script
-2,7,117,2806,,,,,,Townsperson,カルスタッド住人,,not displayed by the event script
+It was habitable here only years ago.",またここの砂が〓したな…数年前は まだ何とか住めたってのによ,,,
+2,1,117,1,,,,,,Exit,出口,,not displayed by the event script,primary
+2,2,117,2,,,,,,Leave Kalstad?,カルスタッドから出ます,,not displayed by the event script,duplicate
+2,3,117,3,,,,,,Yes,はい,,not displayed by the event script,primary
+2,4,117,4,,,,,,No,いいえ,,not displayed by the event script,primary
+2,5,117,9,,,,,,_ <PART> Kalstad <PART> Sahma Desert,カルスタッド <PART> アウル砂漠,,not displayed by the event script,
+2,6,117,66,,,,,,Kalstad,カルスタッド,,not displayed by the event script,duplicate
+2,7,117,2806,,,,,,Townsperson,カルスタッド住人,,not displayed by the event script,duplicate

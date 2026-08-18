@@ -1,51 +1,61 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,45,2,2292,,,,Lady,"Ships won't sail to Dipan for a while...
-Gotta be hard on people over there, too. <PART> ---
+Gotta be hard on people over there, too. <PART>
+---
 But knowing King Barbarossa, he'll
-do something about this.",ディパンへの船は当分出ないみたいよ向こうの人達も困ってるんじゃないかな <PART> バルバロッサ様の事だからすぐに何とかしてくれると思うけど…,,
+do something about this.",ディパンへの船は当分出ないみたいよ向こうの人達も困ってるんじゃないかな <PART> バルバロッサ様の事だからすぐに何とかしてくれると思うけど…,,,
 1,2,45,3,2384,,,,Lady,"Some say that King Barbarossa is
-Dipan's greatest ruler ever.",ディパンのバルバロッサ王は国始まって以来の名〓と言われてるのよ,,
+Dipan's greatest ruler ever.",ディパンのバルバロッサ王は国始まって以来の名〓と言われてるのよ,,,
 1,3,45,5,2476,,,,Adventurer,"I can tell you're new by your equipment.
-So take it from a professional like me... <PART> ---
+So take it from a professional like me... <PART>
+---
 Outside of town you'll run into tons of
-monsters and all sorts of creatures. <PART> ---
+monsters and all sorts of creatures. <PART>
+---
 If you find something while fighting them,
-why not try it on and see how it works? <PART> ---
+why not try it on and see how it works? <PART>
+---
 Bet you'll find something handy, for sure.
-Try mixin' and matchin' stuff, too.",アンタ…〓〓初心者だろ？ 軽〓過ぎるモンなあよし ここは先〓として良い事を教えてやろう！ <PART> この先 街を出れば 不死者やら何やら結構な数の化けモンと会う事になると思うがな <PART> そいつらと戦って何か手に入れたら取り〓えず〓備してみな？ <PART> これが結構役に立つんだ〓み合わせ次第じゃ 面白い〓果を発〓するぜ,,
+Try mixin' and matchin' stuff, too.",アンタ…〓〓初心者だろ？ 軽〓過ぎるモンなあよし ここは先〓として良い事を教えてやろう！ <PART> この先 街を出れば 不死者やら何やら結構な数の化けモンと会う事になると思うがな <PART> そいつらと戦って何か手に入れたら取り〓えず〓備してみな？ <PART> これが結構役に立つんだ〓み合わせ次第じゃ 面白い〓果を発〓するぜ,,,
 1,4,45,4,2568,,,,Adventurer,"Some advice from a journeyman, newbie:
-You'll find treasure chests inside ruins, <PART> ---
+You'll find treasure chests inside ruins, <PART>
+---
 but some of 'em have traps. You open 'em
-and arrows shoot out or they go BOOM! <PART> ---
+and arrows shoot out or they go BOOM! <PART>
+---
 They take a little while to go off, so
-keep on your toes and you'll be alright. <PART> ---
+keep on your toes and you'll be alright. <PART>
+---
 Now, I'm all for guarding one's treasure,
-but whoever set those traps is a sicko!",〓〓初心者なアンタに 先〓からの〓告だ〓〓とか〓ってると 宝〓を見つけるんだが… <PART> 中には 罠が仕掛けてあるヤツもあるんだぜ開けた瞬間に 弓〓が〓んできたり〓発したり… <PART> まあ 罠が発動するまでちょいと時間がかかるから落ち着いて行動すりゃ〓けられるはずだぜ <PART> しかし… 宝を取られたくない気持ちは分かるが仕掛けたヤツは 相当性格の悪いヤツだよな,,
+but whoever set those traps is a sicko!",〓〓初心者なアンタに 先〓からの〓告だ〓〓とか〓ってると 宝〓を見つけるんだが… <PART> 中には 罠が仕掛けてあるヤツもあるんだぜ開けた瞬間に 弓〓が〓んできたり〓発したり… <PART> まあ 罠が発動するまでちょいと時間がかかるから落ち着いて行動すりゃ〓けられるはずだぜ <PART> しかし… 宝を取られたくない気持ちは分かるが仕掛けたヤツは 相当性格の悪いヤツだよな,,,
 1,5,45,6,2920,,,,Lady,"No word from Dipan yet.
-I hope nothing happened to the castle.",まだディパンからの連〓が無いんですってまさか お城で何かあったのかしら…,,
+I hope nothing happened to the castle.",まだディパンからの連〓が無いんですってまさか お城で何かあったのかしら…,,,
 1,6,45,7,3000,,,,Adventurer,"I came all the way to Solde,
-and I can't even go to Dipan. Just my luck.",せっかくソルデに来たのにディパンに渡れないなんて…不運…,,
+and I can't even go to Dipan. Just my luck.",せっかくソルデに来たのにディパンに渡れないなんて…不運…,,,
 1,7,45,8,3480,,,,Adventurer,"I sailed here from Dipan just recently.
-Never imagined it would be the last ship. <PART> ---
+Never imagined it would be the last ship. <PART>
+---
 Come to think of it, something felt
-strange in the air around Dipan Castle. <PART> ---
+strange in the air around Dipan Castle. <PART>
+---
 I wonder if something happened inside...
-or perhaps the worst is yet to come?",さっき ディパンから渡ってきたんだけどあれが最後の船とはね… <PART> そういえば ディパン城付近の空気が妙に張り詰めていたような気もしたけど <PART> 城内で何かあったという事？それとも… これから何か起きるという事かな…,,
+or perhaps the worst is yet to come?",さっき ディパンから渡ってきたんだけどあれが最後の船とはね… <PART> そういえば ディパン城付近の空気が妙に張り詰めていたような気もしたけど <PART> 城内で何かあったという事？それとも… これから何か起きるという事かな…,,,
 1,8,45,9,3572,,,,Adventurer,"Something transpired in the castle,
-or something's going to... Intriguing.",ディパン城内で何かあったのか…それともこれから何かが起こるのか…興味深いね,,
+or something's going to... Intriguing.",ディパン城内で何かあったのか…それともこれから何かが起こるのか…興味深いね,,,
 1,9,45,10,3900,,,,Adventurer,"Close call! If I'd missed that last boat,
-I'd be in harm's way right about now!",危なかった… 最後の船で出てこなければ襲撃に〓き込まれていたとこだったわ,,
+I'd be in harm's way right about now!",危なかった… 最後の船で出てこなければ襲撃に〓き込まれていたとこだったわ,,,
 1,10,45,11,3980,,,,Lady,"How could this have happened to Dipan?
-What was King Barbarossa doing?",信じられない… あのディパンが…バルバロッサ王は一体何をしていたの！？,,
+What was King Barbarossa doing?",信じられない… あのディパンが…バルバロッサ王は一体何をしていたの！？,,,
 1,11,45,12,4300,,,,Adventurer,"The liner still isn't sailing?
-What? Dipan's in ruins? Seriously? <PART> ---
+What? Dipan's in ruins? Seriously? <PART>
+---
 No...nobody told me anything.
-When did this all happen?",定期船 まだ動いてないの？…え？ ディパンって滅んだの？ 本当に！？ <PART> ぜ…全然知らなかった…いつの間に…,,
+When did this all happen?",定期船 まだ動いてないの？…え？ ディパンって滅んだの？ 本当に！？ <PART> ぜ…全然知らなかった…いつの間に…,,,
 1,12,45,13,4392,,,,Adventurer,"Dipan was destroyed in a single night.
-I...I had no idea.",ディパンって一〓で滅んだんだ…し 知らなかった…,,
-2,1,45,1,,,,,,Head outside,外へ,,not displayed by the event script
-2,2,45,14,,,,,,,,,not displayed by the event script
-2,3,45,15,,,,,,Acquired <PART> Burgundy Flask,〓ルト〓 <PART> を手に入れた,,not displayed by the event script
-2,4,45,354,,,,,,Solde,港町ゾルデ,,not displayed by the event script
-2,5,45,2757,,,,,,Lady,街〓,,not displayed by the event script
-2,6,45,2758,,,,,,Adventurer,〓〓者,,not displayed by the event script
+I...I had no idea.",ディパンって一〓で滅んだんだ…し 知らなかった…,,,
+2,1,45,1,,,,,,Head outside,外へ,,not displayed by the event script,duplicate
+2,2,45,14,,,,,,,,,not displayed by the event script,
+2,3,45,15,,,,,,Acquired <PART> Burgundy Flask,ポルト酒 <PART> を手に入れた,,not displayed by the event script,primary
+2,4,45,354,,,,,,Solde,港町ゾルデ,,not displayed by the event script,duplicate
+2,5,45,2757,,,,,,Lady,街娘,,not displayed by the event script,duplicate
+2,6,45,2758,,,,,,Adventurer,冒険者,,not displayed by the event script,duplicate

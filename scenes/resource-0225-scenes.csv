@@ -1,17 +1,22 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,225,6,2152,,,,,"Sealstones <PART> Press <PART> H to open the menu and take hold
-of sealstones. <PART> Sealstones affect <PART> enemies when on the dais,
-and the party when taken in hand. <PART> See <PART> Guide <PART> in the menu for details.",封印石 <PART> 封印石は <PART> を〓してメニューを〓けば、〓って、所持する事ができます。 <PART> 封印石は <PART> 〓〓に置かれると〓〓の〓に、〓るとパーティー〓に力を〓えます。 <PART> 〓しいルールはメニュー〓の <PART> 〓〓 <PART> を〓〓下さい。,,
+﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,225,6,2152,,,,,"Sealstones <PART>
+Press <PART> H to open the menu and take hold
+of sealstones.
+ <PART> Sealstones affect <PART> enemies when on the dais,
+and the party when taken in hand. <PART> See <PART> Guide <PART> in the menu for details.
+",封印石 <PART> 封印石は <PART> を押してメニューを開けば、取って、所持する事ができます。 <PART> 封印石は <PART> 台座に置かれると周囲の敵に、取るとパーティー側に力を与えます。 <PART> 詳しいルールはメニュー内の <PART> 説明 <PART> をご覧下さい。,,,
 1,2,225,8,2208,,,,,"Mastering the sealstones is the key to
-dungeon strategy.",〓の封印石を上手く活用する事が、ダンジ〓ン〓〓の〓となります。,,
-2,1,225,1,,,,,,,,,not displayed by the event script
-2,2,225,2,,,,,,Exit,出口,,not displayed by the event script
+dungeon strategy.
+",この封印石を上手く活用する事が、ダンジヨン攻略の鍵となります。,,,
+2,1,225,1,,,,,,,,,not displayed by the event script,
+2,2,225,2,,,,,,Exit,出口,,not displayed by the event script,primary
 2,3,225,3,,,,,,"Leave Serdberg Mountain Ruins?
-Sealstones return to original places.",セルドベルグ山岳遺跡から出ます〓封印石の〓置は〓期化されます〓,,not displayed by the event script
-2,4,225,4,,,,,,Yes,はい,,not displayed by the event script
-2,5,225,5,,,,,,No,いいえ,,not displayed by the event script
-2,6,225,7,,,,,,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,not displayed by the event script
-2,7,225,9,,,,,,Leave Serdberg Mountain Ruins?,セルドベルグ山岳遺跡から出ます,,not displayed by the event script
-2,8,225,10,,,,,,Yes,はい,,not displayed by the event script
-2,9,225,11,,,,,,No,いいえ,,not displayed by the event script
-2,10,225,12,,,,,,,セルドベルグ山岳遺跡,,not displayed by the event script
+Sealstones return to original places.",セルドベルグ山岳遺跡から出ます（封印石の配置は初期化されます）,,not displayed by the event script,
+2,4,225,4,,,,,,Yes,はい,,not displayed by the event script,primary
+2,5,225,5,,,,,,No,いいえ,,not displayed by the event script,primary
+2,6,225,7,,,,,,Serdberg Mountain Ruins,セルドベルグ山岳遺跡,,not displayed by the event script,duplicate
+2,7,225,9,,,,,,"Leave Serdberg Mountain Ruins?
+",セルドベルグ山岳遺跡から出ます,,not displayed by the event script,
+2,8,225,10,,,,,,Yes,はい,,not displayed by the event script,primary
+2,9,225,11,,,,,,No,いいえ,,not displayed by the event script,primary
+2,10,225,12,,,,,,,セルドベルグ山岳遺跡,,not displayed by the event script,

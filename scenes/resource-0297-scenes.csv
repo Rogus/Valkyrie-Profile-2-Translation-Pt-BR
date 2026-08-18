@@ -1,10 +1,10 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details
-1,1,297,2,1332,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,
-1,2,297,8,2180,,,,,This belonged to one who died here...,ここで亡くなった人の物らしい…,,
-2,1,297,1,,,,,,,,,not displayed by the event script
-2,2,297,3,,,,,,Check it out.,調べる,,not displayed by the event script
-2,3,297,4,,,,,,Leave.,やめる,,not displayed by the event script
-2,4,297,5,,,,,,,,,not displayed by the event script
-2,5,297,6,,,,,,HCheck,調べる,,not displayed by the event script
-2,6,297,7,,,,,,Acquired <PART> Charm,お守り <PART> を手に入れた,,not displayed by the event script
-2,7,297,547,,,,,,Surts Volcano Caverns,スルス火山洞窟,,not displayed by the event script
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+1,1,297,2,1332,,,,,A deadly presence lurks ahead...,〓ならぬ気配を感じる…,,,primary
+1,2,297,8,2180,,,,,This belonged to one who died here...,ここで亡くなった人の物らしい…,,,
+2,1,297,1,,,,,,,,,not displayed by the event script,
+2,2,297,3,,,,,,Check it out.,調べる,,not displayed by the event script,
+2,3,297,4,,,,,,Leave.,やめる,,not displayed by the event script,duplicate
+2,4,297,5,,,,,,,,,not displayed by the event script,
+2,5,297,6,,,,,,HCheck,調べる,,not displayed by the event script,duplicate
+2,6,297,7,,,,,,Acquired <PART> Charm,お守り <PART> を手に入れた,,not displayed by the event script,duplicate
+2,7,297,547,,,,,,Surts Volcano Caverns,スルス火山洞窟,,not displayed by the event script,duplicate
