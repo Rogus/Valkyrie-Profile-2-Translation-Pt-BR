@@ -1,0 +1,92 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Girl,この村に何か用？特に名産も何もないんだけど… <PART> あ でも 近くに変な〓〓ならあるよ昔 山の中で迷った人が発見したんだって <PART> でも中に何か居るらしくて村の人は絶対に近〓らないけどね,"What are you doing in this village?
+There's not much to see around here. <PART>
+---
+Just those ruins in the mountains nearby.
+A lost man stumbled upon them years ago. <PART>
+---
+There's something alive in there,
+so nobody from the village goes near.",,1,1,81,7,,
+Girl,山の中にあんな立派な〓物を〓てるくらいだから何か凄い宝を守るためだったんじゃないかって <PART> そうお〓ちゃんが言ってたよ でも〓〓者の人はみんな魔物に負けて帰ってきちゃうの,"A structure that massive in the mountains?
+It's to protect awesome treasure, <PART>
+---
+or so grandpa says. Adventurers who go
+always get beaten up by the monsters.",,1,2,81,8,,
+Townsperson,アンタも噂に〓かれてやってきた口かい？この村に 昔凄い宝があったってやつさ <PART> たまーに来るんだよ 〓〓者がだがこんな村だろ？ 皆大〓がっかりして帰るさね,"Did you come because of the rumors of
+treasure? <PART>
+---
+Adventurers visit every so often, but
+leave disappointed. Look at this place.",,1,3,81,9,,
+Townsperson,一つ〓告しておくけどね正面から戦うだけが能じゃないよ <PART> たまには違った〓〓から攻めてみな楽ができるところでは 楽をするのが一番よ <PART> なぁに 実はワシも 昔は結構無茶をした口でねよくそこら辺の化け物と渡り合ってたのさ,"Let me tell you something <PART> ---- <PART>
+any idiot can attack head on. <PART>
+---
+The trick is to try different angles,
+and make it easy on yourself. <PART>
+---
+I ran into my share of monsters
+back in the day.",,1,4,81,10,,
+Girl,あ！ この間のお姉ちゃんもしかして〓〓に行ったの？ 凄い宝ってあった？,"Hey, I met you the other day! How were
+the ruins? Did you find the treasure?",,1,5,81,14,,
+Girl,本当にあったんだ… 今まで誰も見れなかったのに お姉ちゃんは凄いね！,"So it really did exist! Nobody here had
+ever seen it... You sure are something!",,1,6,81,17,,
+Girl,そうなんだ…せっかく行ったのに お姉ちゃん残念だったね <PART> ね 元気出して！ これあげるから！前に山の中を〓歩してて〓ったの,"That's a shame...
+You went all the way there for nothing. <PART>
+---
+Don't lose hope! I'll give you this!
+I found it up in the mountains.",,1,7,81,18,,
+Girl,大きくなったら〓〓者になるんだそれで宝物いっぱい集めて村を大きくするの！,"When I grow up, I'm gonna be an adventurer!
+I'll gather treasure and help the village grow!",,1,8,81,20,,
+Adventurer,感じないか？ やけに空気が〓リ〓リしている…力の差があり過ぎる魔物と対〓している時のようだ,"Do you sense the tension in the air? It
+feels like when a monster overwhelms you.",,1,9,81,21,,
+Townsperson,何だか動物達が〓えてるみたいで…一体どうしたと言うのかしら…,"All the animals are petrified!
+What in the world is going on?",,1,10,81,22,,
+Townsperson,旅人がみんな ディパンが崩壊したって言うんだけど…本当なの？,"The travelers all say Dipan was crushed.
+Is it true?",,1,11,81,23,,
+Girl,…これから生活が〓しくなるかもしれないんだってそしたら〓も放さなきゃいけない…って…,"Mommy said the going's getting tough.
+She said we have to let the dog go...",,1,12,81,24,,
+Townsperson,ディパン崩壊の後は 嫌な噂ばかりですわ〓〓が上がるとか ヴィルノアが軍事化するとか… <PART> これは 早いところヘソクリを売って安全な国へ〓住するべきかしら <PART> けれど 安全な国と言っても…今はどこも不安定でしょうし…,"It's all bad news since Dipan fell.
+Villnore's raising taxes and militarizing. <PART>
+---
+Time for me to cash in my chips and
+head to the hills for safety. <PART>
+---
+The thing is, none of the hills
+are safe nowadays...",,1,13,81,25,,
+Townsperson,こんな急激に世情が不安定になるなんて…神のいたずらとしか思えませんわ,"The world destabilized so suddenly,
+it could only be the work of the gods.",,1,14,81,26,,
+Townsperson,山に行った人が ディパンの方角で変な光を見たと言っていたけれど…,"Somebody up in the mountains said he saw
+a strange light in Dipan's direction.",,1,15,81,28,,
+Townsperson,アナタ 家には勝手に入らないでくださいねせっかく〓った宝が… いえ何でもありませんわ！,"Ever heard of knocking?  I was just hiding
+treasure in <PART> ---- <PART> I mean, nothing to see here!",,1,16,81,29,,
+Townsperson,この村の〓は 時々金色の〓を産むのだけど味は普通だし… 貴重な物なの？,"Chickens here lay golden eggs, but they
+taste the same. Are they worth something?",,1,17,81,30,,
+Chicken,ロクなエサクレナイこの村 ダメね ダメダメね <PART> …………？コケケケケ！ 言葉が分かるニンゲン！？ <PART> アリエナイアリエナイ 何でナンデ！？指輪？ 指輪！ ソロモンの指輪ネ！ <PART> それなら イイカ何かエサクレ,"Look at this junk they feed me!
+This town has it all wrong, all wrong! <PART>
+---
+Cock-a-doodle-doo! A talking human! <PART>
+---
+No way, no way! How do you doodley-do it?
+The ring? The ring! Solomon's ring! <PART>
+---
+So that's how it works...
+Please feed me.",,1,19,81,31,,
+Chicken,言葉分かるニンゲン！エサ欲しい エサクレ！,"A talking human!?
+I want food, give me food!",,1,20,81,62,,
+,はい どうぞ,Here you go.,,1,21,81,36,,
+Chicken,ウマイウマイ ニンゲン最高！,Yum yum! I love humans!,,1,22,81,37,,
+Chicken,コケケ！腹ヘリ ヘリマクリ……,"B-gawk!
+My tum-tum is empty!",,1,24,81,40,,
+Chicken,ダメねニンゲン 使えナイネ,"Thanks for nothing, human.",,1,25,81,41,,
+Dog,何でご主人様は悲しい顔してるのかな？どうしたら笑ってくれるのかな？,"Why does my master frown so?
+How can I turn that frown upside-down?",,1,32,81,64,,
+Chicken,…モウ ナイ,No MOOOOre!,,1,34,81,69,,
+,ディラン <PART> が仲間に加わりました,Dylan <PART> has joined the party.,,2,1,81,2896,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1345 1351 1353 1357 1387,
+,レザード <PART> が仲間に加わりました,Lezard <PART> has joined the party.,,2,2,81,2897,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1341 1351 1353 1357 1387,
+,レオーネ <PART> が仲間に加わりました,Leone <PART> has joined the party.,,2,3,81,2898,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1345 1351 1353 1357 1387,
+,アリューゼ <PART> が仲間に加わりました,Arngrim <PART> has joined the party.,,2,4,81,2899,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,ミトラ <PART> が仲間に加わりました,Mithra <PART> has joined the party.,,2,5,81,2900,89 109 167 173 189 233 243 253 255 273 283 313 319 339 361 371 565 579 599 1009 1155 1165 1179 1181 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,レナス <PART> が仲間に加わりました,Lenneth <PART> has joined the party.,,2,6,81,2901,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,シルメリア <PART> が仲間に加わりました,Silmeria <PART> has joined the party.,,2,7,81,2902,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,ブラムス <PART> が仲間に加わりました,Brahms <PART> has joined the party.,,2,8,81,2903,89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,アーリィ <PART> が仲間に加わりました,Hrist <PART> has joined the party.,,2,9,81,2904,89 109 1155 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1223 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1261 1263 1269 1275 1277 1281 1283 1285 1287 1289 1291 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,犬,Dog,,4,40,81,2895,89 123,not displayed by the event script

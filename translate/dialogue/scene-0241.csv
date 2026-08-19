@@ -1,0 +1,8 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,加護無しの間 <PART> 加護無しの間とは、ユグドラシルの地脈の力がまったく及ばない場所です。 <PART> ここでは光子を発射する事ができなくなり、封印石もその効力を失います。,"Divinity Voids <PART> Divinity Voids are areas where Yggdrasil's power
+does not reach.
+ <PART>
+Photons cannot be projected in them, and
+sealstone effects are nullified.
+",,1,1,241,3,,
+,加護無しの間について,Divinity Voids,,2,3,241,4,,not displayed by the event script

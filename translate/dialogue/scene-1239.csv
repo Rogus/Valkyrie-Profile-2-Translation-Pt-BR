@@ -1,0 +1,64 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Alicia,…ここは？,Where are we?,,1,1,1239,33,,
+Rufus,城が崩れたのか？,Did the castle collapse?,,1,2,1239,1,,
+Lezard,〓送方陣にございますアリーシャ様 <PART> ――,"It was a teleportation spell.
+Alicia, Your Majesty.",,1,3,1239,2,,
+Alicia,…あなたは？,And you are...?,,2,1,1239,41,,
+Lezard,レザード…,Lezard.,,2,2,1239,42,1341,
+Lezard,〓者様方の下で研究のお手伝いをさせていただいておりました,"I had been assisting the Three Mages
+in their research as an apprentice.",,2,3,1239,4,,
+Alicia,なぜ私達を逃がしてくれたのです？,"I'm sorry, but why did you rescue us?",,2,4,1239,5,,
+Lezard,アリーシャ様なら 王の危〓な研究をやめさせられると思いました,"I thought you, Princess, could put a
+stop to the king's dangerous research.",,2,5,1239,6,,
+Alicia,その危〓な研究の事 <PART> ―― <PART> 聞かせてもらえますか？,"Could you tell me more about this
+dangerous research?",,2,6,1239,7,,
+Lezard,王は <PART> ――,The king...,,2,7,1239,8,1305,
+Lezard,閉じた時間〓を作り 死の運命から逃れる事を望んでいます,"is seeking to transcend this mortal coil
+by creating a closed timeline.",,2,8,1239,9,1305,
+Lezard,―― <PART> 〓ち 神々との決別,"In other words, independence from the gods.",,2,9,1239,11,1305,
+Silmeria,〓相転〓とも違う オーディンすら持たぬ術を得ようというのか…,"That is beyond transcendence. What he seeks
+is a power possessed by Odin alone.",,2,10,1239,12,,
+Silmeria,そのためにドラゴンオーブを？,Is that why they need the Dragon Orb?,,2,11,1239,13,,
+Lezard,不死者やエルフで実〓をくり返し失敗を重ね たどり着いた結論です,"That was their conclusion...following
+countless failed experiments on elves and
+the undead.",,2,12,1239,14,,
+Rufus,クッ…,Damn...,,2,13,1239,15,,
+Silmeria,ディパンだけが自然の摂理から逃れ永遠の〓栄を〓受しようとは…,"So Dipan alone would break free from the laws
+of nature and enjoy eternal prosperity...",,2,14,1239,16,,
+Lezard,私も〓〓不可能だと思いました,I myself found it absurd...,,2,15,1239,17,,
+Lezard,シルメリア・ヴァルキュリア殿 <PART> ――,Lady Silmeria Valkyrie.,,2,16,1239,18,,
+Silmeria,私を知っているの？,So you know of me.,,2,17,1239,19,,
+Lezard,ダレス様から 少々 <PART> ――,Just what Dallas told me.,,2,18,1239,20,,
+Silmeria,ドラゴンオーブには世界を焼き尽くし滅ぼすほどの力があるという,"It is said the Dragon Orb has enough
+power to set the whole world aflame.",,2,19,1239,25,,
+Silmeria,その前では神々も無力…あながち不可能とは言い切れまい,"Even gods are powerless before it.
+The king's plan may be feasible.",,2,20,1239,26,,
+Dylan,ディパンに〓った〓〓は未だ〓せてはいない,The oath I swore to Dipan still holds.,,2,21,1239,21,,
+Rufus,あんた そう言いながらオーブをオーディンに渡す気じゃないだろうな？,"You say that now, but maybe you'll just
+take the orb and run to Odin!",,2,22,1239,22,,
+Rufus,…やってやる！,I'll show you sincere!,,2,23,1239,23,,
+Lezard,それでは追手が来る前に森を出てコリアンドル村へ向かいましょう,"Let us then depart the forest for
+Coriander before pursuit draws near.",,2,24,1239,24,,
+Lezard,オーブの安置場所として最後に記〓されているのです,It was the last recorded sanctuary of the orb...,,2,25,1239,31,,
+Lezard,手荒な真似をお許しくださいしかしあの場では他に方法がなく <PART> ――,"I beg your pardon. I had no choice but
+to resort to such crude methods.",,3,1,1239,3,,
+Dylan,まさかディパンのためにオーブを探す気なのか？,"You're not thinking of finding the orb
+for Dipan, are you!?",,4,1,1239,27,,
+Silmeria,探すのはディパンのためではないミッドガルドのためよ,For Dipan? No. For all Midgard.,,4,2,1239,28,,
+Silmeria,私がオーブを見つけアリーシャがその守護者になる,"I will find the orb, and Alicia shall be
+the Guardian.",,4,3,1239,29,,
+Silmeria,王の危〓な研究をやめさせるとはそういう事でしょう？ レザード殿 <PART> ――,"That would put an end to the king's dangerous
+research <PART> ---- <PART> would it not, Sir Lezard?",,4,4,1239,30,,
+Rufus,そこにドラゴンオーブがあるのか？,"So, is that where we'll find the Dragon Orb?",,4,5,1239,32,,
+Lezard,神界 人間界 冥界 そのどれにも〓さぬ新たなる世界樹の創造 <PART> ――,"A new world tree stemming from neither
+the heavens, the underworld, nor the
+world of mortals.",,4,6,1239,34,1305,
+Silmeria,本気でそう思うなら ついて来て力づくで〓止してみたらどう？,"Well, if that's your theory, then come
+along and keep it from happening.",,4,7,1239,36,,
+Silmeria,…もっとも本気でオーディンと戦う心構えがなければ 無理な話ね,"But if you aren't sincere about fighting
+Odin, you won't stand a chance.",,4,8,1239,35,,
+Dylan,外に出たらしいが…,I believe we're outside.,,4,9,1239,37,,
+Lezard,レザード・ヴァレスと申します,"Lezard Valeth, at your service.",,4,10,1239,38,,
+Lezard,あなたは私が期待したとおりの方だ,You are everything I had hoped you would be.,,4,11,1239,39,,
+Alicia,みなさんのお力 頼りにしていますよろしくお願いします,"We'll need everyone's strength to get
+through this. I'm counting on you all.",,4,12,1239,40,,

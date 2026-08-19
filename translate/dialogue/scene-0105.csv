@@ -1,0 +1,126 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Townsperson,砂漠のオアシス カルスタッドへようこそ…と言っても ほとんど砂に埋もれてるけどね,"Welcome to Kalstad, the ""oasis in the sand.""
+...More like just sand now, though.",,1,1,105,11,,
+Townsperson,ねえ旅の人 私達宿屋〓料〓をやっているの姉さんが〓番してるから 良かったら〓って行って,"My family runs a bed and breakfast in town.
+My sister's there now if you need a rest. <PART>
+---
+",,1,2,105,10,,
+Townsperson,はあ…〓いても〓いてもキリがねェかといって やらなきゃ砂に埋もれちまうしなァ <PART> ああ 面倒くせえ面倒くせェかといって やらなきゃ母ちゃんがうるさいしなァ…,"If I sweep any more, my arms'll fall off!
+But if I stop, the sand will bury me. <PART>
+---
+I'm sick of it! I can't take it anymore!
+Yet if I stop, I'll hear it from the missus.",,1,3,105,12,,
+Townsperson,俺がガキの頃は もうちょっとマシだったがネ今じゃ砂の方が人間様よりデカイ顔してるよ,"Things were better when I was a lad...
+Nowadays, the dunes tower over the houses!",,1,4,105,13,,
+Adventurer,噂以上に砂の害がひどい街だな数年後には 街ごと埋もれてるんじゃないか？ <PART> いくらヴィルノアへの中継地〓といってもこれじゃ〓わうはずもねえよなあ…,"The sands slash at the town without mercy.
+Years from now, there might not be a town! <PART>
+---
+A way-stop to Villnore may be convenient,
+but these conditions are intolerable!",,1,5,105,14,,
+Adventurer,この間立ち〓った村で聞いたんだが…金の〓を産む〓がどこかに居るらしいぜ,"I stopped in another town the other day and
+heard about a bird that laid golden eggs.",,1,6,105,15,,
+Townsperson,魔法って 〓境を変える事もできるのかしらそうしたら砂の無い街にしてもらうのに…,"Can magic change the environment? If so,
+we could get rid of this desert...",,1,7,105,17,,
+Townsperson,ソルデから出てるディパンへの定期船って〓航してたんですってね <PART> こんな辺境だと どうしても情報に遅れが出ちゃうなあ…,"Apparently, the liner leaving Solde for
+Dipan has been stopped. <PART>
+---
+It takes a while for the news to reach us
+out here in the middle of nowhere.",,1,8,105,16,,
+Townsperson,ディパンって〓の方にある国だよナ？船が止まったとか再開したとか何とか…,"Dipan's that country up north, right?
+The boats stopped and then started again...",,1,9,105,18,,
+Townsperson,良く分からんが 定期船って止まると大変なのか？〓人や〓〓者が騒いでるんだがイマイチねェ…,"I don't get it. Are boats such a big deal?
+Merchants make mountains out of molehills...",,1,10,105,19,,
+Adventurer,昔 一緒に旅をしたヤツが居たんだが最近 〓〓〓が無くてな… <PART> この辺の〓〓を巡ってたって聞いたんだが…どこかで野たれ死んじまったのかな…,"Long ago, I traveled with a friend,
+but I haven't heard from him lately. <PART>
+---
+I heard he explored the nearby ruins,
+so I hope he made it back...",,1,11,105,20,,
+Adventurer,この辺の〓〓は危〓で 死んだヤツも多いと聞いたんだが… やっぱりアイツも…,"The ruins nearby are dangerous, and many
+don't make it out alive. Poor guy...",,1,12,105,21,,
+Adventurer,ん？ 何か俺に用なのか？,What do you want from me?,,1,13,105,23,,
+Adventurer,このお守り…アイツのガキが作ったんだよいつ死ぬかわからねえ〓業だが…やり切れないな,"His kid made this <PART> ---- <PART> it's a good luck charm.
+Any day can be your last in this business...",,1,14,105,22,,
+,あの これ…,This here...,,1,15,105,27,,
+Adventurer,これはアイツの…！アンタ 一体これをどこで〓った！？ <PART> …そう か やっぱり死んじまってたかいや ありがとうな 生死がわかっただけで十分だ <PART> このお守りくらい 家族に届けてやらなきゃなああ 礼と言っちゃなんだがこれを受け取ってくれ,"This was his...!
+Where did you find it!? <PART>
+---
+...Oh, then I guess he really is gone.
+Well, at least I know for sure now. <PART>
+---
+I'll have to bring this charm to his family.
+Take this for your troubles...",,1,16,105,28,,
+Adventurer,…？ 用が無いのなら早く行けよ,...? State your business or be on your way.,,1,17,105,35,,
+Adventurer,何だよ 変なヤツだな…,What's your problem?,,1,18,105,34,,
+Adventurer,この世のどこかに 四宝の一つと言われる宝〓があるらしいのだけど… <PART> トレシャーハンターとしては〓非一度お目に掛かりたいものよね,"Somewhere in this world lies one of
+the legendary Four Treasures. <PART>
+---
+Merely laying eyes upon it would be a dream
+come true for any treasure hunter.",,1,19,105,36,,
+Adventurer,魔物や不死者というのは 大きな力や強い思念に〓かれやすいって言うでしょ？ <PART> だから より強い魔物が〓がる場所にこそ凄い宝があると思うんだけど…,"They say monsters and the undead are
+drawn to power and psychic energy, right? <PART>
+---
+If that's true, the places with stronger
+monsters probably hold great treasures...",,1,20,105,37,,
+Townsperson,遠〓ついでにさぼりに来ていたクレルモンフェランの傭兵が〓てて帰っちゃったの <PART> ディパンがどうしたとか…何かあったのかしら？,"They came over here after their campaign <PART> ---- <PART>
+terrified soldiers from Crell Monferaigne, <PART>
+---
+talking about things in Dipan...
+What happened over there?",,1,21,105,39,,
+Townsperson,ディパンで何かあったのかしら？来る人来る人 皆その話ばかりで…,"What exactly happened in Dipan?
+Everybody's all abuzz about it.",,1,22,105,40,,
+Townsperson,何だかこの間からディパンディパンってうるさいねェそんな国の事なんか知るもんか <PART> こちとら砂に埋もれるかどうかで手一〓なんだって,"All day I hear Dipan this, Dipan that...
+What would I know about Dipan? <PART>
+---
+I have my hands full trying to figure out
+whether we'll be buried by the desert!",,1,23,105,41,,
+Townsperson,俺達は 目の前の事でいっぱいいっぱいだどこかのお国がどうなろうと関係ないネ,"We've got too much to deal with here
+to worry about some other country!",,1,24,105,42,,
+Adventurer,ここからヴィルノアに行って 途中でどこかの村を中継して キセナ草〓を〓けてソルデに行って… <PART> ディパンへの道って これで合ってるよね？え？ 遠回りしてる？ <PART> そりゃ スカビア〓〓〓けたほうが早いけど…あの〓山を〓えるのはちょっと…,"From here, you go to Villnore, stop in some
+village, take the Kythena Plains to Solde... <PART>
+---
+That's the way to Dipan, right?
+Hm? That's the scenic route? <PART>
+---
+Well, I suppose the Sukavia Gorge is quicker,
+though traversing an icy mountain's no fun.",,1,25,105,45,,
+Adventurer,スカビア〓〓って 今はほとんど使用する人はいないよ 〓がひどすぎるもの,"Almost nobody uses the Sukavia Gorge now.
+The snow is simply too much!",,1,26,105,46,,
+Townsperson,ディパンが一〓で崩壊したんですってとうとう神の怒りを買ったとか何とか… <PART> これから大量に難民が出るわね宿屋の準備 しっかりしなくっちゃ！,"Word has it that Dipan was leveled in a day.
+They finally went too far for the gods. <PART>
+---
+Lots of refugees are bound to show up, so
+I'd better prepare the inn!",,1,27,105,47,,
+Townsperson,ディパンやソルデから大量の難民が出るわねこれが争いの素にならなければいいけど,"Several refugees will be coming from Dipan.
+I only hope it doesn't lead to more fighting.",,1,28,105,48,,
+Adventurer,ああ アンタらか この間はありがとなアイツの形見 家族に渡してきたぜ <PART> ディパン崩壊でこれから戦かもしれないって時に〓ぎ〓失うなんてな…,"Good to see you again. Thanks for last time.
+I gave the memento to his family. <PART>
+---
+They've lost their breadwinner, and now
+Dipan's fall may be a prelude to war...",,1,29,105,49,,
+Adventurer,例え戦乙女に選ばれてヴァルハラに行こうとも死んじまったらお仕〓だよ,"Even if you try to reach Valhalla,
+it's all over once you die.",,1,30,105,50,,
+Townsperson,今更なんだが…ディパンの崩壊ってのはそんなに大変な事なのか？ <PART> どっかの国が無くなったからといってここの砂が無くなるわけじゃねえんだろ？,"Maybe I'm crazy, but is the fall of Dipan
+really such a big deal? <PART>
+---
+Some country disappearing doesn't mean
+this desert's going anywhere, does it?",,1,31,105,51,,
+Townsperson,ディパン崩壊より明日のメシ 明日の砂〓きそれがこの街のすべてだ〓 <PART> 人間ってのは どっかのお国の一大事より目先の生活のほうが重要なのサ,"Everyone should focus less on Dipan and
+more on gathering food and sweeping sand. <PART>
+---
+People need to think about their own lives
+before they go worrying about others'.",,1,32,105,52,,
+Townsperson,〓を向けばクレルモンフェラン〓を向けばヴィルノア 〓はアルトリア <PART> こんな要所に〓っている街なのに〓肉な事にどこからも相手にされてないのよね,"Crell Monferaigne to the east, Villnore
+to the west, and Artolia to the south... <PART>
+---
+This town occupies strategic territory,
+but is, ironically, ignored by all.",,1,33,105,53,,
+Townsperson,後数年で砂に埋もれてしまいそうな街なんてどこの国からも相手にされないのね,"Who'd bother fighting a country that will
+eventually be conquered by sand, anyway?",,1,34,105,54,,
+Townsperson,ここら辺で戦さえ起きなければ俺達にはどこの国が滅びようと関係ねえ〓 <PART> 〓たいって思うか？ だが人間なんて所詮自分一人で手一〓なんだ〓 アンタもそうだろ？,"As long as there aren't any wars around here,
+who cares what countries are destroyed? <PART>
+---
+You think I'm being cold? It's only natural
+for people to look out for number one. Don't you?",,1,35,105,55,,
+Townsperson,ディパンが滅びようと何だろうと俺達の生活も砂の量も変わりはないネ,"Whatever happens to Dipan doesn't make a
+difference in our lives, or to the sand.",,1,36,105,56,,
+,カルスタッド住人,Townsperson,Habitante,2,18,105,2800,107 109 115 117,not displayed by the event script

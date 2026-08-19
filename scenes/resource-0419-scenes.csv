@@ -1,5 +1,0 @@
-scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
-1,1,419,1,516,,,,,We must return to the Forest of Spirits!,早く精霊の森へ戻らないと…,,,
-1,2,419,2,576,,,,,"The door won't open.
-It's locked...from the inside.",扉が開かない…中から…施〓されてる…,,,
-2,1,419,2745,,,,,,Dipan Castle,ディパン城,,not displayed by the event script,duplicate

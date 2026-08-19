@@ -1,0 +1,42 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Townsperson,へえ…アンタ面白い相をしているね長年占い師やってるけど これは初めて見たよ <PART> アンタは数〓な流れに〓き込まれてるこのままだと 流れに〓うまま生を終えるだろう <PART> でも 流れに〓びが見えるねこの〓びは…世界を変えるかもしれない…,"Well, you've quite a palm! In all my years
+of telling fortunes, this is a first! <PART>
+---
+You are carried along helplessly by the flow,
+but the stream leads to your death... <PART>
+---
+Wait! I see a break in the current!
+This break may change the fate of the world.",,1,1,115,2,,
+Townsperson,アンタの運命は過酷だけど最後まで〓めちゃいけないよ,"Your fate may be a cruel one,
+but you mustn't give up!",,1,2,115,3,,
+Townsperson,占いはどうだい？ 一回〓〓〓 〓〓〓だよまあ 当たるかどうかは責任持てないけど,"See your future! One time, 100 OTH!
+Not responsible for gross inaccuracies!",,1,3,115,7,,
+Townsperson,悪いけど 今できる占いはこれだけだよ,This is the only fortune I can tell now.,,1,4,115,11,,
+Townsperson,そうかい それじゃまたの機会にね,"Well, may our paths cross again sometime...",,1,5,115,4,,
+Townsperson,ふう…ん… なるほどね…ふむ…ふむふむ… <PART> アンタは今行動を共にしている仲間と自らの意思で別れる事があるかもしれない <PART> もし 別れた仲間と会いたいのなら色々な場所に行ってみるといい <PART> 街の空き家とか…そんな場所で再会できる…と出ているね,"Hmm... I see... How about that...
+Well, well... What do you know... <PART>
+---
+You may separate with those who accompany
+you by your own free choice. <PART>
+---
+If you should seek them afterward,
+journey to several places. <PART>
+---
+You may find them in empty houses in towns.
+...That is my vision.",,1,6,115,5,,
+Townsperson,悪いけど 無料じゃ視れないね,"Sorry, but I can't see for free...",,1,7,115,6,,
+Townsperson,悪いけど 占いは〓く〓業だよ何度視ても悪い〓しか出ないんだ…,"Sorry, but I've given up telling fortunes.
+All I see are visions of sadness...",,1,8,115,12,,
+Adventurer,貴方もトレシャーハンターでしょ最近多いんだよね 平和続きだからかなぁ <PART> この辺にも〓〓があるって噂だったから来てみたんだけどさ 魔物が強くってぇ <PART> 特にアレ 変な虫！ 追い込んだと思ったら自〓すんのよ！ もー信じられない！,"You're treasure hunters, too! A lot come by
+lately <PART> ---- <PART> peace is bad news for mercenaries. <PART>
+---
+I came here because I heard about the
+ruins, but the monsters are tough. <PART>
+---
+Especially that weird bug. Just when you
+think you've got it... It's crazy!",,1,9,115,13,,
+Adventurer,とにかく虫！ シャイアント…ナントカ！この先の砂漠に行くのなら要注意よ <PART> 自〓されたら 〓死だってあるんだから気をつけてね,"At any rate, it's a bug. A giant something!
+Be careful if you go into that desert. <PART>
+---
+Don't let your guard down for a second, or
+that'll be the end of you. Take care!",,1,10,115,14,,

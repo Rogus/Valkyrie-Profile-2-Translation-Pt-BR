@@ -1,0 +1,53 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Roussalier,しばらくは大丈夫でしょう <PART> ――,You should be safe here for a while.,,1,1,1291,23,,
+Roussalier,でも ずっとここにいるわけにはいかないわ少し〓んだら 森を出なさい,"But you can't stay forever. Once you've
+rested up, you should leave the forest.",,1,2,1291,20,,
+Rufus,あんた… 俺が誰だか知ってんのか？,"Lady, do you even know who I am?",,1,3,1291,21,,
+Roussalier,ハーフエルフでしょ？ヘイムダルが血眼になって追っている <PART> ――,"You're the half elf, aren't you?
+The one Heimdall is searching for?",,1,4,1291,1,,
+Rufus,…なんで知ってて〓う？,"If you know, then why help us?",,1,5,1291,2,,
+Roussalier,なんだか 気の毒だから…,I suppose I felt sorry for you.,,1,6,1291,36,,
+Alicia,助けていただいたのに 責めなくたって…,"Rufus, after what she's done for us, be
+polite.",,1,7,1291,29,,
+Rufus,どうだか…,I could.,,1,8,1291,3,,
+Rufus,〓介者を体よく追い出そうってだけかもしれないぜ…,"But double-crossers have a way of
+hiding behind politeness.",,1,9,1291,4,,
+Alicia,そんなこと！,Stop that!,,1,10,1291,5,,
+Rufus,…エルフが俺なんかに 同情するもんかッ！,What gives some elf the right to pity me?,,1,11,1291,6,,
+Alicia,お気を悪くなさらないでください…,"Please, don't let him upset you.",,1,12,1291,7,,
+Roussalier,…ありがとう,Thank you.,,1,13,1291,8,,
+Roussalier,…あなたは？,And you are?,,1,14,1291,9,,
+Alicia,ディパン公国のアリーシャと申します,"I am Alicia, Princess of Dipan.",,1,15,1291,10,,
+Roussalier,人間ね？,"A human, then?",,1,16,1291,11,,
+Roussalier,〓解しないで 私はあなた達がここへ何をしに来たのか知りたいだけ…,"Please, I only want to know what brought
+you two here. That's all.",,1,17,1291,24,,
+Alicia,ビフレストの〓を通って〓グドラシルを目指しています,"We're going through the gates of Bifrost
+to reach Yggdrasil,",,1,18,1291,25,,
+Alicia,そして ヴァルハラへ <PART> ――,and then on to Valhalla.,,1,19,1291,30,,
+Rufus,おい アリーシャ！,"Hey, Alicia!",,1,20,1291,31,,
+Roussalier,でも それは人間には無理ね,But that's impossible for a human.,,1,21,1291,12,,
+Roussalier,エインフェリアに選定されるかもしくは 不死者にでもならない限り <PART> ――,"Unless that human is chosen as an einherjar.
+Or becomes one of the undead.",,1,22,1291,13,,
+Rufus,不死者…,Undead...,,1,23,1291,33,,
+Alicia,不死者になればビフレストの〓を通る事ができるんですか？,"If I were undead, would I be able to pass
+through the gates of Bifrost?",,1,24,1291,14,,
+Roussalier,物〓としての肉体を捨てられれば <PART> ―― <PART> という意味よ,"If you were willing to give up your own
+body... Then, yes.",,1,25,1291,15,,
+Roussalier,それで心まで魔物になってしまっては元も子もないわ,"But passing through won't matter if you
+end up a demon to the core.",,1,26,1291,26,,
+Rufus,グールパウダーを〓んで 精神に作用する直前に〓食を止めればいいんだ…,"If you take ghoul powder and we stop the
+decay just before it reaches your spirit,
+it might work.",,1,27,1291,27,,
+Rufus,この指輪をつければ宿主の時間が止まる,"You can wear my ring. Time freezes for
+anyone who wears it.",,1,28,1291,16,,
+Rufus,成長も 〓食も止められる…,It stops growth as well as decay.,,1,29,1291,17,,
+Alicia,でも指輪を外したら ルーファスが <PART> ――,"But Rufus, if you take that ring off...",,1,30,1291,34,,
+Rufus,魂が消えるのはミッドガルドでの話だビフレストの〓を〓えれば必要なくなる,"My soul will only fade away if I'm on
+Midgard. I won't need the ring once we
+pass the gates of Bifrost.",,1,31,1291,18,,
+Alicia,ダレス達が〓んだグールパウダーの残りがディパン城の研究所にあるかもしれない…,"The mages used ghoul powder. Some of it
+might still be in the laboratory in Dipan.",,2,1,1291,35,,
+Rufus,アリーシャ …どうする？,"Alicia, what do you say?",,2,2,1291,32,,
+Roussalier,…あなた達 本気なの！？,Are the two of you serious?,,2,3,1291,22,,
+Rufus,ああ…,Yeah.,,2,4,1291,28,,
+Rufus,ディパンへ行こう,We're going to Dipan.,,2,5,1291,19,,

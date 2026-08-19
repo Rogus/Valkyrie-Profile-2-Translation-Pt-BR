@@ -1,0 +1,59 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Officer B,今日の定期船は欠航になります事故があって就航不能です！,"Liner service cancelled today!
+All departures suspended due to an
+accident.",O navio de hoje foi cancelado! Houve um acidente e não há como navegar!,1,1,1195,37,,
+Officer B,何度も言っていますが当面 就航再開の見込みはありません！,"I've said it a thousand times. There
+are no plans to resume service!",Já disse várias vezes. Não há previsão de voltar a navegar!,1,2,1195,23,,
+Traveler,ふざけるな！代わりの船はないのか？,"Give me a break! You mean there are
+no other ships?",Fala sério! Não há outro navio?,1,3,1195,1,,
+Officer B,ないと言ったらない！,No means no!,"Disse não, não é não!",1,4,1195,2,,
+Silmeria,（ …アーリィの仕業ね ）,( This is the work of Hrist. ),( Foi obra de Hrist. ),1,5,1195,3,,
+Alicia,さあ どうするの？,"So, what should we do?","Então, o que faremos?",1,6,1195,4,,
+Silmeria,（ 近くに潜んでいるかもしれないひとまずここを出るのよ ）,"( She may be lurking nearby. First
+things first <PART> ---- <PART> we have to get out of
+here. )","( Ela pode estar escondida por perto.
+Primeiro <PART> ---- <PART> temos que sair daqui. )",1,7,1195,5,,
+Alicia,就航が再開するまでどこかで待つの？,"Should we wait somewhere until they
+start sailing again?",Devemos esperar em algum lugar até os navios voltarem?,1,8,1195,36,,
+Silmeria,（ そんな悠長にしていられない地下道を使うわ ）,"( We don't have time. We'll use the
+underground path. )",( Não podemos perder tempo. Usaremos a passagem subterrânea. ),1,9,1195,35,,
+Alicia,どこにそんなものが…,What underground path?,Onde haveria uma coisa dessas...,1,10,1195,30,,
+Silmeria,（ 待って！ ）,( Hold on! ),( Espere! ),1,11,1195,6,,
+Silmeria,（ あの男に声をかけて同行するよう誘いなさい ）,"( Talk to the man over there and ask
+him to come with us. )",( Chame aquele homem e diga que venha conosco. ),1,12,1195,7,,
+Alicia,…どの人？,Which man?,...Qual homem?,1,13,1195,8,,
+Alicia,…なぜ？,Why him?,...Por que ele?,1,14,1195,10,,
+Alicia,…できない,I can't.,...Não posso.,1,15,1195,11,1287,
+Rufus,…？,...?,...?,1,16,1195,12,,
+Alicia,あの…,Ummm...,Hum...,1,17,1195,13,,
+Rufus,…何か？,Can I help you?,...Algo?,1,18,1195,14,,
+Alicia,ディ… ディパンに行くいい方法を知っているのですが <PART> ――,"I, ummm, know a great way to
+reach Dipan, and...","Eu... sei um bom jeito de ir a Dipan, e...",1,19,1195,15,,
+Alicia,よろしかったらご一緒にいかが <PART> ――,if you wouldn't mind coming...,"se não se importar, que tal vir...",1,20,1195,16,,
+Alicia,でしょう か <PART> ――,with...me.,...comigo?,1,21,1195,17,,
+Silmeria,失礼 <PART> ―― <PART> 申し遅れました,"Forgive me, I did not
+introduce myself.","Perdoe-me, não me apresentei.",1,22,1195,18,,
+Silmeria,私 ディパン国王の王女アリーシャと申します,"I am Alicia, Princess of the
+Kingdom of Dipan.","Sou Alicia, princesa do reino de Dipan.",1,23,1195,19,,
+Rufus,！,...!,...!,1,24,1195,20,1219 1233 1243 1275 1287 1305 1307,
+Silmeria,わけあって身分を隠しておりますが急ぎディパンへ戻らねばならぬゆえ <PART> ――,"I am concealing my identity for a reason.
+It is imperative I return to Dipan
+immediately.",Oculto minha identidade por um motivo e preciso voltar a Dipan sem demora.,1,25,1195,21,,
+Silmeria,供を必要としております,I am in need of an escort.,Preciso de um acompanhante.,1,26,1195,22,,
+Silmeria,この混乱にも動じないあなた様のご器量を見込んでお頼み申します,"Seeing you unfazed by the commotion, I
+could tell you were a man of great caliber.","Como o senhor não se abalou, percebi seu grande valor e lhe apresento o pedido.",1,27,1195,24,,
+Silmeria,もちろん相応の礼はご用意いたしますいかがでしょう？,"Of course, you will be adequately compensated.
+Will you accompany me?","Claro, haverá recompensa adequada. Que tal nos acompanhar?",1,28,1195,28,,
+Rufus,…いいだろう,Sounds fair.,...Tudo bem.,1,29,1195,25,,
+Silmeria,では早速 <PART> ――,Then follow me.,Então vamos.,1,30,1195,26,,
+Silmeria,（ あとはうまくやるのよ余計な事は言わなくていいわ ）,"( The rest should be easy. Don't tell
+him more than he needs to know. )",( Eu cuido do resto. Não diga mais do que precisa. ),1,31,1195,29,,
+Alicia,…ええ,Yeah...,...Sim...,1,32,1195,27,,
+Silmeria,（ あの男と言ったらあの男しかいないでしょ！ ）,"( Who else could I be talking about?
+That guy right there! )",( De quem mais eu falaria? Daquele homem ali! ),1,33,1195,31,,
+Silmeria,（ わけは後よ 急いで！ ）,( Ask me later. Just go. ),( Vou contar depois. Vá logo! ),1,34,1195,32,,
+Rufus,…なんで俺に？,Why me?,...Por que eu?,1,35,1195,33,,
+Silmeria,（ いいから誘いなさい！ ）,( Just go and ask him. ),( Vá logo e convide-o! ),1,36,1195,34,,
+,役人B,Officer B,,4,7,1195,2755,,not displayed by the event script
+,旅人,Traveler,,4,8,1195,2756,,not displayed by the event script
+,シルメリア,Silmeria,,4,9,1195,2757,1199 1201 1213 1217 1219 1221 1223 1227 1233 1237 1239 1247 1251 1255 1263 1275 1277 1281 1283 1285 1317 1335 1337 1341 1389,not displayed by the event script

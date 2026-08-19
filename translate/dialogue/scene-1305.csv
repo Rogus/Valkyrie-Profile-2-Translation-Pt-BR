@@ -1,0 +1,71 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Alicia,この封印… 私達に解けるでしょうか？,"Do you think we'll be able to break the
+seal?",,2,1,1305,1255,,
+Rufus,この際 そいつは後にしてドラゴンオーブだけ持って行こう,"We can worry about him later, for now we
+need to take the Dragon Orb.",,2,2,1305,1256,,
+Alicia,駄目よ 一緒に連れて行くわ,No! He's coming with us!,,2,3,1305,1257,,
+Rufus,こんなデカいのを どうやって…,It's huge! How are we gonna get him out?,,2,4,1305,1258,,
+Alicia,これを使えば <PART> ――,What if we use that?,,2,5,1305,1259,,
+Rufus,これって…,Is that...?,,2,6,1305,1260,,
+Alicia,水〓よ シルメリアに聞いた事があるの,"The Water Mirror. Silmeria told me about
+it.",,2,7,1305,1261,,
+Alicia,遠くの相手と話をしたり物を入れて〓送できるはずよ,"With this mirror, you can talk to people far
+away and transport things you put in it.",,2,8,1305,1262,,
+Arngrim,ここに〓び込めば みんなまとめてミッドガルドへ戻れるってわけか…,"So, if we were to jump in, we could all
+go back to Midgard?",,2,9,1305,1263,,
+Alicia,急ぎましょう！,Then let's go.,,2,10,1305,1264,,
+Hrist,待て！,Halt!,,2,11,1305,1298,,
+Arngrim,まだ居やがったのか！？,What are you doing here!?,,3,1,1305,1265,,
+Hrist,騒ぐな ここで争うつもりはない力を惜りたいのだ,"Stand down. I'm not here to fight.
+I need your help.",,3,2,1305,1266,,
+Rufus,そりゃ虫が良すぎやしねえか？,Nobody cares what you need.,,3,3,1305,1267,,
+Hrist,シルメリアを救うためでもか？,Even to save Silmeria?,,3,4,1305,1268,,
+Hrist,シルメリアはオーディン様とともにレザードに連れ去られているのだ,"Odin wasn't the only one Lezard took
+with him <PART> ---- <PART> he has Silmeria as well.",,3,5,1305,1269,,
+Hrist,レザードは〓グドラシルの外に新世界を創造し その地に逃れている,"Lezard has created a new world outside
+of Yggdrasil and fled there.",,3,6,1305,1270,,
+Alicia,新世界…,A new world?,,3,7,1305,1271,,
+Rufus,…そんなデタラメで騙されねぇぞ！,We're not fools. You can't trick us that easily!,,3,12,1305,1288,,
+Hrist,お前達… 見てなかったのか？,What? Didn't you see it for yourselves?,,3,14,1305,1289,,
+Rufus,あいにくそんな余〓はなかったからな,"Well, we were a little busy at the time.",,3,15,1305,1290,,
+Hrist,だがレザードがオーディン様に神の技を発動したのは見たのだろう？,"But you must have seen Lezard use a
+divine technique against Odin?",,3,16,1305,1291,,
+Hrist,本来 人間には〓し得ぬ技ではあるが知〓と力が揃えば不可能ではないらしい,"It is a magick which cannot naturally be
+used by humans <PART> ---- <PART> unless they have the
+necessary knowledge and power.",,3,17,1305,1295,,
+Hrist,〓者の石が及ぼす知〓とシルメリアの魂の力…,"The knowledge in the Philosopher's Stone
+and the power of Silmeria.",,3,18,1305,1292,,
+Alicia,やはり… ディパンの研究は完成していたのですね,"So it's true. They did it. They
+completed their research in Dipan.",,3,19,1305,1278,,
+Hrist,そのようだ…,Yes.,,3,20,1305,1279,,
+Hrist,おそらくあの者は“王呼の秘法”も会得しているだろう,"He's probably figured out the
+Sovereign's Rite as well.",,3,21,1305,1280,,
+Rufus,…強敵だな,We'll have our hands full.,,3,22,1305,1281,,
+Arngrim,お前… 一緒に行く気か？,"Hey, are you thinking about going?",,3,23,1305,1282,,
+Rufus,当然だろ？,Why wouldn't I?,,3,24,1305,1283,,
+Rufus,オーディンがどうなろうと構わないけどあんな危ねえ奴を放っておけるか！,"I don't care what happens to Odin, but I
+can't let that madman run wild!",,3,25,1305,1284,,
+Hrist,頼もしい…,Agreed.,,3,26,1305,1293,,
+Alicia,ブラムスの封印を解いてくださいそしてドラゴンオーブも <PART> ――,"Release Brahms from his prison, and
+return the Dragon Orb <PART> ----",,3,27,1305,1294,,
+Alicia,―― <PART> それが〓件です,those are our conditions.,,3,28,1305,1285,,
+Freya,人間が神と〓け引きとは <PART> ――,Humans negotiating with gods?,,3,29,1305,1286,,
+Freya,…許せないッ！,Never!,,3,30,1305,1287,,
+Alicia,ううっ！,Ugh...,,3,31,1305,1299,,
+Arngrim,…こんな奴にかまってないでとっとと逃げるんだったぜ…,"Damn, we should've run instead of
+getting mixed up with her.",,3,32,1305,1300,,
+Freya,ああッ！,Agggh!,,3,33,1305,1301,,
+Arngrim,…やるじゃねえか,Welcome to the fight.,,3,34,1305,1311,,
+Arngrim,二人を頼んだぜッ！,Take care of those two for me!,,3,35,1305,1302,,
+Freya,アーリィ… 気は確かなの？,Hrist...have you gone mad?,,3,36,1305,1303,,
+Hrist,エインフェリアを軽んじるは我らの思い上がり！,"I won't stand by while you gods kill my
+einherjar!",,3,37,1305,1304,,
+Freya,アーリィ… やめなさいッ！,Hrist! Stop this!,,3,38,1305,1305,,
+Hrist,…フンッ！！,Hyar!,,3,39,1305,1312,,
+Freya,かくなる上は…あなたに命運を〓すほかないの？,"So it has come to this... All I can do is
+entrust our fate to you...",,3,40,1305,1307,,
+Freya,…レナス,Lenneth.,,3,41,1305,1308,,
+Freya,神がみすみすエインフェリアを逃がすなど断じてあり得ないわッ！,"You're mad if you think we gods would
+stand by while you einherjar slip away!",,3,42,1305,1309,,
+Freya,…クッ！,...!,,3,43,1305,1310,,
+Freya,うわッ！,Argh!,,3,44,1305,1313,,

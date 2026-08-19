@@ -1,0 +1,51 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Rufus,…ちょっと〓もう,"Okay, kids. Break time.",,1,1,1245,30,,
+Rufus,なんだってこんな面倒なとこに安置しやがったんだ…,"Why'd they keep it in such an out-of-
+the-way place?",,1,2,1245,1,,
+Lezard,神々や不死者に奪われないようにとの配〓からでしょう,"So that it would not be plundered by the
+gods or the undead, no doubt.",,1,3,1245,2,,
+Lezard,オーブはミッドガルドを安定させるいわば支〓ですから,"The orb is, in effect, the pillar that
+supports Midgard.",,1,4,1245,3,,
+Lezard,しかし思わせぶりな造りは かえって人の好〓心を〓るというもの…,"However, a place too secluded is bound
+to invite the curiosity of mortals.",,1,5,1245,4,,
+Alicia,何ですか それ！？,What in heavens is that!?,,1,6,1245,5,,
+Lezard,盗〓者の〓でしょう,The remains of tomb raiders.,,1,7,1245,6,,
+Lezard,…ディラン殿？,Sir Dylan?,,1,8,1245,7,,
+Arngrim,…すまない 人違いだ,Sorry. Thought you were someone else.,,1,9,1245,8,,
+Dylan,何だと！？,Like who!?,,1,10,1245,9,,
+Arngrim,ついさっき化け物にやられた死体を見たばかりで 気が立ってた,"I just saw a monster dig in to a corpse
+back there, so I'm a little on edge.",,1,11,1245,10,,
+Arngrim,もしあんたがそうならそろそろ化けの〓がはがれてるだろ…,"But I figure if you were a monster,
+you'd have peeled off your skin by now.",,1,12,1245,11,,
+Leone,アリューゼ！,Arngrim!,,1,13,1245,12,1303,
+Arngrim,…ご同業とちょっとモメただけだ,Just chatting with some colleagues.,,1,14,1245,13,,
+Dylan,同業？,Colleagues?,,1,15,1245,14,,
+Arngrim,あんたらも宝探しだろ？,"You're treasure hunting too, right?",,1,16,1245,15,,
+Dylan,無礼を言うなッ！,How dare you!,,1,17,1245,16,,
+Dylan,我々はディパン公国の者だ！貴様ら盗〓者とは違う！,"We are loyal subjects of Dipan!
+Don't confuse us with plunderers like you!",,1,18,1245,17,,
+Leone,失礼したわね おっしゃる通り私達はここへ盗〓に来た者よ,"How rude of us. As you so deftly imply,
+we are indeed here to ""plunder"" treasure.",,1,19,1245,18,,
+Leone,私はレオーネ この男はアリューゼよ,"I'm Leone. This is my partner, Arngrim.",,1,20,1245,19,,
+Leone,この辺りは噂で聞いた以上に物騒ねよければご一緒願えないかしら？,"It's even hairier in here than the
+rumors suggest. What do you say we
+team up?",,1,21,1245,20,,
+Leone,もちろん〓物は〓半とは言わない〓対2でいいわ,"Of course, to make things fair, we'd
+settle for a third.",,1,22,1245,21,,
+Arngrim,おい 話が違うぜ！,"Hey, that's not the deal!",,1,23,1245,22,,
+Dylan,お断りだ！ そもそも我々は盗〓に来ているのではない,"Forget it! We're not here to hunt for
+treasure. Be off with you.",,1,24,1245,34,,
+Alicia,ディラン！,Dylan!,,1,25,1245,24,,
+Alicia,目的が違うのですからご一緒していただいたほうが…,"They don't want what we want. What would
+be the harm in teaming up?",,1,26,1245,25,,
+Dylan,こんな素性の知れない連中と,But we barely know anything about them!,,1,27,1245,26,,
+Rufus,お〓い様じゃねえの？,They could say the same about us.,,1,28,1245,27,,
+Rufus,さあ 行こうぜ！,"Wake up, time to go!",,1,30,1245,35,,
+Leone,本業は傭兵だけど この平和続き宝探しで〓口をしのいでるってわけ,"But we're actually mercenaries. We hunt
+treasure to make ends meet in times of
+peace.",,1,31,1245,33,,
+Lezard,ここに金〓〓宝が埋もれているとでも思っていたのでしょうか…,"They probably thought they'd find
+treasure buried here.",,1,32,1245,31,,
+Leone,何があったの？,What's going on?,,1,33,1245,32,,
+,アリューゼ,Arngrim,,4,10,1245,2755,1247 1253 1263 1275 1277 1281 1283 1303 1305 1313 1317 1321 1325 1335 1363,not displayed by the event script
+,レオーネ,Leone,,4,12,1245,2757,1247 1253 1255 1263 1269 1275 1277 1335 1339,not displayed by the event script

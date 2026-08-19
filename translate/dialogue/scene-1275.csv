@@ -1,0 +1,25 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Silmeria,〓竜殿… という場所に運ばれたようね,"It has been taken to the Palace of the
+Venerated Dragon.",,1,1,1275,1,,
+Undead,！！,...!,,1,3,1275,3,,
+Silmeria,神聖なる〓〓を〓す不死者 <PART> ―― <PART> ここを貴様の安住の地にはさせぬ！,"Demon that desecrates this hallowed
+ground <PART> ---- <PART> you will find no refuge here!",,1,4,1275,4,,
+Arngrim,…何だ ありゃ？,That's a new one.,,1,5,1275,5,,
+Rufus,不死者のくせに気が弱いというか…,"Huh. Timid little demon, ain't he?",,1,6,1275,6,,
+Leone,ごく〓に 戦いを好まない〓和な不死者もいるそうだけど…,"I've heard there are, in rare cases,
+tame undead that prefer not to fight.",,1,7,1275,7,,
+Leone,…実際に見たのは私も初めてよ,But I've never actually seen one until now.,,1,8,1275,8,,
+Dylan,ともあれ先を急ごう,Whatever. Let's go.,,1,9,1275,15,,
+Freya,…あなたは何を見ているの？,"What are you looking at, my lord?",,1,10,1275,10,,
+Odin,そう責められたものでもない,This is no small matter.,,1,11,1275,16,,
+Odin,不死者王の力は〓れぬ下〓神では見〓けぬのも無理はない,"Do not underestimate the Lord of the
+Undead. Our lesser deity may not be
+enough to stop him.",,1,12,1275,11,,
+Freya,…いかがいたしますか？,"What shall we do, then?",,1,13,1275,12,,
+Odin,しばらくこのまま見守ろうではないかすべて見届けてからでも遅くはない,"I deem we wait and watch over them for now.
+All will become clear before long.",,1,14,1275,13,,
+Odin,まずはオーブの代わりが見つかって良しとしよう <PART> ――,"In the meantime, be happy we've found our
+replacement for the orb.",,1,15,1275,14,,
+,不死者,Undead,,4,8,1275,2753,,not displayed by the event script
+,フレイ,Freya,,4,13,1275,2758,1283 1299 1305 1337 1343 1387,not displayed by the event script
+,オーディン,Odin,,4,14,1275,2759,1283 1299 1307 1337 1339 1387,not displayed by the event script

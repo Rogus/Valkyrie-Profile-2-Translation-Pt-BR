@@ -1,7 +1,0 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
-1,1,897,1,0,,,,,Ravine Caverns,狭間の洞窟,,,duplicate
-1,2,897,2,0,,,,,"Leave Ravine Caverns?
-Sealstones return to original places.",狭間の洞窟から出ます（封印石の配置は初期化されます）,,,duplicate
-1,3,897,3,0,,,,,Yes,はい,,,duplicate
-1,4,897,4,0,,,,,No,いいえ,,,duplicate
-1,5,897,17,0,,,,,,狭間の洞窟,,,

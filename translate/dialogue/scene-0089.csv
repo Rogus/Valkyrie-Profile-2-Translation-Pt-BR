@@ -1,0 +1,159 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Girl,〓業と鉄〓の街 ヴィルノアへようこそ！記念にお花はいかがですか？,"Welcome to Villnore, home of steel and commerce!
+How about a flower to celebrate the occasion?",,1,1,89,12,,
+Girl,ちょっとその…お金が…,I'm afraid that...that's not enough...,,1,2,89,14,,
+Girl,そうですか…,"Oh, okay, then...",,1,3,89,15,89,
+Boy,あ あのお姉さん…あのね その なんて言うか…その…,"Greetings <PART> ---- <PART> I mean, hello <PART> ---- <PART> I mean...
+Uh... What do I mean? Right, uh...",,1,4,89,16,,
+Lady,いらっしゃいませ！ 今日もお花買いに来たの？いつもありがとう 花が好きな男の子って嬉しいわ,"There you are! Come back for flowers today?
+Men who appreciate flowers are hard to come by!",,1,5,89,17,,
+Boy,あ…うん…そ そうなんだ花を買いに来たんだ！ あは…ははは…,"Um...right. Yeah...I'm here to buy flowers?
+Of course! I'm here to buy flowers! Haha!",,1,6,89,18,,
+Boy,…聞いてたんですか？うん…何も言わないでください…,"Uh... Were you just listening to that?
+Let's keep this between you and me.",,1,7,89,20,,
+Boy,花屋のお姉さん 凄く可愛いんですよヴィルノアに来たら一度は会っておかないと！,"That flower girl is beauty personified.
+You must see her while you're in Villnore!",,1,8,89,21,,
+Gentleman,ん？ この近くにある〓〓だって？ああ 確か入り〓に神殿みたいな〓物はあるが… <PART> 一つ〓告するよ お〓さんそこには近付かない方がいい <PART> 宝目当てで行ったヤツが何人かいたが誰一人帰って来ないんだ,"You want to know about ruins around here?
+Hmm... There is that shrine on the water. <PART>
+---
+But I'll tell you one thing, young lady <PART> ---- <PART>
+I wouldn't go near there if I were you. <PART>
+---
+Many went out in search of treasure,
+but none came back.",,1,9,89,22,,
+Gentleman,入り〓の〓〓は かつて水の神殿と呼ばれるほど栄えていたんだ <PART> だがある日 〓大な〓波が襲ってきてそれっきり今でも大半が海の下さ <PART> 水〓を開ける事ができれば水も引くかもしれないが… <PART> 多分無理だな 住み着いた魔物にやられるのがオチってところだよ お〓さん,"The ruins nearby were once hailed as
+the temple of water. <PART>
+---
+But a massive tsunami sent half of the
+shrine into the sea. <PART>
+---
+You might be able to drain the water
+by opening the floodgate... <PART>
+---
+But chances are the monsters there would
+eat you alive before you had the chance.",,1,10,89,23,,
+Gentleman,おや…この間のお〓さんだよね？もしかして〓〓に行ったのかい？,"Say there, you're the young lady from before!
+You didn't happen to visit the ruins, did you?",,1,11,89,24,,
+Gentleman,驚いたな まさか無事で帰ってくるなんて…〓のその勇気と強さを〓えるよ <PART> 〓みたいな素敵な女性にはコレを…ちょっとしたご〓〓さ,"You actually made it out of there alive?
+That is no small feat! <PART>
+---
+You are both lovely and rugged, it would seem.
+Here is a small reward for you...",,1,12,89,27,,
+Gentleman,そうだよね 〓みたいなか弱い女性が近づく場所じゃない 懸命な〓断だよ,"Of course, how silly of me to think a delicate
+thing like you would ever go near such a place.",,1,13,89,29,,
+Gentleman,ソルデの定期船はまだ復航しないみたいだなしばらくはクレルモンフェランと取引か…,"It appears Solde's liner still isn't operating.
+I guess I'll trade with Crell Monferaigne.",,1,14,89,30,,
+Boy,花屋のお姉さんって 可愛いですよね…何とか仲良くなれないかなぁ…,"Isn't the flower girl a sweetheart?
+How I long to befriend her...",,1,15,89,31,,
+Townsperson,ディパンからの品が急に品〓になってねえ定期船が〓航しているってのは本当みたいだね <PART> もしディパンに〓一の事があった場合アルトリアとクレルモンフェランが動くだろうね <PART> ヴィルノアに害が及ばなきゃいいんだけど…何だか心配だよ…,"Imports from Dipan have become rather scarce.
+The rumors about the ships must be true. <PART>
+---
+If something happened to Dipan, Artolia and
+Crell Monferaigne will soon make their move. <PART>
+---
+I hope Villnore will be left out of it,
+but I wouldn't count on it.",,1,16,89,32,,
+Townsperson,気持ちが不安定で疲れている時はカモミールの花のお茶がいいんだよ,"When your nerves are frayed by stress,
+a cup of chamomille tea will do the trick.",,1,17,89,33,,
+Girl,不安な時はお花を見ると少し落ち着きますよお一ついかがですか？,"Flowers soothe the troubled soul.
+Would you like one?",,1,18,89,34,,
+Townsperson,…ディパンが……だって城に知らせが……,"I can't believe it...Dipan has...
+A bulletin was posted at the castle...",,1,20,89,39,,
+Townsperson,噂は本当……これでディパンも……バルバロッサ王も愚かな……,"The rumors were true, Dipan's completely...
+That foolish Barbarossa...",,1,21,89,40,,
+Gentleman,ディパンがどこかから襲撃を受けているらしいさっき城〓めの〓人に聞いたんだ <PART> 遠眼〓でも ディパン方面から〓が上がっているのが確認できるそうだ,"My friend working at the castle told me that
+Dipan is under attack or something! <PART>
+---
+They saw smoke rising from the direction of
+Dipan through the telescope.",,1,22,89,41,,
+Gentleman,ディパンほどの大国を襲撃するなんて…一体どこの国の軍〓なんだ…,"What country could have the audacity to attack
+a military superpower like Dipan?",,1,23,89,42,,
+Townsperson,前から噂にはなってたんだよディパンが変な研究してるってさ <PART> 戦争の準備だとか色々言われていたけど…こうなると本当だったんだねえ,"Rumors that Dipan was conducting questionable
+research have been swirling for a while. <PART>
+---
+Some thought Dipan was preparing for war.
+I guess they were right.",,1,24,89,43,,
+Townsperson,今回の襲撃は やっぱりディパンが進めていたという研究が〓因なのかねえ,"I suspect this attack on Dipan was in response
+to their suspicious research.",,1,25,89,44,,
+Boy,父さんが急にお城に呼び出されたんです非番だったのに… <PART> 他のお城〓めの人達にも 〓急〓集がかかったそうですよ,"My father was suddenly summoned to the castle,
+even though he was off duty... <PART>
+---
+I think they called an emergency meeting for
+everybody who works at the castle.",,1,26,89,45,,
+Boy,ディパンで一体何があったんだろう…ヴィルノア城の人達まで焦っているし…,"What in the name of the gods happened to Dipan?
+It has everyone in Villnore Castle on edge...",,1,27,89,46,,
+Gentleman,あのディパンが一〓で滅ぶなんて…ちょっと信じられないね <PART> 所詮 人は神には逆らえないといういわば見せしめみたいなものだったのかな,"It's hard to believe a city like Dipan
+was obliterated in a single night... <PART>
+---
+It's as if the gods set an example for
+anyone who would oppose them...",,1,28,89,47,,
+Gentleman,ディパン崩壊の報を聞いて ヴィルノア城ではずっと会議が開かれているらしい <PART> この街は この先どうなるんだろうな…このままではいられないのはわかっているが…,"They've been holding a council in Villnore
+Castle ever since Dipan fell. <PART>
+---
+What could be in store for this town?
+I know things are going to change...",,1,29,89,48,,
+Townsperson,名〓と〓われたバルバロッサ王も一体どこで道を〓ったんだか…,"Where could a revered king like Barbarossa
+possibly have gone wrong?",,1,30,89,49,,
+Townsperson,ディパン崩壊で戦争が起きなければいいけど…この〓になって戦に〓き込まれるのは御免だよ,"I hope there won't be wars with Dipan gone <PART> ---- <PART>
+I won't last long in battle at my age.",,1,31,89,50,,
+Boy,こんな時だからこそ 〓がお姉さんの力になるべきなんですよね <PART> けれど その一歩が踏み出せないんです…,"At times like these I want to
+be there for her... <PART>
+---
+But I just can't make the first move.",,1,32,89,51,,
+Girl,〓い話題ばかりですから そういう時くらい〓〓なお花が必要だと思うんです…,"It's important to have flowers to keep your
+mind off all the sad news lately.",,1,33,89,52,,
+Girl,お花はいかがですか？ 〓〓な花を見て嫌な〓〓気は吹き〓ばしましょう！,"Care for a flower? Let the scent wash
+your troubles away!",,1,34,89,56,,
+Girl,そうですか…,"Oh, okay then...",,1,35,89,60,,
+Gentleman,どうするって言われても…俺だってどう身を振ればいいか…,"People ask me what they should do, but
+I don't even know what to do myself!",,1,36,89,61,,
+Townsperson,これからは城の主導で〓業を行うって…どうするんだい？ 〓けが少なくなるよ！,"The government is taking over commerce.
+This is going to kill my profits!",,1,37,89,62,,
+Townsperson,ああもう… これまで順調にやってきたってのに行〓が〓業に口を出すなんて…,"Everything was going so smoothly, and now
+the castle has to butt into my business!?",,1,38,89,63,,
+Gentleman,ついこの間 城からお達しが出たんだこの先 〓業も鉄〓業も全て行〓主導で行うと… <PART> これも ディパン崩壊の影〓だもう〓業のヴィルノアも終わりだな…,"The castle announced just the other day that
+they'd be taking over steel and commerce... <PART>
+---
+It's all because of Dipan's collapse.
+So much for free trade in Villnore!",,1,39,89,64,,
+Gentleman,城では軍事化を進めたがっているらしい噂では じきに〓兵も行われるとか…,"The castle is pushing for militarization.
+Some are suggesting a draft.",,1,40,89,65,,
+Boy,城から帰ってきた父さんが凄く悲しそうな顔をしていたんです <PART> これからは昔のように暮らせないいつ戦が起こるかわからないって…,"After he'd come back from the castle,
+my father looked terribly dour. <PART>
+---
+Things won't be like they used to and
+war could break out any time, he said.",,1,41,89,66,,
+Boy,もし戦が起こっても〓は必ず花屋のお姉さんを守ります…！,"If ever there should be a war,
+I will fight for the flower girl! <PART>
+---
+",,1,42,89,67,,
+Boy,花屋さんで売っている花は時〓ごとに色々変わるんですよ,"The flowers sold at the shop change
+according to the season.",,1,43,89,68,,
+Dog,ほほう… 我が言葉が分かるのか〓有な人間がいたものだな <PART> 我も人と共に暮らして長いがそなたのような人物は初めてだ <PART> ふむ そうだな言葉が分かるのならば話が早い <PART> 〓をくれないか？皆 急激な情勢の変動で余〓がないようでな,"Whoa! You can understand what I'm saying?
+What a remarkable human specimen! <PART>
+---
+I've lived alongside humans for some while,
+but I have to say this is a first! <PART>
+---
+Well, if you can understand me, there's
+no need for the song and dance... <PART>
+---
+Here's the bottom line <PART> ---- <PART> I want food.
+The sudden changes have made everyone stingy.",,1,51,89,91,,
+Dog,おお そなたか 一つ〓をくれないか？〓返しはできんが 腹が減って仕方なくてな,"Look who it is! Spare some chops?
+I can't repay you, I'm just hungry.",,1,52,89,92,,
+Dog,うむ すまぬなそなたは優しい人間のようだ,"Thanks, I really appreciate it.
+For a human, you're pretty cool.",,1,54,89,98,,
+Dog,そうか… ならば仕方あるまい無理を言ってすまなかったな,"Well...I guess it can't be helped...
+Sorry for asking.",,1,56,89,101,,
+Dog,何ともまあ 心の〓い人間よ,I don't think I like you very much.,,1,57,89,102,,
+Girl,ありがとうございました大切にしてあげてくださいね,Thank you! Please take good care of it.,,1,58,89,106,,
+Girl,あ…… ごめんなさい！お売りできるお花がもう無いみたいです…,"Oh, I'm sorry! I don't have any flowers
+I can sell you right now...",,1,59,89,107,,
+Girl,ありがとうございました えっと…良く分かりませんが…元気出してくださいね,"Thank you! Umm...I don't know how
+you're feeling, but try to cheer up!",,1,60,89,110,,
+Girl,ありがとうございました貴方に買って頂けて お花も喜んでますよ,"Thank you! The flower is happy that
+you bought it <PART> ---- <PART> trust me!",,1,61,89,113,,
+Girl,ありがとうございました 私はいつまでもここで花を売っていますから また来てくださいね,"Thank you! I'm always here for whenever
+you need flowers!",,1,62,89,116,,
+,ヴィルノア住人,Townsperson,Habitante,4,59,89,2883,95 97 99,not displayed by the event script

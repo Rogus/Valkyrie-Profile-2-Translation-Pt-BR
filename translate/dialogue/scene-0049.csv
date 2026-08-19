@@ -1,0 +1,261 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,〓戦術指南書〓 <PART> 戦闘において仲間を活かすも殺すも、全ては指揮官の腕一つ。指揮官たる者は、これに記す極意を心して覚えよ。,"
+In battle, the commander's hands hold
+both life and death.
+Ye who would command, know ye by heart
+these secrets...",,1,1,49,5,,
+,〓戦術指南書〓 <PART> 心せよ。共に戦う仲間の生死は、指揮官たる者の実力次第であると知れ。,"
+Remember at all times:
+One's ability to command determines
+whether comrades live or die.",,1,2,49,6,49 73 87 97,
+,〓戦術指南書〓 <PART> 状態異常について <PART> 戦いの中では様々な事〓が生じる。状態異常もその一つ。〓切な対処を取らずに置けば、命を落とす事もあると心得よ。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 以下の状態異常は、戦闘中にのみその効果が現れる。  〓混乱〓 混乱した者は正常なる思考を失い、攻撃 行動を一切取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 回復すべき手段が無い場合は、時が経つ のを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓麻痺〓 麻痺した者は全身が痺れ、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。回復すべき手段が 無い場合は、時が経つのを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓石化〓 石化した者は石の人形と化し、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。回復すべき手段が 無い場合は、時が経つのを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓気絶〓 気絶した者は意識を失い、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 又は敵の攻撃を受ければ気が付くだろう。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓転送〓 転送にかかった者は戦場から強制的に離脱 させられる。一定時間を経ないと仲間の元に 戻る事は〓されない。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 以下の状態異常は、戦闘を終えても持続されるので注意せよ。  〓毒〓 毒に侵されると、一定時間ごとにHPを 〓られる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓沈黙〓 沈黙になると、魔法が使用できなくなる。 敵の攻撃の中には、これにより発動を防ぐ 事ができるものがある。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓呪い〓 呪いにかかると、装備変更ができなくなる。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓衰弱〓 衰弱になると身体の回復力が見る間に 失われ、傷が癒える事がなくなる。 オーディナリーシェイでは回復不可能。 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓戦闘不能〓 戦闘不能に陥った者は、生死の境をさ〓う。 エヴォークフェザーか対〓アイテムを使う べし。 なお、これら状態異常を前もって防ぐアクセサリーが存在するが、それは己の手で探すが良いだろう。,"Status Ailments <PART>
+Anything can happen in battle, including status
+ailments. Realize that these can be deadly if
+left untreated. <PART>
+---
+ <PART> Status Ailments <PART>
+The status ailments below occur only
+in battle.
+Confusion renders one unable to think
+properly, and therefore unable to attack.
+Use Normalize or an applicable
+item to cure this condition.
+If you don't have the means to cure it,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Paralysis causes numbness throughout
+the body, making movement impossible.
+Use Normalize or an applicable
+item to cure this condition.
+If you don't have the means to cure it,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Victims of Stone become like statues,
+utterly unable to act.
+Use Normalize or an applicable
+item to cure this condition.
+If you don't have the means to cure it,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Faint causes a loss of consciousness,
+leaving one unable to act.
+Use Normalize or an applicable
+item to cure this condition. Being hit
+by an attack will also wake one up. <PART>
+---
+ <PART> Status Ailments <PART>
+Transfer forcefully expels you from the
+battlefield, keeping you from joining your
+comrades for a certain amount of time.
+It cannot be cured by Normalize.
+Use an applicable item to cure it. <PART>
+---
+ <PART> Status Ailments <PART>
+The status ailments below persist even
+after battle.
+Poison will deplete one's HP at regular
+intervals.
+Use Normalize or an applicable
+item to cure this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+Silence forbids the use of magic, and certain
+enemy attacks may also be neutralized.
+Use Normalize or an applicable item to cure
+this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+A Curse prohibits changing equipment.
+Use Normalize or an applicable item to
+cure this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+Frailty inhibits the body's ability to
+convalesce, making healing impossible.
+It cannot be cured by Normalize.
+Use an applicable item to cure it. <PART>
+---
+ <PART> Status Ailments <PART>
+Unconscious characters lie on the
+brink of death. Use Invoke Feather
+or an applicable item to cure it.
+Certain accessories can prevent these status
+ailments, if you can find them.",,1,3,49,7,,
+,〓戦術指南書〓 <PART> 魔法の使い方について <PART> 真なる魔法使いは、術の発動の仕方ですらも、状〓に応じて使い分けるものである。 <PART> 〓戦術指南書〓 <PART> 魔法の使い方について <PART> 通常時は、素早い攻撃と仲間との連〓をはかるため、あらかじめ己に付与した術を使用する。だがそれでは十分な精神集中の時間が取れず、術の威力と効果範囲は本来の威力を発揮しないだろう。 <PART> 〓戦術指南書〓 <PART> 魔法の使い方について <PART> 術の威力を純粋に高める場合は、動きを止めた上で <PART> で魔術書を開き、どの術を発動するか十分に吟味すべきである。だがその代わりに、仲間との連〓を取る事はできなくなるだろう。 どちらの攻撃方法を取るかは、状〓により己が手腕で切り抜けるが良い。 <PART> 〓戦術指南書〓 <PART> 魔法の使い方について <PART> また、この世には、通常の威力を超える大魔法が存在する。大魔法は、一度に多数の敵を〓り去る事が可能である。 だが、これは敵も同じ事。大魔法を発動された場合は、標的とされた者以外の状態も気に留めておくべきであろう。,"Casting Spells <PART>
+A true sorcerer knows not only how to cast
+spells, but also when and where. <PART>
+---
+ <PART> Casting Spells <PART>
+Usually, a character will cast a preset spell to
+expedite attacks and integrate smoothly with
+allies. However, lacking the time for proper
+spiritual concentration, the ranges and effects
+of these spells fail to meet their full potential. <PART>
+---
+ <PART> Casting Spells <PART>
+To increase the force of one's magic, one should
+remain still, open the spellbook with <PART> and
+examine the incantation to perform.
+However, this precludes one from combining with allies.
+As for which attack method to use, you'll need to
+apply your know-how to each situation. <PART>
+---
+ <PART> Casting Spells <PART>
+There is Great Magic in this world that surpasses
+ordinary spells. Great Magic can annihilate
+multiple foes at once.
+But enemies may use it as well. When
+attacked with Great Magic, keep the status of
+those beside the targeted character in mind.",,1,4,49,11,49 87 97,
+,〓戦術指南書〓 <PART> ターゲット変更について <PART> 敵と戦う際に定められた狙いは、自らの手で変更する事ができる。これを <PART> ターゲット変更 <PART> という。 <PART> 〓戦術指南書〓 <PART> ターゲット変更について <PART> ターゲットを変更するには、 <PART> を使うといいだろう。 そうすれば、己の意思で別の敵に狙いを定める事が可能となる。特に敵以外の対〓、例えば戦場にある柱などの〓害物を破壊する場合は、役に立つだろう。,"Changing Targets <PART>
+In battle, the target of the character's attack
+can be changed.
+This is referred to as <PART> Changing Targets <PART> . <PART>
+---
+ <PART> Changing Targets <PART>
+To change targets, first use <PART> .
+The new target can then be selected.
+This comes in especially handy for non-enemy
+targets on a battlefield, such as pillars.",,3,324,49,2770,87 97,
+,〓戦術指南書〓 <PART> 魔法の特性について <PART> 魔法には、様々な特性が存在する。  炎術：術者のMAGと敵のRSTに     大きく影響する 氷術：術者のLVに左右され、敵の     RSTの影響は少ない <PART> 〓戦術指南書〓 <PART> 魔法の特性について <PART> 土術：得手も不得手も少ない     標準的な魔法 雷術：威力に難があるが、     クリティカルヒットになりやすい 聖術：術者のMAGと敵のRSTに     〓常に大きく影響される 闇術：術者の〓Vに左右され、     敵のRSTの影響は〓常に少ない <PART> 〓戦術指南書〓 <PART> 魔法の特性について <PART> 真の魔法使いとなるには、これらの特性を理解し、複数の魔法を使いこなす事が重要である。それをできぬ者は魔法使いを名乗るに値しない。,"Magic Attributes <PART>
+Magic has several attributes.
+Fire: Considerably affected by
+caster's MAG and target's RST.
+Ice: Controlled by caster's LV,
+mostly unaffected by target's RST. <PART>
+---
+ <PART> Magic Attributes <PART>
+Earth: No particular strong or
+weak points; Standard magic.
+Lightning: Not very strong, but
+often produces critical hits.
+Holy: Vastly affected by caster's
+MAG and target's RST.
+Dark: Controlled by caster's LV,
+barely affected by target's RST. <PART>
+---
+ <PART> Magic Attributes <PART>
+To become a true sorcerer, you must
+understand these attributes and master
+several attack magics.
+Those who cannot are not worthy of
+being called sorcerers.",,3,325,49,2769,87 97,
+,〓戦術指南書〓 <PART> 属性について <PART> 属性とは『炎』『氷』『雷』『土』という種の自然の力である。そしてこれらのつの更なる上位に『聖』と『闇』と呼ばれる属性の魔法が存在する。 <PART> 〓戦術指南書〓 <PART> 属性について <PART> 火を生み出す炎術は〓に弱い魔物を得意とし、水を操る氷術は火属性の魔物によく効くであろう。 毒を生み出す土術は生命体に絶大な効果を持ち、電撃を撃ち放つ雷術は金属〓の魔物に効果が高い。 <PART> 〓戦術指南書〓 <PART> 属性について <PART> 敵である魔物の特性を理解し、〓切な属性によって攻撃をすれば、戦闘を有利に進める事が可能となる。,"Elements <PART>
+There are four natural elements:
+fire, ice, lightning, and earth.
+Beyond these, there are also the
+magic elements, holy and dark. <PART>
+---
+ <PART> Elements <PART>
+The fire techniques are effective against
+monsters weak against heat, while ice
+works well against fire-element monsters.
+Earth techniques bearing poison are
+powerful against living organisms, while
+lightning strikes metal monsters hard. <PART>
+---
+ <PART> Elements <PART>
+Knowing the characteristics of your
+enemy, and the appropriate elements to
+attack with, can be a great advantage
+in battle.",,3,326,49,2768,73 87 97,
+,〓戦術指南書〓 <PART> ダッシュについて <PART> 素早い移動は戦闘において何よりの要となる。神速の移動、 <PART> ダッシュ <PART> を使いこなせるかどうかで、勝敗の行方は大きく変わるであろう。ダッシュは <PART> で発動する事が可能である。 <PART> 〓戦術指南書〓 <PART> ダッシュについて <PART> ダッシュで移動できる〓離には段階ある。 <PART> を短く押せば短〓離の移動が、長く押せば長〓離の移動が、素早く回連続して押せば中〓離の移動が可能である。 <PART> 〓戦術指南書〓 <PART> ダッシュについて <PART> 更に、ダッシュの状態から止まる事なく、そのまま流れるように攻撃に移る事で、仲間が着地する際の隙を無くす事が可能となる。これを <PART> ダッシュキャンセル <PART> と呼ぶ。,"Dashing <PART>
+Swift movement is the key to combat.
+Whether or not you master <PART> dashing <PART> may decide
+the outcome of the battle.
+Dash by using <PART> . <PART>
+---
+ <PART> Dashing <PART>
+There are three types of dash.
+Quickly press <PART> to move a short distance,
+hold it down to move a long distance, or
+press it twice to move a medium distance. <PART>
+---
+ <PART> Dashing <PART>
+Moreover, eliminate dash recovery time by
+attacking while still in motion.
+This is called <PART> dash canceling <PART> .",,3,327,49,2767,87 97,
+,〓戦術指南書〓 <PART> 状態異常について <PART> 戦いの中では様々な事〓が生じる。状態異常もその一つ。〓切な対処を取らずに置けば、命を落とす事もあると心得よ。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 以下の状態異常は、戦闘中にのみその効果が現れる。  〓混乱〓 混乱した者は正常なる思考を失い、攻撃 行動を一切取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 回復すべき手段が無い場合は、時が経つ のを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓麻痺〓 麻痺した者は全身が痺れ、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。回復すべき手段が 無い場合は、時が経つのを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓石化〓 石化した者は石の人形と化し、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。回復すべき手段が 無い場合は、時が経つのを待て。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓気絶〓 気絶した者は意識を失い、身動きが一切 取れなくなる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 又は敵の攻撃を受ければ気が付くだろう。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓転送〓 転送にかかった者は戦場から強制的に離脱 させられる。一定時間を経ないと仲間の元に 戻る事は〓されない。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 以下の状態異常は、戦闘を終えても持続されるので注意せよ。  〓毒〓 毒に侵されると、一定時間ごとにHPを 〓られる。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓沈黙〓 沈黙になると、魔法が使用できなくなる。 敵の攻撃の中には、これにより発動を防ぐ 事ができるものがある。 回復するには、オーディナリーシェイプか 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓呪い〓 呪いにかかると、装備変更ができなくなる。 オーディナリーシェイプでは回復不可能。 対〓アイテムでのみ回復が可能となる。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓衰弱〓 衰弱になると身体の回復力が見る間に 失われ、傷が癒える事がなくなる。 オーディナリーシェイプでは回復不可能。 対〓アイテムを使うべし。 <PART> 〓戦術指南書〓 <PART> 状態異常について <PART> 〓戦闘不能〓 戦闘不能に陥った者は、生死の境をさ〓う。 エヴォークフェザーか対〓アイテムを使う べし。 なお、これら状態異常を前もって防ぐアクセサリーが存在するが、それは己の手で探すが良いだろう。,"Status Ailments <PART>
+Anything can happen in battle, including status
+ailments. Realize that these can be deadly if
+left untreated. <PART>
+---
+ <PART> Status Ailments <PART>
+The status ailments below occur only
+in battle.
+Confusion renders one unable to think
+properly, and therefore unable to attack.
+Use Normalize or an applicable item
+to cure this condition.
+If you don't have the means to cure it,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Paralysis causes numbness throughout
+the body, making movement impossible.
+Use Normalize or an applicable item
+to cure this condition.
+If you don't have the means to cure it,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Victims of Stone become like statues,
+utterly unable to act.
+Use Normalize or an applicable item
+to cure this condition.
+If you don't have the means to cure it,
+you'll have to wait it out. <PART>
+---
+ <PART> Status Ailments <PART>
+Faint causes a loss of consciousness,
+leaving one unable to act.
+Use Normalize or an applicable item
+to cure this condition. Being hit by
+an attack will also wake one up. <PART>
+---
+ <PART> Status Ailments <PART>
+Transfer forcefully expels you from the
+battlefield, keeping you from joining your
+comrades for a certain amount of time.
+It cannot be cured by Normalize.
+Use an applicable item to cure it. <PART>
+---
+ <PART> Status Ailments <PART>
+The status ailments below persist even
+after battle.
+Poison will deplete one's HP at regular
+intervals.
+Use Normalize or an applicable item
+to cure this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+Silence forbids the use of magic, and certain
+enemy attacks may also be neutralized.
+Use Normalize or an applicable item to cure
+this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+A Curse prohibits changing equipment.
+Use Normalize or an applicable item to
+cure this condition. <PART>
+---
+ <PART> Status Ailments <PART>
+Frailty inhibits the body's ability to
+convalesce, making healing impossible.
+It cannot be cured by Normalize.
+Use an applicable item to cure it. <PART>
+---
+ <PART> Status Ailments <PART>
+Unconscious characters lie on the
+brink of death. Use Invoke Feather
+or an applicable item to cure it.
+Certain accessories can prevent these status
+ailments, if you can find them.",,3,328,49,2772,87 97,
+,〓戦術指南書〓 <PART> 戦闘において仲間を活かすも殺すも、全ては指揮官の腕一つ。指揮官たる者は、これに記す極意を心して覚えよ。,"
+In battle, the lives of allies are in
+the commander's hands.
+Ye who would command, know ye by
+heart these secrets...",,3,329,49,2773,87 97,

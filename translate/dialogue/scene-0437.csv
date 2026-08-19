@@ -1,0 +1,11 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Roussalier,来る途中に〓の深い場所があったでしょう <PART> あの場所は〓入者を〓むための迷いの結界が施されているわ <PART> もう一度 ここに戻りたいのなら白い花を目印に歩きなさい,"Remember the thick mist on the way here? <PART>
+---
+That area has an illusory field in
+place to keep invaders out. <PART>
+---
+Use the white flowers to find your path
+whenever you need to return here.",,1,1,437,2,,
+Roussalier,もう一度 ここに戻りたいのなら白い花を目印に歩きなさい,"Use the white flowers to find your path
+whenever you need to return here.",,1,2,437,3,,
+,ルザリエ,Roussalier,,2,5,437,13,1289 1291,not displayed by the event script

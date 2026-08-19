@@ -1,0 +1,69 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Lezard,ここにあるとは限りませんよ,It might not be here.,,1,1,1243,1,,
+Rufus,…何だと！？,Are you serious!?,,1,2,1243,19,,
+Lezard,ドラゴンオーブは守護者一族によってしばしば安置場所を変えられてきました,"The tribe that guarded it often moved the
+orb from place to place for its protection...",,1,3,1243,2,,
+Lezard,その守護者一族は 既に死に絶えているのです,But the last of the guardians have died out.,,1,4,1243,18,,
+Lezard,シルメリア殿 <PART> ――,Silmeria?,,1,5,1243,4,,
+Silmeria,やってみよう,I'll give it a try.,,1,6,1243,5,,
+Lezard,残〓思念を〓っていけばいつかオーブに行き着けるかと…,"We may find the orb by picking up a
+trail of psychic energy.",,1,7,1243,6,,
+Rufus,でもどこにオブシェクトがあるってんだよ？,"Just one problem <PART> ---- <PART> I don't see any
+objects to read.",,1,8,1243,7,,
+Rufus,…わかったよ〓,"Yes, ma'am.",,1,9,1243,8,,
+Silmeria,（ しばらく話しかけるな… ）,( You mustn't speak to me now. ),,1,11,1243,9,,
+Alicia,…,...?,,1,12,1243,10,,
+Alicia,〓〓を見つけたら呼ぶわ,I'll call you when we find the dais.,,1,13,1243,13,,
+Alicia,…どうしたの？,What's the matter?,,1,14,1243,11,,
+Alicia,…いいえ 別に,"Oh, it's, uh, nothing.",,1,15,1243,12,,
+Rufus,さあ オーブはどこだ？,"So, where's the orb?",,1,16,1243,15,,
+Silmeria,オーブを安置するからには それなりに〓〓な造りの〓〓があるはず <PART> ――,"If they placed the orb here for safekeeping,
+they would have needed a strong dais to
+hold it.",,1,17,1243,16,,
+Silmeria,探しなさい,Go find it.,,1,18,1243,22,,
+Rufus,…オブシェクトリーディングか？,More object reading again?,,1,19,1243,21,,
+Dylan,どうした？,What is it?,O que foi?,1,20,1243,23,1299,
+Rufus,じゃ 何しにここへ来たんだ！？,Fine. What exactly are we doing here then?,,1,21,1243,24,,
+Rufus,っあぁ～っ,*yawns*,,4,1,1243,2654,,
+Arngrim,グズグズするな明るいうちにヴィルノアへ行くぞ,"Stop loafing. We have to set out for
+Villnore while it's still light.",,4,2,1243,2655,,
+Dylan,コソ〓に指〓されたんじゃおもしろくないな…,"No fun taking orders from a graverobber
+like that, is it?",,4,3,1243,2656,,
+Arngrim,…何だと！？,What did you call me?,,4,4,1243,2657,,
+Leone,よしなさい アリューゼ！,"Stand down, Arngrim!",,4,5,1243,2658,,
+Leone,アリューゼは〓道の〓動は大変だろうとよかれと思って言ったまでよ,"Arngrim was merely pointing out that the
+roads can be dangerous at night.",,5,1,1243,2677,,
+Leone,そうでしょう？,Weren't you?,,5,2,1243,2659,,
+Arngrim,…頼まれれば盗賊でも海賊でもするがコソ〓呼ばわりは腹に〓えかねる,"I've been a bandit and a pirate, but
+nobody calls me a graverobber!",,5,3,1243,2678,,
+Leone,〓から見れば同じよ こんな事で怒るなんてあなたらしくないわ,"To them, it's all the same. Besides, it's
+not like you to get upset so easily.",,5,4,1243,2686,,
+Leone,…ひょっとして私達怪しまれてるの？,Do I sense mistrust towards us?,,6,1,1243,2662,,
+Lezard,いいえ 私は決してそんな事は,Perish the thought <PART> ---- <PART> nothing of the sort.,,6,2,1243,2663,,
+Leone,あなたは？,And you?,,6,3,1243,2664,,
+Alicia,私もそんな事はありません,"No, of course not. Not at all.",,6,4,1243,2665,,
+Leone,もうお一方は？,What about your friend?,,6,5,1243,2666,,
+Leone,オブシェクトリーディングとやらで人の心も〓めるんじゃなくて？,"Can you use this object reading to read
+people's minds?",,6,6,1243,2667,,
+Leone,シルメリア・ヴァルキュリア殿,Lady Silmeria Valkyrie.,,6,7,1243,2668,,
+Silmeria,〓んでほしいのか？,Would you like yours read?,,6,8,1243,2669,,
+Leone,あらぬ疑いが〓れるのなら喜んでねえ アリューゼ,"If it would alleviate suspicion, we
+would gladly oblige. Right, Arngrim?",,6,9,1243,2670,,
+Arngrim,おもしろそうだ,Sure. Why not?,,6,10,1243,2679,,
+Silmeria,…何も〓み取れるものがない,There's nothing for me to read.,,6,11,1243,2671,,
+Rufus,なんだ つまんねぇ…,What? Nothing at all?,,6,12,1243,2672,,
+Leone,ひどいわね…やっぱり私達を怪しんでたの？,"Oh, I see!
+So you WERE suspicious of us?",,6,13,1243,2673,,
+Rufus,いや そういうわけじゃないけどさ…,"No, that's not what I meant.",,6,14,1243,2674,,
+Dylan,悪かったな…,Alright.,,6,15,1243,2675,,
+Dylan,“コソ〓”は〓回する,You're not a graverobber.,,6,16,1243,2680,,
+Arngrim,しかし物に宿る思念を〓めるなんて…ヴァルキリーってのはスゲえんだな,"I'm impressed though. I never knew that
+valkyries could read thoughts in objects.",,6,17,1243,2676,,
+Silmeria,ヴァルキリーの力でなく 私だけの力よ,"It is not a valkyrie's power. It is mine
+alone.",,6,18,1243,2681,,
+Arngrim,らしくない か…,"Not like me, huh?",,6,19,1243,2682,,
+Leone,私達は指〓するつもりなんてない気に〓ったのなら謝るわ,"We're not here to give orders, and I'm
+sorry if we offended you.",,6,20,1243,2683,,
+Silmeria,ダメだ…,It's no use.,,6,21,1243,2685,,
+,,Arngrim,,7,12,1243,2766,,not displayed by the event script
+,,Leone,,7,13,1243,2767,,not displayed by the event script

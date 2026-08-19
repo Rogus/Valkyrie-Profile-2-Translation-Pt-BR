@@ -1,0 +1,9 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,決め技について <PART> 特定の武器を装備している時、決め技ゲージをまでためる事で決め技を使用する事ができます。 <PART> 使用可能キャラが複数いるのであれば、決め技後に別のキャラが決め技を使用する事も可能です。,"Special Attacks <PART> Special attacks can be used by building the
+special attack gauge up to 100% when certain
+weapons are equipped. <PART>
+If multiple characters are capable of special
+attacks, characters may use their special
+attacks one after another.
+",,1,1,217,3,417,
+,決め技について,Special Attacks,,2,1,217,4,417,not displayed by the event script

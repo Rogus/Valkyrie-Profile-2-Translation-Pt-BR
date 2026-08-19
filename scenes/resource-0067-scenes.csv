@@ -1,7 +1,0 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
-1,1,67,3,732,,,,Store Clerk,Welcome. How might I help you?,いらっしゃいませ どんな品がご入用ですか？,,,
-1,2,67,4,812,,,,Store Clerk,Take care <PART> ---- <PART> it's dark out there.,もう〓も遅いですから お気を付けて,,,
-2,1,67,1,,,,,,Head outside,外へ,,not displayed by the event script,duplicate
-2,2,67,2,,,,,,HTalk,話す,,not displayed by the event script,primary
-2,3,67,35,,,,,,Dipan,ディパン城下町,,not displayed by the event script,duplicate
-2,4,67,69,,,,,,Store Clerk,〓番,,not displayed by the event script,primary

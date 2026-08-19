@@ -1,0 +1,56 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Hrist,ディパンへ行くぞ,We go to Dipan.,,1,1,1303,1,,
+Hrist,来い 一大事だ,Come. It's important.,,3,2,1303,1210,,
+Arngrim,…関係ねぇな,"Not to me, it isn't.",,3,3,1303,1211,,
+Hrist,なんだと…,What's that?,,3,4,1303,1212,,
+Arngrim,オーディンを助けに行くんだろ？そんな仕事は真っ平だ,"You're off to save Odin, right?
+I don't give a damn.",,3,5,1303,1213,,
+Hrist,…なぜ知っている？,How did you know?,,3,6,1303,1214,,
+Arngrim,とっくに噂になってるぜ,"Oh, I think everyone knows.",,3,7,1303,1215,,
+Arngrim,人間にとっちゃ あんな奴いないほうがいいに決まってる…,"It goes without saying that humans would
+be better off without him.",,3,8,1303,1216,,
+Arngrim,違うか？,Don't you think?,,3,9,1303,1218,,
+Arngrim,…アリーシャ？,Alicia?,,4,1,1303,1254,,
+Arngrim,ルーファスも一緒なのか！？,"Rufus, you're here, too?",,4,2,1303,1220,,
+Arngrim,とうとうお前らもエインフェリアにされちまったのか…,"So the two of you were finally made
+einherjar...",,4,3,1303,1221,1363,
+Arngrim,…バルバロッサ王の事はすまなかった,I apologize for what I did to Barbarossa.,,5,1,1303,1251,,
+Rufus,謝って〓む問題じゃねぇぞ！,"Yeah? Well, an apology won't cut it!",,5,2,1303,1250,,
+Arngrim,今ここで俺を殺して気が〓れるならそれでもいい <PART> ――,"If killing me now makes you feel any
+better, go ahead.",,5,3,1303,1252,,
+Rufus,…何かあったのか？,"Hey, what happened to you?",,6,1,1303,1228,,
+Arngrim,今まで神の傭兵のつもりで〓えてきたがエインフェリアなんてただの使い〓りさ,"I told myself I was a soldier of the gods,
+but einherjar are just pathetic lackeys.",,6,2,1303,1230,,
+Arngrim,何だって！？ あの辛気くさい魔導師が…,"You've got to be kidding. That smarmy
+magician?",,6,3,1303,1234,,
+Arngrim,やるじゃねぇか アイツ…,Not bad for a twerp.,,6,4,1303,1255,,
+Alicia,よくわからないのですが…とても大きな事を,"I don't know what it is, but I'm afraid for all of us.",,6,5,1303,1237,,
+Arngrim,たった二人でオーディンと戦ったのか？,You went to fight Odin? Just you two?,,6,6,1303,1253,,
+Arngrim,…完敗だ,I was a fool.,,6,7,1303,1242,,
+Arngrim,自分がつくづく嫌になる…,I don't think I can ever forgive myself.,,6,8,1303,1243,,
+Arngrim,…いいのか！？,You serious?,,6,9,1303,1245,,
+Alicia,ええ,Yes.,,6,10,1303,1246,,
+Arngrim,わかった 急ごう！,Right. We'd better hurry.,,6,11,1303,1248,,
+Arngrim,ミッドガルドは相当ヤバい事になってるって話だからな,"From what I hear, Midgard is in some
+serious danger!",,6,12,1303,1249,,
+Arngrim,…俺は間違ってた,I was wrong.,,7,1,1303,1227,,
+Alicia,近〓らないでくださいッ！,Don't come near us!,,7,2,1303,1222,,
+Rufus,ヴァルキリーの〓い〓が…,Valkyrie lap dog.,,7,3,1303,1223,,
+Arngrim,わかってる…,You're right.,,7,4,1303,1226,,
+Arngrim,何もないからこうしてるんだ,Nothing. I'm done with them.,,7,5,1303,1229,,
+Arngrim,もうウンザリだ 俺は〓りた,I'm sick of it. I quit.,,7,6,1303,1231,,
+Arngrim,でも一つだけ〓報があるオーディンが誰かに連れ去られたらしい,"But at least one good thing happened.
+Some guy kidnapped Odin.",,7,7,1303,1232,,
+Rufus,知ってるよ レザードの仕業だ,We know. It was Lezard.,,7,8,1303,1233,,
+Alicia,そんな〓単な話ではありません彼は私達に何か隠しています,"Yeah, but there's more to it than just a
+kidnapping. We think that Lezard is
+going to do something terrible.",,7,9,1303,1236,,
+Rufus,俺達がオーディンとやり合ってるとこで横からかっさらって行きやがったんだぜ,"We were squaring off with Odin when he
+suddenly appeared. Lezard came out of
+nowhere.",,7,10,1303,1238,,
+Arngrim,お前ら…,You're kidding.,,7,11,1303,1239,,
+Rufus,…まあな,"Well, you know.",,7,12,1303,1241,,
+Rufus,じゃあ俺達の傭兵になってくれよ金は払えねぇけどな,"Say, why don't you work as our mercenary?
+Not that we'll pay you or anything.",,7,13,1303,1244,,
+Alicia,一緒にドラゴンオーブを探してもらえますか？,"Sir Arngrim, will you come look for the
+Dragon Orb with us?",,7,14,1303,1247,,

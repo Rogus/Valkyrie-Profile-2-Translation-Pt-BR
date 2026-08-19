@@ -1,0 +1,57 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Alicia,…ダレス？,Dallas?,,1,1,1233,1,,
+Alicia,ダレス！ やっぱりダレスね！,"Dallas, it's you! It's really you!",,1,2,1233,2,,
+Dallas,アリーシャ… どうしてここへ！？,Alicia? What are you doing here?,,1,3,1233,3,,
+Dallas,…ここはまずい今すぐ出て行ったほうがいい,"This is no place for you.
+You must leave right away!",,1,4,1233,39,,
+Alicia,どうして？,What's wrong?,,2,1,1233,5,,
+Dallas,それは…,I can't say.,,2,2,1233,6,,
+Rufus,人には言えない危ない研究をしてるからだろ？,"Why? Because of those damn experiments you're
+performing?",,2,3,1233,7,,
+Alicia,そうなのダレス？実〓〓のあれは…,"Is it true, Dallas?
+What I saw in the laboratory...",,2,4,1233,31,,
+Alicia,…あなた達の仕業なの？,Did you really do that?,,2,5,1233,8,,
+Dylan,時間 不死者 エルフのデータ <PART> ――,"They have data on time, demons, and elves.",,2,7,1233,10,,
+Dylan,化け物の材料にしちゃ高〓すぎやしないか？,"Isn't that a bit extravagant for patching
+monsters together?",,3,1,1233,38,,
+Dylan,ミッドガルドの永遠の平和のために安置されている宝を利用するとは…,"Playing around with a treasure that was
+hidden to preserve Midgard's eternal peace?",,3,2,1233,34,,
+Dylan,〓者と呼ばれる貴様らが それがどんなに危〓な事か知らぬわけはあるまい！,"You who call yourselves mages must be aware
+how dangerous that is!",,3,3,1233,35,,
+Alicia,どうなの ダレス？黙ってないで〓えてちょうだい！,"Are they right, Dallas?
+Please, tell me. Is it true?",,3,5,1233,40,,
+Silmeria,〓えなさい！,Answer me!,,3,6,1233,13,,
+Silmeria,ドラゴンオーブは四宝の一つオーディンも〓っている！,"The Dragon Orb is one of the Four Treasures,
+and Odin seeks it as well!",,3,7,1233,14,,
+Rufus,なんだって！？,What did you say?,,3,8,1233,16,,
+Dallas,アリーシャ…,Alicia...,,3,9,1233,17,1323 1337,
+Silmeria,いいから〓えなさい！王は何を〓んでいる？,"Just answer the question!
+What is the king plotting?",,3,10,1233,18,,
+Dallas,…バルバロッサ王は オーディンに対抗する力の研究を進めている,"King Barbarossa seeks power that will
+allow him to oppose Odin.",,3,11,1233,19,,
+Dallas,でも それは <PART> ――,"But you should know <PART> ---- <PART>
+---
+",,3,12,1233,20,,
+Walther,我らが研究の秘〓は墓場まで持っていくと〓ったはずじゃ ダレス…,"We swore to take the secret of our
+research to our graves, Dallas!",,4,1,1233,37,,
+Silmeria,オーブの力を〓る愚かな人間ども <PART> ――,Foolish mortals! You underestimate the orb's power!,,4,2,1233,21,,
+Barbarossa,この世のなん人たりともワシを父と呼ぶ事は許さぬッ！,"No one in this world has the right to
+call me Father!",,4,4,1233,24,,
+Barbarossa,この者ども 捕らえおけ,"Now, to the dungeon with them!",,4,5,1233,25,,
+Barbarossa,逃がすな！,Stop them!,,4,6,1233,26,,
+Walther,はッ！はいッ！,"Sir!
+Yes!",,4,7,1233,27,,
+Dallas,許してくれアリーシャ…,"Forgive me, Alicia...",,4,8,1233,41,,
+Dallas,あと少しだったのに…,I was so close...,,4,9,1233,29,,
+Dylan,その上 ドラゴンオーブまで…,Even the Dragon Orb.,,4,10,1233,32,,
+Rufus,…エルフ！？,Elves!?,,4,11,1233,33,,
+Alicia,…お父様ッ！,"
+---
+Father!",,4,12,1233,36,,
+Barbarossa,無礼者ッ…,Insolence!,,4,13,1233,42,,
+Barbarossa,…我が娘は死んだ,My daughter is no more.,,4,14,1233,43,,
+Dallas,許してくれ <PART> ――,Forgive me.,,4,15,1233,44,,
+Rufus,あったぞ！,It's here.,Está aqui!,6,1,1233,930,1277,
+,ダレス,Dallas,,8,8,1233,2753,1281,not displayed by the event script
+,ウォルザ,Walther,,8,12,1233,2757,1281 1283 1337,not displayed by the event script
+,バルバロッサ,Barbarossa,,8,13,1233,2758,,not displayed by the event script

@@ -1,6 +1,0 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
-1,1,161,1,680,,,,,A deadly presence lurks within...,奥から〓ならぬ気配を感じる…,,,primary
-2,1,161,2,,,,,,Continue.,奥へ行く,,not displayed by the event script,primary
-2,2,161,3,,,,,,Leave.,やめる,,not displayed by the event script,primary
-2,3,161,4,,,,,,,,,not displayed by the event script,
-2,4,161,8,,,,,,Royal Underground Path,王家の地下道,,not displayed by the event script,duplicate

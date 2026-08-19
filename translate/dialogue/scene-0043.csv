@@ -1,0 +1,118 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Shopkeeper,アンタこの〓来るの初めてだよな？〓品の中に 名前のわからねえのがあっただろ <PART> あれは『お得意様用』ってヤツでね常連〓にのみ 特別に〓品を作ってるんだ <PART> 作成に必要な素材さえ揃えてくれれば普通じゃ手に入らない品を作ってやるぜ！ <PART> ん？ どんな〓品があるかって？そりゃあ 常連にしか教えられねえよ <PART> ま ウチの〓品をたくさん買ってくれればそれに応じて教えてやらん事もないぞ？,"This is your first time in this shop, eh?
+Betcha don't recognize some of my wares. <PART>
+---
+These aren't normally sold in stores, and
+they require certain materials to make. <PART>
+---
+If you sell me the requisite materials,
+I can make you lots of rare items. <PART>
+---
+You'll just have to wait to try it and see!
+However, making is different from selling! <PART>
+---
+And I only do it for my best customers,
+so keep that in mind!",,1,1,43,2,,
+Shopkeeper,また来てくれよ いいモン揃えて待ってるぜ,Our items are the best! Come again soon!,,1,2,43,3,43,
+Adventurer,うーん… なるほど… こうなってたんだ…あ 貴方もこれ〓む？ <PART> 『お得意様用アイテムの作り方』ここの〓主さんに惜りたんだ,"I see... Well, well... How about that!
+Oh, would you like to have a look? <PART>
+---
+I borrowed it from the shopkeeper. It's called
+""How to Make Valued Customer Items.""",,1,3,43,4,,
+Adventurer,あ 貴方も見る？『お得意様用アイテムの作り方』,"Oh, would you like to have a look?
+""How to Make Valued Customer Items.""",,1,4,43,5,,
+Shopkeeper,いらっしゃい！ ウチはいい品揃えてるよ！,Step right up! Only the finest merchandise!,,1,5,43,6,43,
+Adventurer,ディパンからの最後の船でこちらに渡ってきたんだけど… <PART> ディパンの街には 異常なくらい兵士が〓れてたまさか神々の襲撃を〓期してたって事なの？,"I came here on the last ship
+out of Dipan. <PART>
+---
+The town of Dipan was packed with troops.
+Did they know the gods would attack?",,1,7,43,8,,
+Adventurer,まさか神様と戦おうだなんて…私達人間が勝てるはずもないのに…,"How could they have wanted a war?
+Humans don't stand a chance against gods!",,1,8,43,9,,
+Shopkeeper,ディパンが何だか大変な事になってるらしいじゃねえか <PART> もし向かう気なら 備えはしっかりしていけよ！,"Sounds like Dipan is in
+some serious trouble. <PART>
+---
+They should've been more prepared for war.",,1,9,43,11,,
+Shopkeeper,おお お〓さんだ！ いらっしゃい！,"Hey, a customer! Step right up!",,1,10,43,12,,
+Shopkeeper,いらっしゃい！何だか大変な事になっちまってるなあ,"Good to see you!
+It's rough goings nowadays, isn't it?",,1,11,43,13,,
+Shopkeeper,無理はすんなよ 気をつけてな！,Take it easy out there!,,1,13,43,16,,
+Shopkeeper,ソルデがどうなるかわからんが俺の〓は元気だぜ！,"I don't know what will happen to Solde,
+but my shop will always be here!",,1,14,43,17,,
+Shopkeeper,ソルデもすっかり人が減っちまったが最後の最後まで 俺の〓は続けるぜ！,"There may be almost no one left in Solde,
+but I'm keeping the store running!",,1,15,43,18,,
+,〓魔眼の宝珠〓 <PART> クラリオーネ <PART> ： 〓体 <PART> アンクリアネス <PART> ： 頭 <PART> メイルシュトローム <PART> 〓 〓体,"Dryad <PART> : Body
+ <PART> Slop <PART> : Head
+ <PART> Maelstrom <PART> : Body",,1,16,43,26,,
+,〓ホーリィスピネル〓 <PART> ティア・ソウル <PART> ： 中心部分 <PART> コボルトキング <PART> ： 頭 <PART> ファントムボーダー <PART> ： 亡霊,"Tear Soul <PART> : Core
+ <PART> Kobold King <PART> : Head
+ <PART> Phantom Lurker <PART> : Apparition
+",,1,17,43,30,,
+,〓魔鏡の欠片〓 <PART> ファントムボーダー <PART> ： 鏡 <PART> スペクトラルナイト <PART> ： 鎧,"Phantom Lurker <PART> : Mirror
+ <PART> Spectral Knight <PART> : Armor
+",,1,18,43,29,,
+,〓錬赤鉱〓 <PART> ワイルドトロル <PART> ： 〓 <PART> マスカリティストーカー <PART> ： 武器,"Wild Troll <PART> : Polearm
+ <PART> Muscular Stalker <PART> : Weapon
+",,1,19,43,28,,
+,〓大粒の真珠〓 <PART> デンデンキング <PART> ： 殻 <PART> ギガントマイマイ <PART> ： 殻,"King Slug <PART> : Shell
+ <PART> Gigantic Moth <PART> : Shell
+",,1,20,43,31,,
+,〓黒曜の爪〓 <PART> ウィンターウルフ <PART> ： 足 <PART> ワイルドウルフ <PART> ： 足,"Winter Wolf <PART> : Leg
+ <PART> Wild Wolf <PART> : Leg
+",,1,21,43,27,,
+,〓お得意様用アイテムの作り方〓 <PART> お得意様用アイテムとは？ <PART> お得意様用アイテムとは、その名の通りお得意様しか見れないレアアイテムの事です。 普段は手に入りにくいアイテムや、その〓でしか買えない〓定アイテムが存在します。,"What's a Valued Customer Item? <PART>
+As the name implies, Valued Customer
+Items are items solely reserved for
+preferred patrons.
+Among these are items normally difficult
+to obtain and items not found elsewhere.",,1,22,43,37,,
+,〓お得意様用アイテムの作り方〓 <PART> 売っているアイテムを見るには？ <PART> 『？』で示されているアイテムは、お〓の得意〓になるに従って、名前が表示されるようになります。 名前が表示されないものは、〓主から『まだ得意〓としてのレベルが足りない』と見なされているためです。 <PART> 〓お得意様用アイテムの作り方〓 <PART> 売っているアイテムを見るには？ <PART> その〓の商品をたくさん〓入した〓ほど得意〓度が上がり、より多くのアイテムを見る事ができるようになります。,"How do I see the items for sale? <PART>
+Item names appearing as ""?"" will become visible when you become a valued
+customer.
+If you don't see the names, it's because
+the shopkeeper judges your level of
+patronage insufficient. <PART>
+---
+ <PART> How do I see the items for sale? <PART>
+The more things you buy at a shop, the
+higher your customer value will rise,
+making more and more items visible.",,1,23,43,43,,
+,〓お得意様用アイテムの作り方〓 <PART> 必要素材を集めろ〓 <PART> 作ってくれるアイテム名がわかったら、早速素材の調達です。各アイテムごとに指定されている素材があるので、それを集めます。 主な素材は魔物を倒すと入手できます。 <PART> 〓お得意様用アイテムの作り方〓 <PART> 必要素材を集めろ〓 <PART> ただし、切断した魔物の部位によって入手できる素材が変わります。 どの部位からどの素材が取れるかは、お〓のどこかにある <PART> 『〓主メモ』 <PART> を見ると良いでし〓う。,"Tell me what materials I need! <PART>
+Once you know the item name, it's time to
+get the materials. Materials are listed for
+each item, so you just need to get them.
+Most materials can be obtained by
+defeating monsters. <PART>
+---
+ <PART> Tell me what materials I need! <PART>
+What you get varies according to which
+monster parts break off.
+Which parts supply which materials is
+listed in the <PART> Shopkeeper's Notes <PART>
+somewhere in the shop.",,1,24,43,44,,
+,〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> 持っているアイテムの中に、お得意様用のアイテム作成に必要な素材があった場合は、お〓に売る時にその素材アイテムが <PART> 黄色 <PART> で表示されます。 <PART> 〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> 作りたいアイテム名が表示されている状態で、必要とされる素材を全て〓主に売〓すれば、〓主はその場でアイテムを作成してくれるでし〓う。 <PART> 〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> お〓で売られているお得意様用のアイテム名が暗めの黄色で表示されていた場合は、いわゆる『売〓待ち』の状態となります。 その時点で、〓側が、作成に必要な素材を全て持っているという事です。 <PART> 〓お得意様用アイテムの作り方〓 <PART> いざ アイテム作成〓 <PART> 素材を売〓すると、所持〓数の横にある（ ）内に、売った素材で目的のアイテムがいくつ作れるのかが表示されます。 <PART> 例）エリクサー  ×  〓 <PART> （） <PART> 例だと、売った素材でエリクサーが〓作れるという事になります。,"Make my item! <PART>
+When you possess the items needed to
+create a Valued Customer Item, the
+material items will appear <PART> yellow <PART> when
+you sell them. <PART>
+---
+ <PART> Make my item! <PART>
+When the name of the item you want made is visible and you've sold the requisite
+materials to the shopkeeper, the item will be made. <PART>
+---
+ <PART> Make my item! <PART>
+When the Valued Customer Items appear
+a darker shade of yellow, it means the
+materials have not yet been sold to the
+shopkeeper.
+It also means that the customer has the
+necessary items. <PART>
+---
+ <PART> Make my item! <PART>
+The number of items that can be made
+with the materials sold will be shown in
+parentheses after the purchase quantity.
+ <PART> Example: Elixir 1000 X 0 / 99 <PART> (10) <PART>
+In this example, 10 elixirs can be made
+with the materials sold.",,1,25,43,45,,
+,〓主,Shopkeeper,,2,22,43,2787,95,not displayed by the event script

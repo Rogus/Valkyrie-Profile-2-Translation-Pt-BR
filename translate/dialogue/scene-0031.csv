@@ -1,0 +1,12 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,引き続きタイトル画面から『〓E〓 〓AME』を選択すると、より難〓度の高い状態でゲームを開始する事ができます。（以降、ゲームをクリアーするたびに難〓度が上がります。）なお、リセットを行ったり電源を入れ直してから『〓E〓 〓AME』を選択した場合は難〓度は変化しません。 <PART> タイトル画面へ,"Continue to the title screen
+and select New Game to start
+another quest with a higher
+difficulty level.
+The difficulty level will increase
+each time you beat the game.
+Note that if you reset or
+turn your console off
+before selecting New Game,
+the difficulty will not change.
+ <PART> To Title Screen",,1,1,31,1,,

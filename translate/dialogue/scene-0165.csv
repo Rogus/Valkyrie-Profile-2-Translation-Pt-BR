@@ -1,0 +1,11 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,戦闘時の攻撃回数について <PART> 装備する武器によって〓本となる攻撃の回数が変化します。 <PART> 攻撃回数の多い武器を装備する事で、より多くの技を繰り出す事が可能になります。 <PART> 戦闘時の攻撃回数について <PART> また、 <PART> を押す事により、メニューから装備変更やアイテムを使用する事ができます。,"Number of Attacks in Battle <PART> The number of attacks depends upon
+the weapon equipped. <PART>
+Equip weapons with multiple attacks, and
+characters can unleash more techniques.
+ <PART>
+---
+ <PART> Number of Attacks in Battle <PART> Also, press <PART> to change equipment
+or use items from the menu.
+",,1,1,165,2,,
+,攻撃回数について,Number of Attacks,,2,2,165,3,,not displayed by the event script

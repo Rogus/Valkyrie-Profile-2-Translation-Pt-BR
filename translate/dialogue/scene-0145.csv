@@ -1,0 +1,14 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,交換転送中に <PART> を押しっ〓なし <PART> にすれば、転送先が空中でもジャンプできます。 <PART> ここは空中の敵に交換転送を使って、転送ジャンプで〓って下さい。 <PART> なお、敵を倒してしまうと亡〓となり動かなくなりますが、一度画面を切り替えて再び戻ってくると、敵は復活します。,"Hold <PART> while teleporting <PART> to
+jump at your destination, even if
+in mid-air. <PART>
+Swap places with the enemy and
+jump to reach the ledge. <PART>
+---
+After the enemy is defeated, its
+remnant will not move.
+However, it can be restored by
+leaving the area and returning.
+",,1,1,145,3,,
+,王家の地下道,Royal Underground Path,,2,2,145,2,145 147 151 157 159 165 169 175,not displayed by the event script
+,〓00 OTH <PART> を手に入れた,Acquired <PART> 400 OTH,,2,4,145,2741,,not displayed by the event script

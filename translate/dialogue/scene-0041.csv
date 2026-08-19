@@ -1,0 +1,93 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Adventurer,なあ 貫ってくれないかなあせっかく精霊の森まで行って手に入れたんだからさ,"I need you to take something off my hands.
+I went to the Forest of Spirits to get it!",,1,1,41,6,,
+Adventurer,永遠の命を持つと言われるエルフの目を盗んで持ってきた宝なのに… <PART> …何だか 〓くなってきたな体じゃなく心が…さ…,"I brought this treasure I stole from
+one of those supposedly immortal elves. <PART>
+---
+But for some reason I feel really cold...
+It's not my body, it's...my soul.",,1,2,41,8,,
+Adventurer,今は話しかけないでくれ…〓心中なんだ…,"Please don't talk to me.
+I've fallen on hard times.",,1,3,41,9,41,
+Owner,あ あの…そういうの ちょっと困ります,"Well, umm...
+That's kind of a problem, you see...",,1,4,41,7,,
+Adventurer,そろそろ出発しなきゃなまた魔物と闘うのはうんざりだが… <PART> 俺はまだ出会った事が無いんだけど普通の武器では〓つけられない魔物がいるそうだ <PART> そういう時はどうするかって？まぁ 手っ取り早いのは魔法だろうなぁ,"Well, I should be going soon.
+I dread having to fight monsters again. <PART>
+---
+Although I've never met any, I hear that
+some monsters are immune to normal weapons. <PART>
+---
+And what would one do then?
+I suppose magic is the easiest way.",,1,5,41,10,,
+Adventurer,普通の武器で〓つけられない魔物には魔法だな魔法の代わりになる道〓もあるぞ,"If weapons can't hurt a monster, use magic.
+Some items can be used in place of magic.",,1,6,41,11,,
+Owner,外が騒がしいけれど…何かあったのかしら…あ 失礼しました,"What's goin' on out there? Somethin' happen <PART> ---- <PART>
+Oh, I mean, how may I be of service, ma'am?",,1,7,41,12,,
+Owner,お〓様がいらっしゃる限り私はソルデで宿屋を続けます,"As long as customers need a place to stay,
+the Solde Inn will remain open.",,1,8,41,13,,
+Owner,初めてご利用されるお〓様ですね？ようこそ 港町ソルデへ <PART> 宿に〓まれば 戦いで疲れた体もあっという間に〓されますよ <PART> それこそ 〓死〓前の状〓だって〓日には元気いっぱい間違い無しです,"This is your first time staying with us?
+Welcome to the seaport of Solde! <PART>
+---
+A quick rest at our inn will heal
+even the most worn-down body! <PART>
+---
+Even if you're on the brink of death,
+you'll wake up feeling good as new!",,1,9,41,14,,
+Adventurer,なあ 貫ってくれないかなあ今度こそ気に入ると思うんだけどさ,"I need you to take something off my hands.
+This time, I think you'll really like it.",,1,10,41,15,,
+Adventurer,大陸の〓〓まで行って精霊の森に再挑戦してまで取ってきたのに… <PART> …何だか〓くなってきたな心にブリザードが吹き荒れてるぜ…,"I went down to the southeast to get this one,
+back into the Forest of Spirits. <PART>
+---
+It makes it feel really cold,
+like a blizzard whirling in my soul.",,1,11,41,16,,
+Owner,〓まりかしら？〓めのいい部屋が空いてますよ,"Will you be staying?
+We have a room with a view available.",,1,13,41,2760,63 83 93 109 133,
+Owner,いらっしゃいませ お〓りですか？,Welcome. Would you like a room?,,1,14,41,2761,63 83 93 109 133,
+Owner,おっと 〓まりのお〓かな？,"Oh my, guests looking for a room?",,1,15,41,2762,63 83 93 109 133,
+Owner,旅人さんだね 〓まっていくかい？,"Yer travelers, right? Ya gonna stay?",,1,16,41,2763,63 83 93 109 133,
+Owner,いらっしゃーいええと 〓まり…よね？,"Greetings and Salutations. You look like
+you're looking for a room. Am I right?",,1,17,41,2764,63 83 93 109 133,
+Owner,ようこそお出で下さいましたお〓りでしょうか？,"It is an honor to receive your visit.
+Shall I book your room?",,1,18,41,2765,63 83 93 109 133,
+Owner,そうですか…またの機会をお待ちしてますね,"That's a shame.
+Come back if you change your mind.",,1,19,41,2766,63 83 93 109 133,
+Owner,機会がありましたら〓非当〓をご利用下さい,"Please visit us again,
+when you have the chance.",,1,20,41,2767,63 83 93 109 133,
+Owner,なんじゃ 久しぶりの〓かと思ったのにのう…,It figures. And I got all worked up.,,1,21,41,2768,63 83 93 109 133,
+Owner,おや 〓やかしは御免だよ,"Be on yer way then, no loiterin'.",,1,22,41,2769,63 83 93 109 133,
+Owner,何だ 残念～ウチはサービスいいのに,"Well, it's your loss.
+You're missing out on great service.",,1,23,41,2770,63 83 93 109 133,
+Owner,ご縁がありましたらまたいらして下さいね,"If ever the opportunity should arise,
+please pay us your custom again.",,1,24,41,2771,63 83 93 109 133,
+Owner,波の〓は〓りを誘う子守〓ごゆっくりお〓み下さい,"Let the lullaby of the waves
+be your invitation to slumber.",,1,25,41,2772,63 83 93 109 133,
+Owner,それでは どうぞごゆっくりとお〓み下さい,Please enjoy your stay.,,1,26,41,2773,63 83 93 109 133,
+Owner,おお そうか〓まるかゆっくり〓んどくれよ,"So you're really staying?
+Take a load off!",,1,27,41,2774,63 83 93 109 133,
+Owner,シーツは洗い立てだからね気持ちよく〓れるよ！,"I just cleaned the sheets.
+Yer gonna sleep like a baby!",,1,28,41,2775,63 83 93 109 133,
+Owner,ご〓大〓りサービスするわねごゆっくり～,"Balanced breakfast on the house!
+Sleep tight.",,1,29,41,2776,63 83 93 109 133,
+Owner,お疲れでしょう？ゆっくりしていって下さいね,"You must be exhausted.
+Please make yourself comfortable.",,1,30,41,2777,63 83 93 109 133,
+Owner,いってらっしゃいませ海の女神の加護があらんことを,"Visit again soon!
+May the blessings of the sea be with you.",,1,31,41,2778,63 83 93 109 133,
+Owner,ご利用ありがとうございましたお気をつけて,"Thank you for your patronage.
+Please take care.",,1,32,41,2779,63 83 93 109 133,
+Owner,近くに来たら また〓っておくれよ,Come by any time you're in the area.,,1,33,41,2780,63 83 93 109 133,
+Owner,ぐっすり〓れたろ？気をつけていっておいで！,"Ya got a good night's rest, didn't ya?
+Watch yer back out there!",,1,34,41,2781,63 83 93 109 133,
+Owner,ふふ ゆっくり出来た？ また来てね～,"Hehe, did you sleep okay? Come again soon!",,1,35,41,2782,63 83 93 109 133,
+Owner,疲れは取れましたか？お気をつけていってらっしゃいませ,"I trust you rested well.
+We look forward to serving you again soon.",,1,36,41,2783,63 83 93 109 133,
+Owner,あら 宿〓〓がちょっと足りないみたい…,"Uh-oh, you don't have enough money.",,1,37,41,2784,63 83 93 109 133,
+Owner,宿〓〓をお支払いになれませんとお〓めする事が難しいのですが…,"I'm afraid it would be impossible to allow
+you to stay without paying the proper fee.",,1,38,41,2785,63 83 93 109 133,
+Owner,なんじゃ 金が無きゃ〓められんぞ,"Oh, this won't do. You can't afford it.",,1,39,41,2786,63 83 93 109 133,
+Owner,お金貫わなきゃ〓められないよウチも〓売だからね,"This ain't enough! Whaddaya tryna pull?
+This is a business, ya know!",,1,40,41,2787,63 83 93 109 133,
+Owner,う～ん…ちょっとお金足りないわね…〓いだらまた来てね～,"Hmm... Looks like you're a little short.
+Come back when you have the money!",,1,41,41,2788,63 83 93 109 133,
+Owner,お〓様 代金が若干足りないようですので今回はちょっと…,"I'm afraid we require full payment
+in advance in order to allocate rooms.",,1,42,41,2789,63 83 93 109 133,
+,冒険者,Adventurer,,2,7,41,2791,43 45 47 65 79 81 93 95 105 109 115 121 127 1159,not displayed by the event script
+,宿屋主人,Owner,,2,8,41,2792,63 83 93 109 133,not displayed by the event script

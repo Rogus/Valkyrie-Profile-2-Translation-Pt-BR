@@ -1,0 +1,5 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,グールパウダー <PART> を手に入れた,Acquired <PART> Ghoul Powder,,3,3,1009,36,1009 1165 1181 1205 1207 1215 1225 1257 1265 1267 1271 1273 1279 1293,not displayed by the event script
+,ふるびたペンダント <PART> を手に入れた,Acquired <PART> Antique Pendant,,3,4,1009,37,1165 1181 1205 1207 1215 1225 1257 1265 1267 1271 1273 1279 1293,not displayed by the event script
+,ドラゴンオーブ <PART> を手に入れた,Acquired <PART> Dragon Orb,,3,6,1009,39,1165 1181 1205 1207 1215 1225 1257 1265 1267 1271 1273 1279 1293,not displayed by the event script
+,水鏡 <PART> を手に入れた,Acquired <PART> Water Mirror,,3,7,1009,40,1165 1181 1205 1207 1215 1225 1257 1265 1267 1271 1273 1279 1293,not displayed by the event script

@@ -1,0 +1,48 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Boy's mother,まったく…この子ったら練習練習ってこんな遅くまで剣術の〓行ばかり <PART> バルバロッサ様に仕えるのは良いけれどたまには〓強もしてくれないとねえ…,"He's at it again <PART> ---- <PART> training, training,
+and more training with the sword. <PART>
+---
+I want him to serve King Barbarossa well,
+but studying never hurt, either.",,1,1,53,3,,
+Dipan Soldier,〓間に街から出るのは危〓ですよそれより 〓のディパンの〓しさをご〓能下さい,"It's dangerous to leave town at night.
+Besides, Dipan is beautiful after dark!",,1,2,53,13,,
+Dipan Soldier,旅の方 この街は我らディパンの兵士が常に巡回しておりますので <PART> 魔物や〓盗の襲撃に〓える事もありません安心して〓の〓歩をお楽しみ下さい,"We knights of Dipan patrol these streets,
+making it safe for travelers like you. <PART>
+---
+You won't encounter monsters or thieves
+here, so enjoy your stroll.",,1,3,53,14,,
+Boy's mother,もう〓も遅いんだから帰りますよそれと ちゃんと〓強もしなさい <PART> 剣術ばかり上達したって 〓も良くなければ王様の〓にはお仕えできないのよ,"That's enough swordplay for one night.
+Time to hit the books! <PART>
+---
+You won't be of much use to the king
+if you're all sword and no pen!",,1,4,53,15,,
+Boy,もう 練習の邪魔しないでよやっと感じが掴めてきたのに <PART> 〓はね 早く強くなって騎士として王様に仕えるんだ！ <PART> そのためには 今からきたえておかないとね！,"Don't mess with me during training!
+I'm just getting the hang of it. <PART>
+---
+When I grow up, I'm going to be
+one of the king's knights! <PART>
+---
+That's why I have to train!",,1,5,53,16,,
+Boy,剣の練習が終わっ…たらっ！今度は槍の練習…するん…だっ！,"Once I finish *gasp* sword training...
+I'll start *pant* lance training!",,1,6,53,17,,
+Boy,もう少しだけ練習させてよ〓強は明日やるから！ 本当だよ！,"C'mon, let me practice a little longer!
+I'll study tomorrow! Really!",,1,7,53,18,,
+Boy,言っとくけど 〓強だって本当はちゃんとしてるんだよ！ <PART> 例えば 攻撃時に相手の背後を取ると攻撃が当たりやすいとか <PART> 与えるダメーシも大きいとかあと 相手によっては反撃も防げるとか…,"Maybe you don't know it,
+but I study all the time! <PART>
+---
+For instance, I know that when you
+attack an enemy from behind, <PART>
+---
+it's easier to hit and you do more damage <PART> ---- <PART>
+plus, you can prevent counterattacks!",,1,8,53,19,,
+Boy's mother,それは 戦術の〓強！お母さんが言っているのとは違うでしょ！,"It's all well and good to study tactics,
+but that's not what I'm talking about!",,1,9,53,20,,
+Dipan Soldier,私も幼い頃は 〓中に仕〓するために練習に明け暮れたものです <PART> 母〓は気が気でなかったと思いますがこうして見ていると 〓笑ましいものですね,"When I was a boy, I'd train until dawn,
+hoping to become a knight someday. <PART>
+---
+My mother didn't like the idea back then,
+but she smiles when she sees me now.",,1,10,53,21,,
+Dipan Soldier,剣の腕を磨く事も必要ですが この平和な時代には 〓学の方が良いかもしれませんね,"Swordsmanship is invaluable, but in these
+times of peace, one would do well to study.",,1,11,53,22,,
+,少年の母,Boy's mother,,2,8,53,24,143,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,9,53,25,57 59 141 143 391 393 395 399 403,not displayed by the event script

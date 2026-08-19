@@ -1,0 +1,2268 @@
+original_jp,original_en,translated,occurrences,containers,notes
+B〓M 〓o〓 （現在 LOOP：）,BGM No. <8094>4,,1,container-0642.csv,
+最強〓〓〓〓,Full Strength,Força Total,1,container-0642.csv,
+全必殺技習得,All Attacks,,1,container-0642.csv,
+全〓〓〓習得,All Skills,,1,container-0642.csv,
+全〓〓〓〓取得（で素材のみ）,All Items(<8099>Jfor materials only),Todos Itens (só materiais),1,container-0642.csv,
+全貴重品取得,All Precious,,1,container-0642.csv,
+封印石全て〓へ（所持分は残す）,All Sealstones at Spring (Retain held),,1,container-0642.csv,
+お金加算 （現在 ）,Add money<0066><8094>6,,1,container-0642.csv,
+魔晶石加算 （現在 ）,Add magic crystals<0066><8094>',,1,container-0642.csv,
+敵陣系 AUTO,Enemy AUTO,,1,container-0642.csv,
+敵陣系 〓ORMAL ATTACK,Enemy NORMAL ATTACK,,1,container-0642.csv,
+敵陣系 BACK ATTACK,Enemy SURPRISE ATTACK,,1,container-0642.csv,
+LV Up ：,LV Up<0066><8094>/,,1,container-0642.csv,
+〓〓〓〓〓入れ替え ：,"Change Party<0066><8094>,",,1,container-0642.csv,
+〓〓〓〓〓〓軽戦士,Light Warrior<8094>*,,1,container-0642.csv,
+〓〓〓〓〓〓重戦士,Heavy Warrior<8094>*,,1,container-0642.csv,
+〓〓〓〓〓〓弓闘士,Archer<8094>*,,1,container-0642.csv,
+〓〓〓〓〓〓魔術師,Sorcerer<8094>*,,1,container-0642.csv,
+〓〓〓〓変数     ,Scene variable <8094>%,,1,container-0642.csv,
+（）,(<8094>),,1,container-0642.csv,
+〓ポイント,Shop points,,1,container-0642.csv,
+所持封印石最大数 ,Held sealstone limit<0066><8094>:,,1,container-0642.csv,
+プレイ時間 （：：）,Gameplay time<0066><8094>+,,1,container-0642.csv,
+セラフィックゲート・クリア回数 ,Seraphic Gate clears<0066><8094>+,,1,container-0642.csv,
+最大ダメージ数 ,Max damage<0066><8094>+,,1,container-0642.csv,
+最大ブレイクチェイン数 ,Max break chain<0066><8094>+,,1,container-0642.csv,
+紫炎石〓獲得数 ,Purple crystal total<0066><8094>+,,1,container-0642.csv,
+逃走回数 ,Retreats<0066><8094>+,,1,container-0642.csv,
+死亡回数 ,Deaths<0066><8094>+,,1,container-0642.csv,
+最大ヒット数 ,Max hit<0066><8094>+,,1,container-0642.csv,
+切断部位数 ,Dismembered parts<0066><8094>+,,1,container-0642.csv,
+最大モンスター討伐数 ,Max monsters punishable<0066><8094>+,,1,container-0642.csv,
+最大エンカウント数 ,Max encounters<0066><8094>+,,1,container-0642.csv,
+最大セーブ回数 ,Max saves<0066><8094>+,,1,container-0642.csv,
+ダッシュ回数 ,Dashes<0066><8094>+,,1,container-0642.csv,
+クリアカウント ,Clear Count<0066><8094>+,,1,container-0642.csv,
+魔晶石〓獲得数 ,Magic crystal total<0066><8094>+,,1,container-0642.csv,
+輝炎石〓獲得数 ,Flame crystal count<0066><8094>+,,1,container-0642.csv,
+壁バウンド〓回数 ,Wall bounce total<0066><8094>+,,1,container-0642.csv,
+地面バウンド〓回数 ,Ground bounce total<0066><8094>+,,1,container-0642.csv,
+〓ダメージ〓計 ,Solde:<8094>-,,1,container-0642.csv,
+最短戦闘時間 （：：）,Dipan:<8094>-,,1,container-0642.csv,
+最長戦闘時間 （：：）,Villnore:<8094>-,,1,container-0642.csv,
+ゾルデ：,Crell Monferaigne<8094>-,,1,container-0642.csv,
+ディパン：,Peddler:<8094>-,,1,container-0642.csv,
+ヴィルノア：,Valhalla:<8094>-,,1,container-0642.csv,
+行商人：,Silmeria,,1,container-0642.csv,
+ヴァルハラ：,Brahms,,1,container-0642.csv,
+,Rufus,,1,container-0642.csv,
+シルメリア,Lezard,,1,container-0642.csv,
+ブラムス,Arngrim,,1,container-0642.csv,
+ルーファス,Dylan,,1,container-0642.csv,
+レザード,Leone,,1,container-0642.csv,
+アリューゼ,Hrist,,1,container-0642.csv,
+ディラン,Lenneth,,1,container-0642.csv,
+レオーネ,Valkyrie,,1,container-0642.csv,
+アーリィ,Alicia,,1,container-0642.csv,
+レナス,Alicia (after),,1,container-0642.csv,
+ヴァルキリー,Freya,,1,container-0642.csv,
+アリーシャ,Ull,,1,container-0642.csv,
+アリーシャ後半,Heimdall,,1,container-0642.csv,
+ウル,Lwyn,,1,container-0642.csv,
+ヘイムダル,Jessica,,1,container-0642.csv,
+,Richelle,,1,container-0642.csv,
+ルイン,Fraudir,,1,container-0642.csv,
+ジェシカ,Celes,,1,container-0642.csv,
+リシェル,Crescent,,1,container-0642.csv,
+フローディア,Sylphide,,1,container-0642.csv,
+セレス,Tyrith,,1,container-0642.csv,
+クレセント,Circe,,1,container-0642.csv,
+シルフィード,Rasheeka,,1,container-0642.csv,
+ティリス,Falx,,1,container-0642.csv,
+キルケ,Gerald,,1,container-0642.csv,
+ラシーカ,Guilm,,1,container-0642.csv,
+ファルクス,Roland,,1,container-0642.csv,
+ジェラルド,Ehlen,,1,container-0642.csv,
+ギルム,Adonis,,1,container-0642.csv,
+ローランド,Aaron,,1,container-0642.csv,
+エーレン,Dyn,,1,container-0642.csv,
+アドニス,Kraad,,1,container-0642.csv,
+アーロン,Zunde,,1,container-0642.csv,
+ディーン,Atrasia,,1,container-0642.csv,
+クラッド,Phyress,,1,container-0642.csv,
+ザンデ,Chrystie,,1,container-0642.csv,
+アトレイシア,Sha-kon,,1,container-0642.csv,
+フィレス,Lylia,,1,container-0642.csv,
+クリスティ,Lydia,,1,container-0642.csv,
+紗紺,Sophalla,,1,container-0642.csv,
+リリア,Millidia,,1,container-0642.csv,
+リディア,Arcana,,1,container-0642.csv,
+ソファラ,Ehrde,,1,container-0642.csv,
+ミリティア,Mithra,,1,container-0642.csv,
+アルカナ,Aegis,,1,container-0642.csv,
+エルド,Psoron,,1,container-0642.csv,
+ミトラ,Khanon,,1,container-0642.csv,
+イージス,Farant,,1,container-0642.csv,
+ソロン,Xehnon,,1,container-0642.csv,
+カノン,Alm,,1,container-0642.csv,
+ファーラント,Seluvia,,1,container-0642.csv,
+ゼノン,Masato,,1,container-0642.csv,
+アルム,Woltar,,1,container-0642.csv,
+メニュー,Menu,Menu,1,container-0643.csv,
+使う,Use,Usar,1,container-0643.csv,
+貴重品,Precious,Precioso,1,container-0643.csv,
+所持,Holding,Holding,1,container-0643.csv,
+一覧,List,Lista,1,container-0643.csv,
+説明,Guide,Guia,1,container-0643.csv,
+編成,Configure,Configure,1,container-0643.csv,
+解放,Free Soul,Free Soul,1,container-0643.csv,
+能力値,Abilities,Habilidades,1,container-0643.csv,
+プロフィール,Profile,Perfil,1,container-0643.csv,
+経歴,Background,Background,1,container-0643.csv,
+ゲーム,Game,Jogo,1,container-0643.csv,
+環境,Environment,Ambiente,1,container-0643.csv,
+コントローラ,Controls,Controles,1,container-0643.csv,
+設定,Change,Mudar,1,container-0643.csv,
+元に戻す,Undo,Desfazer,1,container-0643.csv,
+デフォルト,Default,Padrão,1,container-0643.csv,
+セーブ,Save,Salvar,1,container-0643.csv,
+ロード,Load,Carregar,1,container-0643.csv,
+アイテムを使います,Use items.,Usar items.,1,container-0643.csv,
+装備を変更します,Change equipment.,Mudar equipamento.,1,container-0643.csv,
+スキルをセットします,Set skills.,Definir habilidades.,1,container-0643.csv,
+通常攻撃技をセットします,Set normal attacks.,Definir ataques normais.,1,container-0643.csv,
+封印石の情報を確認します,See sealstone information.,Ver informações de sealstone.,1,container-0643.csv,
+パーティーを編成します,Reconfigure the party.,Reconfigurar grupo.,1,container-0643.csv,
+ステータスを確認します,Check character status.,Verificar status do personagem.,1,container-0643.csv,
+ゲーム環境を設定します,Adjust game settings.,Ajustar configurações do jogo.,1,container-0643.csv,
+ゲームデータをセーブ・ロードします,Save/load game data.,Salvar<001A>carregar dados de jogo.,1,container-0643.csv,
+貴重品,Precious Item,Item Precioso,1,container-0644.csv,
+アイテムを使います,Use an item.,Usar um item.,1,container-0644.csv,
+装備品を確認します,Check equipment.,Ver equipamento.,1,container-0644.csv,
+アクセサリーを確認します,Check accessories.,Ver acessórios.,1,container-0644.csv,
+その他のアイテムを確認します,Check other items.,Ver outros itens.,1,container-0644.csv,
+貴重品を確認します,Check precious items.,Ver itens preciosos.,1,container-0644.csv,
+物理耐性〓に並び替えます,Arrange by physical threshold.,,1,container-0644.csv,
+ソート ページ,<8099>QSort <8099>8<8099>9Page,,1,container-0644.csv,
+使う ソート ページ,<8099>@Use <8099>QSort <8099>8<8099>9Page,,1,container-0644.csv,
+使う ページ,<8099>@Use <8099>8<8099>9Page,,1,container-0644.csv,
+使う,<8099>@Use,,1,container-0644.csv,
+陽光の石,Sunlight Stone,,1,container-0644.csv,
+輪光の石,Halo Stone,,1,container-0644.csv,
+彩〓の石,Painted Cloud Stone,,1,container-0644.csv,
+裏月の石,Dark Moon Stone,,1,container-0644.csv,
+紅炎の石,Crimson Flame Stone,,1,container-0644.csv,
+ミュリンの指輪,Ring of Mylinn,,1,container-0644.csv,
+ドラゴンオーブ,Dragon Orb,,1,container-0644.csv,
+グールパウダー,Ghoul Powder,,1,container-0644.csv,
+陽月の石,Sun and Moon Stone,,1,container-0644.csv,
+日食の石,Eclipse Stone,,1,container-0644.csv,
+アドヴァンスフューリアス,Advanced Fury,,1,container-0644.csv,
+預言書,First Oracle,,1,container-0644.csv,
+預言書,Second Oracle,,1,container-0644.csv,
+預言書,Third Oracle,,1,container-0644.csv,
+預言書,Fourth Oracle,,1,container-0644.csv,
+預言書,Fifth Oracle,,1,container-0644.csv,
+預言書,Sixth Oracle,,1,container-0644.csv,
+預言書,Seventh Oracle,,1,container-0644.csv,
+預言書,Eighth Oracle,,1,container-0644.csv,
+預言書,Ninth Oracle,,1,container-0644.csv,
+水鏡,Water Mirror,,1,container-0644.csv,
+鉱山の鍵,Key to the Mines,,1,container-0644.csv,
+"ルーファスがオーディンから装着を強いられていた指輪。
+全ての力に対して〓制する〓きを持つ。",The ring Odin forced Rufus to wear. It suppresses all power.,,1,container-0644.csv,
+四宝の一つで、ミッドガルドを守護するもの。,One of the Four Treasures. It protects Midgard.,,1,container-0644.csv,
+生きている人間を強制的にグールへと変〓させる薬。,A medicine that transforms living humans into ghouls.,,1,container-0644.csv,
+攻撃回数制〓以上の攻撃を可能にする。,Grants bearer a greater number of attacks than normally possible.,,1,container-0644.csv,
+"シルメリアが通常攻撃「リベリオントゥルース」を習得
+できる技能書。",Text that teaches Silmeria the normal attack Rebellious Truth.,,1,container-0644.csv,
+"ブラムスが通常攻撃「ブラッドレイン」を習得できる
+技能書。",Text that teaches Brahms the normal attack Blood Rain.,,1,container-0644.csv,
+"ルーファスが通常攻撃「サンダーブレイク」を習得できる
+技能書。",Text that teaches Rufus the normal attack Thunder Break.,,1,container-0644.csv,
+"アリューゼが通常攻撃「デッドエンド」を習得できる
+技能書。",Text that teaches Arngrim the normal attack Dead End.,,1,container-0644.csv,
+"ディランが通常攻撃「ディスメンバーレギオン」を習得
+できる技能書。",Text that teaches Dylan the normal attack Dismembering Legion.,,1,container-0644.csv,
+"軽戦士が通常攻撃「セカンドルーイン」を習得できる
+技能書。",Text that teaches light warriors the normal attack Second Ruin.,,1,container-0644.csv,
+"アーリィが通常攻撃「アドヴァンスフューリアス」を習得できる
+技能書。",Text that teaches Hrist the normal attack Advanced Fury.,,1,container-0644.csv,
+レナスが通常攻撃「コードブレイク」を習得できる技能書。,Text that teaches Lenneth the normal attack Code Break.,,1,container-0644.csv,
+"アリーシャとヴァルキリーが通常攻撃「スカイハイエッジ」
+を習得できる技能書。","Text that teaches Alicia and Valkyrie the normal attack Sky-high
+Edge.",,1,container-0644.csv,
+重戦士が通常攻撃「ソニックエッジ」を習得できる技術書。,Text that teaches heavy warriors the normal attack Sonic Edge.,,1,container-0644.csv,
+"弓闘士が通常攻撃「バスターシュート」を習得できる
+技術書。",Text that teaches archers the normal attack Smashing Shot.,,1,container-0644.csv,
+"周回を重ねれば重ねるほど敵は強くなっていきます。
+〓〓れ。","The more you circle round and round, the more powerful the foe
+becomes. Be strong.",,1,container-0644.csv,
+とりあえずオーディンがいないと平和だよね。,"Peace would come, if only Odin weren't around.",,1,container-0644.csv,
+"誰かが〓き回さないとラグナロクは起きないだろうし。
+でも…。","If no one stirred up trouble, Ragnarok would never come.
+Nevertheless...",,1,container-0644.csv,
+ルーファスとフレイが仲良くできるのかな〓…。,Can Rufus and Freya ever be friends...?,,1,container-0644.csv,
+転生したブラムスは不死者に付け狙われるだろうし〓。,Brahms's transfer draws unwanted attention from the undead.,,1,container-0644.csv,
+"別にあのオーディンが居なくても
+レザードは悪い魔導師になるよね〓…。","With or without Odin, Lezard would still become an evil wizard.",,1,container-0644.csv,
+"シルメリアたち姉妹は何にも変わってない。
+“王呼の秘法”で呼ばれたら出てきます。","Silmeria and her sisters have not changed. The Sovereign's Rite
+will summon them as always.",,1,container-0644.csv,
+"スルトやヘルも変わらないかな。
+ロキは〓…彼があの行動をとった理〓次第。","I don't think Surt and Hel would change. The mystery is Loki...and
+why he did what he did.",,1,container-0644.csv,
+"本当によくやりますね。
+負けました。 あと一周で、例のブツが…。",You are strong. I lose. Give it another round; your prize awaits.,,1,container-0644.csv,
+"ヴァルハラ宮殿にあった水鏡の破片。
+世界のあらゆる場所へと移動できる。","A shard of the water mirror from the Hall of Valhalla. With it, you
+can travel to any place in the world.",,1,container-0644.csv,
+トゥルゲン鉱山の奥の扉を開く鍵。,The key to the door that lies within Turgen Mine.,,1,container-0644.csv,
+頭装備,Helmet,Elmo,1,container-0645.csv,
+〓装備,Cuirass,Peitoral,1,container-0645.csv,
+腕装備,Armwear,Braçad.,1,container-0645.csv,
+足装備,Legwear,Grevas,1,container-0645.csv,
+スキルが発生〓,Skill formed!,Hab. formada!,1,container-0645.csv,
+スキルが消滅,Skill destroyed.,Hab. destruída.,1,container-0645.csv,
+武器を変更します,Change weapon.,,1,container-0645.csv,
+頭装備を変更します,Change helmet.,,1,container-0645.csv,
+〓装備を変更します,Change cuirass.,,1,container-0645.csv,
+腕装備を変更します,Change armwear.,,1,container-0645.csv,
+足装備を変更します,Change legwear.,,1,container-0645.csv,
+アクセサリーを変更します,Change accessories.,,1,container-0645.csv,
+未習得のスキルを確認します,Check unlearned skills.,,1,container-0645.csv,
+装備についての説明を表示します,Display equipment explanation.,,1,container-0645.csv,
+スキル キャラ 説明,"<8099>RSkill <8099>-<8099>+Char. <8099>""Expl.",,1,container-0645.csv,
+ソート スキル ページ,<8099>QSort <8099>RSkill <8099>8<8099>9Page,,1,container-0645.csv,
+ページ切り替え,<8099>2<8099>3Switch Page,,1,container-0645.csv,
+.  ステータスの見方について,1. Viewing Status,,1,container-0645.csv,
+.  装備品の種類について,2. Equipment Types,,1,container-0645.csv,
+.  リンクについて,3. Links,,1,container-0645.csv,
+.  ルーンについて,4. Runes,,1,container-0645.csv,
+.  スキルの覚え方について,5. Learning Skills,,1,container-0645.csv,
+"画面右上に表示されている数字が
+ステータスです。
+キャラクターの能力を表しています。","The status numbers displayed on the upper-right
+indicate character capabilities.",,1,container-0645.csv,
+"装備は、武器、頭、体、腕、足、
+アクセサリー〓所の計〓所に、
+それ〓れ対応する装備品を
+セットする事ができます。","Set equipment for 9 places: weapon, head, body,
+arms, legs, and 4 additional places.",,1,container-0645.csv,
+"装備品には、片手剣、両手剣といった種類の
+他に、それ〓れ『色属性』があります。
+『色属性』は赤、青、緑、無色の計種類です。","In addition to one- and two-handed types, there are
+4 color types of equipment: red, blue, green,
+and colorless.",,1,container-0645.csv,
+"同じ色の装備品が隣り合うと、
+右側の装備品の枠が光ります。
+これを『リンク』といいます。","Equip items of the same color adjacently and
+the boxes flash.
+
+This is called a link.",,1,container-0645.csv,
+"装備品の中には、リンクしている状態になると
+『効果』が強化されるものがあります。","When linked, effects of the equipment are
+enhanced.",,1,container-0645.csv,
+"リンクしている装備品の数が増えるほど、
+強化される〓合も増加します。","The more equipment linked, the stronger
+the enhancement.",,1,container-0645.csv,
+"装備品を同色で〓えれば、装備品の効果を
+より強化する事が可能です。","Gather like-colored equipment for greater
+enhanced effects.",,1,container-0645.csv,
+"装備品は、色属性の他に
+『ルーン』という属性も持ちます。
+ルーンは、スキルを発生させるのに
+重要な役〓を果たします。","Besides color type, equipment also has a rune
+attribute.
+
+Runes are responsible for forming skills.",,1,container-0645.csv,
+"ルーン属性が存在するのは、
+赤、青、緑の装備品です。
+無色の装備品には存在しません。","Rune attributes are present in red, green, and
+blue equipment, but not colorless equipment.",,1,container-0645.csv,
+"『スキル』とは、戦闘で使用する事ができる
+特殊能力です。
+攻撃時に能力を発揮する『アタックスキル』
+防御時に能力を発揮する『ディフェンススキル』
+など、種類が存在します。","A skill is a special ability you can use in battle.
+
+Use attack skills for offense, defense skills for
+defense, etc. There are 5 types in all.",,1,container-0645.csv,
+"リンクしている装備品の中に、
+特定の組み合わせのルーンが存在すると、
+ルーンが光る事があります。
+これがスキルの発生です。","Combining certain runes through linked
+equipment causes the runes to shine.
+
+This forms a skill.",,1,container-0645.csv,
+"スキルが発生すると、
+画面に発生したスキル名が表示されます。","When a skill is formed, its name appears on
+the screen.",,1,container-0645.csv,
+"スキルは発生しただけでは使用できません。
+スキルが発生した状態は、
+使用方法を知識として得たという段階です。","Just forming a skill doesn't mean you can use it.
+Forming a skill is like discovering it.",,1,container-0645.csv,
+"スキルの発生に必要なルーンの組み合わせは、
+で確認できます。","Check the combination of runes needed to form
+skills with <8099>R.",,1,container-0645.csv,
+"「？」表示は、スキルを覚えるのに必要な
+ルーンが〓っていないという事を示しています。
+「？」は、そのルーンを持つ装備品を誰かが
+装備すると、表示されるようになります。","If a needed rune isn't in your equipment, a ""?"" is
+shown.",,1,container-0645.csv,
+"スキルが発生した状態で戦闘に勝利すると
+スキルの習得率が上昇します。","Winning battles with skills formed increases
+acquisition %.",,1,container-0645.csv,
+"習得率がになると、スキルを習得した
+事になり、戦闘での使用が可能になります。
+習得したスキルは、スキル画面でセットすると
+使用できるようになります。","When the acquisition % reaches 100, you acquire
+the skill.
+
+Set it with the skill screen to use it in battle.",,1,container-0645.csv,
+〓体のルーン〓,Body Rune,,1,container-0645.csv,
+〓頭のルーン〓,Head Rune,,1,container-0645.csv,
+〓腕のルーン〓,Arm Rune,,1,container-0645.csv,
+〓脚のルーン〓,Leg Rune,,1,container-0645.csv,
+〓斬撃のルーン〓,Slashing Rune,,1,container-0645.csv,
+〓穿孔のルーン〓,Piercing Rune,,1,container-0645.csv,
+〓殴打のルーン〓,Bludgeon Rune,,1,container-0645.csv,
+〓発揮のルーン〓,Activation Rune,,1,container-0645.csv,
+〓治癒のルーン〓,Healing Rune,,1,container-0645.csv,
+〓強化のルーン〓,Strengthening Rune,,1,container-0645.csv,
+〓弱体のルーン〓,Weakness Rune,,1,container-0645.csv,
+〓反抗のルーン〓,Resistance Rune,,1,container-0645.csv,
+〓錬成のルーン〓,Training Rune,,1,container-0645.csv,
+〓創造のルーン〓,Creation Rune,,1,container-0645.csv,
+〓炎のルーン〓,Fire Rune,,1,container-0645.csv,
+〓氷のルーン〓,Ice Rune,,1,container-0645.csv,
+〓土のルーン〓,Earth Rune,,1,container-0645.csv,
+〓雷のルーン〓,Lightning Rune,,1,container-0645.csv,
+〓聖のルーン〓,Holy Rune,,1,container-0645.csv,
+〓闇のルーン〓,Darkness Rune,,1,container-0645.csv,
+CAPACITY POINT,Capacity Points,Pontos de Cap.,1,container-0646.csv,
+MAX,Max,Máx,1,container-0646.csv,
+TOTAL,Total,Total,1,container-0646.csv,
+スキル,Skill,Hab.,1,container-0646.csv,
+CP,CP,,1,container-0646.csv,
+,1,,1,container-0646.csv,
+,2,,1,container-0646.csv,
+,3,,1,container-0646.csv,
+,4,,1,container-0646.csv,
+,5,,1,container-0646.csv,
+,6,,1,container-0646.csv,
+アクシヨンスキル,Action Skill,Ação,1,container-0646.csv,
+スキルをセットします,Set a skill.,Definir hab.,1,container-0646.csv,
+決め技,Special Attack,Atq. Especial,1,container-0647.csv,
+大魔法,Great Magic,Magia Sup.,1,container-0647.csv,
+不可,No,N.,1,container-0647.csv,
+通常攻撃技,Normal Attacks,Ataques Normais,1,container-0647.csv,
+通常攻撃魔法,Attack Spells,Feitiços,1,container-0647.csv,
+1ST,1ST,1.,1,container-0647.csv,
+2ND,2ND,2.,1,container-0647.csv,
+3RD,3RD,3.,1,container-0647.csv,
+SET,SET,DEF,1,container-0647.csv,
+攻撃技,Attacks,Ataques,1,container-0647.csv,
+通常攻撃技をセットします,Set character's normal attack.,Definir ataque normal.,1,container-0647.csv,
+スクランブルアタックをセットします,Set character's scramble attack.,Definir ataque caótico.,1,container-0647.csv,
+通常攻撃魔法をセットします,Set character's spell.,Definir feitiço.,1,container-0647.csv,
+セットされている攻撃技を入れ替えます,Reorder set attacks.,Reordenar ataques.,1,container-0647.csv,
+入れ替え キャラ,<8099>RReorder <8099>-<8099>+Char.,,1,container-0647.csv,
+決定 戻る,<8099>@<8099>ROK <8099>ABack,,1,container-0647.csv,
+ニーベルン・ヴァレスティ,Nibelung Valesti,,1,container-0647.csv,
+バイオレントレイジ,Violent Rage,,1,container-0647.csv,
+アスタニッシュグリッツ,Blinding Blaze,,1,container-0647.csv,
+ファイナリティブラスト,Final Blast,,1,container-0647.csv,
+ブラッディカリス,Bloody Curse,,1,container-0647.csv,
+デスペアーフライト,Desperate Horror,,1,container-0647.csv,
+グリムマリス,Grim Malice,,1,container-0647.csv,
+スピリチュアルランサー,Spiritual Lancer,,1,container-0647.csv,
+エーテルストライク,Ether Strike,,1,container-0647.csv,
+グランドトリガー,Animate Earth,,1,container-0647.csv,
+タイダルウェイブ,Tidal Wave,,1,container-0647.csv,
+プリシードグラビティ,Gravity Blessing,,1,container-0647.csv,
+グローディハーム,Maleficent Harm,,1,container-0647.csv,
+メテオスウォーム,Meteor Swarm,,1,container-0647.csv,
+ペイルフレアー,Pale Flare,,1,container-0647.csv,
+ファントムデストラクシヨン,Phantom Destruction,,1,container-0647.csv,
+ソウルエボケーシヨン,Soul Evocation,,1,container-0647.csv,
+ウィーリングリッパー,Whirling Ripper,,1,container-0647.csv,
+クランブルガスト,Pulverizing Storm,,1,container-0647.csv,
+サプライズホーン,Sublime Horn,,1,container-0647.csv,
+なし,Cost,,1,container-0648.csv,
+.封印石について,1. Sealstones,,1,container-0648.csv,
+.効果の対〓,2. Effect Subjects,,1,container-0648.csv,
+.エリア効果（台座と殻）,3. Area Effects,,1,container-0648.csv,
+.加護無しの間,4. Divinity Void,,1,container-0648.csv,
+.〓と返還,5. Springs and Restoration,,1,container-0648.csv,
+.メニュー,6. Camp Menu,,1,container-0648.csv,
+？？？？？？？？,????????,,1,container-0648.csv,
+原産地〓,Origin,,1,container-0648.csv,
+入手封印石,Acquired,,1,container-0648.csv,
+返還済み,Restored,,1,container-0648.csv,
+,---,,1,container-0648.csv,
+所持している封印石を確認します,Check sealstones currently held.,,1,container-0648.csv,
+封印石の一覧を表示します,View sealstone list.,,1,container-0648.csv,
+封印石の説明を表示します,View sealstone explanation.,,1,container-0648.csv,
+詳細 ページ切り替え,<8099>RInfo<0065><8099>8<8099>9Switch page,,1,container-0648.csv,
+詳細,<8099>RInfo,,1,container-0648.csv,
+ページ切り替え,<8099>2<8099>3Switch page,,1,container-0648.csv,
+詳細 ソート ページ,<8099>R<8099>@Info  <8099>QSort  <8099>8<8099>9Page,,1,container-0648.csv,
+原産地別に並び替えます,Arrange by origin.,,1,container-0648.csv,
+種類別に並び替えます,Arrange by type.,,1,container-0648.csv,
+入手した事のある封印石を先頭に移動します,Place acquired sealstones at top.,,1,container-0648.csv,
+返還した事のある封印石を先頭に移動します,Place restored sealstones at top.,,1,container-0648.csv,
+"封印石とは、ユグドラシルの地脈から
+にじみ出る力が〓縮されたものであり、
+所有者の能力に影響を与える石です。","<8088>1Sealstones<8089> are concentrated energy that
+seeps from Yggdrasil's earth veins.
+They affect their holders' abilities.",,1,container-0648.csv,
+"プレイヤーが封印石を所持している場合
+は、パーティー全体に影響を与えます。","When a character holds a sealstone,
+it affects the entire party.",,1,container-0648.csv,
+"封印石は特別な場所以外には置く事が
+できません。","Sealstones can only be placed at certain
+locations.",,1,container-0648.csv,
+"封印石をマップに置く事ができるのは、
+ダンジヨン内の地脈の〓目である
+『台座』と、封印石の『殻』のみです。","Sealstones may be placed on a <8088>1dais<8089> where
+the veins cross, in a <8088>1spring<8089> where the veins
+open, or in a sealstone <8088>1shell<8089>.",,1,container-0648.csv,
+"身に着けた封印石は『殻』『台座』と
+地脈の裂け目である『〓』以外では
+外す事はできません。（〓の用法は
+「.〓と返還」をご覧下さい。） ","Once taken, sealstones can only be
+removed at a <8088>1dais<8089>, <8088>1shell<8089> or <8088>1spring<8089>.",,1,container-0648.csv,
+"プレイヤーパーティーが所持している
+場合、その効果はプレイヤーパーティー
+全体に対して作用します。","When the player party holds a sealstone,
+<8088>1the entire player party is subject<8089> to
+the effects.",,1,container-0648.csv,
+"台座に封印石が置かれている場合、
+その封印石は周辺の全ての敵に対して
+効果を与えます。
+これを『エリア効果』と呼びます。","When a sealstone is placed upon a dais,
+<8088>1all the surrounding enemies are subject<8089> to
+the effects. This is referred to as an
+<8088>1Area Effect<8089>.",,1,container-0648.csv,
+"エリア効果が発生している〓画に入ると
+〓告アイコンが表示されます。","When you enter a zone with Area Effects
+active, a warning icon appears.",,1,container-0648.csv,
+"敵が所持している場合は、その敵に
+対して作用します。","When an enemy holds a sealstone, that
+enemy is affected.",,1,container-0648.csv,
+"封印石を持った敵がいる〓画に立ち入る
+と、〓告アイコンが表示されます。
+（〓告アイコンはでいつでも表示可能
+です。）","When entering a zone in which an enemy
+has a sealstone, a warning icon appears.
+Warning icons can be viewed anytime by
+pressing <8099>O.",,1,container-0648.csv,
+"封印石を所持した敵と戦闘する場合、
+封印石は敵パーティー全員に対して
+作用します。
+","When fighting enemies holding sealstones,
+<8088>1the entire enemy party is subject<8089> to
+the effects.",,1,container-0648.csv,
+"封印石を所持する敵との戦闘に勝利
+すれば、封印石はその場に残り、入手
+可能となります。","If victorious against enemies holding
+sealstones, the sealstones will remain
+there for the party to acquire.",,1,container-0648.csv,
+"封印石が台座に置かれた場合、台座は
+地脈に通じているため、そのエリア効果
+は、地脈を通じてマップ全体に影響を
+与えます。","Since a dais is located on earth veins,
+the Area Effects will travel throughout
+the veins to affect the entire map when
+a sealstone is placed on a dais.",,1,container-0648.csv,
+"ただし、地脈が途切れたり地脈を遮ったり
+するものがあると、エリア効果はそこで
+途切れてしまいます。","However, at points where veins end or
+are interrupted, the Area Effects will
+cease there.",,1,container-0648.csv,
+"全体マップでは、エリア効果が及ぶ範囲
+を確認する事ができます。
+（エリア効果が及ぶ範囲は赤色で表示
+されます。）","You can check the range of Area Effects
+on the overall map.
+The range of an Area Effect will appear
+in red.",,1,container-0648.csv,
+"二つの台座に封印石が置かれている
+場合は、両方の効果が同時に発生
+します。","When there are two sealstones on a dais,
+the effects of both will be active
+simultaneously.",,1,container-0648.csv,
+"封印石が置かれていない台座があると、
+エリア効果はそこで途切れてしまいます。","When there are no sealstones on a dais,
+Area Effects will cease there.",,1,container-0648.csv,
+"殻は、封印石を置く事はできますが、
+エリア効果は発生しません。","When you place a sealstone on a shell,
+its area effect is not activated.",,1,container-0648.csv,
+"『加護無しの間』というユグドラシルの
+地脈の枯れ果てた場所が存在します。
+加護無しの間では、封印石は効果を
+失い、所有していても影響を受けません。","A <8088>1Divinity Void<8089> is where the earth veins
+of Yggdrasil have withered and died.
+In a <8088>1Divinity Void<8089>, sealstones held have
+no effect.",,1,container-0648.csv,
+"また、加護無しの間はエリア効果を
+遮ります。","Moreover, a Divinity Void interrupts
+Area Effects as well.",,1,container-0648.csv,
+"封印石は、ダンジヨンを出ると元の位置
+に戻ります。〓本的に外に持ち出す事
+はできません。","When leaving a dungeon, sealstones are
+returned to their original location.
+Generally, they cannot be taken outside.",,1,container-0648.csv,
+"ダンジヨンには『〓』と呼ばれる地脈
+に通じている場所があります。〓では、
+封印石を投げ込んでユグドラシルの
+地脈に戻す事が可能です。","There are places called <8088>1springs<8089> that the
+veins run through in dungeons. Throwing 
+a sealstone into a spring will return it to
+Yggdrasil's earth veins.",,1,container-0648.csv,
+"ユグドラシルの地脈に封印石を戻す事を
+『返還』と呼びます。
+封印石を返還するには、魔晶石を消費
+します。","Returning sealstones to the earth veins of
+Yggdrasil is called <8088>1restoration<8089>.
+Restoration of sealstones consumes
+<8088>1magic crystals<8089>.",,1,container-0648.csv,
+"一度地脈に返還した封印石は、
+引き出し残数の〓す〓り
+〓から出し入れが可能です。
+魔晶石を消費する事はありません。","Sealstones can be again withdrawn from
+<8088>1springs<8089> after restoration.
+Magic crystals are not required when
+withdrawing sealstones from a spring.",,1,container-0648.csv,
+"各地に散らばる〓は、ユグドラシルの
+地脈を通じてつながっています。〓で
+返還した封印石は、他の〓でも取り出す
+事が可能です。","The springs scattered across the world
+are connected by Yggdrasil's veins.
+A sealstone restored to one spring may
+be withdrawn at another.",,1,container-0648.csv,
+"〓で封印石を返還する事によって、
+封印石を他のダンジヨンで利用する事が
+可能です。","By restoring them to springs, sealstones
+will become available for use in other
+dungeons.",,1,container-0648.csv,
+"台座も地脈に通じているため、封印石を
+返還する事が可能です。
+ただし、台座からは封印石を取り出す
+事はできません。","Since daises also sit atop earth veins,
+sealstones can be restored there.
+However, sealstones cannot be withdrawn
+from daises.",,1,container-0648.csv,
+"一度でも所持または返還した事の
+ある封印石は、メニュー内の封印石の
+〓目で詳細を確認する事ができます。","Check the information for any sealstone
+held at least once in the Sealstones section
+of the camp menu.",,1,container-0648.csv,
+"過去に見かけた封印石の所在地を
+調べたい時や、封印石の効果を
+詳しく知りたい時に活用して下さい。","Use this option to check the known locations
+of certain sealstones and to research
+their effects.",,1,container-0648.csv,
+1P,1P,1P,1,container-0649.csv,
+2P,2P,2P,1,container-0649.csv,
+"エインフェリアの力の結晶を
+手に入れました","Obtained crystal containing
+einherjar's power.",,1,container-0649.csv,
+"エインフェリアの解放について
+エインフェリアを解放すると
+今までそのキャラクターが〓えた力が
+結晶となり、プレイヤーの手元に残されます力の結晶は、
+緋炎石・蒼炎石・翠炎石
+の種類です
+それ〓れ対応するステータスを
+大〓にアップさせる効果を持ちます解放したエインフェリアの力が
+どの結晶に変化するかは
+キャラクターのステータス次第です力の結晶の他にも
+解放時の装備によって
+手元に残されるものがあります例えば、剣を装備させたままだと
+力の結晶に加えて
+剣士の知識（STR）
+が手に入りますただし装備品によっては
+何も手に入らない事があります",<8084>0<8088>4About Freeing Einherjar<8089><808E>,,1,container-0649.csv,
+"エインフェリアを解放します
+（アクセサリー以外の装備品は失われます）",<8084>0Release einherjar<808E>,,1,container-0649.csv,
+"〓 注意 〓
+エインフェリアを解放した場合
+パーティーの人数が名未満になります",<8084>0<8088>1Warning<808E>,,1,container-0649.csv,
+パーティーを編成します,Configure the party.,,1,container-0649.csv,
+エインフェリアを解放します,Free an einherjar.,,1,container-0649.csv,
+メンバーを選択します,Select a character.,,1,container-0649.csv,
+入れ替えるメンバーを選択します,Select character to substitute.,,1,container-0649.csv,
+プレイヤー切替,<8099>RSwitch Char.,,1,container-0649.csv,
+あ 何 アタシってばお役御〓？,Hm? That's all you need from me?,,1,container-0649.csv,
+"貴方の元を離れる時が
+来たのですね…",Has the time come for me to leave your side?,,1,container-0649.csv,
+〓の解放を…望まれるのですか？,Do you wish me to be freed?,,1,container-0649.csv,
+"解放か…
+もうそんなに共に戦ったのね","Freedom.
+So we've fought together long enough?",,1,container-0649.csv,
+〓を運命から解放してくれるの？,Will you free me from my fate?,,1,container-0649.csv,
+"アンタから離れても
+もうアタシは大丈夫なのね？",So it's safe for me to be apart from you?,,1,container-0649.csv,
+貴方と離れる時が来たのですね,Is it time for me to go now?,,1,container-0649.csv,
+"解放？ そう…
+〓を離しても後〓しないのね？",Freed? Are you sure you won't regret this?,,1,container-0649.csv,
+あら もうそんな時期になっていたの？,Is it already that time?,,1,container-0649.csv,
+"〓との離別…
+それが貴方の意思？","Is it your wish
+that we be separated?",,1,container-0649.csv,
+ふん それがお前の意思か？,Hmph. So that's the way you feel?,,1,container-0649.csv,
+"ああ…
+もうそのような時期になっていたのですね","I see. That time has come, has it?",,1,container-0649.csv,
+"新たな生を
+〓にお与え下さるのですか？",Will you grant me a new life?,,1,container-0649.csv,
+"時の流れとは早いものだな
+もうそんな時期だったのか…","Time sure flies...
+I guess my time has come.",,1,container-0649.csv,
+"〓は戦列から離れても
+良いのだろうか？",Shall I leave your ranks?,,1,container-0649.csv,
+"この腐れた運命から
+〓を放つと言うんだな？",You'll release me from this sorry fate?,,1,container-0649.csv,
+"そうか…
+ついにこの時が来たんですね",Really... Is the time upon me?,,1,container-0649.csv,
+"〓が居なくても
+もう大丈夫なんだな？",So you won't be needing me anymore?,,1,container-0649.csv,
+"解放〓？
+いつの間にかそんなに成長していたのか","You're freeing me!?
+Have I really become that strong?",,1,container-0649.csv,
+"解放 来た来たー〓
+けど 本当にいいんだな？","Alright! My time to be free!
+Is this, you know, alright?",,1,container-0649.csv,
+貴方の元から離れても良いのね？,Shall I leave you now?,,1,container-0649.csv,
+"うわっ
+もうそんな時期なんだ 早いな〓
+それじや行くけど…いいのよね？","Wow, is it that time already?
+Well, I'll go then, if that's okay.",,1,container-0649.csv,
+"それが貴方の意思？
+〓 離れてもいいのね？",Is this what you want? You want me to go?,,1,container-0649.csv,
+なに？ 今がお別れの時ってヤツ？,What? You mean it's time for me to go?,,1,container-0649.csv,
+"エインフェリアの運命から
+解放して頂けるのですか？","So you're releasing me from
+my fate as an einherjar?",,1,container-0649.csv,
+〓と離れる事を望むのね？,You wish to be rid of me?,,1,container-0649.csv,
+そう… 〓に自〓をくれるのね？,You're letting me go?,,1,container-0649.csv,
+この時が〓に来たのですね…,"Wow, this comes sooner than expected.",,1,container-0649.csv,
+"〓にこの時が来たのね
+もう後の心配はしなくていいのね？","So, it is my time to go.
+I guess you'll be alright then?",,1,container-0649.csv,
+"解放ね…
+まあ 好きにしたらどうだ？",Free me if you wish.,,1,container-0649.csv,
+〓の力は もうお役に立てぬと？,Have you finished with my powers?,,1,container-0649.csv,
+へえ 〓はもう行っても良いのか,Time for me to go?,,1,container-0649.csv,
+"早いものだな
+もう解放に耐えうる体になったのか","It feels so sudden.
+Am I at last ready for freedom?",,1,container-0649.csv,
+くく… 〓を野に解き放つと〓せですか？,Hahaha... You're willing to set me loose?,,1,container-0649.csv,
+さよならを言う時が来たって事か？,Is it time to say goodbye already?,,1,container-0649.csv,
+"貴方は優しい方ですね
+〓を運命から解き放ってくれるのですか？","You are a benevolent soul.
+Will you release me from this fate?",,1,container-0649.csv,
+"〓が体
+一人で歩めるほどになったと
+いう事ですかな？",So I'm strong enough to walk alone?,,1,container-0649.csv,
+"〓に新たな生を
+歩めと言うのですね？",Do you command me to begin a new life?,,1,container-0649.csv,
+"待ち望んでいたはずの解放か…
+それじや行くが… 良いんだな？","How I have longed for freedom!
+I can go?",,1,container-0649.csv,
+"解放を望むのか？
+それが貴方の意思ならば尊重しよう","Is it your desire that I be free?
+If so, I will respect your wishes.",,1,container-0649.csv,
+"それじやあ離れるけど…
+今の人数で本当に後〓しない〓","Well, I guess I'll be going, then.
+Are you sure you'll be alright without me?",,1,container-0649.csv,
+"今は戦力が必要な時期だと
+思うのですが…良いのですか〓","I believe my strength is needed.
+Are you sure about this?",,1,container-0649.csv,
+"もう少し お傍で戦わせて下さい〓
+ダメ…ですか？","I want to fight alongside you more!
+Am I asking too much?",,1,container-0649.csv,
+"別に離れても良いけど…
+本当にいいのね〓","I don't mind going,
+but are you really sure?",,1,container-0649.csv,
+"確かに貴方は強いけど…
+もうこの力は必要ないのね？","You are indeed strong.
+It's fine if I leave, then?",,1,container-0649.csv,
+"闘える人材が少ないのに
+本当にいいの？",You lack fighters. Is this a good idea?,,1,container-0649.csv,
+"人数が心〓ないと思うのですが…
+よろしいのですか〓","You need all the help you can get!
+Do you still want me to go?",,1,container-0649.csv,
+"今の人数では心〓ないと思うけど
+本当に〓は離れていいのね？","I shouldn't leave you with so few warriors.
+Do you really want me to go?",,1,container-0649.csv,
+"過ぎた自信は身を滅ぼすわよ
+今は戦力が必要だと思うけど
+離れていいの？","Overconfidence leads to being overwrought.
+Sure you don't need me?",,1,container-0649.csv,
+"ち〓っと待って 今は人が少な過ぎよ
+本当にいいの？","Hold on, our numbers are insufficient.
+Is this really a good idea?",,1,container-0649.csv,
+"〓を解放するって？
+本当に後〓しないな？","You're setting me free?
+Think you'll be fine without me?",,1,container-0649.csv,
+"今戦力を減らすのは得策ではありません
+それでもよろしいのですか？","It is disadvantageous to decrease manpower.
+Do you still want to do this?",,1,container-0649.csv,
+"お待ち下さい
+今戦列を離れるのは心残りです
+味方が少な過ぎますが
+よろしいのですか？","I will lament leaving these ranks.
+Shall I go anyway?",,1,container-0649.csv,
+"味方が少な過ぎる
+これでは闘いが不利になるがいいのか？","You could use some more support.
+Is your mind made up about this?",,1,container-0649.csv,
+"闘える人数が少ないな…
+〓は本当に離れても良いのだろうか？","There are few who can fight here.
+Is this a good decision?",,1,container-0649.csv,
+"今の人数で
+更に戦力減少を望むんだな？",It'll be rough! Is that what you want?,,1,container-0649.csv,
+"待って下さい〓
+今は闘える人材が少な過ぎます
+〓の力は必要ないんですか？","Please wait! There are too few of us!
+Can you really spare me?",,1,container-0649.csv,
+"この人数では
+戦いもままならないのでは…
+今離れてもいいのか？","There don't seem to be enough fighters.
+Are you sure I should go?",,1,container-0649.csv,
+"おい〓
+味方が少なくなってもいいのか？",Hey! You'll be fine without me?,,1,container-0649.csv,
+"ダメだ〓
+今解放するのはダメなんだーっ〓
+戦力ダウンだ〓〓 いいのか〓？","Uh-uh! Freeing me now is a no-no, baby!
+You sure you wanna do that?",,1,container-0649.csv,
+"貴方が望むなら離れるけれど…
+後〓はしないわね？","I will leave if that is your desire.
+Are you certain that it is?",,1,container-0649.csv,
+"戦略的に見て今人数を減らすのは
+得策じやないと思うけど〓…
+いいの？","This seems like a poor strategic move.
+But what do I know! Should I go?",,1,container-0649.csv,
+"えええ〓？ 戦力減少は痛いわよ？
+本当にいいの？","What!? This is no time to lose people!
+You sure you know what you're doing?",,1,container-0649.csv,
+"え〓 今の人数で解放するの？
+〓はいいけどさ〓…〓〓れるの？","Umm, are you really strong enough?
+I'll go, but will you be okay?",,1,container-0649.csv,
+"もう少し共に戦わせて下さい
+戦力を減らすのは危険ですが
+良いのですか？","Let me fight with you a little longer.
+Must you let me go?",,1,container-0649.csv,
+"貴方がそう望むなら…
+けれど戦いは〓くなるわよ？","If that is your wish, I will comply.
+That is your wish, right?",,1,container-0649.csv,
+"それじやさようなら…
+と言いたいところだけれど
+この人数で後〓しないわね？","Well, I guess I'll go then<808C>",,1,container-0649.csv,
+"え…でも…その…この人数では…
+〓ではお役に立てないのですか？","But you, umm, see, we're, uh, undermanned.
+Are you done with me?",,1,container-0649.csv,
+"そう 自分に自信があるのね
+でも戦力減少は確実に響くわよ
+いいのね？","Well, I'm sure I'll be alright. But I'm
+worried about you. Are you sure?",,1,container-0649.csv,
+"へえ 今離れていいんだ
+後ですがってきても知らない〓？","So you don't have a problem with me
+going, is that your final answer?",,1,container-0649.csv,
+"今の時点で戦力減少は痛手だが…
+良いのですな？","Losing a member will hurt the party.
+Are you certain you want to do this?",,1,container-0649.csv,
+"アンタが今の人数で
+闘えるってんなら良いが…","If you're fine without me, say the word.",,1,container-0649.csv,
+"もう少し共に闘いたかったがな
+もう〓がいなくてもいいんだな？","I'd have liked to accompany you longer.
+Will you be fine without me?",,1,container-0649.csv,
+"こんな人数で神に立ち向かうと？
+馬〓なお方だ
+後〓はしませんな？","You'll take on the gods with this few?
+You think you'll make it without me?",,1,container-0649.csv,
+"解放してくれるのは〓しいが…
+戦力は減る〓 いいのか？","I am grateful you wish to free me,
+but concerned. Will you be okay?",,1,container-0649.csv,
+"この人数では心配で離れられません
+〓は本当に解放されて良いのでし〓うか？","I'm worried about our numbers.
+Do you really want me to go?",,1,container-0649.csv,
+"今の状態で更に戦力を減らすとは
+面白い方だ
+では離れまし〓う 良いですな？","You're in no shape to lose people.
+You still want me to go?",,1,container-0649.csv,
+"待って下さい〓
+今離れるなんて〓には…
+それとも もう〓は必要ないのですか？","Stop! I shouldn't leave you like this.
+Must I leave you?",,1,container-0649.csv,
+"離れてもいいが…
+残された人数で戦い抜けるのか？","I don't mind going, if you'll be alright.
+Can you handle the rest without me?",,1,container-0649.csv,
+"今の人数では あまりにも手薄過ぎる
+それでも離れて良いと？","This number just will not suffice.
+Do you insist that I go?",,1,container-0649.csv,
+今までありがとね バイバーイ,Thanks for everything. Bye-bye!,,1,container-0649.csv,
+この御恩 生涯〓れません…,I will forever be in your debt.,,1,container-0649.csv,
+〓の役目は終わったのですね…,I hope I served you well.,,1,container-0649.csv,
+ここでさよならね 〓しかったわよ,"Well, goodbye. Thanks for the memories.",,1,container-0649.csv,
+"これでやっと
+戦いの運命から解放されるのね…","At last, freedom from this fate of war.",,1,container-0649.csv,
+色々と〓しかったわ 後は〓〓って〓,It was fun while it lasted. Good luck!,,1,container-0649.csv,
+共に戦えた事を誇りに思います,I am honored to have fought beside you.,,1,container-0649.csv,
+え え ち〓っと〓 これでお終いっ〓？,W-w-wait! This is the end?,,1,container-0649.csv,
+"お役御〓って事ね
+後は好きにやらせてもらうわ","So you don't need me, after all.
+Well, I'll do as I please then.",,1,container-0649.csv,
+"運が良ければ
+またどこかで会えるかもね","If we're lucky, we'll meet again someday.",,1,container-0649.csv,
+まだ暴れたりねえんだがな…,I would've liked a little more action.,,1,container-0649.csv,
+御武運を…,May you walk the warrior's path to glory.,,1,container-0649.csv,
+"何があろうとも
+お心を強くお持ちになるように","Come what may, hold on to your heart.",,1,container-0649.csv,
+少しでも役に立てたのなら光栄だ,"Hope I helped, even if only a little.",,1,container-0649.csv,
+もう 〓がいなくても大丈夫なのだな,I wish you the best without me.,,1,container-0649.csv,
+後は〓当にやるんだな,Just do what feels right from here.,,1,container-0649.csv,
+〓はお役に立てたのでし〓うか…,Did I truly serve you well?,,1,container-0649.csv,
+お別れか 少し残念だな,So this is the end. I'll miss you.,,1,container-0649.csv,
+後〓しないな？ ならばいいさ,I hope you don't regret this.,,1,container-0649.csv,
+いい夢見ろよっ〓,"Chase your dreams, baby!",,1,container-0649.csv,
+後は貴方次第よ 自分を信じて,The rest's up to you. Believe in yourself.,,1,container-0649.csv,
+"もう手助け出来ないからね
+〓〓ってよ〓",There's nothing more I can do. Good luck!,,1,container-0649.csv,
+"中々退〓しなかったわ
+それじやあね〓",Those were some fun times. See you!,,1,container-0649.csv,
+"さて 新しいカラクリの設計でも
+始めるかな〓",Maybe I'll start on my next contraption.,,1,container-0649.csv,
+貴方と出会えた事は〓〓でした…,Meeting you was truly serendipity.,,1,container-0649.csv,
+"少し〓しい気もするけど
+仕方ないわ",Parting is such sweet sorrow.,,1,container-0649.csv,
+"自〓になれるのは良いけれど
+いきなりだと〓惑うものね","I'm happy to be free,
+but now I don't know what to do.",,1,container-0649.csv,
+"もう 〓の力が無くても
+大丈夫なのですね",You'll be fine on your own.,,1,container-0649.csv,
+"さよならね
+貴方の無事を〓っているわ",Fare thee well. You'll be in my prayers.,,1,container-0649.csv,
+これで終わりかよ シケてるな,That's the end of that.,,1,container-0649.csv,
+〓かりし命 大事に使わせてもらう〓,I will treasure the life you have given me.,,1,container-0649.csv,
+何だ これで仕舞いか,"So that's it? It's over, just like that?",,1,container-0649.csv,
+これで心置きなく研究に勤しめるな,Now I can finish my research uninterrupted.,,1,container-0649.csv,
+"それでは
+好きにやらせて頂きまし〓うか","I suppose I'll do as I please, then.",,1,container-0649.csv,
+"短いのか長いのかわからんが
+〓分と世話になったな","It was so much, so sudden.
+Thank you for all your help.",,1,container-0649.csv,
+"残りの生は
+ミッドガルドのために使いまし〓う",I shall live to serve Midgard.,,1,container-0649.csv,
+"もう〓が力は要らぬと〓いますか
+後でせい〓い後〓するのですな","You think I've outlived my usefulness?
+You'll regret this later.",,1,container-0649.csv,
+"〓れないで下さい
+離れても〓は同じだという事を","Remember that though our bodies may part,
+our spirits remain together.",,1,container-0649.csv,
+"再び体を得ても
+故〓には戻れやしない…","Even with a new body, I cannot return home.",,1,container-0649.csv,
+"世話になったな
+運命が貴方に味方する事を〓ろう","I am deeply in your debt.
+I pray that fate is on your side.",,1,container-0649.csv,
+EXP,Exp.,Exp.,1,container-0650.csv,
+STR,STR,FOR,1,container-0650.csv,
+INT,INT,INT,1,container-0650.csv,
+DEX,DEX,DES,1,container-0650.csv,
+AGL,AGL,AGI,1,container-0650.csv,
+CON,CON,CON,1,container-0650.csv,
+属性抵抗,Tolerance,Tolerância,1,container-0650.csv,
+炎,Fire,Fogo,1,container-0650.csv,
+氷,Ice,Gelo,1,container-0650.csv,
+雷,Lightning,Trovão,1,container-0650.csv,
+土,Earth,Terra,1,container-0650.csv,
+聖,Holy,Luz,1,container-0650.csv,
+闇,Darkness,Trevas,1,container-0650.csv,
+状態異常抵抗,Resistance,Resistência,1,container-0650.csv,
+呪い,Curse,Praga,1,container-0650.csv,
+麻痺,Paralysis,Paralisia,1,container-0650.csv,
+沈黙,Silence,Silenc.,1,container-0650.csv,
+毒,Poison,Veneno,1,container-0650.csv,
+即死,Doom,Fim,1,container-0650.csv,
+凍結,Freeze,Cong.,1,container-0650.csv,
+混乱,Confusion,Confusão,1,container-0650.csv,
+石化,Stone,Pedra,1,container-0650.csv,
+気絶,Faint,Sono,1,container-0650.csv,
+衰弱,Frailty,Fraco,1,container-0650.csv,
+転送,Transfer,Transf.,1,container-0650.csv,
+,%,%,1,container-0650.csv,
+クラス,Class,Classe,1,container-0650.csv,
+年齢,Age,Id.,1,container-0650.csv,
+性別,Gender,Gênero,1,container-0650.csv,
+誕生年,Born,Nas.,1,container-0650.csv,
+没年,Died,Fal.,1,container-0650.csv,
+サイズ,Size,Tam.,1,container-0650.csv,
+男,Male,Masc,1,container-0650.csv,
+女,Female,Fem.,1,container-0650.csv,
+能力値を確認します,Check abilities.,Ver habilidades.,1,container-0650.csv,
+装備を確認します,Check equipment.,Ver equipamento.,1,container-0650.csv,
+習得済みスキルを確認します,Check learned skills.,Ver hab. aprendidas.,1,container-0650.csv,
+習得済み通常攻撃技を確認します,Check learned normal attacks.,Ver ataques aprendidos.,1,container-0650.csv,
+習得済み魔法を確認します,Check learned spells.,Ver feit. aprendidos.,1,container-0650.csv,
+プロフィールを確認します,Check profile.,Ver perfil.,1,container-0650.csv,
+経歴を確認します,Check background.,Ver histórico.,1,container-0650.csv,
+詳細 キャラ,<8099>@Info <8099>-<8099>+Char.,,1,container-0650.csv,
+不死者王,Lord of the Undead,,1,container-0650.csv,
+魔導師,Sorcerer,,1,container-0650.csv,
+元ディパン兵士,Knight of Dipan,,1,container-0650.csv,
+創造神,Battle Maiden,,1,container-0650.csv,
+命を創りだすもの,Creator of Life,,1,container-0650.csv,
+神の器,Vessel of the Gods,,1,container-0650.csv,
+エインフェリア,Einherjar,,1,container-0650.csv,
+（人間換算）,21 <0066>in human years<0067>,,1,container-0650.csv,
+（人間換算）,25 <0066>in human years<0067>,,1,container-0650.csv,
+（人間換算）,23 <0066>in human years<0067>,,1,container-0650.csv,
+（人間換算）,26 <0066>in human years<0067>,,1,container-0650.csv,
+,20,,1,container-0650.csv,
+,35,,1,container-0650.csv,
+（実際は）,17 <0066>actually 58<0067>,,1,container-0650.csv,
+,21,,1,container-0650.csv,
+,19,,1,container-0650.csv,
+,34,,1,container-0650.csv,
+,42,,1,container-0650.csv,
+,38,,1,container-0650.csv,
+大陸暦年,324 C.C.,,1,container-0650.csv,
+大陸暦年,445 C.C.,,1,container-0650.csv,
+大陸暦年,550 C.C.,,1,container-0650.csv,
+大陸暦年,567 C.C.,,1,container-0650.csv,
+大陸暦年,636 C.C.,,1,container-0650.csv,
+大陸暦年,634 C.C.,,1,container-0650.csv,
+大陸暦年,704 C.C.,,1,container-0650.csv,
+大陸暦年,350 C.C.,,1,container-0650.csv,
+大陸暦年,464 C.C.,,1,container-0650.csv,
+大陸暦年,546 C.C.,,1,container-0650.csv,
+大陸暦年,548 C.C.,,1,container-0650.csv,
+大陸暦年,549 C.C.,,1,container-0650.csv,
+大陸暦年,582 C.C.,,1,container-0650.csv,
+大陸暦年,630 C.C.,,1,container-0650.csv,
+大陸暦年,754 C.C.,,1,container-0650.csv,
+大陸暦年,308 C.C.,,1,container-0650.csv,
+大陸暦年,564 C.C.,,1,container-0650.csv,
+大陸暦年,627 C.C.,,1,container-0650.csv,
+大陸暦年,730 C.C.,,1,container-0650.csv,
+大陸暦年,748 C.C.,,1,container-0650.csv,
+大陸暦年,773 C.C.,,1,container-0650.csv,
+大陸暦年,705 C.C.,,1,container-0650.csv,
+大陸暦年,555 C.C.,,1,container-0650.csv,
+大陸暦年,112 C.C.,,1,container-0650.csv,
+大陸暦年,390 C.C.,,1,container-0650.csv,
+大陸暦年,423 C.C.,,1,container-0650.csv,
+大陸暦年,539 C.C.,,1,container-0650.csv,
+大陸暦年,554 C.C.,,1,container-0650.csv,
+大陸暦年,563 C.C.,,1,container-0650.csv,
+大陸暦年,573 C.C.,,1,container-0650.csv,
+大陸暦年,800 C.C.,,1,container-0650.csv,
+大陸暦年,346 C.C.,,1,container-0650.csv,
+大陸暦年,468 C.C.,,1,container-0650.csv,
+大陸暦年,599 C.C.,,1,container-0650.csv,
+大陸暦年,659 C.C.,,1,container-0650.csv,
+大陸暦年,375 C.C.,,1,container-0650.csv,
+大陸暦年,489 C.C.,,1,container-0650.csv,
+大陸暦年,662 C.C.,,1,container-0650.csv,
+大陸暦年,776 C.C.,,1,container-0650.csv,
+大陸暦年,333 C.C.,,1,container-0650.csv,
+大陸暦年,622 C.C.,,1,container-0650.csv,
+大陸暦年,650 C.C.,,1,container-0650.csv,
+大陸暦年,769 C.C.,,1,container-0650.csv,
+大陸暦年,796 C.C.,,1,container-0650.csv,
+大陸暦年,802 C.C.,,1,container-0650.csv,
+大陸暦年,146 C.C.,,1,container-0650.csv,
+大陸暦年,418 C.C.,,1,container-0650.csv,
+大陸暦年,450 C.C.,,1,container-0650.csv,
+大陸暦年,586 C.C.,,1,container-0650.csv,
+大陸暦年,601 C.C.,,1,container-0650.csv,
+大陸暦年,681 C.C.,,1,container-0650.csv,
+B W H,<0068>80<0069><006A>54<0069><006B>80,,1,container-0650.csv,
+B W H,<0068>84<0069><006A>56<0069><006B>83,,1,container-0650.csv,
+三姉妹平均値,Average of the three sisters,,1,container-0650.csv,
+B W H,<0068>88<0069><006A>58<0069><006B>87,,1,container-0650.csv,
+B W H,<0068>83<0069><006A>60<0069><006B>85,,1,container-0650.csv,
+B W H,<0068>82<0069><006A>58<0069><006B>84,,1,container-0650.csv,
+B W H,<0068>86<0069><006A>60<0069><006B>85,,1,container-0650.csv,
+B W H,<0068>82<0069><006A>57<0069><006B>82,,1,container-0650.csv,
+B W H,<0068>79<0069><006A>55<0069><006B>80,,1,container-0650.csv,
+B W H,<0068>86<0069><006A>60<0069><006B>84,,1,container-0650.csv,
+B W H,<0068>79<0069><006A>55<0069><006B>78,,1,container-0650.csv,
+B W H,<0068>83<0069><006A>59<0069><006B>84,,1,container-0650.csv,
+B W H,<0068>80<0069><006A>56<0069><006B>81,,1,container-0650.csv,
+B W H,<0068>84<0069><006A>58<0069><006B>85,,1,container-0650.csv,
+B W H,<0068>83<0069><006A>58<0069><006B>85,,1,container-0650.csv,
+B W H,<0068>88<0069><006A>62<0069><006B>86,,1,container-0650.csv,
+B W H,<0068>79<0069><006A>54<0069><006B>78,,1,container-0650.csv,
+"運命の三女神の三女で、戦乙女ヴァルキリーの一人。
+転生し、ディパン王女アリーシャとして生を受けるはずだったが、ヴァルキリーの転生を操る呪法『王呼の秘法』が不完全に発動したため、ヴァルキリーとしての記憶と力の一部を所持したまま、当時帯同していたエインフェリア共々、アリーシャの肉体に転生してしまった。
+そのため、一つの身体にアリーシャとシルメリアの二つの魂が共存するという、不遇な生を送る事になってしまう。
+アリーシャと共存している時は、自らの意思で意識の表層に出て肉体を支配する事もできたが、不安定な存在ゆえ長く留まる事はできなかった。
+肉体を支配している時は、マテリアライズや光子といったヴァルキリーとしての力を発揮する事もできた。","One of the three valkyries, goddesses who govern
+fate.
+ 
+Silmeria was supposed to have been reborn as
+Alicia, Princess of Dipan<808C>",,1,container-0650.csv,
+"不死者の中でも最強の力を持つ者。それゆえ不死者王とも呼ばれている。
+四宝の一つであるドラゴンオーブをその手に欲したオーディンにより狙われ、過去幾度と無く戦いを繰り返していた。
+そもそも、ミッドガルドを支えるドラゴンオーブが長きに亘って失われた場合、本来は混乱が起こるどころではなく、地上そのものが消滅する危険性があった。消滅までは望んでいなかったオーディンは、オーブの代用品として『力有る者の魂』を利用する事を考え付く。代用品さえ地上にあれば、混乱を収める事はできなくとも、かろうじて地上を支える事は可能だと踏んだのである。
+そしてその候補として、不死者王であるブラムスを狙っていた。
+だが戦いの最中、ブラムスはすんでのところでシルメリアに助けられ、オーディンの策は失敗に終わる。
+九死に一生を得たブラムスだったが、負わされた傷は予想以上に深く、癒すには場所と時が必要だった。そのため、シルメリアのエインフェリアの一人だったディランに眼をつけ、密かに乗り移り、シルメリアの中で静かに時を待っていた。ディランとしてマテリアライズされた後は、オーディンの横暴を戒めたいと願うシルメリアと思惑が一致している事と、オーディンの策から逃がしてくれたという恩義もあり、正体を伏せたまま行動を共にしていた。","The most powerful of the undead, often referred
+to as the Lord of the Undead.
+ 
+Brahms has been targeted in Odin's quest for
+the Dragon Orb, one of the Four Treasures. They
+have fought and continue to fight many battles.
+ 
+If the Dragon Orb is away from Midgard for a
+long period of time, not only would there be
+chaos, but the world itself would be on the
+brink of destruction. Not wanting Midgard to
+be completely destroyed, Odin opted to replace
+the orb with a powerful soul, and though he
+realizes a replacement may not be able to stop
+the chaos, it should assist in keeping the world
+in order. Brahms was to serve as the replacement,
+but just as Brahms was about to be captured by
+Odin, Silmeria came to his rescue.
+ 
+Suffering from a near fatal wound, Brahms
+transferred his soul into Dylan, an einherjar of
+Silmeria's, in search of a place to rest and heal.
+After materializing as Dylan, he decided to
+accompany Silmeria, who shares his desire to
+punish Odin and to whom he owes his life, all
+the while concealing his identity.",,1,container-0650.csv,
+"世界を気ままに放浪する青年。
+ディパンに向かう途中、港町ゾルデで足止めを食っていたところ、シルメリアに指示されたアリーシャに同行を求められる。
+何かの目的があって、ディパンに向かう途中だったらしいが…。","A young traveler who wanders the world as he
+pleases.
+ 
+While stuck in Solde on his way to Dipan, Alicia
+invites Rufus to join her (per Silmeria's orders).
+ 
+Rufus must have had a reason for heading to
+Dipan, but it remains unclear...",,1,container-0650.csv,
+"ディパンの三賢者の下で、研究に従事していた魔導師。
+その力と知識は三賢者に勝るとも劣らず、新参でありながらかなりの期待を寄せられていた。
+しかし、神をも恐れぬ研究内容に次第に恐れと不安を抱き、止める術を密かに模索していたところ、ディパン城内にアリーシャ達が侵入してきたという報を受ける。
+これを好機と見たレザードは、三賢者に捕まる寸前だったアリーシャ達の危機を救うと共に、自身もディパンから離反。研究を止めるために、共にドラゴンオーブを求める旅に出る。","A sorcerer who worked with the Three Mages,
+assisting in their various experiments.
+ 
+Lezard possessed power and knowledge equal to
+that of the mages, and their expectations for
+him were high.
+ 
+However, he began to worry and felt
+uncomfortable with the dangerous research
+they were conducting, and thus he began
+secretly working on a plan to disrupt their work.
+During this time, he caught wind of Alicia and her
+companions entering the castle.
+ 
+Seizing this opportunity, he saved Alicia and
+her friends by teleporting them and himself out
+of Dipan. He joins them on their journey in
+search of the Dragon Orb<808C>",,1,container-0650.csv,
+"レオーネと行動を共にする傭兵。
+口では「金のためなら何でもする」とは言っているが、納得のいかない仕事は、雇い主であれ反旗を翻す気骨を持っている。
+レオーネとは出会って間もないが、その戦士としての力を即座に見抜き、密かに一目を置いている。","A mercenary traveling alongside Leone.
+ 
+Although Arngrim claims to take on any paying
+job, he is dignified and contests any job in
+which he finds no merit.
+ 
+He has not known Leone very long, but respects
+her greatly, as he immediately recognized her
+strength as a warrior.",,1,container-0650.csv,
+"シルメリアによってマテリアライズされたエインフェリア。元は約年前のディパンに生きた忠誠の戦士。
+シルメリアが『王呼の秘法』で転生させられた時、たまたまエインフェリアとして帯同していたために、一緒にアリーシャの肉体に宿る事になってしまった。
+不完全な転生に巻き込まれたエインフェリア達は魂が劣化してしまっていたが、ディランは魂の状態が良く、マテリアライズされた直後も普通の人間として不足なく行動する事ができたため、ディパンの王女であるアリーシャの護衛を買って出た。","An einherjar materialized by Silmeria, and a loyal
+soldier of Dipan who lived approximately 150
+years ago.
+ 
+Dylan happened to be accompanying Silmeria
+when she was transmigrated by the Sovereign's
+Rite, and thus he came to reside within Alicia
+as well.
+ 
+While other transferred einherjar souls
+deteriorated, Dylan's remained strong, as did
+his body upon materialization. Thus, he was
+summoned forth to protect the princess of
+Dipan, Alicia.",,1,container-0650.csv,
+"アリューゼと行動を共にする女戦士。
+普段は気さくで柔らかな物腰だが、一度戦いが始まれば情け容赦なく敵を殲滅する。
+だが、長らく続いた平和ゆえかその腕を活かせる場所が無く、トレジャーハンターとして財宝を求め、遺跡を巡っていた。
+その途中、伝説の秘宝ドラゴンオーブを探しに来たアリーシャ達と出会い興味を示し、行動を共にするようになる。","A female warrior traveling with Arngrim.
+Underneath Leone's friendly, feminine exterior
+lies a merciless warrior.
+ 
+However, with the world in its peaceful state,
+she puts her fighting skills to use by becoming
+a treasure hunter, journeying through ruins
+looking for riches.
+ 
+During her travels, she meets Alicia and the
+others and decides to accompany them in their
+pursuit for the Dragon Orb.",,1,container-0650.csv,
+"運命の三女神の長女で、現在のヴァルキリー。
+オーディンの命に従う忠実な部下である。
+密命により人間の姿を借りてドラゴンオーブを探索していたが、ミッドガルドにてシルメリアが不完全な覚醒をなした事を察知したオーディンから、神界に連れ戻すよう言い渡される。
+アーリィの手から逃れたシルメリアが、ミッドガルドを救うためにドラゴンオーブを探していると知ったオーディンは、しばらく泳がせるよう指示を変更。アーリィは人間レオーネを名乗り、傭兵アリューゼとともにアリーシャ一行に接近した。
+波動を感じたシルメリアが、己の正体を見破っている事を承知しながらも、直接対決を怖れていると見たアーリィはそのまま芝居を続ける。そして奉竜殿にてドラゴンオーブの奪取に成功した。
+しかし、アリーシャ達と共に旅をした時間と想いはアーリィの心を動かし、世界を救うため、仲間としてレザードの創った世界に乗り込む事となった。","The eldest of the three goddesses of fate, and
+the present Valkyrie. A loyal subject of Odin.
+ 
+Hrist is ordered to search for the Dragon Orb in
+human form until Odin learns that Silmeria has
+awakened in an incomplete state on Midgard. She
+is ordered to look for her and bring her back to
+the heavens.
+ 
+When Odin finds out that Silmeria is pursuing
+the Dragon Orb to save Midgard, he changes his
+orders and has Hrist leave Silmeria be. Hrist
+assumes the human form of Leone, and encounters
+Alicia and friends accompanied by the mercenary
+Arngrim.
+ 
+Hrist was aware Silmeria could see through her
+guise, but continued to play the role of Leone
+after realizing Silmeria feared confrontation.
+She succeeded in seizing the Dragon Orb
+thereafter at the Palace of the Venerated
+Dragon.
+ 
+However, she later reflects on the time she
+spent with Alicia and company and elects to ally
+with them to save their world by going into
+Lezard's twisted realm.",,1,container-0650.csv,
+"運命の三女神の次女。だがこの時代のレナスではなく、未来からやってきたもう一人のレナスである。
+神々の黄昏『ラグナロク』の後に世界を再生し、新たな時代の創造神となったレナスだったが、その世界に異変が起こりつつあった。
+異変の原因が過去にあると知ったレナスは、その背後に、かつて対峙した錬金術師レザードの思惑を感じ取る。
+間近に迫った世界崩壊を阻止し、愛する者達の世界をその手で守るため、レナスは自ら過去に乗り込む事を選択した。","The second of the three goddesses of fate.
+ 
+However, this is not the Lenneth of the present,
+rather another Lenneth from the future.
+ 
+Lenneth becomes the creator of the new era
+after Ragnarok, but begins to notice unexpected
+changes occurring to her world.
+ 
+When she realizes these changes were appearing
+due to incidents in the past, she suspects that
+the alchemist Lezard is behind it all.
+ 
+To save the world from destruction, she goes to
+the past to save the world of those she loves
+herself.","A segunda das três deusas do destino.
+ 
+No entanto, esta não é a Lenneth do presente, mas sim outra Lenneth vinda do futuro.
+ 
+Lenneth torna-se a criadora da nova era após o Ragnarok, mas começa a perceber mudanças inesperadas ocorrendo em seu mundo.
+ 
+Ao perceber que essas mudanças surgiam devido a acontecimentos no passado, ela suspeita que o alquimista Lezard esteja por trás de tudo.
+ 
+Para salvar o mundo da destruição, ela retorna ao passado para salvar, com as próprias mãos, o mundo daqueles que ama.",1,container-0650.csv,
+"運命の三女神、アーリィ、レナス、シルメリアが融合した、言わば『真なるヴァルキリー』。
+その力は数多の神々を超え、文字通り運命さえも従える。","The one true valkyrie, created by combining
+Hrist, Lenneth, and Silmeria, the three
+goddesses of fate.
+ 
+Holds more power than multiple gods, and
+literally has the power to control even fate.",,1,container-0650.csv,
+"ディパン王バルバロッサと王妃マルベスの間に生を受けた、ディパンの第一王位継承者。
+だがその身にはヴァルキリーであるシルメリアの魂までも宿っており、二つの人格を持って生きる運命を強いられた。
+生後間もなくシルメリアが覚醒してしまった事で、アリーシャは幼い頃から常にシルメリアの「語りかけ」を受け、無意識のうちに不可思議な発言を繰り返していた。
+当初は幼いゆえの言動と受け取っていたバルバロッサだったが、何も知らないはずのアリーシャがディパン王族に伝わる悲劇を語りだしたため、アリーシャがシルメリアである事を疑うようになる。
+やがてアリーシャが成長すると、徐々にシルメリアの意識が表層に出始めた。
+そして、その特異な能力を発動させるようになったため、周囲の目を欺き通せないと感じたバルバロッサにより、アリーシャは死んだものとされてしまう。
+そして密かに遠方の地へと送り出され、旅立つその時まで、軟禁に近い生活を送っていた。","The daughter born to King Barbarossa and Queen
+Malabeth of Dipan, and first in line to the throne.
+ 
+Alicia is cursed with a dual personality; her body
+serves as a host for the soul of the valkyrie
+Silmeria.
+ 
+Soon after Alicia's birth, Silmeria awoke and
+began to indoctrinate her. Alicia would then
+repeat what she was told<808C>",,1,container-0650.csv,
+"神々により滅ぼされたディパンの第一王女。
+常に共にあったシルメリアとも引き裂かれ、心が折れそうになりながらも、ディパンのような悲劇を二度と繰り返してはいけないという想いから、奪われたドラゴンオーブを取り戻して、ミッドガルドを救おうと決意する。
+そのためにはオーディンと闘う事も、そして自らの身を犠牲にする事も厭わないという、強い覚悟を胸に秘めている。","First in line to the throne of Dipan, the city
+destroyed by the gods.
+ 
+When Silmeria leaves her, she is uncertain of
+her abilities, but she vows to retrieve the
+Dragon Orb and save Midgard so that a tragedy
+like Dipan's is never repeated.
+ 
+Alicia becomes determined to do whatever it
+takes, whether it means battling Odin or even
+sacrificing her own life.",,1,container-0650.csv,
+"常にオーディンの傍らに控える女神。
+オーディンからの信頼も厚く、全ての命令はフレイを通して行われている。
+無から有を作り出す力を持つため、人々からは豊穣神と崇められている。
+だが、生命を創り出す力を持つ反面、強大な破壊力をも有しており、彼女に逆らった者は、その力の前に必ず膝を折る事になる。","A goddess who serves Odin.
+ 
+Freya has Odin's complete faith; he entrusts
+her to carry out all of his orders.
+ 
+People worship her as the Goddess of Fertility,
+as she has the power of creating matter from
+nothing.
+ 
+However, along with the power of creation, she
+also holds the power of destruction. Those who
+cross her are destined to kneel before her wrath.","Uma deusa que serve a Odin.
+ 
+Freya possui a total confiança de Odin; ele a encarrega de cumprir todas as suas ordens.
+ 
+As pessoas a veneram como a Deusa da Fertilidade, pois ela possui o poder de criar matéria a partir do nada.
+ 
+No entanto, além do poder da criação, ela também detém o poder da destruição. Aqueles que a desafiam estão destinados a se ajoelhar diante de sua ira.",1,container-0650.csv,
+"オーディンと同じハーフエルフの体を持つがゆえに、専用の神の器とされてしまった青年。
+ハーフエルフは希少で滅多に生まれる事は無く、現在はオーディンとルーファスのみである。
+もしオーディンの本体が消滅するような事態になった場合は、器であるルーファスに自動的にオーディンの精神が移動するようになっている。
+オーディン専用の器のため、他のエルフ達の手によって精霊の森の奥深くに閉じ込められていたが、何とか森を脱出し、その後は気の向くまま人間界を放浪している。
+だがその手には、オーディンの器である事を示す『ミュリンの指輪』が外れる事なく輝いている。
+運命を諦観し、放浪の旅を続けていたルーファスだったが、ディパンが「神に対抗する研究を行っている」との噂を聞き、もしかすると己の運命から逃れる事ができるかもしれないとの微かな希望を抱く。
+そしてディパンへ向かう途中、港町ゾルデにてアリーシャと出会った。","A half-elf just like Odin, Rufus is a vessel of
+the gods.
+ 
+Half-elves are a rare breed; Rufus and Odin
+are currently the only ones of their race.
+His purpose as a vessel is to hold Odin's
+soul if the body of Odin should wither.
+ 
+As Odin's vessel, he is sealed deep within the
+Forest of Spirits by the other elves, but
+manages to escape and wanders the human land
+as he pleases.
+ 
+Yet on his finger shines the Ring of Mylinn,
+an irremovable reminder that he is the vessel
+of Odin.
+
+Resigning himself to his fate, Rufus continues
+his travels. One day, he hears a rumor of Dipan
+conducting research to retaliate against the
+gods and sees it as the chance to escape his fate.
+ 
+On his way to Dipan, he meets Alicia at the
+Solde harbor.",,1,container-0650.csv,
+"身の丈ほどもある巨大な剣をふるう傭兵。
+行動を共にしていたレオーネが実は戦乙女であり、かつ自分を利用していたと知って反旗を翻すが、その圧倒的な力の前に崩れ落ち、エインフェリアにされてしまった。
+その後はアーリィのエインフェリアとして、諦めにも似た気持ちの中ディパン襲撃に参戦したが、神の人間界に対する冷淡さに、次第に不満を持ち始める。
+燻る想いを抱えていた頃、ヴァルハラ宮殿へ乗り込んできたアリーシャ達と再会。
+主神であるオーディンに戦いを挑んだ事を知り、その心の強さに頭をたれ、再び共に行動する事を願い出た。","A mercenary who carries a giant sword.
+ 
+When he realizes Leone is a valkyrie that had
+been using him all along, Arngrim defies her,
+but she destroys him easily and makes him an
+einherjar.
+ 
+He reluctantly becomes Hrist's einherjar for
+the raid on Dipan. Yet afterward, he grows
+displeased with the indifferent arrogance the
+gods bear towards mortals.
+ 
+It is at this time he bumps into Alicia and
+Rufus again, in Valhalla Hall. He respects
+their determination to fight Odin, and together
+they set out once again.",,1,container-0650.csv,
+"大陸全土を又に掛けるトレジャーハンター集団トゥルースのメンバーの一人。
+幼き頃から父と共に冒険を続け、幾匹もの魔物と渡り合い数多の遺跡を発見したという生粋のトレジャーハンター。
+大陸暦年、アルトリア街道を南に外れた砂漠地帯において、古代王朝時代の国王の墳墓を発見したという報告をトゥルース本部に入れたのを最後に消息を絶った。","A member of Truth, a band of treasure hunters
+spanning the entire continent.
+ 
+A treasure hunter through and through, Lwyn
+traveled with her father from a young age,
+slaying numerous monsters and discovering
+countless relics and ruins.
+ 
+She was last heard from in 346 C.C., in the
+desert region to the south of Artolia Pass.
+ 
+She disappeared soon after reporting to Truth
+Headquarters regarding her discovery of an
+ancient dynasty's royal tomb.",,1,container-0650.csv,
+"ネルソフ地方の商家の出身。
+裕福な商家に生まれ、本来ならば血生臭い世界とは無縁の生活を歩むはずの彼女であったが、ある日を境に運命が急転してしまう。
+町で一番の富豪であった父が商売敵に陥れられて、財産を全て奪われた上に殺されたのである。
+家の没落によって、決まっていた婚約も破談となった彼女は、日々の糧を得るために冒険者の道を選ぶ事になる。
+大陸暦年、冒険の最中に立ち寄った遺跡で巨大な宝石を発見。その宝石が邪悪な竜を封じたものである事を知らない彼女はその宝石を外してしまうのであった。","Raised by a merchant family in the Nethov region.
+ 
+A girl of such a prosperous upbringing should
+never have been exposed to the brutishness of the
+world, but one day her destiny took a sudden turn.
+Her father, the wealthiest man in the town, was
+ensnared in a trap that cost him his entire
+fortune<808C>",,1,container-0650.csv,
+"かつて大陸北西部に存在したアークダイン王国の西方地域を治めていたレオン王領伯直属の部隊である白百合戦士団の団長で、カミール丘陵の大戦で最も有名な将であると言われるカミール将の一人として『白銀のリシェル』の二つ名を持つ人物。
+大陸暦年に、レオン王領伯の命を受け、カミール丘陵の大戦に参戦。その卓越した剣技によって崩壊しつつあった防衛線を支え、山岳地帯の向こうまで敵を押し返し勝利を収めた。
+終戦後、年ほど前線地域の指揮を執っていたが、大陸暦年に本国への帰還命令を受けて帰国。だが帰国中に差し掛かったゴーラ地方の街道において、部隊ごと行方不明になった。","A captain of the Knights of the White Lily,
+Count Leon's royal guard. The count's domain
+was the western territory of what was once the
+Arkdain Kingdom, located in the northeast of
+the continent.
+ 
+Richelle was one of Camille's renowned
+""Seventeen Commanders"" in the War of Camille
+Hill, and was later dubbed ""Richelle of the
+Shimmering Samite."" In 574 C.C., under orders
+from the count, Richelle fought in the War of
+Camille Hill. Her superior swordsmanship saved
+a defensive line from the brink of collapse and
+drove the enemy back into the mountains,
+resulting in victory.
+ 
+She commanded the frontline patrols for two years
+following the war and was eventually ordered
+home in 577 C.C. However, on the way home, the
+entire guard went missing after visiting a town
+in the Gorhla region.",,1,container-0650.csv,
+"かつて大陸北西部に存在したアークダイン王国の王弟、レオン王領伯直属の部隊である白百合戦士団の団長であった女性。
+大陸暦年にレオン王領伯に付き従い、粗暴な行いが多く見られるようになっていた国王に対して反旗を翻した。
+大陸暦年まで続くアークダインの騒乱と呼ばれるこの戦いにおいて、王弟レオン王領伯の右腕として戦い続けたのが彼女である。
+アークダイン王都への侵攻を行った際、国王の腹心である血剣騎士団の団長との一騎打ちを行い、その剣を振るう事なく命を落とした。
+死の最中に王弟派の勝利を確信したのか、その死に顔は穏やかであったという。","A captain of the Knights of the White Lily,
+Count Leon's royal guard. Count Leon was the
+younger sibling of the King of Arkdain.
+The Arkdain kingdom once existed in the
+continent's northwest.
+ 
+In 579 C.C., Fraudir accompanied the count in
+revolting against the king and his corrupt ways.
+In the battles known as the Arkdain Uprising
+that raged until 581 C.C., she fought as Count
+Leon's right-hand guard.
+ 
+After invading central Arkdain, she faced a
+captain of the Knights of the Bloodsword in a
+duel. She lost her life without the chance to
+unsheathe her sword.
+ 
+However, she died with a content look on her
+face, knowing the count had succeeded in
+achieving his goal.",,1,container-0650.csv,
+"全世界を巻き込んだカミール丘陵の大戦に大陸暦年から年にわたってディパン公国軍を率いて参戦。
+その数多の戦功に、大戦で最も有名な将であると言われるカミール将の一人として数えられ『斬鉄姫セレス』とまで称されているのが彼女である。
+戦争終結後はラッセンの領主と婚姻を結び平穏な日々を過ごしていたが、大陸暦年、夫の不在時に、当時大陸南部に存在したロゼッタ王朝からの侵攻を受け捕虜となってしまう。
+俗にラッセンの奇襲と呼ばれるこの戦いから、再び大陸全土を巻き込む年戦争が始まる事になるのだが、以降の戦いにはロゼッタ王朝の国家騎士団であるナイトオブサンの黒光将軍として参加。倍とも言われるディパン公国の水軍相手に戦いを続ける。
+年戦争末期、ロゼッタの戦いにおいて、実の妹であるディパン王女フィレスから受けた矢傷が元となり、年後に死亡した。","Celes led the troops of Dipan in the War of
+Camille Hill from 573 C.C. to 576 C.C.
+ 
+Her myriad battle tactics earned her a position
+as one of the Seventeen Commanders of Camille,
+and also earned her the moniker ""Warrior
+Princess Celes.""
+ 
+After the war, she married the lord of Lassen
+and lived a peaceful life. However, in 581 C.C.,
+the Rosetta Dynasty, a power existing in the
+south of the continent, launched an invasion that
+resulted in her capture while her husband was
+away.
+ 
+This battle, known as the Lassen Invasion, was
+the cause of the Year-Long War, which ended with
+the whole continent's involvement. Celes
+participated in this war as Eclipse General of
+the Knights of the Sun. They fought against
+Dipan's navy, which was said to be ten times
+the size of their army.
+ 
+Near the end of the Year-Long War, she was
+wounded at the Battle of Rosetta by her birth
+sister Phyress, Queen of Dipan. She died two
+years later as a result of the wound.",,1,container-0650.csv,
+"ジェラベルン地方の中級貴族の出身。
+大陸暦年、わずか歳の時に近隣都市から突然の襲撃を受けた彼女は、当時雇用していた傭兵の手によって一人だけ落ち延びる事に成功する。
+この突然の襲撃から、後の世にカミール丘陵の大戦と呼ばれる年にも及ぶ戦乱の時代が幕を開けるのだが、未だ幼い彼女は大国によって便利に使われる政治の道具としてしか存在価値を認められなかった。
+戦争が終結し、かつて父の領地であった土地に戻ってきた彼女が見たものは、以前と変わらず主として君臨している継母の姿であった。
+かつては母と呼んでいた人物に剣を向けられた彼女は、都市への襲撃そのものが継母の手引きによるものであった事を知り復讐を果たす。
+その後、命の恩人に当たる傭兵と共に世界を放浪。大陸暦年に、当時大陸南部に存在したロゼッタ王朝に仕官する。
+その後は、国家騎士団であるナイトオブサンの白光軍将軍に任命され、大陸暦年からの
+年戦争に参戦する事になる。
+アルトリア街道の攻防の後、消息不明。
+その遺体は最後まで発見されなかった。","An aristocrat from Gerabellum.
+ 
+Crescent was only ten years old when the
+neighboring city suddenly attacked in 572 C.C.
+She managed to escape with the help of a
+mercenary.
+ 
+This sudden attack began an era of war from
+what would later be called the War of Camille
+Hill, a battle that lasted four years. 
+However, because of her young age, Crescent was
+merely used as a bargaining chip by the kingdom
+for political purposes.
+ 
+After the war, she returned home, only to find
+her stepmother still holding reign over her
+father's land.
+ 
+The one she once called mother threatened her.
+She realized the attack itself was her
+stepmother's plot and exacted revenge.
+Afterwards, she and her heroic mercenary traveled
+the world. In 580 C.C., she enlisted with the
+Rosetta Dynasty, a power that once existed in
+the south of the continent.
+ 
+She joined the royal guard, the Knights of the
+Sun, and was appointed Meridian General. In
+581 C.C., she joined the Year-Long War.
+ 
+She vanished after the Battle of Artolia Pass.
+Her body was never found.",,1,container-0650.csv,
+"物心ついた時よりディパン王女フィレスの付き人をしており、そのままなし崩し的に王女に付き従い、大陸全土を巻き込んだ年戦争に参加するはめになった人物。
+彼女自身は戦には向いていなかったが、彼女の使う回復魔法は、フィレス王女の危機を幾度となく救ったと伝えられている。
+年戦争末期に発生したロゼッタの戦いにおいて命を落としかけるが、同行していた仲間の力によってどうにか一命を取り留めた。
+帰国後はディパンの教会で静かに過ごしていたが、大陸暦年から始まる『ニブルヘイムの霧』と呼ばれる暗黒時代の最中のある日、不死者の手によって殺害されている姿が発見された。","An attendant of Dipan's Queen Phyress for as long
+as she can remember, Sylphide stood by the
+queen's side unquestioningly and ended up
+fighting in the year-long war that raged across
+the continent.
+ 
+Though not suited for war, the healing magic she
+wielded is said to have saved Queen Phyress from
+myriad dangers. 
+ 
+Sylphide almost lost her life near the war's end
+in the Battle of Rosetta, but was rescued from
+the clutches of death by a companion.
+ 
+Upon her return, she spent her days quietly in
+Dipan's chapel, but she was found murdered by the
+undead during the ""Mist of Nifleheim""<808C>",,1,container-0650.csv,
+"大陸南西にあるラッセンの町の出身。
+歴史上の英雄である斬鉄姫セレスの子孫を名乗って、かつて大陸北西に存在したアークダイン王国に士官し、ヴィルノアとの戦争に参加した人物。アークダイン王国とヴィルノアとの戦いで数々の武勲をあげた。
+セレス将軍の知名度とそれに勝るとも劣らない彼女の戦いぶりに勇気付けられたアークダインの兵士は、どれほど疲れていようと再び戦う力を取り戻したと言われている。
+大陸暦年、水上神殿の戦いにおいて奮戦するも、ヴィルノア軍の計略によって神殿ごと水没させられて死亡した。
+セレス将軍の子孫を名乗った彼女であったが、本当は只のさえない商家の出身であった。","Raised in Lassen, a town in the southwest of
+the continent.
+ 
+Tyrith claimed to be the descendent of the
+Warrior Princess Celes, a heroine who lived
+more than 100 years ago. She sided with Arkdain,
+which once existed in the northwest of the
+continent, and contributed tremendously in the
+battle against Villnore.
+ 
+She became as famous and as strong, if not
+stronger, than Celes, giving her soldiers courage
+to fight even at their most exhausted.
+ 
+In 658 C.C., during the Battle of the Lake
+Temple, the Villnore army's strategic plans
+sank the temple, killing Tyrith in the process.
+ 
+Although she claimed she was related to General
+Celes, she was actually a mere merchant's
+daughter.",,1,container-0650.csv,
+"大陸北西にある鉱山の出身。戦士でありながら歴史に名を残す刀匠でもある女性。
+原初の秘法と呼ばれる技術に通じ、彼女によって鍛えられた刀剣は岩をも切断し、彼女によって作られた鎧は弓矢を弾き返したと伝えられている。
+ヴィルノア建国の立役者の一人。
+だが、その秘法を誰に伝える事もないまま、
+歳という若さで戦死した。
+","From the mines in the northwestern region of
+the continent. Circe was both a warrior and a
+legendary swordsmith.
+ 
+Using the Secret Law of Principles, it was said
+her swords could cut through the hardest of
+rock, and her armor could repel even the
+sharpest of arrows.
+ 
+One of the founders of Villnore. She died in
+battle at the age of 24 before she could pass
+on her knowledge of the Secret Law.",,1,container-0650.csv,
+"砂漠の町カルスタッドの出身。
+当時、新興国家として勢力の拡大を続けていたクレルモンフェラン王国から町を守った英雄の一人。
+地形についての知識が広く、水源を完全に押さえる事で、自分たちより遥かに数の多いクレルモンフェランの軍から町を守り続けた。
+大陸暦年の第次カルスタッド侵攻の際に深手を負い、自分がもっとも愛した人物に背中を預けたまま死亡。
+後に彼女の死を知ったクレルモンフェランの軍は、カルスタッドを落とす唯一無二の機会を逃したと言ったと伝えられている。","From the desert town Kalstad.
+ 
+Rasheeka was one of several heroes who protected
+the town from the spreading forces of the
+powerful Crell Monferaigne.
+ 
+With her knowledge of the land and by controlling
+the water supply, she managed to protect the
+town from the colossal Crell Monferaigne army.
+In 724 C.C., she received a fatal wound during
+the Fourth Kalstad Invasion and died in the
+arms of her lover.
+ 
+When the Crell Monferaigne army later heard of
+her demise, they immediately regretted missing
+the opportunity to take Kalstad.",,1,container-0650.csv,
+"ジェラベルンの辺境出身の冒険者。
+両親の仇である不死者を憎んでおり、不死者の王であるブラムスを退治する事にその一生を捧げた人物。
+単純に剣の腕を磨くだけではなく罠や呪術の知識をからめ、ありとあらゆる手段を用いての戦いを得意としていた。
+その執念が実を結び、不死者王の興味を引いた時に彼はその命を落とす事になってしまったのであるが。","An adventurer from the outskirts of Gerabellum.
+ 
+Blaming the undead for the death of his parents,
+Falx spent his entire life seeking vengeance by
+defeating Brahms, the Lord of the Undead.
+ 
+Falx not only excelled in wielding a sword, but
+also used his knowledge of contraptions and
+sorcery to his advantage in battles.
+ 
+After his extraordinary fighting skills finally
+caught Brahms's eye, he soon lost his life.",,1,container-0650.csv,
+"当時大陸北東部に存在した、パルティア公国の要所であるネルソフの町出身の戦士。
+彼は町の近隣に出没するようになったドラゴンを退治すべく、ネルソフの領主が広く兵を募集した際に、その呼びかけに応じた一人である。
+彼を含めた人の兵が竜の住処に向かい戦いを挑んだ。
+激戦の末に彼の剣が竜の胸を貫いた瞬間、その心臓から強い毒素を含む血が流れ出し、その場にいた兵士達はおろか、ネルソフ一帯の生あるもの全てを死滅させたと伝えられている。","A warrior from Nethov, a town vital to the
+Principality of Paltierre, a power that ruled
+the northeast of the continent.
+ 
+Gerald was one of many who volunteered to slay
+a dragon<808C>",,1,container-0650.csv,
+"当時のディパン公国軍の指揮官であったセレス王女の副官としてカミール丘陵の大戦に参加。
+王女と供にカミール将に数えられる武勲を立て『豪刃のギルム』の二つ名で呼ばれた。
+その後、与えられた将軍の地位を蹴り、一兵卒として国に仕えていたが、年後のラッセンの奇襲より始まる年戦争にはセレス王女の妹であるフィレス王女の供として、再度参戦する事になる。
+大陸暦年、年戦争末期のロゼッタの戦いにおいて、命を落とした仲間に対し換魂の法を行い、その生涯を閉じた。","Guilm participated in the War of Camille Hill
+to aid Queen Celes, the leader of the Dipan
+army.
+ 
+He was considered one of the Seventeen
+Commanders, and was given the nickname
+""Baron Blade Guilm.""
+ 
+After the war, he resigned from his position
+as general, and served his country as a mere
+soldier. However, during Lassen's Invasions
+six years later, he participated in the battle
+alongside Queen Celes's sister, Queen Phyress.
+ 
+In 581 C.C., during the Battle of Rosetta near
+the end of the Year-Long War, he laid down his
+life to recover the life of a friend he had lost.",,1,container-0650.csv,
+"かつて大陸北西部に存在したアークダイン王国の国家騎士団である血剣騎士団団長で、カミール丘陵の大戦でもっとも有名な将であると言われるカミール将の一人として『雷鳴のローランド』の二つ名を持つ人物。
+大陸暦年にアークダイン国王の命を受け、カミール丘陵の大戦に参戦。
+比類なき指揮能力を発揮し、崩壊しつつあった防衛線を整え、山岳地帯の向こうまで敵を押し返す事に成功した。
+終戦後、年ほど前線地方の指揮を執っていたが、大陸暦年に本国への帰還命令を受けて帰国。だが、その旅路の最中に、ゴーラ地方での報告を最後に行方不明となった。","Captain of the Knights of the Bloodsword, crown
+defenders of the Arkdain Kingdom that once
+spanned the continent's northwest.
+ 
+Roland was one of Camille's renowned Seventeen
+Commanders in the War of Camille Hill, and was
+later dubbed ""Roland of the Thunder Cry.""
+ 
+In 574 C.C., by order of the king of Arkdain,
+Roland fought in the War of Camille Hill. His
+unparalleled strategic command saved a defensive
+line from the brink of collapse and drove the
+enemy back into the mountains.
+ 
+He commanded the frontline patrols for two years
+following the war and was eventually ordered
+home in 577 C.C. However, he went missing,
+and was last reported seen in the Gorhla region.",,1,container-0650.csv,
+"元々はジェラベルン地方を中心に、傭兵をして生活をしていたが、大陸暦年に始まったカミール丘陵の大戦にジェラベルン解放軍として参加。
+当時の名将を列挙したカミール将において、多くの場合その筆頭として名をあげられており、最高の戦士とも評されている人物である。
+どのような劣勢であっても諦める事なく、数多の逆境を覆してきた彼は、畏怖と尊敬の念を込めて『天眼のエーレン』と呼ばれている。
+大戦後はしばらく各地を放浪していたが、大陸暦年に当時大陸の南方部に存在していたロゼッタ王朝に仕官。すぐに国家騎士団であるナイトオブサンの赤光将軍に任命され、その翌年からの年戦争に参戦する事になる。
+年戦争においてもその実力を発揮し、パルティア、ディパンという当時の大国の連合軍に対して一歩も引かない戦いを見せていたが、年戦争終期のアルトリア街道の攻防において、不意に現れた不死者の攻撃から仲間を守るために、その身を盾として命を落としてしまう。","Formerly working as a mercenary mainly in the
+Gerabellum region, Ehlen was part of the
+Gerabellum Liberation Army in the War of
+Camille Hill that began in 572 C.C.
+ 
+His name was often found at the top of the
+list of the Seventeen Commanders of Camille,
+which included only the mightiest warriors.
+He was a fighter who never gave up, and had
+been through much in his lifetime. People
+looked at him with awe and fear. Thus, he was
+given the nickname ""Demigod Ehlen.""
+ 
+He wandered the lands after the war, but in
+580 C.C., he sided with the Rosetta Dynasty,
+which once existed in the south of the continent.
+He was appointed as Horizon General of the royal
+guard, Knights of the Sun, and participated in
+the Year-Long War, which began the year after.
+ 
+He demonstrated his amazing fighting skills during
+the war as he held his own against the two major
+powers<808C>",,1,container-0650.csv,
+"元々は流れの傭兵。
+大陸暦年に始まったカミール丘陵の大戦にその身一つで参戦し、『黒刃のアドニス』としてカミール将の一人に数えられるまでになった人物。
+彼は特定の国家に所属していたわけではなく、戦の度に契約を交わし数多の軍を渡り歩いた。時にはつい日前まで自分が所属していた部隊に攻撃を仕掛け、壊滅させた事もあったという。大戦当時においての、最強の戦士との呼び名も高い。
+カミール丘陵の大戦終結後は、大陸南部に存在していたロゼッタ王朝に所属。国家騎士団であるナイトオブサンの黒光軍を率いた。
+大陸暦年に行われたラッセン奇襲には侵攻軍として参戦。
+激しい一騎打ちの末に、同じくカミール将の一人とされている斬鉄姫セレス将軍に首を落とされて死亡した。","Formerly a stray mercenary.
+ 
+Adonis participated in the War of Camille Hill,
+where he became one of the Seventeen
+Commanders of Camille and earned the
+nickname ""Black Blade Adonis.""
+ 
+He often did not fight for a particular side,
+but he would often strike a deal with the troops
+of the area he happened to be in. It is said he
+once destroyed troops he sided with just two
+days prior. People regarded him as one of the
+strongest warriors of the time.
+ 
+He sided with the Rosetta Dynasty, which once
+existed in the south of the continent, after
+the War of Camille Hill. He led the Eclipse
+Troop of the Knights of the Sun.
+ 
+He was part of the invading troops during the
+Lassen Invasion.
+ 
+After a fierce duel, he was beheaded by Warrior
+Princess Celes, another one of the Seventeen
+Commanders.",,1,container-0650.csv,
+"かつて大陸北西部に存在したアークダイン王国の国家騎士団である血剣騎士団の団長であった人物。
+彼は国王の乱心に気付きつつも、騎士としての責務を全うする為に騎士団を率いて王弟派と戦い続けた。
+大陸暦年、王都に進軍してきた王弟派の百合戦士団団長と一騎打ちを繰り広げ、これを討ち取る。だが、彼はその戦いの後、この戦によって受けた傷の一切の治療を拒み、そのまま命を落としたと伝えられている。","A captain of the Knights of the Bloodsword, crown
+defenders of the Arkdain Kingdom that once
+spanned the continent's northwest.
+ 
+Even though he began to realize the king was
+eccentric, he was loyal to his duty as a knight
+and continued to wage war against the king's
+brother's troops.
+ 
+In 581 C.C., he killed a captain of the king's
+brother's troops, the Knights of the White Lily,
+in one-on-one melee. However, after the war, he
+refused treatment for his wounds and passed
+away quietly.",,1,container-0650.csv,
+"ディパン公国出身の神官戦士。
+大陸暦年より始まった『ニブルヘイムの霧』と呼ばれる暗黒時代で名を馳せた英雄の一人。
+冥府であるニブルヘイムの側に一人残り、ミッドガルドとニブルヘイムとを繋いでいた扉をその命を賭けて閉じたのは彼であると町の吟遊詩人は語るだろう。","A warrior priest from Dipan.
+ 
+Dyn was one of the heroes who became
+legendary for his contribution during the
+Mist of Nifleheim (beginning in 599 C.C.).
+ 
+According to town minstrels, he risked his life
+to close the passage between Nifleheim and
+Midgard.",,1,container-0650.csv,
+"大陸北方の寒村の出身で、ヴィルノア建国の立役者の一人。敵を鎧ごと切断する剣の腕と弓矢さえ弾き返す鋼鉄の体を持っていたと伝えられている。
+ヴィルノア王国建国時、度重なる戦において、ボロボロとなっていた剣と鎧を身につけた彼に対し、ヴィルノアの初代国王は自らの剣と鎧を彼に与えたといわれている。
+ヴィルノア王国の建国から年後、地方の反乱を討伐に行った際に受けた矢に毒が塗られており、その時の傷が元で死亡した。","Hailing from a remote village on the north side
+of the continent, Kraad was one of the original
+founders of Villnore. They say his sword arm
+sliced down enemies, armor and all, while his
+steel-like body could repel speeding arrows.
+ 
+It is said that Villnore's first king gave Kraad
+his own sword and armor after gazing upon his
+battered arms, as repeated battles during the
+founding had taken their toll.
+ 
+Three years after the country was founded, Kraad
+was struck by a poison arrow while putting down a
+rebellion, ultimately leading to his death.
+",,1,container-0650.csv,
+"ローム丘陵近隣の小さな村であるキリル村出身の冒険者。
+旅の最中に立ち寄った古い神殿で、神々の武器と伝えられる蒼剣グランスティングを見つけ、一躍有名になる。
+その後、仲間と共に旅先で立ち寄ったカミール丘陵において魔物の退治を依頼された彼は、いつものように意気揚々と魔物の住処へと出発し、そのまま戻ってこなかったという。","An adventurer from Quiryl, a small town near
+Loahm Hill.
+ 
+Zunde became famous for discovering the
+legendary sword Grand Sting in an old shrine
+he passed on his journey.
+ 
+Later, as he and his friends traveled through
+Camille Hill, he received a request to slay
+the monsters in the area. He set out full of
+confidence, never to be heard from again.",,1,container-0650.csv,
+"大陸の北の方に住んでいたテムと呼ばれる少数部族の出身。
+この部族は馬術に優れ、平地を風のように走り山々を鳥のように飛び越える事ができたと言われている。
+テムの部族には守り手と呼ばれる存在がおり、神々にその身を捧げ神からの加護を得る事で部族を守っていたが、当時の守り手であった彼女が純潔の掟を破り子どもを身篭った事で、守り手としての資格を喪失。守護者を失った部族は不死者の一団に襲われて全滅してしまう。
+幼い子どもを抱えて近くの町まで逃げ延びはしたものの、負傷と疲労とによる衰弱が激しく、そのまま息を引き取った。","A member of the Tehm, a small tribe from the
+north of the continent.
+ 
+The tribe excelled in the ability to handle
+horses. They rode as fast as the wind and
+flew over mountains like birds.
+ 
+Tehm tribal custom calls for a Protector, one
+who is sacrificed for the blessings of the gods.
+However, the Protector of the time broke the
+laws of purity by bearing a child. Atrasia was
+this Protector.
+ 
+Without a Protector, the tribe was attacked
+by a group of undead and wiped out. Atrasia
+managed to escape to a nearby town with her
+child, but died of exhaustion and physical
+injuries.",,1,container-0650.csv,
+"ディパンの王女であった人物。
+大陸暦年から始まり、最終的には大陸全土を巻き込んだ年戦争と俗に呼ばれる大戦に二人の供だけを連れて参戦。パルティア攻防戦、アークダイン騒乱、アルトリア街道の攻防、ロゼッタの戦いと数多の戦場に姿を見せた英雄の一人。彼女の存在が無ければ周辺大国によるロゼッタ王朝包囲網は完成しなかったと言われている。
+年戦争の最後であるロゼッタの戦いにおいて片腕を失って以降は武器を置き、幼なじみであるパルティア王シフェルの妻となり彼を支えた。
+即位したばかりの王を助け国の安定に従事するが、大陸暦年に風土病にかかり死亡。
+彼女を失って年後にパルティア公国は最後を迎える事になる。
+弓の技術だけでなくその知識も広く、大陸に四散している数多の錬金術師の技や著書をまとめ「真理の書」として系統化も行った事でも知られている。","A former queen of Dipan.
+ 
+Phyress participated in the Year-Long War, which
+began in 581 C.C., with only two comrades. She
+was a heroine in the Battle of Paltierre, the
+Arkdain Uprising, the Battle of Artolia Pass,
+and the Battle of Rosetta. Were it not for her
+the surrounding four powers would have been
+unable to completely contain Rosetta.
+ 
+During the Battle of Rosetta near the end of the
+Year-Long War, she lost her arm and decided to
+give up the warrior life. She married her
+childhood friend King Cyphel of Paltierre. She
+supported her husband in governing the country,
+but in 622 C.C., she caught an endemic disease
+and passed away.
+ 
+Mourning his wife, the king of Paltierre died
+five years later. Phyress had possessed the skill
+and knowledge of a great bowyer. She also
+compiled the writings of alchemy scattered
+throughout the continent to create the Tome
+of Truths.",,1,container-0650.csv,
+"かつて大陸北東に存在したパルティア公国の王であるシフェルの一人娘。
+だが彼女は、大陸暦年に王宮を訪れた吟遊詩人を追って、国を出奔してしまう。
+その翌年の年から年間に渡る『ニブルヘイムの霧』と呼ばれた暗黒時代において、彼女はその吟遊詩人らと共に大陸の各地を渡り、数多の不死者を封印して回ったとされている。
+しかし、ニブルヘイムへの扉が閉じられ、その脅威が去った後も彼女は国には戻らず、そのまま歴史の表舞台から姿を消してしまった。","The only daughter to King Cyphel of Paltierre.
+Paltierre once existed in the northeast of the
+continent.
+ 
+In 598 C.C., Chrystie left the country to pursue
+a minstrel who happened to drop by the palace.
+In 599 C.C., during the three-year Mist of
+Nifleheim, she and the minstrel traveled to
+many lands to seal and destroy the undead.
+ 
+However, she never returned to her country
+even after the door to Nifleheim was closed.
+She merely disappeared, never to be seen again.",,1,container-0650.csv,
+"大陸の南西、海を越えた彼方にある名もない島の出身。生まれながらに手先が器用で、無数の機構を組み込んだカラクリ人形の作成を生業としていた人物。
+海を渡った大陸に、屍霊術という魂を操作する呪法があると聞いた彼女は、それを利用する事で作成した人形に魂を入れる事ができるのではと考え、単身で海を渡った。
+苦難の旅を乗り越え、どうにか大陸にたどり着いた彼女は屍霊術を学び、己の持つカラクリの技術と組み合わせ、長い研究の末に作り出した人形の中に魂を封じ込める事に成功する。
+だが、それは元となった人物の魂を動力にして動く特殊な人形…を作成したに過ぎなかった。","Hails from a nameless island far to the
+southwest of the continent. Clever with her
+hands, Sha-kon was the creator of mechanical
+dolls with various complex components.
+ 
+She traveled alone to the continent in hope of
+obtaining necromancy that enabled one to control
+a dead soul. Her desire was to fill her dolls
+with these souls, bringing them to life.
+ 
+After a long and painful journey, she succeeded
+in learning the spell. As the result of much
+experimentation, she managed to create a doll
+with a soul.
+ 
+...Or so she thought. Her final creation was
+merely a doll that used the soul as energy for
+mobility. ",,1,container-0650.csv,
+"クレルモンフェランの地方領主の娘で、誕生の時にフレイア神の祝福を受けて生まれたとされている聖女。
+大陸暦年に還暦を迎えたクレルモンフェラン王の下に嫁ぐ事になった彼女は、弐の最中に風のように王宮から姿を消してしまい人々を驚かせた。
+必死の捜索が行われたが新王妃の姿は見つからず、月日は流れ、彼女の存在は人々の記憶から消え去っていった。
+だが年後の年、辺境のサレルノの地において彼女の姿が発見され、大騒ぎとなる。
+精神状態が不安定であった彼女は、クレルモンフェランに戻ってしばらくした後に、王の眼前で城壁から身を投げその命を絶ったという。","The daughter of a lord in Crell Monferaigne.
+Lylia was a holy child who received the
+blessings of Frei at birth.
+ 
+In 746 C.C., she was about to marry into the
+royal family, but ran out in the middle of the
+ceremony.
+ 
+Despite a thorough search for the new queen,
+she was nowhere to be found. Time passed, and
+people began to forget she ever existed. However,
+six years later in 752 C.C., mayhem broke out
+when she was spotted in the Salerno region.
+ 
+She returned to Crell Monferaigne, but in a
+fragile mental state. A while after her return,
+she threw herself from atop the castle walls
+in front of the king.",,1,container-0650.csv,
+"クレルモンフェラン王妃の娘でありながら、王の血を引いていない不義の子として、迫害と共に育てられた女性。
+己の存在意義を作り出そうと武芸に明け暮れ、幼いうちから戦場に出て多くの敵を打ち倒した。
+だが、その武勲が鼻についたのか、義理の弟にあたるカイン王子の手引きによって、夜盗の一団に扮した集団に襲われ惨殺されてしまう。
+若くして命を落としたが、その弓の腕は神がかっていたと言われており、戦のさなかにm先で打ち合わされる武器を射抜き一騎打ちを止めたという逸話が残されている。","The daughter of the queen of Crell Monferaigne.
+Lydia's suffered shame and disdain, as she was
+not the legitimate daughter of the king.
+ 
+To find her purpose in life, she trained hard
+and demonstrated great skill on the battlefield
+from a young age.
+ 
+However, her younger brother-in-law, Prince
+Cain, was jealous of her skills as a warrior
+and hired a group of thieves to kill her.
+ 
+Although she died at a young age, her prowess as
+an archer was legendary. It is said that during
+one battle, she was able to save an ally by
+disarming an enemy one hundred meters away.",,1,container-0650.csv,
+"ジェラベルン地方の貧民街出身。
+盗賊ギルドに拾われ暗殺者として育てられた彼女であったが、歳の時に時の領主に見初められて結婚。一転して上流階級の一員となる。
+だが、己の過去を消す事はできず、彼女は盗賊ギルドからの要求や脅迫に日々悩まされる事になる。己の過去の行為を全てを告白し、夫と共に盗賊ギルドの撲滅に着手した彼女だったが、大陸暦年に、ギルドの手の者によって夫は暗殺されてしまう。
+その後、一人戦い続けた彼女であったが、大陸暦年に盗賊ギルドによって拉致され、咽を潰された状態で、奴隷として売られてしまった。","Sophalla grew up in a poor neighborhood of
+Gerabellum.
+ 
+Sophalla was raised as an assassin by a thieves'
+guild, but caught the eye of the local lord
+and married at 16. Her life changed completely
+as she became a member of the upper class
+overnight.
+ 
+However, unable to erase her past, she received
+letters of threat and blackmail from the guild.
+After coming clean about her past to the lord,
+they devised a plan to destroy the guild.
+ 
+However, in 790 C.C., the lord was assassinated
+by a member of the guild. After this incident,
+Sophalla continued to fight the guild on her own.
+ 
+In 792 C.C., she was kidnapped by the guild, who
+crushed her throat and sold her as a slave.
+",,1,container-0650.csv,
+"姉と二人、ジェラベルンの貧民街で暮らしていた彼女だったが、姉が領主に見初められて以来、その人生が一変する。
+屋根のある寝床、毎日の糧の心配をする必要の無い日々。それは夢のような暮らしであった。
+だが他人にかしずかれる事に慣れなかった彼女は、義兄に頼んで町の一角に家を用意してもらい、そこで慎ましく暮らしていく事を選ぶ。
+彼女が姉の変化に気付いたのは、それから少ししての事であった。
+裕福な生活に慣れていなかったためか、それとも己の過去を消し去りたかったのか、姉は貧民街に対して圧力をかけるようになっていった。
+特に夫が亡くなってからはその行動が顕著になり、実の妹である彼女の事まで避けるようになったかと思うと、かつて暮らしていた貧民街に対する焼き討ちさえも行うようになったのである。
+姉の行為に心を痛めた彼女は、盗賊ギルドの手引きによって、姉と入れ変わる事を決意する。
+その後、彼女によって統治される事になったジェラベルンは、少々の治安の低下と引き換えに安定の日々を迎える事になる。
+大陸暦年、何故か盗賊ギルドのアジトに火を放った彼女は、ギルドの大半のメンバーと共に焼死。
+表向きには、御忍びで向かった演劇場の火事に巻き込まれたとして処理された。","Millidia lived a simple life in Gerabellum with
+her elder sister. Her entire life changed when
+her sister caught the eye of their lord.
+ 
+From then on, she was able to live the life she
+had only dreamed of<808C>",,1,container-0650.csv,
+"砂漠の町カルスタッドの出身で、当時勢力の拡大を続けていたクレルモンフェラン王国の侵攻から町を守った英雄の一人。
+気候についての知識が広く、雨季に戦いを避けて、乾季に戦いを挑む事を徹底し、自分達より遥かに数の多いクレルモンフェランの軍から町を守り続けた。
+大陸暦年の第次カルスタッド侵攻の際に深手を負い、自分がもっとも信頼する親友に背中を預けたまま死亡。まだ若すぎる彼女の死は、敵国であるクレルモンフェランの将兵にまで惜しまれたという。","Raised in the desert town of Kalstad, Arcana was
+one of the heroes who saved the town from Crell
+Monferaigne, a kingdom trying to spread its
+power over the continent.
+ 
+With her superior knowledge of weather patterns,
+she managed to avoid battles during the
+disadvantageous rainy season, and kept the
+Crell Monferaigne troops from taking the town.
+ 
+In 724 C.C. during the Fourth Kalstad Invasion,
+she suffered a deep wound and died in the arms
+of her most-trusted friend. Her death came at a
+young age, and it is said that even the Crell
+Monferaigne battalion mourned her death.",,1,container-0650.csv,
+"大陸暦年に始まった年戦争で、大陸南部に存在していたロゼッタ王朝の国家騎士団であるナイトオブサンの青光将軍を勤めていた人物。
+ラッセン奇襲作戦に軍を率いて参加し、斬鉄姫と恐れられたセレス将軍を捕らえたのが彼である。
+その後制圧したラッセンに留まり、大陸北西からラッセン解放の名目で進軍をしてきたアークダイン王国軍を相手に激しい戦いを続ける。
+だが、東方のアルトリア街道がパルティア王国軍によって制圧された事によって完全に孤立。
+奮戦も空しくその命を落とす。
+彼は将軍としての表の顔だけでなく裏の世界での顔も持っており、ロゼッタ王朝の暗部に関わる任務を数多く行っていたと言われている。
+彼自身がアークダイン王国の教皇暗殺に深く関与していたという説もあるくらいである。","Ehrde was appointed the Twilight General of the
+Knights of the Sun of the Rosetta Dynasty,
+during the Year-Long War that began in 581 C.C.
+ 
+It was he who captured the feared Warrior
+Princess Celes during Lassen's Invasions.
+He stayed in Lassen and fought against the
+Arkdain troops from the northwest of the
+continent.
+ 
+However, after Artolia Pass to the east was
+overtaken by Paltierre forces, his troops became
+isolated. Although he fought valiantly, he lost
+his life.
+ 
+Ehrde not only achieved fame as a general, but
+also carried out many espionage missions for
+Rosetta. It is rumored that he was directly
+involved in the assassination of the king of
+Arkdain.",,1,container-0650.csv,
+"大陸暦年から年まで、南方の島に存在したフレアガルド国の将軍。
+彼は島の要所に隠された砦を作り、たびたび訪れる大陸からの侵略者を追い返し続けたと伝えられている。だが、大陸暦年の戦いにおいて、部下の手違いにより王に造反を疑われ戦場で孤立し、捕虜となってしまう。
+捕虜となってからの丸年の間、獄中にていかなる拷問を受けようとも、彼は何一つ話さなかったと言われている。
+後日フレアガルド国に返還された彼の死体には、目も耳も舌さえも残っておらず、それを見た王は泣き崩れ自らの不徳を恥じたと伝えられている。","Led the military of Fraelgard, a country that
+existed on the island south of the continent from
+80 C.C. to 234 C.C.
+ 
+It is said Mithra was behind the construction of
+hidden fortresses at key points on the island that
+fended off would-be invaders from the continent.
+However, a mistake by a subordinate raised
+suspicions of treason against the king during a
+battle in 145 C.C. Mithra was left to die on the battlefield, and eventually captured.
+ 
+For the entire year he was held captive in a
+dungeon, Mithra was subjected to unspeakable
+tortures, yet never spoke a word. When his corpse
+was later delivered to Fraelgard without eyes,
+ears, or tongue, the king is said to have broken
+down in tears at his own shameful folly.",,1,container-0650.csv,
+"ゾルデの町出身の魔術師。
+初めはディパンの一兵士であったが、大陸北東にあったパルティア公国との戦いで一躍名を馳せた人物。
+海流を見る目に優れており、船上の戦いであればどれほどの数の船団が相手であっても赤子の手を捻るように勝利したと伝えられている。
+それほどまでに優れた艦隊運用術を持っていた彼であったが意外にも泳ぐ事は全くできず、大陸暦年に起こった海賊との小競り合いの最中に誤って海に落ちて溺死してしまった。","A sorcerer from Solde.
+ 
+Although originally a Dipan soldier, Aegis
+became widely known because of his extraordinary
+contribution in the battle against the Principality
+of Paltierre, which once existed in the northeast
+of the continent.
+ 
+A master of reading the ocean, it was said he
+could take on an any number of enemies at sea.
+However, despite being undefeatable on the water,
+he was not so invincible in it, as he couldn't
+swim. While skirmishing with pirates in 418 C.C.,
+he fell into the water and drowned at sea.",,1,container-0650.csv,
+"かつて大陸の北東部に存在した、パルティア公国出身の天才魔術師。
+今も使用されている最もポピュラーな攻撃魔法の一つであるバーンストームと、一般的な防御魔法であるガードレインフォースを作り出したのが彼である。
+時のパルティア王に宮廷魔術師として招かれた彼は、不死者に対抗する術としてこの二つの魔法を開発して姿を消した。
+彼の生み出したこの二つの魔法が無かったならば世に知られている魔法の半数が生まれなかっただろうとさえ言われている。","A genius sorcerer from the Principality of Paltierre, which once existed in the northeast
+of the continent.
+ 
+Psoron created Fire Storm, the most widely used
+offensive magic spell, and Guard Reinforce, one
+of the most basic defensive magic spells.
+ 
+He was the court sorcerer for the king of
+Paltierre. After creating these two magic spells
+to fight the undead, he disappeared.
+ 
+More than half the magic spells in existence
+would not have been, were it not for the creation
+of Psoron's two basic spells.",,1,container-0650.csv,
+"始めはゴーラ地方の一地方領主に過ぎなかったが、年まで続いたカミール丘陵の大戦の後、多くの人材を失い疲弊したアークダイン王国において徐々にその頭角を現し、最後には国政まで左右するようになった人物。
+カミール丘陵の大戦後に発生した国王と王弟の争いに対抗して、中立となる教皇派を組織したのが彼である。
+同時に教会付きの部隊である聖十字師団を設立、その実権を握る事で名実共に教皇派の中核となる。
+大陸暦年、アークダイン王国南西部の水上神殿において教皇への任命弐を受けている途中に心臓に矢を打ち込まれて暗殺された。","Originally a mere lord of a small region of Gorhla,
+Khanon began to make frequent appearances in
+Arkdain after several casualties in the War of
+Camille Hill that began in 575 C.C. He eventually
+gained enough power to make decisions
+concerning state affairs.
+ 
+He created a neutral clerical faction that opposed
+both parties that caused the War of Camille Hill,
+the king's and his brother's. At the same time, he
+created the Division of the Sacred Cross, a troop
+with a church. This inalienable right gave his
+clergical faction solid political ground.
+ 
+In 581 C.C., Khanon was shot in the heart with
+an arrow while being anointed in the lake temple
+in the southwest region of the Arkdain Kingdom.",,1,container-0650.csv,
+"大陸の南西部にあるラッセンと呼ばれる都市の出身。大陸暦年に起こった年戦争当時、ロゼッタ王朝の突然の侵攻で敗走するラッセンの残存部隊を集めて再編し、制圧軍に対する抵抗勢力を組織した人物。
+彼の率いる部隊は神出鬼没で、わずか人の手勢で敵軍人の将兵を手玉に取ったと言われている。
+ラッセンの町の統治を行っていたロゼッタ王朝の将軍でさえその存在に頭を痛めていたらしく、本国に援軍を請う旨を記した報告書が残されている。
+年戦争終期のアルトリア街道の攻防においては自ら陽動部隊を指揮。作戦そのものは成功したものの、ロゼッタ王朝の国家騎士団であるナイトオブサンの白光将軍の手によって討ち取られる。
+その数ヶ月後に解放されるラッセンの姿を映す事なく、その瞳を閉じた。","Farant hailed from Lassen, a town in the
+southwest of the continent. 
+ 
+Farant created an organization which consisted
+of the remaining soldiers from the troops that
+participated in the Year-Long War from 581 C.C.
+The organization was formed to resist any powers
+that might try to assume control over Lassen.
+His troops used guerilla tactics and were
+victorious with only 100 soldiers against an
+army of 5000.
+ 
+Even the generals of the Rosetta Dynasty, which
+ruled over Lassen, feared Farant's power, and
+asked for reinforcements to help with this matter.
+ 
+During the Battle of Artolia Pass, near the end
+of the Year-Long War, he commanded a feint
+operation. Although the plan was a success, he
+was killed by the Meridian General of the Knights
+of the Sun.
+ 
+He died without ever seeing Lassen liberated.",,1,container-0650.csv,
+"大陸暦年、当時大陸南方に存在していたロゼッタ王朝と呼ばれた国に仕えていた人物。
+宝物庫の中に眠っていた隻眼の写本と呼ばれる神々の本を手にしてしまい、本の持つ強大な神気にあてられ、写本に操られる事となってしまう。
+その強大な魔力によって、彼は瞬く間に宮廷魔術師の地位に立ち、時のロゼッタ王に大陸侵攻の野望を抱かせる事になった。
+大陸暦年、ディパン公国のフィレス王女の活躍によって隻眼の写本が燃やされるまでの
+年半もの間、彼は本に操られ続けた。
+その後、解放された彼は大陸中を回り、隻眼の写本により得た知識を使って情勢の平定に勤めるが、大陸暦年に暴徒の一団に襲われて無残にも殺されてしまう。","Xehnon was a servant of the Rosetta Dynasty, a
+dynasty that once existed in the south of the
+continent, in 578 C.C.
+ 
+He accidentally got hold of a divine book, the
+Manuscript of Manifestation, and became
+possessed by its strong, godly powers.
+ 
+Under its spell, he managed to become the court
+sorcerer to get close to the King of Rosetta.
+Eventually, he was able to persuade the king to
+invade the rest of the continent.
+ 
+Xehnon was possessed for three and a half years,
+until the book was burned by Queen Phyress of
+Dipan.
+ 
+Once freed, he began searching the lands for a
+means to rectify the state the world was in, but
+in 586 C.C., he was attacked and killed by a
+group of rioters.",,1,container-0650.csv,
+"かつて大陸の北東部を支配していたパルティア公国の第二王子。カミール将の一人に数えられる『竜鱗のジグムント』の息子で、縦に細く伸びた竜眼と呼ばれる瞳と、類まれな魔法の才能を持っていた事で知られている。
+大陸暦年の年戦争時には本国に残り、父と兄の不在の中、揺れる国内を見事に纏めきった。
+その後大陸暦年から始まる『ニブルヘイムの霧』と呼ばれる暗黒時代においては自ら軍を指揮し、国を襲う不死者との戦いを続けていたが、その戦いの最中に冥界の竜王に打ち倒され、死亡した。","The second prince of the Principality of
+Paltierre, which once ruled the northeastern
+region of the continent. 
+ 
+Alm was the son of Dragon Scale Sigmund, one of
+the Seventeen Commanders of Camille. His eyes
+were like his father's<808C>",,1,container-0650.csv,
+"かつてアルトリア街道浴いに存在したランドと呼ばれる小さな村の出身。
+大陸暦年に始まった年戦争当時、治安の低下によって増加していた野盗の一団がこの村を襲った。
+後のパルティア公国の女王となるフィレス王女に発見され、村の唯一人の生き残りとして彼女によって保護されたのが彼である。
+成人した彼は、自分の存在によってパルティア公国に後継者争いが発生する事を恐れ、大陸暦年にその姿を消した。
+その後は吟遊詩人として世界各地を回っていたらしく、大陸のあちこちに彼の手によって不死者が封印されたという記録が残されている。","Raised in Rand, a small town along Artolia Pass.
+ 
+During the Year-Long War that began in 581 C.C.,
+Rand was attacked by an opposition group. These
+groups had rapidly increased in number due to
+the decrease of public safety.
+ 
+Seluvia was Rand's lone survivor. He was rescued
+by a woman who later went on to become Queen
+Phyress of the Principality of Paltierre.
+ 
+In 593 C.C., he disappeared, fearing that his
+existence would cause a war to breakout among
+the heirs to the throne. He then became a minstrel
+and traveled many lands, sealing the undead along
+the way.
+",,1,container-0650.csv,
+"大陸の南西、海を越えた彼方にある名もない島の出身。
+魔法のみならず、符とよばれる紙にルーンを記したものを媒介にする辺境の秘術に優れていたと伝えられている。
+圧制を行う時の権力者に対して暗殺を試みるが親友の内通によりそれが発覚、追っ手から逃れるために海を渡った。
+大陸に辿り着いてからは静かに暮らし、集落を襲う不死者の撃退などを行っていたが、かつて失敗した呪詛の反動によって次第に衰弱。
+最後は骨のように痩せこけその命を落とした。","Masato hailed from a nameless island far to the
+southwest of the continent.
+ 
+Not only did Masato excel at magic, but he was
+also able to perform the secret art of
+inscribing runes to create barriers.
+ 
+He devised a plan to assassinate the tyrant who
+ruled at the time, but was betrayed by his best
+friend. He crossed the ocean to flee from his
+pursuers.
+ 
+After reaching the continent, he lived a peaceful
+life, while chasing away the undead who attacked
+villages. 
+ 
+However, his body began to wither as a
+repercussion of a failed spell. He eventually
+died, his body reduced to a mere skeleton.",,1,container-0650.csv,
+"大陸暦年に、クレルモンフェラン王国の王妃を誘拐した邪悪な錬金術師。
+辺境の地サレルノに潜み、夜な夜な恐るべき実験を繰り返していたと伝えられている。
+だが、大陸暦年にその所在を突き止めたクレルモンフェラン王国の討伐隊により退治される事になる。
+救出された王妃はその一月後、クレルモンフェランの城壁から身を投げ出してその命を絶った。","A ruthless alchemist who kidnapped the Queen of Crell Monferaigne in 746 C.C.
+ 
+Hiding out in the hinterland of Salerno, Woltar
+was rumored to have spent his days and nights
+engrossed in horrifying experiments.
+ 
+However, in 752 C.C., he was found and punished
+by officers from Crell Monferaigne. A month after
+the queen was rescued from her prison, she took
+her own life by throwing herself from atop the 
+castle wall.",,1,container-0650.csv,
+セミオート,Semi-auto,Semi-auto,1,container-0651.csv,
+マニュアル,Manual,Manualç,1,container-0651.csv,
+フリーカメラの水平操作,Horizontal Battle Cam Controls,Cãmera de Batalha Horizontal,1,container-0651.csv,
+フリーカメラの〓直操作,Vertical Battle Cam Controls,Cãmera de Batalha Vertical,1,container-0651.csv,
+ノーマル,Normal,,1,container-0651.csv,
+リバース,Reversed,,1,container-0651.csv,
+攻撃終〓後のカメラ,Reset Battle Cam After Attack?,,1,container-0651.csv,
+戻る,Yes,,1,container-0651.csv,
+〓止,No,,1,container-0651.csv,
+決め技スキップ,Skip Special Attack Sequences?,,1,container-0651.csv,
+〓〓,Yes,,1,container-0651.csv,
+〓〓〓,No,,1,container-0651.csv,
+グループの保存,Preserve Battle Groups?,,1,container-0651.csv,
+する,Yes,Sim,1,container-0651.csv,
+しない,No,Nao,1,container-0651.csv,
+イベントメッセージ,Event Dialogue,,1,container-0651.csv,
+音〓のみ,Audio only,,1,container-0651.csv,
+テキストのみ,Text only,,1,container-0651.csv,
+音〓・テキスト,Audio/Text,,1,container-0651.csv,
+戦闘ボイス,Battle Voices,,1,container-0651.csv,
+振動,Vibration,,1,container-0651.csv,
+画面サイズ,Screen Size,,1,container-0651.csv,
+：,4:3,,1,container-0651.csv,
+：,16:9,,1,container-0651.csv,
+サウンド,Sound,,1,container-0651.csv,
+モノラル,Mono,,1,container-0651.csv,
+ステレオ,Stereo,,1,container-0651.csv,
+サラウンド,Surround,,1,container-0651.csv,
+ヘッドフォン,Headphones,,1,container-0651.csv,
+スピーカー位置,Speaker Position,,1,container-0651.csv,
+決定,OK,,1,container-0651.csv,
+光子,Photon,,1,container-0651.csv,
+ジャンプ,Jump,,1,container-0651.csv,
+便利,Action,,1,container-0651.csv,
+カメラアジャスト,Adjust Camera,,1,container-0651.csv,
+ダッシュ,Dash,,1,container-0651.csv,
+ターゲットモード,Targeting Mode,,1,container-0651.csv,
+レーダー切り替え,Toggle Radar,,1,container-0651.csv,
+APチャージ,Charge AP,,1,container-0651.csv,
+カメラ切り替え,Toggle Battle Cam,,1,container-0651.csv,
+"変更前の設定に戻します
+よろしいですか？",<8084>0Reverts to previous.<808E>,,1,container-0651.csv,
+"デフォルトの設定に戻します
+よろしいですか？",<8084>0Resets to default.<808E>,,1,container-0651.csv,
+ゲーム環境を設定します,Adjust game options.,,1,container-0651.csv,
+プレイ環境を設定します,Adjust gameplay environment.,,1,container-0651.csv,
+設定を変更します,Change settings.,,1,container-0651.csv,
+変更前の設定に戻します,Revert to previous settings.,,1,container-0651.csv,
+設定を初期化します,Reset to default settings.,,1,container-0651.csv,
+戦闘のターゲットタイプを設定します,Select targeting method.,,1,container-0651.csv,
+戦闘のフリーカメラの水平操作を設定します,Set controls for free camera in battle.,,1,container-0651.csv,
+戦闘のフリーカメラの〓直操作を設定します,Set controls for free camera in battle.,,1,container-0651.csv,
+戦闘の攻撃終〓後のカメラ動作を設定します,Select camera action after attacks.,,1,container-0651.csv,
+戦闘の決め技のスキップを設定します,Disable/enable special attack sequences.,,1,container-0651.csv,
+戦闘のグループの保存を設定します,Select whether to preserve battle groups.,,1,container-0651.csv,
+イベントのメッセージタイプを設定します,Select event dialogue preference.,,1,container-0651.csv,
+戦闘の音〓再生を設定します,Turn audio during battle on/off.,,1,container-0651.csv,
+バイブレーシヨン機能を設定します,Turn vibration function on/off.,,1,container-0651.csv,
+画面のアスペクト比を設定します,Set screen aspect ratio.,,1,container-0651.csv,
+サウンドの再生タイプを設定します,Set audio playback preference.,,1,container-0651.csv,
+スピーカーの位置を設定します,Adjust speaker position.,,1,container-0651.csv,
+スピーカーを選択します,Select a speaker.,,1,container-0651.csv,
+スピーカーの位置を調整します,Move the speaker.,,1,container-0651.csv,
+終〓,"<8099>""Done",,1,container-0651.csv,
+"サンプル音〓を再生してテストできます
+で位置を移動
+で再生します","Check settings using audio samples.
+<8099>8<8099>9Change location
+<8099>QPlay sample",,1,container-0651.csv,
+MEMORY CARD差込口,MEMORY CARD slot 2,,1,container-0652.csv,
+"チェック中です
+MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓を
+抜かないでください","<8084>0Checking memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓の
+チェックに失敗しました","<8084>0Memory card (8MB)(for PlayStation<0065>2) error!
+Please check memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口に
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓が
+差し込まれていません","<8084>0No memory card (8MB)(for PlayStation<0065>2)
+inserted in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓は
+フォーマットされていません
+フォーマットしますか？","<8084>0Memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"フォーマット中です
+MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓を
+抜かないでください","<8084>0Formatting memory card (8MB) (for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓を
+フォーマットできませんでした","<8084>0Format failed!
+Please check memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓を
+フォーマットしました","<8084>0Memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓の
+空き容量が不足しています
+V〓〓〓〓〓ie P〓〓〓i〓e 2 のデータをセーブするには
+KB以上の空き容量が必要です","<8084>0Insufficient free space on
+memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓に
+V〓〓〓〓〓ie P〓〓〓i〓e 2 のデータがありません","<8084>0No Valkyrie Profile<0065>2 save data present on
+memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"N〓〓のファイルにセーブします
+よろしいですか？",<8084>0Data will be saved in file number <8094>=,,1,container-0652.csv,
+"選択されたファイルにデータが存在します
+上書きしますか？",<8084>0Data already exists in selected file.<808E>,,1,container-0652.csv,
+"セーブ中です
+MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓を
+抜かないでください",<8084>0Saving data.<808E>,,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓に
+セーブできませんでした","<8084>0Save failed! Check memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓に
+正常にセーブできました","<8084>0Data has been saved on
+memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"N〓〓のファイルをロードします
+よろしいですか？",<8084>0Data will be loaded from file number <8094>=,,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓から
+正常にロードできました","<8084>0Data has been loaded from
+memory card (8MB)(for PlayStation<0065>2)
+in MEMORY CARD slot <8094>>",,1,container-0652.csv,
+"MEMORY CARD差込口の
+〓P〓〓〓St〓ti〓〓 2〓専用メモリーカード〓〓MB〓から
+ロードできませんでした
+ファイルが破〓している可能性があります",<8084>0Load failed! The file may be corrupt. <808E>,,1,container-0652.csv,
+"セーブファイルのバージヨンが
+違います〓〓〓・〓・〓〓","<8084>0This save file is from a
+different version.<8082>",,1,container-0652.csv,
+"ディスクトレイ〓ディスクカバーが
+開いています",<8084>0Disc cover/disc tray is open.<8082>,,1,container-0652.csv,
+N〓〓,No.,,1,container-0652.csv,
+Ch〓〓te〓,Chapter,Capítulo,1,container-0652.csv,
+L〓,Lv,Nv,1,container-0652.csv,
+未使用,Empty,Vazio,1,container-0652.csv,
+ファイルが破〓しています,Corrupt File,Corrompido,1,container-0652.csv,
+"他のゲームで
+使用されています",Other Game Data,Outros Jogos,1,container-0652.csv,
+ゲームデータをセーブします,Save game data.,Salvar jogo.,1,container-0652.csv,
+ゲームデータをロードします,Load game data.,Carregar jogo.,1,container-0652.csv,
+どちらのMEMORY CARD差込口を使用しますか？,Select a MEMORY CARD slot.,Selecione um slot.,1,container-0652.csv,
+どのファイルにセーブしますか？,Select a location to save.,Selec. local para salvar.,1,container-0652.csv,
+どのファイルをロードしますか？,Select a file to load.,Selecionar arquivo.,1,container-0652.csv,
+入れ替え,Cost,,1,container-0866.csv,
+入れ替え,Switch,,1,container-0866.csv,
+返還,Restore,,1,container-0866.csv,
+魔晶石：,Magic crystals:,,1,container-0866.csv,
+引き出し残数：,Withdrawals left:,,1,container-0866.csv,
+全体マップ,Overall map,,1,container-0866.csv,
+"この封印石を返還します。
+よろしいですか？","This sealstone will be restored.
+Proceed?",,1,container-0866.csv,
+"この封印石を返還すると
+魔晶石を消費します。
+地脈に返還しますか？","Restoring this sealstone will cost
+<8094>,",,1,container-0866.csv,
+所持中の封印石,<808A><999A>x^<999A>x^Sealstones held,,1,container-0866.csv,
+台座,<808A><999A>x^<999A>x^Dais,,1,container-0866.csv,
+殻,<808A><999A>x^<999A>x^Shell,,1,container-0866.csv,
+所持中の封印石と台座の封印石を入れ替えます,Exchange held sealstone for sealstone on dais.,,1,container-0866.csv,
+封印石を地脈に返還します,Restore sealstone to earth vein.,,1,container-0866.csv,
+所持中の封印石と〓の封印石を入れ替えます,Exchange held sealstone for sealstone in spring.,,1,container-0866.csv,
+全体マップを表示します,View overall map.,,1,container-0866.csv,
+所有の封印石と殻の封印石を入れ替えます,Exchange held sealstone for sealstone in shell.,,1,container-0866.csv,
+詳細 所持中の封印石へ,<8099>RInfo<0066><8099>2<8099>3To held sealstone,,1,container-0866.csv,
+詳細 ページ,<8099>RInfo<0066><8099>8<8099>9Page,,1,container-0866.csv,
+入れ替え 詳細 配置されている封印石へ,<8099>@Switch<0066><8099>RInfo<0066><8099>2<8099>3To sealstones in place,,1,container-0866.csv,
+返還 詳細 所持中の封印石へ,<8099>@Restore<0066><8099>RInfo<0066><8099>2<8099>3To held sealstones,,1,container-0866.csv,
+返還 詳細 配置されている封印石へ,<8099>@Restore<0066><8099>RInfo<0066><8099>2<8099>3To sealstones in place,,1,container-0866.csv,
+入れ替え 詳細,<8099>@Switch<0066><8099>RInfo,,1,container-0866.csv,
+返還 詳細,<8099>@Restore<0066><8099>RInfo,,1,container-0866.csv,

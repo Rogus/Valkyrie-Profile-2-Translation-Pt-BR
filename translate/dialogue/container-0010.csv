@@ -1,0 +1,165 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,"プログレッシブ表示に切り替えますか？
+はい（：） はい（：） いいえ
+ 
+プログレッシブ表示には”PlayStation 2”専用コンポーネントAVケーブルと
+プログレッシブ（525p）表示に対応したテレビが必要になります。
+ 
+10秒以上たっても画面が正常に表示されない場合は
+この画面がもう一度表示されます。
+ 
+の場合はワイドテレビ対応になりますので、
+テレビの画面モードをフルモード（またはそれに準ずるモード）に
+切り替えてください。詳しくは御使用のテレビの
+取扱説明書をご覧ください。
+","<8084>0Enable progressive scan?
+<8099>7Yes (16:9)  <8099>6Yes (4:3)  <8099>5No
+<0065>
+<808A><CCCD>k^<CCCD>k^Component AV Cable (for PlayStation<0066>2) and compatible
+(525p) television required for progressive scan.
+<0065>
+<8088>3If a progressive image does not appear after 10 seconds,
+you will be automatically returned to this menu.
+ 
+Press <8099>7 to enable widescreen mode.
+Set your television to the appropriate display mode.
+Refer to your television's instruction manual for details.
+",,,,10,1,,
+,"プログレッシブ表示（：）に変更しました。
+この画面表示モードでゲームを開始してよろしいですか？
+はい いいえ
+ 
+10秒以上たっても応答がない場合は
+自動的にプログレッシブ表示切り替え画面に戻ります。
+","<8084>0Progressive scan (16:9) enabled.
+Proceed with game in this display mode?
+<8099>@Yes <8099>ANo
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3You will be returned to the menu if there is no
+response within 10 seconds.
+",,,,10,2,,
+,"プログレッシブ表示（：）に変更しました。
+この画面表示モードでゲームを開始してよろしいですか？
+はい いいえ
+ 
+10秒以上たっても応答がない場合は
+自動的にプログレッシブ表示切り替え画面に戻ります。
+","<8084>0Progressive display (4:3) set.
+Proceed with game in this display mode?
+<8099>@Yes <8099>ANo
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3You will be returned to the menu if there is no
+response within 10 seconds.
+",,,,10,3,,
+,"MEMORY CARD差込口、及び
+MEMORY CARD差込口に
+”PlayStation 2”専用メモリーカード（8MB）が
+差されていません。
+Valkyrie Profile 2 のゲームデータを
+セーブするにはKB以上の
+空き容量が必要です。
+ 
+このままゲームを開始しますか？
+","<8084>0No memory card (8MB)(for PlayStation<0066>2) inserted
+in MEMORY CARD slot 1 or MEMORY CARD slot 2.
+Valkyrie Profile<0066>2 requires <8094>",,,,10,4,,
+,"MEMORY CARD差込口の
+”PlayStation 2”専用メモリーカード（8MB）の
+空き容量が足りません。
+Valkyrie Profile 2 のゲームデータを
+セーブするにはKB以上の
+空き容量が必要です。
+ 
+このままゲームを開始しますか？
+","<8084>0Insufficient free space on
+memory card (8MB)(for PlayStation<0066>2) in
+MEMORY CARD slot <8094>0",,,,10,5,,
+,"MEMORY CARD差込口、及び
+MEMORY CARD差込口の
+”PlayStation 2”専用メモリーカード（8MB）の
+空き容量が足りません。
+Valkyrie Profile 2 のゲームデータを
+セーブするにはKB以上の
+空き容量が必要です。
+ 
+このままゲームを開始しますか？
+","<8084>0Insufficient free space on
+memory cards (8MB)(for PlayStation<0066>2) in
+MEMORY CARD slot 1 and MEMORY CARD slot 2.
+ Valkyrie Profile<0066>2 requires <8094>",,,,10,6,,
+,"環境設定データをロードしています。
+ 
+MEMORY CARD差込口の
+”PlayStation 2”専用メモリーカード（8MB）を
+抜き差ししないでください。","<8084>0Loading settings data.
+<0065>
+Do not remove memory card (8MB)(for PlayStation<0066>2)
+from MEMORY CARD slot <8094>0",,,,10,7,,
+,"画面サイズを設定してください。
+： ：
+ 
+の場合はワイドテレビ対応になりますので、
+テレビの画面モードをフルモード（またはそれに準ずるモード）に
+切り替えてください。詳しくは御使用のテレビの
+取扱説明書をご覧ください。
+","<8084>0Select screen size:
+<8099>716:9<0065><8099>64:3
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3Press <8099>7 to enable widescreen mode.
+Set your television to the appropriate display mode.
+Refer to your television's instruction manual for details.
+",,,,10,10,,
+,"D出力対応モードに変更しました。
+このモードはD端子対応テレビのみ
+ご覧いただけます。
+ 
+ゲームを開始してよろしいですか？
+はい いいえ
+","<8084>0Enable 1080i mode.
+This mode is only compatible with high-definition
+televisions that support the 1080i display mode.
+<0065>
+<808A><CCCD>k^<CCCD>k^<8088>3This mode is not supported.
+Proceed with the game at your own risk.<8089><808B>
+ 
+Proceed with game?
+<8099>@Yes <8099>ANo
+",,,,10,11,,
+,"アナログコントローラ（DUALSHOCK 2）が
+見つかりませんでした。コントローラ端子に
+アナログコントローラ（DUALSHOCK 2）を差し込み、
+を押してください。","<8084>0Could not detect DUALSHOCK<0066>2 analog controller.
+Please insert DUALSHOCK<0066>2 analog controller
+into controller port 1.
+ 
+Press <8099>@ to proceed.",,,,10,90,,
+,はい,Yes,Sim,,,10,100,,
+,いいえ,No,Não,,,10,101,,
+,スキップしますか？,Skip this sequence?,,,,10,102,,
+,来るわ…,Danger.,Perigo.,,,10,2000,,
+,…何が？,From what?,De quê?,,,10,2001,,
+,わからないのか！？,You can't tell?,Não consegue sentir?,,,10,2002,,
+,"…なぜわかる？
+         さっぱりわからない…","How do you know?
+                                 I don't sense anything.","Como você sabe?
+                                 Eu não sinto nada.",,,10,2003,,
+,来るってんなら来るんだろ？,"If she says we're in danger, we are!","Se ela diz que estamos em perigo, é porque estamos!",,,10,2004,,
+,そうよ！,He's right!,Ele tem razão!,,,10,2005,,
+,…さあ 目を覚まして,"Open your eyes,","Abra os olhos,",,,10,2006,,
+,アリーシャ…,Alicia.,Alicia.,,,10,2007,,
+,逃げろ！ 城から出るんだ！,Run! Escape from the castle!,Corra! Fuja do castelo!,,,10,2008,,
+,こっちだ 早く！,"This way, quickly!","Por aqui, rápido!",,,10,2010,,
+,行くのよ！,Hurry!,Depressa!,,,10,2011,,
+,早く！,Quickly!,Rápido!,,,10,2012,,
+,わかってる！ 焦らせるな！,I know! Don't rush us!,Eu sei! Não nos apresse!,,,10,2013,,
+,あっちだ！,Over there!,Por ali!,,,10,2014,,
+,シルメリア 戻りなさい！,"Silmeria, return at once!","Silmeria, volte imediatamente!",,,10,2015,,
+,私は ――,I won't...,Eu não vou...,,,10,2016,,
+,―― ヴァルハラへは戻らない！,I won't return to Valhalla!,Não vou voltar a Valhalla!,,,10,2017,,
+,あくまでオーディン様の命に背くか…,You'll disobey Odin to your last breath.,Você vai desobedecer Odin até o último suspiro.,,,10,2019,,
+,…いいだろう,So be it.,Que assim seja.,,,10,2020,,
+,ディパンの安全は保証しない,But be warned<808A>,Mas fique avisada<808A>,,,10,2021,,
+,,<3F80>-<808B>Dipan will not be spared.,<3F80>-<808B>Dipan não será poupado.,,,10,2021+4,,
+,ありがとう…,Thank you.,Obrigada.,,,10,2022,,
+,…もう後へは戻れないわ,There's no going back now.,Agora não há como voltar atrás.,,,10,2023,,
+,そうね…,Let's go...,Vamos...,,,10,2024,,

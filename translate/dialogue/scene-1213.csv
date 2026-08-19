@@ -1,0 +1,45 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Lezard,もう大丈夫でしょう今日はこの辺りで〓みませんか？,"I believe we are safe now.
+Shall we adjourn here until the morrow?",,1,1,1213,25,,
+Dylan,なぜ大丈夫だと言える？,What makes you think we're safe?,,1,2,1213,1,,
+Lezard,森に結界を張っておきました,I cast a force field around the forest.,,1,3,1213,2,,
+Lezard,ウ〓ルザ様が〓送方陣で追ってきてもこの辺りには出られません,"Even were Walther to follow us by
+teleportation, he would be unable to
+reach us here.",,1,4,1213,3,,
+Dylan,…それなら〓もうか,"In that case, we should rest.",,1,5,1213,4,,
+Alicia,私は構いません,I wouldn't mind resting.,,1,6,1213,5,,
+Lezard,シルメリア殿かと思っていればいつの間に…,"You surprised me. I thought Silmeria was
+still with us.",,1,7,1213,6,,
+Alicia,普段は私が <PART> ――,"Usually, it's just me...",,1,8,1213,7,,
+Lezard,私はただ魔導師として 一つの肉体に二つの精神が宿る〓〓に感動しています,"As one versed in the arcane, I am merely
+intrigued by two spirits sharing one body.",,1,9,1213,22,,
+Rufus,適当に言い〓おうったってきっとシルメリアにはお見通しだぜ,"Sweet talk all you want. Silmeria can
+see right through it.",,1,10,1213,8,,
+Rufus,それぐらい できそうなもんだろ？,"Well, seems like it should be possible.",,1,11,1213,9,,
+Silmeria,おもしろい 〓してみましょうか？,Interesting. Shall we give it a try?,,1,12,1213,10,,
+Lezard,これはこれは シルメリア殿 <PART> ――,"It would be an honor, Lady Silmeria.",,1,13,1213,11,,
+Silmeria,前世から離れられない強い思念があなたの中に残っているか <PART> ――,"If you have thoughts or feelings that
+are inseparably bound to another life...",,1,14,1213,12,,
+Silmeria,あなたに対して強く影〓を及ぼす他者の思念があれば 〓み取る事は可能よ,"...or memories of someone who affected
+you deeply, then I can read those thoughts.",,1,15,1213,13,,
+Lezard,そうですか…,Is that so?,,1,16,1213,14,,
+Lezard,…私は前世など知りたくない遠〓しておきましょう,"Allow me to abstain; I would rather not
+know about my other lives.",,1,17,1213,15,,
+Lezard,よろしければ お二方は？,Perhaps the gentlemen would oblige?,,1,18,1213,16,,
+Dylan,…俺は 前世もそのまた前世もディパンの〓臣だったと信じていたい,"I'd like to believe that in all my other
+lives I have been a defender of Dipan.",,1,19,1213,17,,
+Rufus,余計な事してると アーリィって奴に感づかれるんじゃないのかよ？,"If you mess around with your powers,
+won't that other valkyrie detect us?",,1,20,1213,18,,
+Silmeria,…確かにそうね,You've got a point.,,1,21,1213,19,,
+Lezard,お二方も長旅でお疲れでしょう少し横になられてはいかがですか？,"You two must also be fatigued from your
+journey. A brief respite is in order.",,1,22,1213,20,,
+Lezard,日が高くなる前に起こして差し上げますもちろん私は起きて番をしましょう,"I shall wake you before the sun is high.
+Naturally, I shall keep watch as you rest.",,1,23,1213,21,,
+Lezard,お許しください そのようなつもりで申し上げたのではありませんが…,"I beg your forgiveness; I never intended
+to insinuate such a thing.",,1,24,1213,23,,
+Lezard,…オブシェクトリーディングで人の心が〓めるという事ですか？,"So, can object reading be used to read
+another's mind?",,1,25,1213,24,,
+Alicia,彼女が出てくるのはオブシェクトを見つけた時だけです,"She only comes out when we need her for
+object reading.",,1,26,1213,26,,
+Alicia,すみません 頼りにならなくて…,"I'm sorry. I wish I could be of more
+help.",,1,27,1213,27,,

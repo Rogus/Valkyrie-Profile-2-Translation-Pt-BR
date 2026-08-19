@@ -1,0 +1,1517 @@
+original_jp,original_en,translated,occurrences,containers,notes
+ねこのふん,Cat Poop,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+しやぶった骨,Sucked Bone,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+かじった靴,Chewed-up Shoes,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+ぼろぼろの布,Squalid Cloth,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+いぬのふん,Dog Poop,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+ひよこのえさ,Chicken Feed,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+野菜くず,Vegetable Debris,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+貝殻入りのえさ,Clamshell Chum,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+とりのふん,Bird Poop,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+猫の指輪,Cat Ring,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+犬の指輪,Dog Ring,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+鳥の指輪,Bird Ring,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+ソロモンの指輪,Solomon's Ring,,6,container-0641.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+両手持ち大剣の類〓。,A type of two-handed greatsword.,,6,container-0641.csv container-0644.csv container-0645.csv,
+ページ,<8099>8<8099>9Page,<8099><0009><8099><000A>Página,6,container-0643.csv container-0644.csv container-0645.csv container-0647.csv container-0649.csv,
+HP,HP,HP,6,container-0643.csv container-0646.csv container-0647.csv container-0649.csv container-0650.csv,
+エイミングウィスプ,Aiming Wisp,,6,container-0647.csv container-0650.csv,
+ウェザリングオーダー,Stony Decree,,6,container-0647.csv container-0650.csv,
+ダブルウインド,Double Wind,,6,container-0647.csv container-0650.csv,
+"光線状の誘導弾を放つ。
+決め技ゲージ増加量：×Hit","Fires a bolt guided by a beam of light.
+Increase to Special Attack gauge: 4 <0065> 3 Hits",,6,container-0647.csv container-0650.csv,
+"敵の体を石化する魔法の矢。
+決め技ゲージ増加量：×Hit","An enchanted arrow turns the enemy to stone.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",,6,container-0647.csv container-0650.csv,
+ビフレスト,Bifrost,,6,container-0648.csv container-0652.csv container-0866.csv,
+チェック用マップ,CHECK_MAP,,6,container-0648.csv container-0652.csv container-0866.csv,
+デバッグ用マップ,DEBUG_MAP,,6,container-0648.csv container-0652.csv container-0866.csv,
+RDM〓,RDM 1/2,,6,container-0648.csv container-0866.csv,
+methの刻印,METH Seal,,5,container-0644.csv container-0645.csv container-0647.csv container-0649.csv container-0650.csv,
+セカンドルーイン,Second Ruin,,5,container-0644.csv container-0647.csv container-0650.csv,
+スカイハイエッジ,Sky-high Edge,,5,container-0644.csv container-0647.csv container-0650.csv,
+,28,,5,container-0650.csv,
+,25,,5,container-0650.csv,
+アイテム,Items,Items,4,battle-menu-runtime.csv container-0643.csv,Battle UI block; Japanese decoded from SLPM-66419 runtime state
+WEAPON,Weapon,Arma,4,battle-menu-runtime.csv container-0645.csv container-0649.csv container-0650.csv,Battle UI block; Japanese decoded from SLPM-66419 runtime state
+はい,Yes,Sim,4,container-0641.csv container-0643.csv container-0866.csv,
+名前〓,ABC,ABC,4,container-0641.csv container-0644.csv container-0645.csv container-0648.csv,
+種類〓,Type,Tipo,4,container-0641.csv container-0644.csv container-0645.csv container-0648.csv,
+名前〓に並び替えます,Arrange in alphabetical order.,Ordem alfabética.,4,container-0641.csv container-0644.csv container-0645.csv container-0648.csv,
+武器防具屋,Armory,,4,container-0641.csv,
+"ディパンやゾルデを中心としたミッドガルド北部の地図。
+地域間の移動を〓略化できる。","A map of the north featuring Dipan and Solde in the center.
+Enables shortcuts to destinations.",,4,container-0641.csv container-0644.csv container-0645.csv,
+"ヴィルノアを中心としたミッドガルド西部の地図。
+地域間の移動を〓略化できる。","A map of the west featuring Villnore in the center.
+Enables shortcuts to destinations.",,4,container-0641.csv container-0644.csv container-0645.csv,
+"クレルモンフェランを中心としたミッドガルド東部の地図。
+地域間の移動を〓略化できる。","A map of the east featuring Crell Monferaigne in the center.
+Enables shortcuts to destinations.",,4,container-0641.csv container-0644.csv container-0645.csv,
+装備,Equip,Equip,4,container-0643.csv container-0645.csv,
+〓はずす〓,(Remove),(Tirar),4,container-0645.csv container-0646.csv container-0647.csv container-0649.csv,
+スクランブルアタック,Scramble Attack,Ataque Caótico,4,container-0645.csv container-0646.csv container-0647.csv container-0650.csv,
+デュアルタスク,Dual Tusks,,4,container-0647.csv container-0650.csv,
+スターダスト,Stardust,,4,container-0647.csv container-0650.csv,
+ライジングウィスプ,Rising Wisp,,4,container-0647.csv container-0650.csv,
+リストリクトディストーシヨン,Binding Distortion,,4,container-0647.csv container-0650.csv,
+フレイムシュート,Flame Shot,,4,container-0647.csv container-0650.csv,
+ウェイブモーシヨン,Wave Motion,,4,container-0647.csv container-0650.csv,
+スロートシュート,Target Throat,,4,container-0647.csv container-0650.csv,
+スリーウェイ,Three-way Attack,,4,container-0647.csv container-0650.csv,
+フレークフラップ,Shrapnel Shatter,,4,container-0647.csv container-0650.csv,
+ブラストキック,Blast Kick,,4,container-0647.csv container-0650.csv,
+サンセットラスター,Sunset Luster,,4,container-0647.csv container-0650.csv,
+アサルトステップ,Assault Step,,4,container-0647.csv container-0650.csv,
+レイダウンソード,Descending Sword,,4,container-0647.csv container-0650.csv,
+オーバースピン,Overspin,,4,container-0647.csv container-0650.csv,
+ミスティファントム,Mist Phantom,,4,container-0647.csv container-0650.csv,
+サプライズスロー,Sneaky Throw,,4,container-0647.csv container-0650.csv,
+ソウルピアシング,Soul Pierce,,4,container-0647.csv container-0650.csv,
+サイドスイングカット,Sideswiper,,4,container-0647.csv container-0650.csv,
+カッティングエッジ,Cutting Edge,,4,container-0647.csv container-0650.csv,
+インプライリアクト,Imperious Act,,4,container-0647.csv container-0650.csv,
+スパイラルピアス,Spiral Pierce,,4,container-0647.csv container-0650.csv,
+ガストウインドウ,Gale Winds,,4,container-0647.csv container-0650.csv,
+ターンアラウンド,Turnaround,,4,container-0647.csv container-0650.csv,
+クロスラッシュ,Cross Slash,,4,container-0647.csv container-0650.csv,
+ミラージュピアス,Mirage Pierce,,4,container-0647.csv container-0650.csv,
+ディープインパクト,Deep Impact,,4,container-0647.csv container-0650.csv,
+"高速で放つ神速の射。
+決め技ゲージ増加量：×Hit","Launches twin bolts of godspeed at great velocity.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",,4,container-0647.csv container-0650.csv,
+"星の光を乗せた衝撃波を放つ。
+決め技ゲージ増加量：×Hit","Fires shockwave bearing the light of stars.
+Increase to Special Attack gauge: 3 <0065> 4 Hits",,4,container-0647.csv container-0650.csv,
+"空間の歪みで敵を拘束する。
+決め技ゲージ増加量：×Hit数","Ensnares enemy in a distortion of space itself.
+Increase to Special Attack gauge: 3 <0065> Number of Hits",,4,container-0647.csv container-0650.csv,
+"命中すると爆発する矢を放つ。
+決め技ゲージ増加量：×Hit","Launches an arrow that explodes when it strikes home.
+Increase to Special Attack gauge: 16 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"収束させた力を解放する。
+決め技ゲージ増加量：×Hit","Unleashes focused energy.
+Increase to Special Attack gauge: 9 <0065> 2 Hits",,4,container-0647.csv container-0650.csv,
+"咽を狙い澄ました一撃。
+決め技ゲージ増加量：×Hit","An attack that goes right for the throat.
+Increase to Special Attack gauge: 10 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"無数の散弾を正面に放つ。
+決め技ゲージ増加量：×Hit","A countless scattering of bolts is hurled forward. 
+Increase to Special Attack gauge: 3 <0065> 8 Hits",,4,container-0647.csv container-0650.csv,
+"上段から振り下ろす攻撃。
+決め技ゲージ増加量：×Hit","A downward blow from high.
+Increase to Special Attack gauge: 5 <0065> 2 Hits",,4,container-0647.csv container-0650.csv,
+"敵を大きく吹き飛ばす横蹴り。
+決め技ゲージ増加量：×Hit","A side kick that sends the enemy flying.
+Increase to Special Attack gauge: 12 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"上段からの振り下ろし。
+決め技ゲージ増加量：×Hit","A downwards attack from above.
+Increase to Special Attack gauge: 9 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"体勢を低くしての素早い突き。
+決め技ゲージ増加量：×Hit","A thrusting attack with the body kept low.
+Increase to Special Attack gauge: 3 <0065> 2 Hits",,4,container-0647.csv container-0650.csv,
+"勢いを付けた回転蹴り。
+決め技ゲージ増加量：×Hit","A spinning kick with nothing held back.
+Increase to Special Attack gauge: 13 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"目にも留まらない高速の攻撃。
+決め技ゲージ増加量：×Hit","A snake-fast attack quicker than the eye.
+Increase to Special Attack gauge: 2 <0065> 4 Hits",,4,container-0647.csv container-0650.csv,
+"隠し持ったナイフでの奇襲。
+決め技ゲージ増加量：×Hit","Surprise attack with a hidden knife.
+Increase to Special Attack gauge: 6 <0065> 2 Hits",,4,container-0647.csv container-0650.csv,
+"急所を狙っての一撃。
+決め技ゲージ増加量：×Hit","A strike that aims for the foe's weak spot.
+Increase to Special Attack gauge: 8 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"剣圧による連続攻撃。
+決め技ゲージ増加量：×Hit","Overwhelming sword flurry attack.
+Increase to Special Attack gauge: 2 <0065> 6 Hits",,4,container-0647.csv container-0650.csv,
+"回転しての足払い。
+決め技ゲージ増加量：×Hit","A spinning sweep attack.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"一刀目で敵を切り上げ、二刀目で敵を切り伏せる攻撃。
+決め技ゲージ増加量：×Hit","The first strike lifts the foe; the second cuts him down.
+Increase to Special Attack gauge: 3 <0065> 3 Hits",,4,container-0647.csv container-0650.csv,
+"敵の防御をすり抜ける攻撃。
+決め技ゲージ増加量：×Hit","An attack that penetrates the foe's defenses.
+Increase to Special Attack gauge: 11 <0065> 1 Hit",,4,container-0647.csv container-0650.csv,
+"力任せの横薙ぎ。”攻撃ボタン長押しで吹き飛ばし可能”
+決め技ゲージ増加量：×Hit","A brutal side slash. Hold button to launch enemy.
+Increase to Special Attack gauge: 3 <0065> 2 Hits",,4,container-0647.csv container-0650.csv,
+アイテム入手不可,Cannot Acquire Items,,4,container-0648.csv container-0866.csv,
+戦闘メニュー禁止,Battle Menu Disabled,,4,container-0648.csv container-0866.csv,
+HP回復無効,No HP Recovery,,4,container-0648.csv container-0866.csv,
+ATK×.,ATK 150%,,4,container-0648.csv container-0866.csv,
+RDM×,RDM 200%,,4,container-0648.csv container-0866.csv,
+ATK〓,ATK 3/4,,4,container-0648.csv container-0866.csv,
+,23,,4,container-0650.csv,
+,27,,4,container-0650.csv,
+いいえ,No,Não,3,container-0641.csv container-0643.csv container-0866.csv,
+攻撃力〓,Attack Power,Poder de Ataque,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力〓,Magic Power,Poder Mágico,3,container-0641.csv container-0644.csv container-0645.csv,
+命中率〓,Hit Rate,Taxa de Acerto,3,container-0641.csv container-0644.csv container-0645.csv,
+回避率〓,Avoid,Esquiva,3,container-0641.csv container-0644.csv container-0645.csv,
+物理耐性〓,Reduce Damage,Reduzir Dano,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法耐性〓,Magic Resist,Resistência Mágica,3,container-0641.csv container-0644.csv container-0645.csv,
+種類〓に並び替えます,Arrange by type.,Ordem por tipo.,3,container-0641.csv container-0644.csv container-0645.csv,
+攻撃力〓に並び替えます,Arrange by attack power.,Ordem por poder de ataque.,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力〓に並び替えます,Arrange by magic power.,Ordem por poder mágico.,3,container-0641.csv container-0644.csv container-0645.csv,
+命中率〓に並び替えます,Arrange by hit rate.,Ordem por taxa de acerto.,3,container-0641.csv container-0644.csv container-0645.csv,
+回避率〓に並び替えます,Arrange by evasion rate.,Ordem por esquiva.,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法耐性〓に並び替えます,Arrange by magic resistance.,Ordem por resistência mágica.,3,container-0641.csv container-0644.csv container-0645.csv,
+一般的に使用されている鉄〓の刀剣。,A common sword made of steel.,,3,container-0641.csv container-0644.csv container-0645.csv,
+細身の剣。主に刺突攻撃を想定して作られている。,A thin-bladed sword. Generally used to deliver thrust attacks.,,3,container-0641.csv container-0644.csv container-0645.csv,
+サーベルの原〓となった剣。〓子の尾という意味を持つ。,"A kind of saber. Its name means ""curved like a lion's tail.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+勇猛な戦士が好んで使っていたという刀剣。,Preferred sword of fearless warriors.,,3,container-0641.csv container-0644.csv container-0645.csv,
+身〓の広い片刃の曲刀。,Curved sword with wide blade.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"ヒルトと呼ばれるナックルガードを取り付け、
+利き手の防御効果を高めた刀剣。","Equipped with a large hilt, it improves the wielder's defense.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓まわしき亡霊を打ち払う聖剣。
+実体を持たない魔物を切り裂くと言われている。","Holy sword that disperses wicked spirits.
+It is said to rip through immaterial beasts.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓暴な獣を一太刀で〓ったと言われる剣。
+倒された獣は波紋の一つになると言われている。","Sword said to bury ferocious beasts in a single blow.
+Fallen beasts leave but a memory.",,3,container-0641.csv container-0644.csv container-0645.csv,
+斬撃と刺突の両方の用途に優れた特性を示す刀剣。,Sword that is excellent for either slashing or stabbing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+直刀〓のサーベル。,A straight-edged saber.,,3,container-0641.csv container-0644.csv container-0645.csv,
+氷の魔力を付与された刀剣。,Sword endowed with the magic of ice.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓状に曲がった刃を持つ剣。
+毒蛇の頭〓を持つ魔物の首を落としたと言われている。","Sword with blade curved in the shape of a crescent.
+Said to have decapitated a monster with snakes for hair.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"邪悪な力を持つ大蜘蛛を一太刀で〓ったと言われる剣。
+その刀身に〓れた虫は、ことごとく死を迎える。","Blade said to have buried a monstrous spider.
+Insects writhe at its touch.",,3,container-0641.csv container-0644.csv container-0645.csv,
+雷撃の力を刃に付与された刀剣。,"A sword whose razor-sharp edge is endowed with the power of
+lightning.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"氷の魔力を付与された刀剣。
+斬られた者は極〓の冷気にさらされると言う。","Sword endowed with the magic power of ice.
+Its victims are stung by a bitter cold.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔力を砕くと言われる剣。
+この剣の前には、どんなに〓大な魔術師も無力となる。","Sword said to crush magic power. 
+Even the greatest of sorcerers is powerless before it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+炎の力を秘めているという刀剣。,Sword imbued with the power of fire.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"水面に〓かぶ蓮を断ち切る〓に鋭い切れ味を持つ剣。
+その刀身に〓れた植物はたちまち枯れゆく。","Blade so sharp it can cut floating lotuses.
+Vegetation withers at its touch.",,3,container-0641.csv container-0644.csv container-0645.csv,
+聖なる力で〓められた刀剣。,Sword blessed with holy power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"あまりの攻撃の速さに、剣影が一つにしか見えないという名剣。
+攻撃された者すら何度斬られたか〓握できない。","Blade so quick it appears as a blur. 
+Not even its victim knows how many cuts are made.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"かつて湖の騎士と呼ばれた英雄の剣。
+数多の女性を虜にすると言われている。","Sword once belonging to the Knight of the Lake.
+Said to capture women's hearts.",,3,container-0641.csv container-0644.csv container-0645.csv,
+白金に輝く金属で作られた長剣。材質〓詳細は不明。,"Longsword forged from an unknown metal with the shine of
+platinum.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"無二の名剣。だが武器の本質を純粋に追求しすぎたため、
+持つ者は残らず闇に〓ちる結果になるという。","A sword unmatched by any other. But it is so powerful that
+the wielder will fall into darkness.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"竜殺しの異名を持つ聖人が所持した剣。
+この剣による攻撃は通常の破壊力を上回る。","Sword of a saint known as the Dragonslayer.
+Attacks with extraordinary destructive power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓石を鍛えて作られたという〓色の刀剣。,Sword forged from a fallen meteorite.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"世界創世の力を秘めているという神の剣。
+正の力を負に転換して敵を攻撃し、浄化するという。","Divine sword imbued with the power to create worlds. Positive
+power is transformed into negative power to purify enemies.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"神殺しの〓名をきせられた剣。
+だがその本質は、魔とは正反対に位置している。","Its name means god-slayer, but in fact its power lies in the
+opposite direction.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔竜の腹中にあると言われた漆黒の魔剣。,"A magical black sword said to have been discovered in the
+stomach of the dragon Bloodbane.",,3,container-0641.csv container-0644.csv container-0645.csv,
+英雄ヘルギが所有していたと言われる剣。,Sword said to be that of the hero Helgi.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"天使を殺し続けた咎人に〓られる破壊の剣。
+どんな〓大な神もこの剣の前には無力となる。","Sword bestowed upon a villain who slays angels. 
+Even the mightiest of gods is powerless before it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+片手でも両手でも扱える剣。,Sword which can be wielded in one or both hands.,,3,container-0641.csv container-0644.csv container-0645.csv,
+人の身長とほぼ同じ長さを持つ両手剣。,"A two-handed greatsword, as long as a man is tall.",,3,container-0641.csv container-0644.csv container-0645.csv,
+精霊の力が付与された大剣。,Greatsword endowed with the power of the spirits.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"鋭い切れ味を持つ宝剣。
+〓びてもその威力は〓がれないという。","Antique sword with a sharp blade. 
+Even rust cannot dull its edge.",,3,container-0641.csv container-0644.csv container-0645.csv,
+刀身は重いが切れ味は鋭い、両手持ち大剣の類〓。,"Two-handed greatsword with a blade that is heavy yet 
+razor-sharp.",,3,container-0641.csv container-0644.csv container-0645.csv,
+火炎の意を〓する大剣。炎のように波打つ刀身を持つ。,"Greatsword with a flame-like serrated edge.
+A sword as deadly as it is decorative.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"人の身長よりも長く作られた超重量級の剣。
+どんな巨大な敵も、防具ごと叩き潰す破壊力を持つ。","Super-heavyweight sword longer than its wielder's height.
+Crushes enemies in their armor.",,3,container-0641.csv container-0644.csv container-0645.csv,
+肉体と共に歪んだ精神を切り裂くという刀剣。,Sword which cuts through flesh as well as warped spirits.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"竜殺しとも呼ばれる大剣。
+どんな強大な力を持つ竜も、この剣の前には無力となる。","Sword with incredible power against dragons.
+Even the strongest of dragons is powerless before it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+かつてヴィルノア建国の雄となった戦士が愛用していた剣。,Beloved sword of one of Villnore's founders.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"刀身に蒼い波紋が時折〓かび上がり、
+まるで息づいているかのような姿を見せる大剣。","Blue ripples occasionally appear on this greatsword's blade,
+as if it were breathing.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"精霊王の名を〓する大剣。
+幾〓にのぼる精霊を統べる者の証と伝えられる。","Greatsword named after a Fairy King who led thousands of
+fairies in their war against the demons.",,3,container-0641.csv container-0644.csv container-0645.csv,
+妖精により鍛えられた帝王の剣。,Imperial sword forged by fairies.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"王を選定するための岩から抜かれたという騎士王の剣。
+一撃で相手を死に追いやると言われている。","Sword that grants wielder supreme executive power, plucked
+from a stone by a knight. Smites foes in a single blow.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ビフレストの番人ヘイムダルが所持する角〓。
+戦いの時にはその姿を剣に変える。","Horn of Heimdall, guardian of Bifrost.
+Assumes the form of a sword in battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+どんな敵でも切り〓てたという不敗の剣。,An unstoppable sword that will slice any foe in two.,,3,container-0641.csv container-0644.csv container-0645.csv,
+攻撃した相手の血を〓るという魔剣。,Magic sword that sucks the blood of its victim.,,3,container-0641.csv container-0644.csv container-0645.csv,
+爆炎の力が付与された大剣。,Greatsword endowed with the power of a fiery explosion.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"悪〓なる者と名付けられた大剣。だがその不名〓な名も
+あまりに強力な力を〓まれての事らしい。","Greatsword of ill repute.
+Despite its dishonorable name, it holds staggering power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+持ち主に勝利をもたらす剣。だがその代〓は大きい。,"Brings victory to its holder, but at quite a cost...",,3,container-0641.csv container-0644.csv container-0645.csv,
+"神界アスガルドに安定をもたらすと言われる槍。
+四宝の一つで、オーディンが所有している。","Lance that stabilizes Asgard, realm of the gods.
+One of the Four Treasures. Property of Odin.",,3,container-0641.csv container-0644.csv container-0645.csv,
+神の祝福が与えられた矛槍。,Pole arm carrying the blessings of the gods.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"小さな王の名を〓する槍。装飾部には、〓んだ相手を
+石化させるというバシリスクの眼がはめ込まれている。","A name derived from words meaning ""little king."" The inset
+basilisk's eye can turn the object of its gaze to stone.",,3,container-0641.csv container-0644.csv container-0645.csv,
+半月状の刃先を持つ長〓の槍。魔力が込められている。,"Pole arm bearing a half-moon shaped blade at its end.
+Imbued with magic power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"畏怖すべきこうもりの名を〓する長槍。
+〓いうろこに覆われた魔物ですら、一撃で切り伏せるという。","Long heavy spear with the tooth of a dinosaur affixed to its
+end.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一般的に使用されている小〓の弓。,A typical small bow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓単な操作で威力ある矢を射出できるよう、
+特殊な射出機構を取り付けた弓。","An easy-to-use mechanical bow that launches a short bolt at
+high velocity.",,3,container-0641.csv container-0644.csv container-0645.csv,
+長〓離攻撃を想定して作られた弓。,A bow designed for long range attacks.,,3,container-0641.csv container-0644.csv container-0645.csv,
+シヨートボウを強化した弓。,A more powerful version of the short bow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+最高の素材と最高の技術を用いて作られた弓。,"A crossbow made of the finest materials with the finest
+workmanship.",,3,container-0641.csv container-0644.csv container-0645.csv,
+クロスボウを強化した弓。,A more powerful version of the crossbow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+多数の素材を組み合わせた合成弓。,Composite bow created from several materials.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"その弓から放たれた矢は、〓れる植物を
+ことごとく枯らすと言われている弓。","It is said vegetation withers from the touch of arrows shot
+from this bow.",,3,container-0641.csv container-0644.csv container-0645.csv,
+攻撃力重視により大〓化したクロスボウ。,Enlarged crossbow meant for aggressive battle.,,3,container-0641.csv container-0644.csv container-0645.csv,
+クロスボウの類〓。,A type of crossbow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔力を打ち砕く弓。
+どんな〓大な魔術師も、この矢の前には無力となる。","Bow that crushes magic power. Even the greatest of sorcerers
+is powerless before it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+高度な技術により、矢の連続発射を可能とした弓。,"Advanced technology allows the bow to launch rapid-fire
+attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+神の器と称されるエルフ族に伝わる弓。,Bow handed down amongst the elves.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"相対した者との断絶を意味する烈刃の弓。
+その矢の閃きが敵をこの世から〓殺するという。","A bow which fires flashing arrows which carry tremendous
+destructive force.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"疾風の〓く矢を放つ弓。
+その弓から放たれた矢は、通常の破壊力を上回る。","Shoots arrows with sheer gale force. Arrows shot from the bow
+achieve higher destructive capabilities.",,3,container-0641.csv container-0644.csv container-0645.csv,
+光の神の命を奪うとされる宿り〓で作られた弓。,"A bow carved from a hollowed tree that captured the spirit of
+the god of light.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"月光石と呼ばれる魔晶石の一種を改変して
+作られたという矢を放つ弓。","A bow designed to fire arrows tipped with magical moon
+crystals.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"聖なる力を付与された弓。
+どんな〓れた力を持つ魔物も、この弓の前では無力となる。","Bow endowed with holy power. Even the most unclean monster
+is powerless before it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"暗黒神を倒した武器。太陽弾とも称される。
+光の神の魔力が込められている。","Magic stone of the sun that slayed the god of darkness.
+Imbued with the magic of the light god.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魂を砕く力を持つとされる弓。
+攻撃した相手の体力を奪うと言われている。","Bow that crushes demons. 
+Said to steal the life force of its victim.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"危機を告げる者の意を〓する弓。
+だがその標的となった者が逃れる術は無い。","Named after one who can foretell impending danger. 
+But the knowledge does not enable him to prevent its coming.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"四宝の一つ。妖精界に安定をもたらすと言われている。
+その攻撃力は持ち主に比例する。","One of the Four Treasures. Said to stabilize the spirit world.
+Attack power is proportional to wielder.",,3,container-0641.csv container-0644.csv container-0645.csv,
+巨人を倒したとされる英雄の武器。,Weapon of a hero believed by some to have slayed a giant.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"先端に紅玉を飾りたてた杖。紅玉の中〓には
+心臓の〓動のように明滅する小さな光が見える。","A staff with a ruby gem set in its tip. Inside the gem a tiny
+light flickers like a heartbeat.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"先端に水晶を飾りたてた杖。
+光の加減によって〓色に輝き、とても美しい。","A wand with a crystal set in its tip.
+Pulsating with 7 different colors, it is quite beautiful.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ある海辺の廃村から発掘された杖。
+古代の海の神を崇める文字が刻まれている。","Staff excavated from a barren seaside village.
+Bears an inscription praising the ancient god of the sea.",,3,container-0641.csv container-0644.csv container-0645.csv,
+先端に無〓大を表す飾りが付けられた杖。,Staff decorated with the symbol of infinity.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法金属を用いて作られた杖。,Wand composed of magical metal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"蓮の花を模した飾りが付けられた杖。
+魔術の〓弐に使用される。","A wand fashioned in the image of a lotus flower.
+For use in mystical ceremonies.",,3,container-0641.csv container-0644.csv container-0645.csv,
+妖精を模した飾りが付けられた杖。,A wand fashioned in the image of a fairy.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ドラゴンの持つ魔力を封じ込めた杖。,Staff imbued with the magic power of dragons.,,3,container-0641.csv container-0644.csv container-0645.csv,
+聖なる力を持つ宝玉がはめ込まれた杖。,Bejeweled rod imbued with holy power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+荒れ狂う大波を模した紋章が飾り付けられた杖。,A scepter inscribed with the emblem of a crashing wave.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ユニコーンの角を魔術師用の杖に加工したもの。,A unicorn horn which has been turned into a magician's wand.,,3,container-0641.csv container-0644.csv container-0645.csv,
+天界の力で作られた魔法の杖。,Scepter imbued with the power of ether.,,3,container-0641.csv container-0644.csv container-0645.csv,
+二匹の蛇が〓みついた姿を持つ杖。,Staff in the shape of two snakes entwined.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"大蛇の姿を模した形状の杖。
+大魔法ペイルフレアーが使用できる。","A staff shaped like a giant snake.
+Enables the Great Magic Pale Flare.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"無〓の英知を封じ込めた杖。
+大魔法ファントムデストラクシヨンが使用できる。","Staff imbued with infinite wisdom. 
+Enables the Great Magic Phantom Destruction.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"不死者の王ブラムスが愛用するナックル。
+攻撃した相手の血を食らうと言われている。","Beloved knuckle weapon of Brahms, Lord of the Undead.
+Said to suck its victim's blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"不死者の王ブラムス専用の武器。
+攻撃した相手の血を食らうと言われている。","Beloved knuckle weapon of Brahms, Lord of the Undead.
+Said to suck its victim's blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"不死者の王ブラムスの力を引き出す爪。
+攻撃した相手の血を食らうと言われている。","A claw that enhances the power of Brahms, Lord of the Undead.
+Said to suck its victim's blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"不死者の王ブラムスの能力を更に引き出す
+恐るべき武具。攻撃した相手の血を食らうと言われている。","A fearsome weapon that greatly enhances the abilities of
+Brahms, Lord of the Undead. Said to suck its victim's blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"不死者の王ブラムス専用の武器。
+攻撃した相手の血を食らうと言われている。","A weapon especially for Brahms, Lord of the Undead.
+Said to suck its victim's blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"なめし〓〓の鎧。
+雷属性の攻撃に対し強い耐性を持つ。","Tanned hide armor.
+Helps to protect the wearer from lightning-element attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+金属の細い〓を編んで作られた鎧。,Armor made from linked metal chains.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鉄〓の鎧。,An iron breastplate.,,3,container-0641.csv container-0644.csv container-0645.csv,
+装飾に水晶があしらわれている美しい鎧。,"A beautiful coat of mail, decoratively coated with crystals.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"鋼鉄〓の鎧。
+土属性の攻撃に対し強い耐性を持つ。","A steel breastplate.
+Possesses strong resistance to earth-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+鉄〓の鎧。,An iron suit of armor.,,3,container-0641.csv container-0644.csv container-0645.csv,
+強化された鋼鉄〓の鎧。,A steel breastplate.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"炎の力を付与された鎧。
+炎属性の攻撃に対し強い耐性を持つ。","Armor imbued with the power of fire.
+Possesses strong resistance to fire-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+かつてヴィルノア建国の雄となった戦士が愛用していた鎧。,Beloved armor of one of Villnore's founders.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓の鎧。意匠が〓らされている。,"Armor made of silver. 
+Exhibits tremendous attention to detail.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"氷の力を付与された鎧。
+氷属性の攻撃に対し強い耐性を持つ。","Armor imbued with the power of ice. 
+Possesses strong resistance to ice-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+竜の皮で作られた鎧。,Armor made from dragon's hide.,,3,container-0641.csv container-0644.csv container-0645.csv,
+勇〓な戦士に〓られるという鎧。,Armor bestowed upon the brave.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"金属〓の全身鎧。
+石化攻撃に対し強い耐性を持つ。","Metal full-body armor. 
+Possesses strong resistance to Stone.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"驚異的な耐久力を持ち主にもたらす鎧。
+衰弱攻撃に対し強い耐性を持つ。","Armor that grants its wearer phenomenal endurance.
+Possesses strong resistance to Frailty.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔力を帯びた銀で作られた鎧。
+〓常に軽く動きやすい。","Enchanted armor made of silver. 
+Surprisingly light and flexible.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"反射と名付けられた鎧。だが本来の力はすでに失われ
+わずかにその名残が見られる〓度。","Reflective suit of armor that has lost its luster and is a
+mere shadow of its original form.",,3,container-0641.csv container-0644.csv container-0645.csv,
+神々の手によって作られた鎧。,Armor made by the hands of the gods.,,3,container-0641.csv container-0644.csv container-0645.csv,
+かつて大陸を制覇した王が身に着けていたとされる鎧。,"Armor believed to be that of a king who once conquered the
+entire continent.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"大地の力を封じて作られたと伝えられる鎧。
+土属性の攻撃をほぼ完全に封じる。","Armor fabled to contain the power of the earth itself.
+Possesses complete resistance to earth-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"見る者全てを〓〓するという至高の鎧。
+装飾・強度・動き〓さなど全てを〓ね備えている。","Majestic armor that charms all who look upon it.
+Designed for style, strength, and speed.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"アリーシャが身に着けていたローブ。
+高価な素材で編まれている。","A robe worn by Alicia.
+Woven from expensive fabrics.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一般的に流布している布〓防具。,Typical and common protective clothing made of cloth.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓を編んで作られた布〓防具。,"A cloak with silver threads woven into it to increase its
+strength.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓をなめして作られた防具。
+雷属性の攻撃に対し強い耐性を持つ。","Tanned leather garment.
+Possesses strong resistance to lightning-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+身分の高い者が身に着ける布〓防具。,Cloth garment worn by the higher members of society.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"聖水による〓めが成された布〓防具。
+呪いに対し強い耐性を持つ。","A cloak anointed with holy water. 
+It affords powerful protection against Curses.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力付与が成された布〓防具。,Cloth garment imbued with magic.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"常に本体の幻影が現れ、ブレているかのような〓覚を
+引き起こすローブ。","Robe that projects a phantom illusion, making it appear to
+be in constant motion.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"水晶で彩られた美しいガーブ。
+氷属性の攻撃に対し強い耐性を持つ。","Beautiful garment decorated with crystals.
+Possesses strong resistance to ice-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"エルフの手により織られた美しいローブ。
+雷・土属性の攻撃に対し、強い耐性を持つ。","Beautiful robe woven by elven hands. Possesses strong
+resistance to ice- and lightning-based attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"精霊の祝福が込められたガーブ。女性のみが装備できる。
+数多の耐性を持つ。","Garment endowed with the blessings of sprites. For women 
+only. Possesses several resistances.",,3,container-0641.csv container-0644.csv container-0645.csv,
+炎のゆらめきをその身に封じ込めたローブ。,Robe with a flickering flame sealed within.,,3,container-0641.csv container-0644.csv container-0645.csv,
+不死鳥の力を封じ込めたガーブ。,Garb imbued with the power of the immortal bird.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"戦乙女の名を〓する衣。装備者の無事を〓る
+人々の想いが込められている。","Garment bearing the name of a mighty battle maiden. Carries
+the prayers of thousands of souls within its woven body.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"風の精霊の守護を受けたローブ。
+装備者には精霊の祝福があると言われている。","Garment blessed by the spirits of the wind.
+It bestows these blessings upon its wearer.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓き誇る花々を集めて織られたガーブ。
+その美しさに、槍は折れ刀は砕けると言われている。","Garment spun from flowers in bloom. Its beauty is said to
+break lances and bend swords.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"永遠の輝きと名付けられた衣。
+フレイ専用。","Garment which shines with an otherworldly light.
+For Freya only.",,3,container-0641.csv container-0644.csv container-0645.csv,
+鼻からアゴ部分にかけて露出したタイプの〓。,A helmet which leaves the nose and chin uncovered.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓のサレット。,Sallet forged from silver.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鉄〓の〓。,A helm made of iron.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鋼鉄〓の〓。,A steel helm.,,3,container-0641.csv container-0644.csv container-0645.csv,
+水晶があしらわれた〓。,A helm decorated with crystal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓の〓。,A helm made of silver.,,3,container-0641.csv container-0644.csv container-0645.csv,
+素材にゴーレムの外装を使用した〓。,Helm made from the exterior of a golem.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"勇〓な戦士に〓られるという〓。
+意匠が〓らされ、豪華。","A helm bestowed upon the brave.
+A luxury item featuring exquisite design.",,3,container-0641.csv container-0644.csv container-0645.csv,
+フルヘルムの類〓。,A type of full helm.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"フルヘルムの類〓。
+戦神のレリーフが側面に〓されている。","A full helm with the visage of the war god engraved into one
+side.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法金属を用いて作られた〓。,A helm forged from magical metal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+エーテル加工が〓された〓。,A helm formed by ether processing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鋼鉄〓の〓。,A crown of steel.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"オリーブを〓った飾りが〓された〓。
+呪いに対し強い耐性を持つ。","A crown engraved with olive branch patterns.
+Possesses strong resistance to Curse.",,3,container-0641.csv container-0644.csv container-0645.csv,
+聖水による〓めが成された〓飾り。,Decorative headwear purified by holy water.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔術師が好んで使用する〓子。,The preferred hat of sorcerers.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"聖女と崇められた女性が身に着けていたという〓飾り。
+聖属性の攻撃に対し強い耐性を持つ。","Headwear worn by a woman worshipped as a saint.
+Possesses strong resistance to holy-element attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"女王となるべき人物が付ける宝〓。
+女性のみ装備可能。",The crown of she who would be queen. For women only.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力が込められた〓。,An enchanted crown.,,3,container-0641.csv container-0644.csv container-0645.csv,
+最高級の素材を用いて作られた〓。,A crown made from the most luxuriant materials.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法金属を用いて作られた〓。,A crown made from magical metal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+エーテル加工が〓された〓。,A crown formed by ether processing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+腕を守る防具。手甲。,Armor that protects the wearer's arms.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鋼鉄〓の手甲。,Hand guard made of steel.,,3,container-0641.csv container-0644.csv container-0645.csv,
+神の戦士に〓られるという手甲。,Hand guard bestowed upon the warriors of the gods.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓の手甲。,Hand guard made of silver.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鋼鉄〓の手甲。,Gauntlet forged from steel.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"勇〓な戦士に〓られるという手甲。
+意匠が〓らされ、豪華。","Hand guard bestowed upon the brave. 
+A luxury item featuring exquisite design.",,3,container-0641.csv container-0644.csv container-0645.csv,
+聖なる力が込められた手甲。,Hand guard imbued with holy power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法金属を用いて作られた手甲。〓常に軽い。,"Hand guard forged from magical metal. 
+Extremely lightweight.",,3,container-0641.csv container-0644.csv container-0645.csv,
+エーテル加工が〓された盾。,Shield formed by ether processing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+炎の揺らめきを封じ込めたという手甲。,Gauntlets with dancing flames sealed within.,,3,container-0641.csv container-0644.csv container-0645.csv,
+星の煌きを宿した手甲。,"Gauntlets studded with jewels containing the power of the
+stars.",,3,container-0641.csv container-0644.csv container-0645.csv,
+なめし〓〓のグローブ。,Gloves made from tanned hide.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力が込められたグローブ。,Gloves imbued with magic power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+身に着ける者に風の速さをもたらすグローブ。,Gloves that enable their wearer to move at the speed of wind.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"解毒の法をかけられた具足。
+毒攻撃に対し強い耐性を持つ。","Legwear with detoxification qualities.
+Provides strong resistance to Poison.",,3,container-0641.csv container-0644.csv container-0645.csv,
+驚異的な瞬発力を持ち主にもたらす具足。,Leg armor confers remarkable explosive power to the wearer.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔力が込められた具足。
+沈黙攻撃に対し強い耐性を持つ。","Legwear imbued with magic power. 
+Possesses strong resistance to Silence.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔法金属を用いて作られた具足。,Greaves made from magical metal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+エーテル加工が〓された具足。,Legwear formed by ether processing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鉄〓の具足。,Iron legwear.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鋼鉄〓の具足。,Steel leg armor.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓の具足。,Silver leg armor.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"勇〓な戦士に〓られるという具足。
+意匠が〓らされ、豪華。","Leg armor bestowed upon the brave.
+A luxury item featuring exquisite design.",,3,container-0641.csv container-0644.csv container-0645.csv,
+動物の裏〓を毛羽立たせた素材を用いたブーツ。,"Soft, comfortable boots made of brushed leather.",,3,container-0641.csv container-0644.csv container-0645.csv,
+素早く軽やかに行動できるようになるというブーツ。,Lightweight boots that make their wearers quick on their feet.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"一度身に着けた者はその最期の時まで〓り続けると
+言われる赤いブーツ。","Once slipped on, these red shoes make their wearer dance to
+the death.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"戦乙女のレリーフが〓されたペンダント。
+男性専用。","Pendant decorated with the Battle Maiden's image.
+Just for men.",,3,container-0641.csv container-0644.csv container-0645.csv,
+三角が三つ重なった紋章が〓かれたエンブレム。,Emblem featuring the mark of three overlapping triangles.,,3,container-0641.csv container-0644.csv container-0645.csv,
+炎属性の範囲攻撃を行う魔水晶。,This crystal releases an area fire attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+氷属性の範囲攻撃を行う魔水晶。,This crystal releases an area ice attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+土属性の範囲攻撃を行う魔水晶。,This crystal releases an area earth attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+雷属性の範囲攻撃を行う魔水晶。,This crystal releases an area lightning attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+聖属性の範囲攻撃を行う魔水晶。,This crystal releases an area holy attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+闇属性の範囲攻撃を行う魔水晶。,This crystal releases an area dark attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+敵の部位をランダムで攻撃する魔水晶。,This crystal randomly targets part of an enemy.,,3,container-0641.csv container-0644.csv container-0645.csv,
+炎属性の攻撃を行う宝玉。,This gem releases a magic fire attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"氷属性の攻撃を行う宝玉。
+一定確率で敵を状態異常（凍結）にする。","This gem releases a magic ice attack. 
+May inflict Freeze on the enemy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"雷属性の攻撃を行う宝玉。
+一定確率で敵を状態異常（麻痺）にする。","This gem releases a magic lightning attack. 
+May inflict Paralysis on the enemy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"土属性の攻撃を行う宝玉。
+一定確率で敵を状態異常（毒）にする。","This gem releases a magic earth attack. 
+May inflict Poison on the enemy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"聖属性の攻撃を行う宝玉。
+一定確率で敵を状態異常（沈黙）にする。","This gem releases a magic holy attack. 
+May inflict Silence on the enemy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"闇属性の攻撃を行う宝玉。
+一定確率で敵を状態異常（混乱）にする。","This gem releases a magic dark attack. 
+May inflict Confuse on the enemy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+敵の部位をランダムで攻撃する宝玉。,This gem randomly targets part of an enemy.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"特別に〓められた水。
+魔物にのダメージを与える。","Specially purified water. 
+Inflicts 10,000 points of damage on a monster.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一定確率で敵を状態異常（混乱）にする。,May inflict Confuse upon an enemy.,,3,container-0641.csv container-0644.csv container-0645.csv,
+範囲内の敵を魔晶石に変換する。,Converts enemies in range to magic crystals.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"戦士が傷を癒すために用いる回復の秘薬。
+HPを回復する。","A secret elixir that cures the wounds of warriors.
+Restores 300 HP.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"薬士が調合した回復の秘薬。
+HPを回復する。","A secret elixir formulated by an apothecary. 
+Restores 1500 HP.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔女が調合した回復の秘薬。
+HPを回復する。","A secret elixir concocted by a witch. 
+Restores 5000 HP.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"賢者が調合した回復の秘薬。
+HPを完全に回復する。","A secret elixir conceived by a sage. 
+Restores all HP.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"小人が生成したと言われる回復の霊薬。
+パーティー全体のHPを回復する。","A magic tincture said to be brewed by dwarves.
+Restores 300 HP to the entire party.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"妖精が生成したと言われる回復の霊薬。
+パーティー全体のHPを回復する。","A magic tincture said to be mixed by fairies.
+Restores 1500 HP to the entire party.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"精霊が生成したと言われる回復の霊薬。
+パーティー全体のHPを回復する。","A magic tincture said to be blended by spirits. 
+Restores 5000 HP to the entire party.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"女神が生成したと言われる回復の霊薬。
+パーティー全体のHPを完全に回復する。","A magic tincture said to be created by a goddess.
+Restores all HP to the entire party.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"状態異常（毒、混乱、沈黙、凍結、麻痺、石化、気絶）
+を回復する。","A potion that can cure Poison, Confuse, Silence, Freeze,
+Paralysis, Stone, and Faint.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"状態異常（毒、混乱、沈黙、凍結、麻痺、石化、気絶）
+及びHPを回復する。","A potion that can cure Poison, Confuse, Silence, Freeze,
+Paralysis, Stone, and Faint. Also restores 50% of HP.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"パーティー全体の状態異常（毒、混乱、沈黙、凍結、
+麻痺、石化、気絶）及びHPを回復する。","A potion that cures the party of Poison, Confuse, Silence,
+Freeze, Paralysis, Stone, and Faint. Also restores 99% of HP.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"神の奇跡が込められた〓媒。
+（戦闘不能）状態からの復活を行う。","A catalyst imbued with sacred miracles. 
+Can revitalize one who has fallen Unconscious.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓りにより〓められた水。
+状態異常（呪い）を回復する。","Water purified by prayer. 
+Can cure someone of Curse.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"状態異常（呪い）を回復する。
+聖水とは異なり、何度でも使用できる。","A holy artifact that cures Curse. 
+Unlike Holy Water, it can be used many times.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"若さを保つと言われる林檎。
+状態異常（衰弱）を回復する。","Apples said to provide eternal youth. 
+Can cure Frailty.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"状態異常（衰弱）を回復する。
+イズンの林檎とは異なり、何度でも使用できる。","A mysterious mineral that cures Frailty.
+Unlike Idun's Apples, it can be used many times.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"方角を読み取る石。
+パーティー全体の状態異常（転送）を回復する。","A stone that knows the way home.
+Cures the entire party of the Transfer status ailment.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"パーティー全体の状態異常（転送）を回復する。
+方位石とは異なり、何度でも使用できる。","Cures the entire party of the Transfer status ailment. 
+Unlike an Aspect Stone, it can be used many times.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、炎属性に対する耐性を上昇させる。,Temporarily increases resistance to fire-element magic.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、氷属性に対する耐性を上昇させる。,Temporarily increases resistance to ice-element magic.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、土属性に対する耐性を上昇させる。,Temporarily increases resistance to earth-element magic.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、雷属性に対する耐性を上昇させる。,Temporarily increases resistance to lightning-element magic.,,3,container-0641.csv container-0644.csv container-0645.csv,
+あらゆる攻撃から一度だけ身を守る。,Protects wearer from any attack one time only.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、パーティー全体の炎属性に対する耐性を上昇させる。,"Temporarily increases party's resistance to fire-element
+magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、パーティー全体の氷属性に対する耐性を上昇させる。,"Temporarily increases party's resistance to ice-element
+magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、パーティー全体の土属性に対する耐性を上昇させる。,"Temporarily increases party's resistance to earth-element
+magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、パーティー全体の雷属性に対する耐性を上昇させる。,"Temporarily increases party's resistance to lightning-element
+magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+パーティー全体をあらゆる攻撃から一度だけ身を守る。,Protects each party member from any attack one time only.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、パーティー全体を状態異常から守る。,"A potion that temporarily protects the entire party from
+status ailments.",,3,container-0641.csv container-0644.csv container-0645.csv,
+パーティー全体のHPと引き換えにAPを回復する。,Restore AP at the cost of party's HP.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、ATKが上昇する。,Temporarily increases ATK.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、RDM・RSTが上昇する。,Temporarily increases RDM and RST.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、MAGが上昇する。,Temporarily increases MAG.,,3,container-0641.csv container-0644.csv container-0645.csv,
+一定時間、APの消費が減少する。,Temporarily reduces AP consumption by 20%.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"解放したエインフェリアの力が込められた石。
+STR・D〓〓が上昇する。","Stone imbued with the power of a freed einherjar.
+Increases STR and DEX by 20.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"解放したエインフェリアの力が込められた石。
+I〓T・〓〓〓が上昇する。","Stone imbued with the power of a freed einherjar.
+Increases INT and CON by 20.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"解放したエインフェリアの力が込められた石。
+HPが、AG〓が上昇する。","Stone imbued with the power of a freed einherjar.
+Increases HP by 200 and AGL by 20.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"先人の知識の結晶体。
+経験値が上昇する。","Ancient wisdom that has been crystallized.
+Increases EXP by 300,000.",,3,container-0641.csv container-0644.csv container-0645.csv,
+HPの最大値が上昇する。,Increases max HP by 100.,,3,container-0641.csv container-0644.csv container-0645.csv,
+先人の知識の結晶体。STRが上昇する。,"Crystallized ancient wisdom.
+Increases STR by 5.",,3,container-0641.csv container-0644.csv container-0645.csv,
+先人の知識の結晶体。I〓Tが上昇する。,"Crystallized ancient wisdom.
+Increases INT by 5.",,3,container-0641.csv container-0644.csv container-0645.csv,
+先人の知識の結晶体。D〓〓が上昇する。,"Crystallized ancient wisdom.
+Increases DEX by 5.",,3,container-0641.csv container-0644.csv container-0645.csv,
+先人の知識の結晶体。AG〓が上昇する。,"Crystallized ancient wisdom.
+Increases AGL by 5.",,3,container-0641.csv container-0644.csv container-0645.csv,
+先人の知識の結晶体。〓〓〓が上昇する。,"Crystallized ancient wisdom.
+Increases CON by 5.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"STR・I〓T・D〓〓・AG〓がランダムで
+〓上昇する。","Randomly raises STR, INT, DEX, and AGL by 1 to 10 points.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"戦闘中に使用すると、経験値とオースの入手量が
+倍になる。",Doubles experience and OTH acquired when used during a battle.,,3,container-0641.csv container-0644.csv container-0645.csv,
+敵の能力及び弱点を調べる事ができる。,"Allows the wearer to discern the foe's abilities and weak
+points.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"敵の能力及び弱点を調べる事ができる。
+スペクタクルズとは異なり、何度でも使用できる。","Allows the wearer to discern enemy abilities and weak points.
+Unlike the Spectacles, it can be used many times.",,3,container-0641.csv container-0644.csv container-0645.csv,
+戦闘から逃走する。,Extricates party from battle.,,3,container-0641.csv container-0644.csv container-0645.csv,
+斧のように鋭く〓丈な前歯。,Front tooth sharp and strong as an axe.,,3,container-0641.csv container-0644.csv container-0645.csv,
+岩のように硬く〓丈な奥歯。,Back tooth hard and strong as a rock.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓のように長く尖った牙。,A fang sharp and pointed like a stake.,,3,container-0641.csv container-0644.csv container-0645.csv,
+トロルの身体の大部分を構成する粘土。,The clay that primarily constitutes a troll's body.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"トロルがその〓力にものを言わせて振るう丸太。
+その欠片。","Fragment of what was a tree trunk swung by monstrously
+powerful trolls.",,3,container-0641.csv container-0644.csv container-0645.csv,
+器のように上部が欠けたドクロ。,"A skull that serves as a container, with its top cut off.",,3,container-0641.csv container-0644.csv container-0645.csv,
+杯のように上部に〓麗な〓が開いた頭〓骨。,A cranium with the top neatly removed to resemble a cup.,,3,container-0641.csv container-0644.csv container-0645.csv,
+黒曜石のような美しい光〓を放つドクロ。,A skull that shines a beautiful obsidian shade.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"命無き者に宿された仮初めの生命。
+結晶化の際に黒く変色している。","A transient life, released from its corporal prison.
+Turns black when crystallized.",,3,container-0641.csv container-0644.csv container-0645.csv,
+風化してボロボロの骨の欠片の結晶。,Crystalline remains of weathered and worn bone fragments.,,3,container-0641.csv container-0644.csv container-0645.csv,
+炎の力が封じ込められた真紅の魔法の宝石。,Magical red jewel with the power of fire sealed within.,,3,container-0641.csv container-0644.csv container-0645.csv,
+炎の力が封じ込められた青い魔法の宝石。,Magical blue jewel with the power of fire sealed within.,,3,container-0641.csv container-0644.csv container-0645.csv,
+炎の力が封じ込められた緑の魔法の宝石。,Magical green jewel with the power of fire sealed within.,,3,container-0641.csv container-0644.csv container-0645.csv,
+雷の力が封じ込められた赤い珠。,Red metal containing the power of lightning.,,3,container-0641.csv container-0644.csv container-0645.csv,
+雷の力が封じ込められた青い珠。,Blue metal containing the power of lightning.,,3,container-0641.csv container-0644.csv container-0645.csv,
+雷の力が封じ込められた緑の珠。,Green metal containing the power of lightning.,,3,container-0641.csv container-0644.csv container-0645.csv,
+土の力が〓縮された赤い鉱物。,Red ore possessing concentrated earth power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+土の力が〓縮された青い鉱物。,Blue ore possessing concentrated earth power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+土の力が〓縮された緑の鉱物。,Green ore possessing concentrated earth power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+氷の力の結晶と言われる赤い宝石。,Red crystal of ice power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+氷の力の結晶と言われる青い宝石。,Blue crystal of ice power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+氷の力の結晶と言われる緑の宝石。,Green crystal of ice power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+半ばから折れた刀身の先。,Tip of a blade broken in half.,,3,container-0641.csv container-0644.csv container-0645.csv,
+先端から半ばが折れてしまっている剣。,A sword with half its blade broken off.,,3,container-0641.csv container-0644.csv container-0645.csv,
+燃え〓る炎のように赤いドラゴンの角から作られた結晶。,"Crystal made from a dragon's horn, red as a funnel of flame.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ドラゴンの角の結晶。強者の証と言われる。,"Crystal of a dragon's horn. Recognized as a testament to
+strength.",,3,container-0641.csv container-0644.csv container-0645.csv,
+血のように赤い獣の牙。,"A beast's tooth, red as blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ドラゴンの牙。強者の証と言われる。,"A dragon's tooth. 
+A symbol of the bearer's might.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ドラゴンが死んだ際にその命の源が
+大粒のサファイアへと変化したもの。",Giant sapphire formed by a dying dragon's lifeforce.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"ドラゴンが死んだ際にその命の源が
+大粒のエメラルドへと変化したもの。",Giant emerald formed by a dying dragon's lifeforce.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"ドラゴンが死んだ際にその命の源が
+大粒のルビーへと変化したもの。",Giant ruby formed by a dying dragon's lifeforce.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ドラゴンの翼を支える〓丈な骨の結晶。,Crystal of the strong bone that supports a dragon's wing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓常に美しいドラゴンの美しい角。,The beautiful horn of a particularly beautiful dragon.,,3,container-0641.csv container-0644.csv container-0645.csv,
+刃のように鋭いドラゴンの爪の結晶。,"Crystal of a dragon's talon, which is sharp as a blade.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"神竜と呼ばれるドラゴンの〓りの源と言われる美しいうろこ。
+〓れられただけでその竜は〓り狂うという。","Beautiful scales said to incite the anger of the god of
+dragons. The dragon went wild when people got on them.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ドラゴンのうろこ。強者の証と言われる。
+これをお守り代わりに身に着ける者も多い。","Scales of a dragon. A symbol of the bearer's might.
+Many carry these in place of a good luck charm.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔物のうろこ。高い防御力を持つ。,"Scales of a monster.
+They possess great defensive power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓のうろこ。深い森のように深い緑色を帯びる。,"Scales of a crocodile. 
+They are as green as the heart of a forest.",,3,container-0641.csv container-0644.csv container-0645.csv,
+虹色に輝く美しいうろこ。,Beautiful scales that shine all the colors of the rainbow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"幾度も攻撃を受け、その役目を終えるに至った盾。
+若〓の防御力を帯びる。","An old shield that bears the marks of countless blows.
+Still offers a modicum of defense.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔物の王〓。
+過〓な装飾が〓されている。","Crown worn by the king of monsters.
+Excessively ornate.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"は虫類の皮。
+〓などの材〓として重宝される。","Skin of an amphibious beast.
+Prized as a material for boots.",,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れた槍の先。かつての鋭さが見る影も無い。,"Tip of a broken spear.
+It has no trace of its former sharpness.",,3,container-0641.csv container-0644.csv container-0645.csv,
+巨大なこうもりの羽。,The wing of a giant bat.,,3,container-0641.csv container-0644.csv container-0645.csv,
+こうもりの羽の飛膜。軽くて〓丈でよく伸びる。,"Skin membrane of a bat's wing.
+Lightweight, strong, and flexible.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"傘の語源ともなった伝説の巨大こうもりの羽。
+敬意を込めてこう呼ばれる。",Giant bat wing fashioned to provide shelter from the rain.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"巨大こうもりの耳。
+じ〓うごのような形をしている。",Ear of a giant bat. Shaped like a funnel.,,3,container-0641.csv container-0644.csv container-0645.csv,
+猛禽類の猛々しい命の力が宿る結晶。,A crystal holding the intense lifeforce of a bird of prey.,,3,container-0641.csv container-0644.csv container-0645.csv,
+飛ぶために必要とされる特別な羽根。,Special wing feather that assists in flight.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"雷の力をその身に宿すと言われる
+巨鳥の尾にある羽根。","Tail feather of a giant bird. 
+Said to contain the power of lightning.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"嵐に鳴り響く全ての雷の力を宿すと言われる
+巨鳥の尾にある羽根。","Tail feather of a giant bird. Said to contain the power of
+all lightning that descends from the storm clouds.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"猛禽類の鋭い爪。
+〓のようにねじれて獲物を逃さない。","The talon from some type of predatory bird.
+It is hooked so that the prey cannot escape.",,3,container-0641.csv container-0644.csv container-0645.csv,
+肉食獣の鋭い牙。,The razor fang of a carnivore.,,3,container-0641.csv container-0644.csv container-0645.csv,
+肉食獣の鋭い牙。〓病に効く薬になる。,"Sharp tooth of a carnivorous beast. 
+A cure for several ailments.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ファイアブレスを作り出す器官。
+その器官が持つ炎の力を内に秘めた真紅の結晶。","Red crystal containing the fire-making power of the organ
+responsible for firebreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ファイアブレスを作り出す器官。
+その器官が持つ炎の力を内に秘めた青い結晶。","Blue crystal containing the fire-making power of the organ
+responsible for firebreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ファイアブレスを作り出す器官。
+その器官が持つ炎の力を内に秘めた緑色の結晶。","Green crystal containing the fire-making power of the organ
+responsible for firebreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"アイスブレスを作り出す器官。
+その器官が持つ氷の力を内に秘めた真紅の結晶。","Red crystal containing the ice-making power of the organ
+responsible for icebreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ポイズンブレスを作り出す器官。
+その器官が持つ土の力を内に秘めた真紅の結晶。","Red crystal containing the poison-making power of the organ
+responsible for poisonbreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ポイズンブレスを作り出す器官。
+その器官が持つ土の力を内に秘めた青い結晶。","Blue crystal containing the poison-making power of the organ
+responsible for poisonbreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ポイズンブレスを作り出す器官。
+その器官が持つ土の力を内に秘めた緑色の結晶。","Green crystal containing the poison-making power of the organ
+responsible for poisonbreath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"虹色に煌めくブレスコア。何が発射されるのかは不明。
+結晶となってもその虹色の煌めきは〓在。","Even in crystal form, this breath core shines with the colors
+of the rainbow. Who knows what might come out?",,3,container-0641.csv container-0644.csv container-0645.csv,
+"様々な用途に使われる獣の毛皮。
+保〓性に優れ、寒さに強くなる。","A beast's pelt with various uses. Its heat retention
+properties make it effective against the cold.",,3,container-0641.csv container-0644.csv container-0645.csv,
+血の〓る肉。その欠片。,Bits of meat dripping with blood.,,3,container-0641.csv container-0644.csv container-0645.csv,
+コボルトの投石器のパーツ。,Parts for a kobold slingshot.,,3,container-0641.csv container-0644.csv container-0645.csv,
+コボルトの槍のパーツ。,Parts for a kobold lance.,,3,container-0641.csv container-0644.csv container-0645.csv,
+コボルトの槌のパーツ。,Parts for a kobold hammer.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"古びた銅〓。
+若いコボルトの〓刻が〓されている。","An old copper coin. 
+On it is depicted a young kobold.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"古びた銀〓。
+中年のコボルトの〓刻が〓されている。","An old silver coin. 
+On it is depicted a middle-aged kobold.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"古びた金〓。
+口〓を〓えた〓コボルトの〓愛に満ちた表情が〓られている。","An old gold coin. On it is depicted an elderly kobold. 
+He has a long, thick beard and kindly expression.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"古びた〓〓。持つとピリピリする。
+〓に稲妻のルーンが刻まれたコボルトの〓が〓られている。","An old coin. Its touch sends shockwaves through the body. The
+kobold who carved the lightning rune is depicted on the edge.",,3,container-0641.csv container-0644.csv container-0645.csv,
+鉄。その原石。,A nugget of iron ore.,,3,container-0641.csv container-0644.csv container-0645.csv,
+巨大な鳥類の手羽。,The joint that powers an enormous flying beast's wing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+巨大な鳥類の翼。,Wing of an enormous flying beast.,,3,container-0641.csv container-0644.csv container-0645.csv,
+グリフォンの羽根。,A griffon's feather.,,3,container-0641.csv container-0644.csv container-0645.csv,
+美しい緑色のグリフォンの羽根。,A beautiful green griffon's feather.,,3,container-0641.csv container-0644.csv container-0645.csv,
+真っ白な美しい羽根。,A beautiful white decorative feather.,,3,container-0641.csv container-0644.csv container-0645.csv,
+藍色の美しい羽根。,A beautiful blue decorative feather.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"切っ先のように鋭く尖った巨大なくちばし。
+〓に一撃で敵を仕留める効果を有する。","A gigantic beak with a sharp cutting tip. On rare occasions,
+may instantly stop an enemy in its tracks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"鳥類の体毛。
+集まると抜〓の保〓性を発揮する。","The down feather of an unknown bird. If you have enough of
+them, they can provide great protection against the cold.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"とても硬い金色の鉱石。
+頭に血が上りやすくなる。","Extremely durable golden mineral. 
+Makes the blood rush to the head.",,3,container-0641.csv container-0644.csv container-0645.csv,
+純白の巨大な花の花びら。,Petal from a magnificent white flower.,,3,container-0641.csv container-0644.csv container-0645.csv,
+血のように赤い巨大な花の花びら。,Petal from a magnificent blood-red flower.,,3,container-0641.csv container-0644.csv container-0645.csv,
+強力な毒を持つ種。,Seed possessing potent poison.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"毒を吸収してしまう特性を持つ種。
+自身も猛毒を持つ。","Seed with the ability to absorb poisons. 
+It possesses an extremely potent poison itself.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓に幻覚作用を持つ多年草。
+魔術師の〓弐などに使用される。","Herb which causes illusions. 
+Apparently, it is used in magic ceremonies.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓虫類の鋭いトゲ。,A sharp stinger from an insect.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓を封じ込める特性を持つ金属性の〓。
+いつもほのかに〓かい。","A metal disc with the ability to seal in heat.
+Always warm.",,3,container-0641.csv container-0644.csv container-0645.csv,
+甲虫の立派な角。,Prominent horn of a beetle.,,3,container-0641.csv container-0644.csv container-0645.csv,
+軽くて〓丈な〓虫の殻。その欠片。,"A fragment of an insect's strong, lightweight carapace.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓攻撃の〓の材〓を作り出す器官。
+澄んだ青い色をしている。","An organ that releases bubbles for a bubble attack.
+An absurd shade of blue.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓攻撃の〓の材〓を作り出す器官。
+エメラルドのような光〓がある。","An organ that releases bubbles for a bubble attack.
+Shines like an emerald.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魚類の角。剣のように硬く鋭い。,Marine animal's horn. Hard and sharp as a sword.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魚類の角。〓のように鋭く〓丈で太い。,"Marine animal's horn. Strong, thick, and sharp like a stake.",,3,container-0641.csv container-0644.csv container-0645.csv,
+新鮮な海の幸。何の肉かは不明。,Fresh seafood. It's not clear what creature it was.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"体内生成された弾を圧縮空気で飛ばす貝類の器官。
+ラッパのように末広がりになっている。","The organ with which shellfish fire stones using pressurized
+gas. Widens like a bugle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+圧縮空気でツブテを飛ばす貝類の器官。,"The organ with which shellfish fire coarse gravel using
+pressurized gas.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"血のように赤い貝類の器官。
+小さなツブテを矢のようにここから放つ。","Shellfish organ, as red as blood, which shoots small pebbles
+like arrows.",,3,container-0641.csv container-0644.csv container-0645.csv,
+貝類の体内で硬い石を材〓にして生成された弾丸。,A projectile made from the stones formed in shellfish.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"殻と同じ原〓で生成された弾丸。表面の〓旋状の模様が、
+命中率を上昇させると言われている。","Projectile made from the same material as a seashell.
+The spiral pattern on the surface increases accuracy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔物の身体で生成された弾丸。
+鋼鉄の鎧をも〓々と貫く事からこう呼ばれる。","Projectile formed in monsters' bodies. 
+Named for its ability to penetrate iron armor.",,3,container-0641.csv container-0644.csv container-0645.csv,
+漆黒のなまめかしい色合いを持つ真珠。,A pearl with an alluring black sheen.,,3,container-0641.csv container-0644.csv container-0645.csv,
+貝類の粘液が〓まった塊。,A mass of shellfish glue.,,3,container-0641.csv container-0644.csv container-0645.csv,
+動物のように歩き回る植物の根。,Root of a plant that walks around like an animal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+しなやかで〓丈な歩行花の〓手。,The supple and pliant arm of the walking flower.,,3,container-0641.csv container-0644.csv container-0645.csv,
+先端が剣のように鋭く〓丈な歩行花の〓手。,"Supple arm of the walking flower with tips as sharp as a
+swords.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓の大きな塊。,A large mass of wax.,,3,container-0641.csv container-0644.csv container-0645.csv,
+奇〓な形の種。どんな植物のものなのかは不明。,"A curiously shaped seed. 
+The species to which it belongs is unclear.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ドクロを模した仮面の一部。,Part of a mask shaped like a skull.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ドクロを模した仮面。,A mask shaped like a skull.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"闇の力が封じ込められている結晶。
+〓え切れない強大な力が、外に〓れ出している。","A crystal with dark power sealed within.
+Unsuppressed power seeps out of it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"混〓の欠片と呼ばれる結晶。
+瘴気が漂っている。","A crystal recognized as a sliver of chaos.
+A sense of foreboding surrounds it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魂を〓らうと言われる闇を秘めた宝玉。,A gemstone imbued with darkness said to devour souls.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"エネルギーを集束させて増〓した後、
+一定方向へ放射するという特性を持った結晶。","Crystal that projects a beam in one direction after
+concentrating and amplifying energy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓骨をあしらった〓味の悪いレリーフ。,A tasteless relief carved into a bone.,,3,container-0641.csv container-0644.csv container-0645.csv,
+不死者が記したとされる書物。真相は不明。,Said to be written by the undead. Its true nature is unknown.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓似生命体の目玉。,Eyeball of an artificial life form.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"偽りの生命を人形に移す際に、その命の炎を収める結晶。
+錬金術の英知の結晶でもある。","Crystal that holds the fire of life when an artificial life is
+transferred into a doll. A crystal of paramount alchemy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+真理が欠けて死となった刻印が〓り込まれた破片。,"The first letter has been erased from this seal, turning its
+meaning from ""truth"" to ""death.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+空気中で容〓に〓化する金属。,Some type of metal which rusts easily in the air.,,3,container-0641.csv container-0644.csv container-0645.csv,
+この世にあらざる魂が赤い炎になったもの。,The red flame of a soul not of this world.,,3,container-0641.csv container-0644.csv container-0645.csv,
+この世にあらざる魂が青い炎になったもの。,The blue flame of a soul not of this world.,,3,container-0641.csv container-0644.csv container-0645.csv,
+頭部が失われ、完全に壊れてしまった人形。,A broken doll with its head missing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+極めて強力な氷の力を宿す宝珠。,Gemstone that holds extremely intense ice power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+あらゆるものを貫く、とルーンで書かれた〓文の欠片。,"Fragment with a rune inscription that reads ""pierces all.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓魔の戦いで魔女の術法を跳ね返したとされる鏡。
+その欠片。","From a mirror used in the Pleiades War to deflect the spells
+of witches. This is just a fragment.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"夜中に〓き込むと自分の未来が見えると言われる
+悪魔の鏡。","Demon's mirror which shows one's future when peered into at
+night.",,3,container-0641.csv container-0644.csv container-0645.csv,
+銅〓の金属〓に聖なる刻印が刻まれたアクセサリー。,"Accessory consisting of a holy imprint engraved on a copper
+plate.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"生〓の血を受ける器。
+内側にはどす黒い〓れがこびりついている。","Vessel to hold the blood of a sacrifice. 
+A livid substance is stuck to the inside.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魂のない者に悪霊を〓依させて縛り付ける魔法の鎖。,A magic chain that binds evil spirits to those without souls.,,3,container-0641.csv container-0644.csv container-0645.csv,
+悪魔の力の源とされる角。,Horn believed to be the source of a demon's power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"悪魔の力の源とされる角。
+見る者を不安にさせる〓々しい〓囲気を漂わせている。","Horn believed to be the source of a demon's power. 
+It strikes terror into the hearts of those who look upon it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"犠牲者の魂を悪魔が結晶化したもの。
+夜な夜な〓えて呪詛をささやく。","The soul of a sacrifice crystallized by a demon.
+It trembles and whispers a curse every night.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ある〓弐でこの世界に呼び出された宝珠。
+持つ者に様々な〓〓をもたらすとされる。","A gem called to this world by some rite. 
+It is said to bring plagues upon its holder.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"闇の一部がそのまま形になったかのような
+深い黒色を持つ悪魔の翼。","Demon wing so black it appears to be a piece of darkness
+itself.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"その中に落ち込んでしまいそうなくらい深く美しい
+闇の色を〓えた悪魔の翼。","Demon wing a shade so deep and beautiful that one feels as
+though one might fall into it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"悪魔が死ぬ時に残すという結晶。
+命の炎を封じ込めているらしい。","Crystal allegedly left behind by dying demons.
+The fire of life appears to be sealed inside.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"血のように赤く美しい色をした珠。
+不滅を〓〓する不死の一族の心臓と言われる。","Glows a beautiful shade of blood red.
+Said to be a heart from the famous species of undead.",,3,container-0641.csv container-0644.csv container-0645.csv,
+決して絶える事がないと言われる魔法の炎。,Magical fire which purportedly cannot be extinguished.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"ヴァンパイアの力の全てが宿ると言われる牙。
+本体から離れた今でも、血を吸収する。","Fang which supposedly holds all of a vampire's power.
+Even apart from its body, it still absorbs blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ヴァンパイアの牙。未だ強い魔力を持つ。,"Fang of a vampire.
+Still holds intense magic power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓刀のように鋭利で〓強なヴァンパイアの爪。
+この爪で生じた切り傷は、なかなか治らないという。","Vampire claws hard and sharp as razor blades.
+The marks of these claws tend not to heal.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"シャープシザーの心臓。
+〓れた者はその狂気に〓み込まれてしまうという。","Heart of a Sharp Scissor. 
+Said to drive those who touch it insane.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"シャープシザーの翼。
+その欠片。",Part of a wing of a Sharp Scissor.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"シャープシザーの爪。
+ヴァンパイアのものよりも更に鋭利。","Claws of a Sharp Scissor. 
+Sharper than even a vampire's.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力の影響で黄色く色づいた水晶。,A crystal magically turned yellow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+精〓な野バラの花の〓刻が〓された何かの欠片。,Fragment of something engraved with an intricate wild rose.,,3,container-0641.csv container-0644.csv container-0645.csv,
+巨大な〓のはさみ。,A massive crab claw.,,3,container-0641.csv container-0644.csv container-0645.csv,
+岩をも両断する鋭い〓のはさみ。,Sharp crab claws that can cut through stone.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"錬金術により創られた、ゴーレムの起動に必〓とされる結晶。
+通常は妖精だがこれには悪霊が宿る。","Alchemy-derived crystal deemed necessary to activate a golem.
+This one contains an evil spirit instead of the usual fairy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"悪戯好きの妖精が封じ込められた結晶。
+ゴーレムの動力源、言わば命になる。","Crystal that holds a mischievous gremlin. 
+It is the lifesource of a golem.",,3,container-0641.csv container-0644.csv container-0645.csv,
+体当たり攻撃の際に、真っ先に相手に突き刺さる〓丈な角。,"When charging an opponent, the ram lowers its head and drives
+this powerful horn into its adversary.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"体当たり攻撃の破壊力を高める〓丈な角。
+真っ先に対〓へ〓れる部分に生える。","Sturdy horn for devastating body attacks.
+Points directly at the target.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"尻尾を護っていた鎧の一部。
+蛇のようにうねる機構はまるで〓具のように見える。","Section of armor that protects the tail. 
+Its twisty, snake-like shape makes it look like a toy.",,3,container-0641.csv container-0644.csv container-0645.csv,
+蛇の腹を連想させる細長い鎧の一部。,"Long, narrow armor that reminds one of a snake's belly.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"仮初めの魂を収めるケース。
+現在その魂は失われている。","A container for holding transient souls.
+Currently, it is empty.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"仮初めの魂を収めるケース。
+魂は失われているが、強い魔力が渦巻いている。","A container for holding transient souls. 
+It holds no souls, but great magic whirls within.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"渦を巻いた矢じり。
+この形状で貫通力を高めるという。","A twisted arrowhead. 
+Its shape helps it pierce deeper into the victim.",,3,container-0641.csv container-0644.csv container-0645.csv,
+巨大な蹄鉄。,A giant horseshoe.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"目線で殺せるという悪しき存在の眼〓。
+主が死んだ今でも〓々しさは〓在。","The evil eye that can kill with a mere glance.
+Though its owner is dead, the wickedness lingers.",,3,container-0641.csv container-0644.csv container-0645.csv,
+宝石のように美しい魔物の目玉。,"A monsters eyeball, pretty as a jewel.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔物の心臓部。
+生き物のそれとは〓遠い形をしている。","The heart of a monster.
+Varies greatly from that of a living creature.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔物の心臓部。
+エメラルドのように美しい緑の光を放つ。","The heart of a monster. 
+Radiates brilliant green light like an emerald.",,3,container-0641.csv container-0644.csv container-0645.csv,
+岩のように硬く〓丈な魔物の骨。,Monster bone hard and sturdy as a rock.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"メイスのような形をした魔物の腕の先にある骨。
+この骨の一撃は岩をも砕く。","Bone from a monster's arm shaped like a mace.
+One strike of this bone can crush stone.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"強力な一撃を生み出す魔物の腕の先にある骨。
+その欠片。","Part of a monster's arm bone from which came devastating
+blows.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔物の〓手。吸〓にはまだ粘着力が残っている。,"Arms of a monster. 
+Some sticky substance remains on the suckers.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ゴブリンの犬歯。小さくて可愛らしい。,The charming little canine tooth of a goblin.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ある悪魔の牙らしいが、とても小ぶりでむしろ可愛らしい。,"Probably the fang of some fearsome monster, but it's so little
+it's actually cute.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"生命力を吸い取ると言われる悪魔の翼。
+その一部。",Part of a monster's wing said to drain lifeforce.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"生命力を吸い取ると言われる悪魔の翼。
+主亡き今も他の生命の息吹を吸収する。","Monster's wing said to drain lifeforce. Still
+sucks life even without its original body.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓石の一部。悪戯せよ、と書かれている。,"Fragment of a stone with the inscription ""Be naughty.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ゴブリンの魂と言われる心臓部の石ころ。
+混乱を〓える効果がある。","The pebble from a goblin's heart, said to be where its soul
+resides. Suppresses confusion.",,3,container-0641.csv container-0644.csv container-0645.csv,
+酒精強化ワイン。良い作〓年のもののようだ。,"A fortified wine. 
+It appears to be of a superior vintage.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓だらけの硬い殻で覆われた羽虫。うっかり叩くと痛い
+目にあう。徒〓を組むところからレギオンと呼ばれる。","Flying insect with a rigid exoskeleton. Not to be swatted
+lightly. Named ""Legion"" for binding with others of its kind.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ワスプたちを統べると言われる赤い〓。
+その動きは通常の倍速いと言われている。","Red wasp to lead all others. 
+Moves three times the normal speed.",,3,container-0641.csv container-0644.csv container-0645.csv,
+プラチナのように美しく輝く〓虫の複眼。,A compound insect eye with a brilliant platinum shine.,,3,container-0641.csv container-0644.csv container-0645.csv,
+大きな〓虫の複眼。,A large compound insect eye.,,3,container-0641.csv container-0644.csv container-0645.csv,
+こぶし大の琥珀の塊。,A full-sized clump of amber.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"体内に〓〓した体液の一部を〓縮して〓める器官。
+これ自体も琥珀のように美しい。","The organ that condenses liquids in the body.
+As beautiful as the amber it produces.",,3,container-0641.csv container-0644.csv container-0645.csv,
+とてつもなく長くて鋭い虫の針。,Very long and sharp insect stinger.,,3,container-0641.csv container-0644.csv container-0645.csv,
+槍のように長く鋭い虫の〓。,Insect spine long and sharp as a spear.,,3,container-0641.csv container-0644.csv container-0645.csv,
+王と呼ばれる羽虫の羽。その欠片。,Part of the wing of a flying insect known as the king of bugs.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"深い青の色をした大きな虫の羽。
+その欠片。",Part of a large insect wing colored a deep shade of blue.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"王と呼ばれる〓の主食。
+人間の身体にも良いらしい。","The main food source for queen bees.
+Some say it's good for people, too.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"真紅の軟体類の頭〓骨。
+常に水気を帯びている。","Red cartilage from a mollusk.
+Constantly moist.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"緑色の軟体類の頭〓骨。
+常に水気を帯びている。","Green cartilage from a mollusk.
+Constantly moist.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓手の先にある槌のような形状の骨。,Bone shaped like a mallet at the end of a tentacle.,,3,container-0641.csv container-0644.csv container-0645.csv,
+幾重にも渦を巻いた大きな羊の角。,Large horn of a sheep twisted around and around.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓旋状にねじれた大きな角。
+歪んで気持ち悪い形をしている。","Large horn twisted in a spiral. 
+It has a sinister, warped shape.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"軽装の鎧の欠片。弱い魔力を帯びていたようで
+装備すると若〓の防御力の向上を得られる。","Piece of some light armor. 
+It slightly raises defense as if some weak magic enchanted it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"軽装の鎧の欠片。強力な魔力で強度を上げている。
+欠片となってもその恩〓を受ける事が可能。","Piece of some light armor reinforced by powerful magic.
+The fragment maintains the benefits of the magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ルーンが刻まれた〓石の一部。
+鷹のように標的を外さない、と刻まれている。","Piece of stone with runes engraved. 
+Bears the inscription ""Keep your eyes on the prize.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ルーンが刻まれた〓石の一部。
+この一撃は標的を一撃で倒す、と刻まれている。","Piece of stone with runes engraved. 
+Bears the inscription ""One strike fells the foe.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+"草食動物の前歯。
+草を断ち切るのに〓した形をしている。","Front tooth of a herbivore. 
+A shape suited for cutting grass.",,3,container-0641.csv container-0644.csv container-0645.csv,
+草食動物のものらしき前歯。みにくく歪んでいる。,"Front teeth that appear to have belonged to a herbivore.
+Disgustingly warped.",,3,container-0641.csv container-0644.csv container-0645.csv,
+銀〓の手鏡の取っ手。美しい装飾が〓されている。,Silver mirror handle featuring a lovely design.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ワイバーンの翼にあるという、飛ぶのに必要な特別な骨。,"From the wings of a flying dragon.
+Special bone needed for flight.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"は虫類の肝に宿る石。
+〓病に効くとされる。","Stones that form in amphibians' livers.
+A cure for several ailments.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"は虫類の肝に宿る赤い石。
+生き物の身体を癒す効果がある。","Red stones that form in amphibians' livers.
+Has a healing effect on living bodies.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔物の尻尾に生えている爪。
+尻尾による打撃の際、対〓に突き刺さる。","Claw that grows on a monster's tail.
+Tail is whipped around and plunges the claw into the foe.",,3,container-0641.csv container-0644.csv container-0645.csv,
+巨大なは虫類の内臓。〓病を癒すと言われる。,"Internal organ from a large amphibian.
+Alleviates several ailments.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ある希少なワイバーンの肝に宿る胆石。,Gallstone from the pancreas of a rare wyvern.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓ミミックが持っていた杖。
+〓に名前が〓ってある。","A staff held by a sack mimic.
+A name is carved into the design.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ジェントルメンが持っていた〓のカード。
+何か書いてあるが読めない。","Mysterious card carried by a gentleman.
+It has illegible writing on it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+セイクリッド・サックが隠し持っていた不思議な造形物。,Abnormal molding concealed by the sacred sack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔物が隠し持っていた美しい宝石。,Precious gem that was concealed by a monster.,,3,container-0641.csv container-0644.csv container-0645.csv,
+古びた麻の紐。〓丈でまだ十分に使える。,Old strings made of hemp. Durable and still of use.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"錬金術によって生み出される最も初歩的な仮想生命核。
+これ自体は立派な宝石である。","The most rudimentary seed of virtual life produced in alchemy.
+It takes the form of a dazzling gem.",,3,container-0641.csv container-0644.csv container-0645.csv,
+何かの器具の一部と思われる銅の欠片。,A piece of copper that appears to be part of some tool.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"純度の高い大粒のエメラルド。
+内側に薄らと仮想生命が宿っている。","A sizeable emerald with a high degree of purity.
+A virtual life dwells faintly within.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"純度の高い大粒のルビー。
+内側に薄らと仮想生命が宿っている。","A sizeable ruby with a high degree of purity.
+A virtual life dwells faintly within.",,3,container-0641.csv container-0644.csv container-0645.csv,
+美しい装飾が〓された銀〓の燭台。,A silver sconce with an elaborate design.,,3,container-0641.csv container-0644.csv container-0645.csv,
+闇の力をブレスに変換する器官。,Organ that converts the power of darkness into breath.,,3,container-0641.csv container-0644.csv container-0645.csv,
+闇の力をブレスに変換増〓させる器官。,"Organ that converts and amplifies the power of darkness into
+breath.",,3,container-0641.csv container-0644.csv container-0645.csv,
+緑に輝く美しいうろこ。,Scales that shine a brilliant green.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"サンダーブレスを作り出す器官が赤く結晶化したもの。
+麻痺を防ぐ。","Red crystal of the organ that produces thunderbreath.
+Prevents paralysis.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"サンダーブレスを作り出す器官が青く結晶化したもの。
+気絶を防ぐ。","Blue crystal of the organ that produces thunderbreath.
+Prevents Faint.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"サンダーブレスを作り出す器官が緑の結晶化したもの。
+強力な雷の力を有する。","Green crystal of the organ that produces thunderbreath.
+Possesses immense lightning power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+燃え〓る炎のように紅く輝くうろこ。,Scales with the red glare of a blazing inferno.,,3,container-0641.csv container-0644.csv container-0645.csv,
+高密度の炎のブレスを作り出すブレスコア。,Breath core that generates high-density firebreath.,,3,container-0641.csv container-0644.csv container-0645.csv,
+表面に五色の波紋が広がる美しいうろこ。,Beautiful scales with five colors rippling on the surface.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"大気に〓れると火を〓く危険な鉱石。
+マテリアライズにより結晶化されている。","Dangerous ore that releases flares when exposed to air.
+Crystallized by materialization.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"極めて高〓の火を〓く鉱石。マテリアライズによって
+結晶化されているが、それでも〓に火を〓く。","Ore that spews intensely hot flames. Crystallized by
+materialization, but still prone to flare-ups.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"決して〓びないと言われる特殊な鋼。
+その原石。",Raw material of a steel said to never rust.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"柔軟性と耐久性を〓ね備えた魔法金属。
+その原石。",Raw material of a flexible yet durable magical metal.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"空に輝く太陽の力を秘めているとされる大粒の宝珠。
+〓くて持てないという事はない。","Large jewel believed to contain the power of the orb in the
+sky. Somehow not too hot to handle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+生命の神秘が秘められている不思議な鉱石。,A strange mineral that contains within it the mystery of life.,,3,container-0641.csv container-0644.csv container-0645.csv,
+伝説にのみ語り継がれる神秘の鉱石。,Mystical ore only heard of in legends.,,3,container-0641.csv container-0644.csv container-0645.csv,
+内側から金色の光が〓れる石〓のような鉱石。,Anthracite-like ore with golden light seeping from the inside.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ドラゴンの立派な頭〓骨。,The prominent skull of a dragon.,,3,container-0641.csv container-0644.csv container-0645.csv,
+未〓を残して死んだドラゴンの呪いが宿った骨片。,Cursed bone fragment of a dragon that died torn by regrets.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"ドラゴンゾンビにだけ〓くと言われる蛆。
+とても硬く美しい。","Maggots that breed only in Zombie Dragons.
+Tough and alluring.",,3,container-0641.csv container-0644.csv container-0645.csv,
+腐食したドラゴンのうろこ。,Dragon's scales that have become corroded.,,3,container-0641.csv container-0644.csv container-0645.csv,
+どす黒く変色したドラゴンのうろこ。,Dragon's scales turned a thick black color.,,3,container-0641.csv container-0644.csv container-0645.csv,
+光の具合で〓色の光〓を放つ透明なドラゴンの翼。,"Dragon's wing that reflects seven colors of light, depending
+on the angle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+透明なドラゴンの翼。,Clear wing of a dragon.,,3,container-0641.csv container-0644.csv container-0645.csv,
+死を〓〓したドラゴンの力が圧縮された胆石。,"Gallstone with the concentrated power of a dragon that has
+conquered death.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"暗黒のうろこ。
+その黒は夜の闇よりなお深い。",Dark scales blacker than the blackest night.,,3,container-0641.csv container-0644.csv container-0645.csv,
+夜の闇よりも深い暗黒の甲殻。,Protective shell that is darker than night.,,3,container-0641.csv container-0644.csv container-0645.csv,
+死を〓〓したドラゴンの力の断片が宿る爪。,"Talon imbued with the power of a dragon that has conquered
+death.",,3,container-0641.csv container-0644.csv container-0645.csv,
+精〓な〓刻のように美しい銀色の蝿。,Elegant platinum insect resembling a refined sculpture.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"アレクタリスの〓手がまとっていた燐光。
+主を失った今でもその輝きを失わない。","Phosphor held in Arectaris's hand.
+It continues to shine even without its master.",,3,container-0641.csv container-0644.csv container-0645.csv,
+アレクタリスの〓手に付着していた燐光。,Phosphor that adhered to Arectaris's hand.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"アレクタリスの命の源。
+内側にその美しい姿が〓かんでいる。","Arectaris's source of life.
+An alluring figure floats within.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"アレクタリスの美しい顔のレリーフ。
+水晶のように美しく透き通っている。","Relief of Arectaris's lovely visage.
+It has the beautiful lucidity of crystal.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"大粒の真珠のように美しい命の結晶。
+より高位な神の手で結晶化されている。","A crystal of life resembling a beautiful giant pearl.
+Crystallized by a relatively higher deity.",,3,container-0641.csv container-0644.csv container-0645.csv,
+刃物のように鋭利な魔物の爪。,Monster claws that are as sharp as daggers.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"輝く白のアンダーウェア。白は男の心の色らしい。
+男以外は装備を拒〓する。","Bright white undergarment. The white appeals to a man's heart.
+For men only.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"オーディンの英知が秘められた宝珠。
+宝珠なのに加齢臭がするのは〓底大根の理〓か。","A jewel containing Odin's wisdom. There is a theory the musky
+smell comes from too much deodorant.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"フレイの武器。一見何もないように見えるが手〓りで感じる。
+本人はいつもちやんと持っているらしい。","Weapon of Freya. Doesn't appear to be much until you touch it.
+Not for children.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"モデル本人は絶対しないような〓々なポーズを
+とったフィギュア。精〓な塗りが〓しいフルカラー。","Figurine in a cute pose the original would never strike.
+Painstakingly painted in charming full-color.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ズタ〓をかぶった可愛らしい妖精（？）を育てる
+〓帯ゲーム機。","Portable game in which you raise a cute fairy creature wearing
+a bag.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"存在しないはずの創造の神々の〓〓。
+結晶の内側のルーンはどこからみても正面を向く。","Symbol of creation gods who couldn't possibly exist. The rune
+inside the crystal appears the same from any direction.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"存在しないはずの創造の神々の〓〓。
+対になっているらしいが二つ〓っても特に何もない。","Symbol of creation gods who couldn't possibly exist. Part of
+a pair, but nothing happens when matched.",,3,container-0641.csv container-0644.csv container-0645.csv,
+呪いを無効化するお守り。,Charm which renders user invulnerable to Curse.,,3,container-0641.csv container-0644.csv container-0645.csv,
+凍結を無効化するお守り。,Charm which renders user invulnerable to Freeze.,,3,container-0641.csv container-0644.csv container-0645.csv,
+気絶を無効化するお守り。,Charm which renders user invulnerable to Faint.,,3,container-0641.csv container-0644.csv container-0645.csv,
+石化を無効化するお守り。,Charm which renders user invulnerable to Petrify.,,3,container-0641.csv container-0644.csv container-0645.csv,
+麻痺を無効化するお守り。,Charm which renders user invulnerable to Paralysis.,,3,container-0641.csv container-0644.csv container-0645.csv,
+毒を無効化するお守り。,Charm which renders user invulnerable to Poison.,,3,container-0641.csv container-0644.csv container-0645.csv,
+沈黙を無効化するお守り。,Charm which renders user invulnerable to Silence.,,3,container-0641.csv container-0644.csv container-0645.csv,
+混乱を無効化するお守り。,Charm which renders user invulnerable to Confuse.,,3,container-0641.csv container-0644.csv container-0645.csv,
+衰弱を無効化するお守り。,Charm which renders user invulnerable to Frailty.,,3,container-0641.csv container-0644.csv container-0645.csv,
+恐怖を無効化するお守り。,Charm which renders user invulnerable to Fear.,,3,container-0641.csv container-0644.csv container-0645.csv,
+装備者の力を高める腕輪。,Armband which raises physical attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+装備者の魔力を高める腕輪。,Armband which raises magic attack.,,3,container-0641.csv container-0644.csv container-0645.csv,
+装備者の自己治癒力を高める指輪。,Ring that improves the recuperative abilities of the wearer.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓〓な〓りを放つ発〓酒。
+口当たりが良く、一樽は軽く〓める。","Contains a pungent, fermented brew. 
+Not too watered down.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"青緑色に〓った水。
+〓底人が〓める代物ではない。","Foul, green water.
+Not something you would want to drink.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"壊れたアミュレット。
+誰かの願いが込められていたのだろうか。","A broken amulet, perhaps suffused with the prayers of its
+former owner.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"死を与えると言われる灰。だが、〓じれば解毒薬になる。
+戦闘中は使用できない。","Said to precipitate death, these ashes can also cure poison when
+boiled. Cannot be used during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"古代の王が使用した仮面。
+これで常に素顔を隠していたと言われている。","Mask used by an ancient king. 
+It is said that he never revealed his face.",,3,container-0641.csv container-0644.csv container-0645.csv,
+太古の祭祀を伝える〓弐書。解読不可能。,"Ceremonial tome handed down since antiquity.
+Unintelligible.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"何かの肉。味は良い。HPがほんの少し回復する。
+戦闘中は使用できない。","Some kind of meat. Tastes good. Restores just a little bit of HP.
+Cannot be used during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ほんのり冷たい透き通った魚のうろこ。
+若〓の氷属性耐性がある。","Somewhat chilled, translucent fish scales.
+They have a slight resistance to cold.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"運命の名を持つ植物の種。GはグレイトのG。
+この種が〓れる時、隠された力が解放されると言ふ。","Vegetable seed of destiny. G stands for ""great."" It is said
+that when the seed breaks, a hidden power is released.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"旅人の〓に住み着くお〓介な妖精が入った小箱。
+〓の主に危機が迫ると勝手に助けてくれる。","A box holding a meddling fairy who lives in traveler's boots.
+Comes to the rescue when the boot's owner is in danger.",,3,container-0641.csv container-0644.csv container-0645.csv,
+体当たり攻撃の際に真っ先に相手に突き刺さる〓丈な角。,"When charging an opponent, the ram lowers its head and drills
+this powerful horn into its adversary.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"化石になったトネリコ。
+化石なだけに岩の塊である。","Fossil of an ash tree. 
+As a fossil, it has a soul of stone.",,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れてしまった槍。,A spear that is broken.,,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れてしまった剣。,A sword that is broken.,,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れてしまった弓。,A bow that is broken.,,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れてしまった大剣。,A greatsword that is broken.,,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れてしまった杖。,A staff that is broken.,,3,container-0641.csv container-0644.csv container-0645.csv,
+壊れてしまった槌。,A hammer that is broken.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"白と黄色の花が入り乱れて〓く事から名付けられた花。
+状態異常（毒）を回復する。","A plant that blooms in a profusion of white and gold flowers.
+Can cure Poison.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"使用者に正しき道を指し示すと言われる書。
+戦闘中の状態異常（混乱）を回復する。","A document that is said to guide the reader to the one true
+path. Can cure Confusion during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"詩神ブラギが書いたとされる詩の一篇。
+戦闘中の状態異常（沈黙）を回復する。","A poem written by Bragi, god of poetry. 
+Can cure Silence during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ミッドガルドの山岳地帯から流れ出した水。
+戦闘中の状態異常（凍結）を回復する。","Water collected from the mountains of Midgard.
+Can cure Freeze during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"真珠のような白い実をつける〓。
+戦闘中の状態異常（麻痺）を回復する。","An herb with white, pearl-like fruit.
+Can cure Paralysis during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓の卵をヒキガエルが〓めたもの。
+戦闘中の状態異常（石化）を回復する。","A bird's egg incubated by a toad.
+Can cure Stone during a battle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ディパンの美しい夜〓が刺〓された布〓の物体。
+ディパンのおみやげらしい。","Cloth embroidered with a night view of Dipan.
+A souvenir from Dipan.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ホーリィブレスを作り出す魔物の体内器官。
+何故か光っている。","Monster's internal organ that produces holybreath.
+For some reason, it glows.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ホーリィブレスを作り出す器官。
+今もなお光り輝いている。","Organ that produces holybreath.
+It radiates light even now.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓まじい腐臭を放つ腐りきった竜の肝。,"Completely spoiled liver of a dragon.
+It emits an awful stench.",,3,container-0641.csv container-0644.csv container-0645.csv,
+剣のように鋭い牙。,Tooth edged like a sword.,,3,container-0641.csv container-0644.csv container-0645.csv,
+虫の鋭いカギ爪。,The sharp claw of an insect.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"虫の鋭利なカギ爪。
+金属〓の刃物にも負けない切れ味を誇る。","Extremely keen insect claw. 
+It has an edge that rivals metal swords.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"巨大な虫の外殻。
+表面に不気味な女性の泣き顔が〓き出ている。","Outer shell of an enormous insect. 
+The eerie face of wailing woman can be seen on the surface.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"大きな鳴き〓を出すための〓虫の羽。
+ガラス細工のように硬く細かい意匠が〓されている。","Insect wing used to produce a loud call.
+A hard, thin design runs through it like glasswork.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"刺突攻撃に特化した細身の刀剣。
+ディパン王族の紋章が刻まれている。","Slim longsword specialized for lunging attacks.
+The royal crest of Dipan is engraved upon it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"美しい琥珀の粒。
+それなりの価格で取引される。","A stunning drop of amber.
+Its value lies in its beauty.",,3,container-0641.csv container-0644.csv container-0645.csv,
+硬くて軽い魚介類のヒレ。,Hard and lightweight aquatic creature's fin.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"エネルギーを集束させて一定方向へ放射するという
+特性を持つ結晶。純度が低く、放射はできないようだ。","Crystal that harnesses energy and projects it in one
+direction. Low purity prevents it from working.",,3,container-0641.csv container-0644.csv container-0645.csv,
+折れた魔物の爪の一部。,Part of a monster's broken claw.,,3,container-0641.csv container-0644.csv container-0645.csv,
+斧のように硬くて〓丈な魚介類のヒレの一部。,"Part of an aquatic creature's fin, strong and sharp as an axe.",,3,container-0641.csv container-0644.csv container-0645.csv,
+仮初めの魂で動く存在の目になる石。,"Stone that serves as the eye of an entity that is animated by
+a transient soul.",,3,container-0641.csv container-0644.csv container-0645.csv,
+仮初めの魂で動く存在の目になる宝珠。,"Orb that serves as the eye of an entity that is animated by a
+transient soul.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"血で真っ赤に〓まった魔物の衣〓の一部。
+更なる血を欲している。","Piece of monster clothing stained blood red.
+It longs for more blood.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔力が込められたピアス。
+敵意に対して〓感になる作用がある。","Imbued with magic power. 
+Grows sensitive when confronted with enmity.",,3,container-0641.csv container-0644.csv container-0645.csv,
+鋼鉄〓の馬のひづめ。,Steel shoe for a horse's hoof.,,3,container-0641.csv container-0644.csv container-0645.csv,
+身に着けると力がわいてくる護符。,Talisman that conjures strength when worn.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"風の加護を〓かるとされる護符。
+狙い違わず目標を射抜けるようになると言われている。","A talisman said to bear the blessings of the wind.
+Enables one to hit one's mark without fail.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"とても鋭い魔物の爪。
+一度食い込むとなかなか離れない。","Extremely sharp talons. 
+Once they sink into you, it's hard to escape.",,3,container-0641.csv container-0644.csv container-0645.csv,
+槍のように鋭利で〓丈な魔物の爪。,Monster's claw that is as sturdy and keen as a lance.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓のように歪んだ鋭い爪。,Sharp claw that is bent like a sickle.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓常に鋭い魔物の爪。黒曜石のような光〓を持つ。,"Extremely sharp monster's claw. 
+Possesses the luster of obsidian.",,3,container-0641.csv container-0644.csv container-0645.csv,
+鋭いナイフのような鋭利な爪。,Knife-edged claw.,,3,container-0641.csv container-0644.csv container-0645.csv,
+鋭く尖ったドラゴンの〓骨。,Bone from a dragon's ribcage that comes to a fine tip.,,3,container-0641.csv container-0644.csv container-0645.csv,
+腐ってドロドロになったドラゴンの肉。,Glop of rotten dragon meat.,,3,container-0641.csv container-0644.csv container-0645.csv,
+虹の名を〓する美しい竜の翼。,A gorgeous dragon's wing with a name meaning rainbow.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"バハムートの眼〓。視界に入っただけで、
+生き物の生命を奪うほど〓々しい魔力を持つ。","The eye of Bahamut. It has magic power so fearsome, it
+terminates any living thing in its view.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"バハムートの力の源ともいえる巨大な角。か弱い者であれば
+〓れるだけで命を落す魔力を持つ。","Colossal horn said to be the source of Bahamut's power.
+Fatal to the touch for the weak.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ワイバーンが飛行中に正確な風向きを知るためのうろこ。
+〓常に薄く、デリケート。","Scales used by a wyvern to guide its flight.
+Surprisingly delicate and fine.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ターゲットに吸い付くように飛んでくるうろこ。
+舞い飛ぶツバメのように標的を強襲する。","Scales that cling to their target. 
+They fly at the target like diving swallows.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ターゲットに吸い付くように飛んでくるうろこ。
+高速で飛来し、標的に突き刺さる。","These scales fly at blinding speeds, and puncture and stick
+to their target.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"高い〓を持った真っ赤なうろこ。
+この〓は年を経ても失われないという。","Bright red scales possessing a high temperature.
+Said to retain their heat even if a hundred years should pass.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ワイバーン種が持つ特殊なうろこ。
+砂漠から吹く〓風の名を〓する。","Special scales from a wyvern.
+They bear the name of a hot wind blowing in from the desert.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ワイバーン種が持つ特殊なうろこ。
+ある地方の〓に吹く強い風の名を〓する。","Special scales from a wyvern. 
+They bear the name of a cold winter wind from a faraway land.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ワイバーン種が持つ特殊なうろこ。
+ある地方の〓風の名を〓する。","Special scales from a wyvern.
+They bear the name of a hot wind from a faraway land.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"氷の巨人ユミルが流した涙と伝えられる魔法の鉱物。
+〓の流れすら凍てつかせる冷気を放出する。","Magic ore said to be a tear shed by the frost giant Ymir.
+Cold enough to freeze a flowing stream.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"雷神の〓りの名を〓する魔法の鉱石。
+岩をも砕く雷撃を放つとされる。","Magic ore named after the rage of the thunder god.
+Releases lightning powerful enough to crush stone.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"最も深き悪夢という名を持った魔法の鉱石。
+〓物を死滅させるほどの〓密な毒が〓出できるらしい。","Magic ore with a name that invokes nightmares.
+A venom with the toxicity to destroy all can be extracted.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"心臓ほどの大きさの血のように赤い宝石。
+ほのかに〓かく、脈打っている。","A warm, blood-red stone the size of a human heart.
+It seems to pulsate gently.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"小さい魔法の炎。消える事なく揺らめいている。
+その光を見た者にささやかな幸運を与えると言う。","A tiny magic flame. It flickers but never dies out.
+Believed to bring luck to those who look upon it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+魔物に殺された犠牲者の怨念が〓り〓まった結晶。,"Crystal holding the frozen curse of a monster's sacrificial
+victim.",,3,container-0641.csv container-0644.csv container-0645.csv,
+得体の知れない黒い塊。,An unidentified dark soul.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"真っ黒いマントの切れ端。
+未だ主の魔力の一部を受け継いでいる。","Piece of a pitch black cloak.
+It still holds a trace of its master's magic power.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓々しい悪魔の右腕。強力な魔力を帯びている。,"Foreboding right arm of a demon.
+Wrapped in powerful magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓々しい悪魔の左腕。強力な魔力を帯びている。,"Foreboding left arm of a demon.
+Wrapped in powerful magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"悪魔のひづめ。だが普通の動物のものと
+何ら変わらない形をしているが〓々しき魔力を〓む。","Hoof of a demon. Though it scarcely differs from that of an
+ordinary animal, it is filled with fearsome magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+銀のような光〓を持った不思議な液体。,A mysterious liquid with the luster of silver.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"神々の金属と言われる不思議な鉱物。
+加工には火山のような高〓が必要と言われている。","A mysterious ore often called the metal of the gods.
+Requires the heat of a volcano to be forged.",,3,container-0641.csv container-0644.csv container-0645.csv,
+電気を帯びた不思議な骨。,Mysterious bone charged with electricity.,,3,container-0641.csv container-0644.csv container-0645.csv,
+落雷を呼ぶと言われる鉱物。,Ore said to summon thunder.,,3,container-0641.csv container-0644.csv container-0645.csv,
+強力な電力を帯びた結晶。,Crystal overflowing with electric power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+大きな真珠の粒。大変高値で取引される。,"Large, round pearl. 
+Fetches quite a fair price.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"クラーケンの口の両側に生えた特殊な〓手に
+びっしり生える牙。","Teeth covering the limbs that grow out of the mouth of a
+Kraken.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"回復力が高い魔物の体液。
+新〓代〓機能を向上させる効果がある。","Liquid from a monster with great powers of recovery.
+Said to increase metabolism.",,3,container-0641.csv container-0644.csv container-0645.csv,
+狙ったものを確実に射抜くと言われる魔物の弾丸。,Monster's projectiles that will penetrate their mark.,,3,container-0641.csv container-0644.csv container-0645.csv,
+月のように丸く美しい真珠の大粒。,Large pearl that is round and luminescent like the moon.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓手の先にある槌のような形状の骨。,Hammer-shaped bone from the end of an arm.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"射抜くよりも破壊する事を目的とした飛び道具。
+見た目は大きな矢である。","Projectile designed more for detonation than piercing.
+Looks like a large arrow.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"向かい風の中でも減速しない魔物の矢。
+その矢じり。",Magic arrowhead that slices through wind without slowing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"幸運のお守り。
+ご利〓はどんな動物のしっぱなのかで変わるらしい。","A good luck charm.
+The benefits change according to what animal's tail it is.",,3,container-0641.csv container-0644.csv container-0645.csv,
+空っぱの小さい箱。何が入っていたのかは不明。,"A small box with nothing in it.
+Unclear what it may have held.",,3,container-0641.csv container-0644.csv container-0645.csv,
+決して燃えない不思議な獣の毛皮。,Mysterious inflammable animal fur.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓常に大きなこうもりの耳。,A particularly large bat ear.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓常に大きなこうもりの翼。
+その形状はマントのようにも見える。","A particularly large bat wing.
+The shape resembles a cape.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓暴なグリフォンの翼の先端についた鋭い爪。,"A sharp talon protruding from the end of the violent griffon's
+wing.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"巨大な猛禽類の鋭いくちばし。
+これの一撃は金属〓の鎧にも風〓を開ける。","Sharp beak of a giant bird of prey.
+One attack will open holes in metal armor.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"複〓に〓み合ったカズラの銀細工。
+何かの枠だったのだろうか。","Entwined vines etched in silver. 
+There's no hint as to what it framed.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"波立たぬ静かな湖面を思わせる美しい鏡。
+〓ると〓み込まれてしまいそうなほど〓りひとつない。","A mirror reminiscent of a serene lake surface.
+So clear it appears you could plunge your fingers in.",,3,container-0641.csv container-0644.csv container-0645.csv,
+発〓したばかりの植物のような形状の金属パーツ。,Metal part shaped like newly formed plant buds.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓厚な毒を含んだ植物の種。,Vegetable seed containing a potent venom.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"可〓な小さな花。
+見ているだけで心がなごむ。","A delicate little flower.
+Just looking at it soothes the heart.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ラッパ状の大きな花をつける多年草。
+花言〓は「純潔」。","Perennial with a bugle-shaped flower.
+The flower symbolizes innocence.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"山地などに自生し、白い小さな花を無数につける。
+「幸福」が花言〓。","Countless flowers bloom on this mountain flower.
+It symbolizes fortune.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"花言〓は「たゆまぬ〓力」。
+剣先のような草と〓なりにつく美しい花が特〓。","This flower symbolizes persistence. An attractive flower known
+for its sword-shaped leaves and stem.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"モデル本人は絶対しないような〓々なポーズを
+とったフィギュア。アンバーカラーはシークレットの証。","Figurine in a cute pose the original would never strike.
+The amber version is the ultra-rare collector's edition.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"モデル本人は絶対しないような〓々なポーズを
+とったフィギュア。一番数の多いメタリックバージヨン。","Figurine in a cute pose the original would never strike.
+The most common metallic version.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"モデル本人は絶対しないような〓々なポーズを
+とったフィギュア。心底いらないクリスタルバージヨン。","Figurine in a cute pose the original would never strike.
+Crystal version which doesn't require a base to stand.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"「装備すると隠された真実が姿を現す」
+と書かれたヘンなアクセサリー。","A strange accessory with the inscription:
+""Wear this to reveal the hidden truth.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+"上質の〓〓。
+ストレスを解消するヒーリング効果があるらしい。","High-quality, scented wood. 
+Its soothing effects are said to relieve stress.",,3,container-0641.csv container-0644.csv container-0645.csv,
+〓常に〓しいドラゴンの手のひら。,Seldom seen palm of a dragon.,,3,container-0641.csv container-0644.csv container-0645.csv,
+元気に跳ね回る子馬の姿を模した小さい銅像。,"A bronze statuette that depicts a lively, prancing young
+horse.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓〓のひよこ。
+ミッドガルドの西部ではメジャーなお土産らしい。","An earthenware baby chick. 
+A must-buy souvenir from the west of Midgard.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"〓の形の精〓な銀細工。
+眼の部分にルビーがはめ込まれている。","A delicate bee, finely wrought in silver.
+Rubies are used for the eyes.",,3,container-0641.csv container-0644.csv container-0645.csv,
+小さなエメラルドがはめ込まれた〓麗な腕輪。,A stunning bracelet with inset emeralds.,,3,container-0641.csv container-0644.csv container-0645.csv,
+銅〓のアンティークな手鏡。,An antique copper hand mirror.,,3,container-0641.csv container-0644.csv container-0645.csv,
+青銅〓の安っぱい手鏡。,An inexpensive-looking bronze mirror.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"手のひらに乗りそうな小さい青い人形。
+異様に精〓な作りは少し不気味。","A small blue doll that fits in the palm of your hand.
+Its microscopic level of detail is disturbing.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"二匹の子猫がじやれあっている姿を模した小さい人形。
+翡翠〓。",A small jade figurine of two kittens playing.,,3,container-0641.csv container-0644.csv container-0645.csv,
+ルビー〓の〓の実が飾られたピアス。,Ruby earring shaped like the fruit.,,3,container-0641.csv container-0644.csv container-0645.csv,
+青い宝石で出来た〓の実が飾られたヘアピン。,"A hairpin decorated with a blue stone cut to resemble an
+apple.",,3,container-0641.csv container-0644.csv container-0645.csv,
+古ぼけた骨〓品の器。何かの祭器らしい。,"A worn antique. 
+Appears to be some sort of festival receptacle.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"現在の戦乙女であるアーリィが使用していた剣。
+英雄の魂を狩り、ヴァルハラに運ぶと言われている。","Sword used by the current valkyrie, Hrist. 
+Hunts the souls of heroes and carries them to Valhalla.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"「気高く〓らか」という意味を持つ剣。
+王に忠誠を誓った騎士の中でも、最上級の者に与えられた。","The sword's name means ""high and pure."" It was given only to
+the very best of the knights who swore loyalty to the king.",,3,container-0641.csv container-0644.csv container-0645.csv,
+一般に広く流布している布〓の具足。,"Common, widely used protective wear made of cloth.",,3,container-0641.csv container-0644.csv container-0645.csv,
+上級の騎士が使用している具足。,Leg protection used by high-ranking knights.,,3,container-0641.csv container-0644.csv container-0645.csv,
+〓をなめして作られたブーツ。,Tanned hide boots.,,3,container-0641.csv container-0644.csv container-0645.csv,
+魔力が込められたブーツ。,Boots filled with magic power.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"労〓者が好んで〓くブーツ。
+動きやすく、耐久性に優れている。","Preferred boots of laborers.
+Offer durability and ease of movement.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"スルス火山洞窟で拾ったお守り。
+血で〓れており元の色はわからないが、手〓らしい。","Charm picked up in Surts Caverns. Blood obscures the original
+color, but it appears to be hand-made.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"忠誠ある騎士が好んで使用するグローブ。
+動きは制〓されるが、防御力は高い。","Glove preferred by loyal knights.
+Limits movement, but significantly improves defense.",,3,container-0641.csv container-0644.csv container-0645.csv,
+神が勇者に与えたとされる強弓。,Bow given to a brave warrior by a god.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"幻の金属と呼ばれる物質で出来た杖。
+持ち主に強大な力を与える。","Staff made from a legendary metal.
+Gives enormous power to its holder.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"強き者の意を持つ手甲。
+闇属性の攻撃に対し強い耐性を持つ。","Gauntlet bearing the name of a mighty warrior.
+Possesses strong resistance to dark attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"平和の守護者の意を〓する剣。
+この剣の一振りで、全ての闇は崩れ去る。","Blade named after she of the shield truce.
+One swing dispels all darkness.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"全ての英知を宿した鎧。光を纏ったその装甲は
+あらゆる攻撃から装備者の身を守る。","Armor containing all wisdom. 
+This shining suit protects its wearer against all attacks.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"オーディンの上着のデザインがインスパイアされた
+コボルト用のコスプレ衣装。小さい。","Cosplay shirt for kobolds, based on Odin's apparel.
+Small.",,3,container-0641.csv container-0644.csv container-0645.csv,
+恐らくヅラをとめていたのに使っていた両面テープ。,"Tape with adhesive on both sides, no doubt used to keep a
+toupee in place.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"身に着けた者に英知と明るい人生を
+約束する精〓なヅ・・・いやウィッグ。","This dapper wi--umm, hairpiece guarantees wisdom and happiness
+to he who wears it.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ベニヤ〓で出来た槍っぱいの。グングニルらしい。
+〓常に投げ槍な出来だ。","Lance-shaped thing made out of plywood.
+A ripoff Gungnir, but good for throwing.",,3,container-0641.csv container-0644.csv container-0645.csv,
+何の変〓も無い竹の竿。青臭い。,"An everyday, run-of-the-mill bamboo pole.
+Not very cool.",,3,container-0641.csv container-0644.csv container-0645.csv,
+寄せてあげて大きく見せる例のアレ。,A push-up thingy for the full-figured look.,,3,container-0641.csv container-0644.csv container-0645.csv,
+"フェルト〓のフレイの〓子。
+なかなか〓〓に裁縫してあるが毛まみれだ。","Freya's felt cap. 
+It's neatly sewn, but covered in hair.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"やたらとでかいガラス玉。
+内側の星にヴィルノア商工会と書いてある。","An oversized ball of glass. 
+""Villnore Chamber of Commerce"" is written on a star inside.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ヴァルキリーたちの鎧のデザインがインスパイアされた
+コボルト用のコスプレ衣装。小さい。","Cosplay shirt for kobolds, based on valkyrie armor.
+Small.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"ダイキャスト〓のド重い模造槍。
+その〓常に精〓な出来は変質的な情〓を感じる。","Insanely heavy lance made of die-cast metal.
+A creepy obsession with detail is apparent.",,3,container-0641.csv container-0644.csv container-0645.csv,
+ひのきをけずって作った〓の棒。らしい。,"A quarterstaff carved from cypress.
+Or so they say.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"大量の付〓が〓まれた実用書。
+タイトルは「好かれる上〓になる〓」。","Manual for self-improvement with tons of sticky-notes.
+Entitled ""How to lead and be loved.""",,3,container-0641.csv container-0644.csv container-0645.csv,
+"何の変〓もない鉄で出来たパイプ。
+・・・パイプ？","A boring old pipe made of iron... Wait, a pipe?",,3,container-0641.csv container-0644.csv container-0645.csv,
+"神界最強の小動物を撃破した
+証明となる星〓のペンダント。","Five-pointed pendant that is proof of having slayed the
+mightiest rodent in the heavens.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"至極普通のヒマワリの種。
+大好きなものらしい。","Extraordinarily ordinary sunflower seed.
+A delicious treat.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"幸運のシンボルが刻まれた手甲。でも格好悪い。
+奇跡を呼ぶ・・・らしい。","Gauntlet with the symbol of fortune engraved. But really
+tacky. Brings about miracles, or so they say.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"魔〓けの刻印が刻まれた〓。
+防御力は低いが、魔法への耐性が〓常に高い。","Helm with the symbol magic evasion carved into it. Though weak
+physically, it possesses remarkable resistance against magic.",,3,container-0641.csv container-0644.csv container-0645.csv,
+"自分の尾を〓んだ蛇の銀細工。
+眼〓にルビーがはめ込まれている。","Silverwork of a snake biting its own tail.
+Rubies are set into the eye sockets.",,3,container-0641.csv container-0644.csv container-0645.csv,

@@ -1,0 +1,14 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,封印石 <PART> 封印石は <PART> を押してメニューを開けば、取って、所持する事ができます。 <PART> 封印石は <PART> 台座に置かれると周囲の敵に、取るとパーティー側に力を与えます。 <PART> 詳しいルールはメニュー内の <PART> 説明 <PART> をご覧下さい。,"Sealstones <PART>
+Press <PART> to open the menu and take hold
+of sealstones.
+ <PART> Sealstones affect <PART> enemies when on the dais,
+and the party when taken in hand. <PART> See <PART> Guide <PART> in the menu for details.
+",,1,1,225,6,,
+,この封印石を上手く活用する事が、ダンジヨン攻略の鍵となります。,"Mastering the sealstones is the key to
+dungeon strategy.
+",,1,2,225,8,,
+,セルドベルグ山岳遺跡から出ます（封印石の配置は初期化されます）,"Leave Serdberg Mountain Ruins?
+(Sealstones return to original places.)",,2,3,225,3,,not displayed by the event script
+,セルドベルグ山岳遺跡から出ます,"Leave Serdberg Mountain Ruins?
+",,2,7,225,9,,not displayed by the event script

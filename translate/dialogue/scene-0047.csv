@@ -1,0 +1,48 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Adventurer,旅に出る前に 無事を祈願しようと思ってここに〓ったのだけど… <PART> 死を運ぶとも言われる戦乙女に無事を願うというのも変よね <PART> 神の戦士に選定されるのは武人の〓れだから一度は会ってみたいと思うけど <PART> それは現実での死を意味するわけでしょ？それを考えると…ね,"I thought I'd pray for safety here
+before starting out on my journey. <PART>
+---
+It's strange to be praying for safety
+to a Battle Maiden who brings death. <PART>
+---
+For warriors, being chosen is an honor,
+and someday I hope to meet her. <PART>
+---
+But that means actually dying, right?
+I guess I'd rather not think about it.",,1,1,47,2,,
+Adventurer,エインフェリアとして選定されれば神界での永遠の生を約束されるらしいわよ,"Eternal life in the heavens is promised
+to those chosen to become einherjar.",,1,2,47,3,,
+Townsperson,まさか…アリーシャ王女！？こんな所でお会いできるなんて… <PART> ディパンから出てきたものの 〓る辺もなく…今はこの教会のお〓悲を頂くばかり <PART> つい先日までの暮らしが嘘のようですこの先 どうやって生きて行けば良いのか…,"Is it really you, Princess Alicia!?
+I'm surprised to see you here! <PART>
+---
+I escaped Dipan, but now where do I go?
+I'm living off the alms of this chapel. <PART>
+---
+The life I led days ago seems like a dream.
+I don't know how I'm going to survive.",,1,3,47,4,,
+Townsperson,祈るべき神にはすでに見放されているというのにこの先を思うと 手を合わせずにはいられなくて…,"The gods we worship have forsaken us,
+but still I clasp my hands in prayer.",,1,4,47,5,,
+Girl,母さまは 一体何に祈りを〓げているのかしら祈るべき神はいないって自分でも言っているのに <PART> どうせ手を合わせるのなら私はディパンで死んだ人のために祈るわ,"I can't imagine who Mother is praying to.
+She herself said the gods forsook us. <PART>
+---
+If I were going to pray, it would be for
+the poor souls in Dipan.",,1,5,47,6,,
+Girl,多分 ディパンはこっちの方角よねみんな安らかに〓れますように…,"I believe Dipan is in this direction.
+Let us pray they all rest in peace.",,1,6,47,7,,
+,〓神学大系〓 <PART> …『戦乙女』『戦死者を狩る者』『勇者の導き手』。様々な名を持つ女神、ヴァルキュリア。 アース神族の王オーディンの命により、来るべき神界戦争に備え、勇者にふさわしい魂を選定し、神界ヴァルハラへと導く女神。 <PART> 〓神学大系〓 <PART> 戦いの中で雄々しい死を〓げた者の前に、その美しき姿を現すと言われている。 戦乙女によって選ばれた者は、神の兵士エインフェリアとして、神界での生を歩む事となる。,"
+Battle Maiden, Defender of the Fallen...
+The valkyrie is known by many names.
+By order of Odin, King of the Aesir,
+the valkyrie chooses brave souls and
+leads them to Valhalla to prepare them
+for the coming war of the gods. <PART>
+---
+ <PART>
+She is said to appear as a vision of
+beauty to warriors who die heroically.
+Those chosen by her walk the heavens as
+einherjar, soldiers of the gods.",,1,7,47,9,,
+,〓神学大系〓 <PART> …長き争いの末に神々の王の座についたのは、アース神族の長オーディンであった。だが激しい戦は世界を滅ぼし、何も残してはいなかった。そこでオーディンはミッドガルドの地に新たな人類を創造し、〓物の父となったのである。,"
+...At the end of the long war, the one to seize the throne of the gods was the Aesir lord, Odin. But the war destroyed everything, leaving nothing to rule.
+Thus did Odin create the race of humans anew upon Midgard, thereby becoming the father of all existence.",,1,8,47,10,,
+,ディパン住人,Townsperson,Habitante,4,9,47,2756,55 69 77 393 399 401,not displayed by the event script

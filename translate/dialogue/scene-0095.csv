@@ -1,0 +1,62 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Townsperson,この街には 〓山夫が集うぎルドがあってね〓〓した鉄〓は全てそこを通されるんだ <PART> 数年前まではもう一つぎルドがあったんだけど死〓者が出たとかで潰れちまったんだよね,"We have a miners' guild in this town.
+All the mined iron ore goes through them. <PART>
+---
+There had been another guild up until a few
+years ago, but casualties wiped them out.",,1,1,95,3,,
+Townsperson,もう一つのぎルドが潰れたのって ト〓ルゲン〓山で魔物の〓が発〓された頃だったかな…？,"The other guild closed down around the time
+they found monster eggs in Turgen Mine.",,1,2,95,4,,
+Townsperson,外が騒がしいけど何かあったのか？城も急に城〓閉じちまうし…,"What's all the fuss about out there?
+They shut the castle gates all of a sudden!",,1,3,95,5,,
+Shopkeeper,買い物するなら ヴィルノアが一番！他の街には負けてないよ,"Villnore is a great place for shopping!
+You won't find a better town for it!",,1,4,95,6,95,
+Shopkeeper,何か不必要なものがあれば売ってくれ材料によっては〓しい品が作れるからな <PART> ウチの〓品を〓山買ってくれるなら他には内緒で その〓品を売ってやるぞ <PART> 言っとくが 他の街の〓とは品揃えがまったく違うからな！ ウチが作る防〓は凄いぜ,"Sell me anything you have no use for.
+I might be able to make you something! <PART>
+---
+You send plenty of business my way, and
+maybe I'll make you something special. <PART>
+---
+I'll tell you this <PART> ---- <PART> you won't find my
+wares anywhere else...particularly armor.",,1,5,95,7,,
+Shopkeeper,まいどどうも！ また来てくれよ！,Pleasure doing business. Come again soon!,,1,6,95,8,,
+Shopkeeper,さっき突然 城から武器防〓の確認されたよ一体何があったってんだろうねえ…？,"The castle just took inventory of
+my weapons and armor! What gives?",,1,8,95,10,,
+Shopkeeper,ディパンの滅亡で急に武器防〓が売れ出したよそれはそれで嬉しいが 戦が起こるのはねぇ…,"Weapons flew off the shelves after Dipan fell.
+It was good for sales, but I don't want war.",,1,10,95,12,,
+Shopkeeper,武器が戦に〓〓を掛けるのはわかっちゃいるがこれを売らなきゃ 俺も生活ができないんでな…,"I realize weapons cause wars, but if I
+don't sell these, I can't make a living.",,1,12,95,14,,
+Townsperson,街の皆は 〓兵が始まるんじゃないかって言ってるんだ… <PART> 俺は兵士になんてなりたかないよ戦で死ぬなんて冗談じゃない！,"Everyone in town is saying they
+expect a draft to start soon... <PART>
+---
+I don't want to be a soldier!
+I'm not going to die in battle!",,1,13,95,15,,
+Townsperson,コリアンドル村の近くにある森に魔物が出たらしいね <PART> あの辺境じゃ 〓備〓も期待できないしどこかの〓〓者頼みになるのかなぁ…,"Monsters have come out of the woods
+by Coriander. <PART>
+---
+Guards won't do the trick over there <PART> ---- <PART>
+they need adventurers to handle it.",,1,14,95,16,,
+Townsperson,この付近でも 魔物が出たって言うし木ント 最近物騒で仕方がないよ,"Now there are monsters in these parts...
+The world's gone mad lately.",,1,15,95,17,,
+Adventurer,やっぱり ここの〓にも無いか…武器だよ 武器 スレイヤー〓のやつ <PART> 普通の武器では適わない相手もそいつがあれば 楽勝なんだぜ <PART> ドラゴン相手ならドラゴンスレイヤー獣相手ならビーストスレイヤーってな <PART> その〓果が付いている武器さえあれば魔物なんざ怖くないんだがなあ,"They don't have them for sale here, either...
+Weapons <PART> ---- <PART> slayer weapons, to be precise. <PART>
+---
+Even monsters that are typically impervious to
+weapons are a piece of cake with slayers. <PART>
+---
+The Dragon Slayer downs dragons,
+while the Greenery Slayer prunes plants. <PART>
+---
+With that kind of power in your weapon,
+there's nothing to fear!",,1,16,95,18,,
+Adventurer,スレイヤー〓の武器は あったとしても値段が張るんだよなあ,"Even if they had slayer weapons,
+the prices would be astronomical.",,1,17,95,19,,
+,〓甲虫の角〓 <PART> ジャイアントスカラベ <PART> ： 頭 <PART> アーマービートル <PART> ： 頭,"Giant Scarab <PART> : Head
+ <PART> Armor Beetle <PART> : Head",,1,18,95,33,,
+,〓白い花弁〓 <PART> トキシックフラワー <PART> ： 上半身 <PART> サンドフラワー <PART> ： 上半身,"Toxic Flower <PART> : Upper Body
+ <PART> Sand Flower <PART> : Upper Body",,1,19,95,32,,
+,〓飛燕鱗〓 <PART> ワイルドリザード <PART> ： 足,Wild Lizard <PART> : Leg,,1,20,95,31,,
+,〓するどい矛先〓 <PART> リザードナイト <PART> ： 武器 <PART> リビングアーマー <PART> ： 武器,"Lizard Knight <PART> : Weapon
+ <PART> Living Armor <PART> : Weapon",,1,21,95,30,,
+,〓コアルビー〓 <PART> レッドジュエル <PART> ： 宝石 <PART> ブラックジュエル <PART> ： 宝石,"Red Jewel <PART> : Treasure
+ <PART> Black Jewel <PART> : Treasure",,1,22,95,29,,
+,〓ハームシード〓 <PART> ミメティックフラワー <PART> ： 上半身,Mimetic Flower <PART> : Upper Body,,1,23,95,28,,

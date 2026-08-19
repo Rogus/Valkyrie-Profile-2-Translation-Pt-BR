@@ -1,0 +1,22 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Alicia,…よかった,Finally!,,2,1,1311,1184,,
+Rufus,さあ 頼むぜ！,Okay. Let's do it.,,2,2,1311,1187,,
+Alicia,ええ…,Right.,,2,3,1311,1178,,
+Alicia,だって私の幸運のお守りだもの…,That's because it's my good luck charm.,,2,4,1311,1188,,
+Rufus,御利〓バッチリだったな,I guess I can't argue with that.,,2,5,1311,1180,,
+Rufus,神にはなりそこねたけどまだまだやってやるぜ！,"I might not have become a god, but I
+haven't given up yet!",,2,6,1311,1181,,
+Alicia,行きましょう ヴァルハラヘ,"So, what do you say we go to Valhalla?",,2,7,1311,1182,,
+Rufus,ああ,Right.,,2,8,1311,1183,,
+Rufus,不思議だな…,It's strange...,,2,9,1311,1185,,
+Rufus,ブカブカなのに 少し似合って見えてきたぜ,"It's still too big, but it doesn't look
+so silly anymore.",,2,10,1311,1186,,
+Dog Alicia,だって 私の幸運のお守りだもの…,That's because it's my good luck charm.,,4,1,1311,2736,1361,
+Dog Rufus,不思議だな…,Strange...,,4,2,1311,2734,1361,
+Dog Rufus,ブカブカなのに少し似合って見えてきたぜ,"It's still too big, but it doesn't look
+so silly anymore.",,4,3,1311,2735,1361,
+Alicia,ブカブカだから,But it's way too big.,,4,4,1311,2738,1361,
+Alicia,似合ってないわよ,It looks silly.,,4,5,1311,2739,1361,
+Rufus,御利〓バッチリだったな？,I guess they can't argue with that.,,4,6,1311,2737,1361,
+,犬アリーシャ,Dog Alicia,,5,9,1311,2763,1359 1361 1367,not displayed by the event script
+,犬ルーファス,Dog Rufus,,5,10,1311,2764,1361 1365 1367 1369 1375 1377,not displayed by the event script

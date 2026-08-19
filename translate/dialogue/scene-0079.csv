@@ -1,0 +1,193 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+Adventurer,アンタ 魔物と戦っている時に ヤツラの部〓を切断すると 何か取れた事は無いか？ <PART> 俺らの間じゃ それをアクセサリーって呼んでてねその名の通り 身に着けて使用しているんだ <PART> あんまり良い〓味じゃないがな…まあ お守りみてえなもんかな <PART> 〓備すると 腕力がちょっと上がったり火の攻撃に強くなったりするんだぜ <PART> だが アクセサリーの真〓はそんな事じゃねえ〓備のさせ方次第で 自分の中に〓っている〓能… <PART> 『スキル』を開花させる事があるんだまあ 運が良けりゃの場合だがな <PART> そうだ コイツをやるよ〓しに着けてみな,"Ya ever find something after ya
+cut off part of a monster? <PART>
+---
+We call 'em accessories 'round here.
+After all, ya wear 'em, don'tcha? <PART>
+---
+I reckon it ain't the classiest hobby,
+but they're like good luck charms! <PART>
+---
+Put 'em on and ya feel stronger, yer
+fire attacks burn more, and the like... <PART>
+---
+That ain't even the best part! Depending
+on how ya equip 'em, they bring out powers <PART> ---- <PART>
+---
+skills <PART> ---- <PART> that are sleepin' inside ya.
+That's if yer lucky, ya hear? <PART>
+---
+How about I give ya this?
+Go on, try it out!",,1,1,79,7,,
+Adventurer,その二つを『同じ色の〓備品』と合わせて〓備してみな <PART> 俺の見立てだと 武器と合わせるのがいい感じだぜ <PART> 新しいアクセサリーが手に入る度に色々〓み合わせを探ってみるといい <PART> ルーンの輝きがスキル発生の合〓だ絶対に忘れるなよ！,"Go on now, try those two on as
+color-match equipment. <PART>
+---
+I reckon matchin' up yer weapon'll
+do ya the most good. <PART>
+---
+Look for matching colors whenever
+ya get hold of some new accessory. <PART>
+---
+Shinin' runes mean you made a skill.
+Don't forget that, now, ya hear?",,1,2,79,46,,
+Adventurer,スキルってのは 知ってるのと知らないのとじゃ戦い方に天と地ほども差が出るんだ <PART> スキルを使えりゃ 今まで苦労してた戦闘があっという間に楽勝！ なんて事もあるからな,"Knowin' or not knowin' skills makes all
+the difference in the world! <PART>
+---
+Usin' skills'll make some of them
+hard battles easy as pie!",,1,3,79,8,,
+Merchant,ヴィルノアが急に〓の取立てを〓しくしたとかで中々〓品を買ってもらえなくて… <PART> その〓 貴方は違いますよね？ささ どうぞ見てってくださいな！,"Villnore suddenly stepped up their tax
+collections, and now nobody shops. <PART>
+---
+But you're not from around here, are you?
+Well then, step right up and have a look!",,1,4,79,9,,
+Townsperson,何も無い村に見えるでしょう？でも…実は… <PART> 本当に何も無いんですよみんな自〓自足だから お〓も無いしねえ,"On the surface, a plain, ordinary village,
+but in actuality... <PART>
+---
+it's a plain, ordinary village. Everyone is
+self-sufficient, so there aren't any shops.",,1,5,79,10,,
+Townsperson,この村はヴィルノアの〓領地なんですがこんな辺境まで〓を取り立てる必要がないのか <PART> ほとんど自治を任されていて…だからこんなにのんびりしているんですよ,"This village is Villnore's territory, but
+they don't really collect taxes out here. <PART>
+---
+We pretty much govern ourselves,
+so everyone here's real laid back.",,1,6,79,11,,
+Townsperson,やっぱり あれって魔物ですよねえ…嫌だわ 森に住み着かれたら仕事にならない <PART> ねえ アナタ〓〓者だったんでしょ？昔を思い出して 退治してきてくれないかしら,"That had to be a monster. Good grief.
+If that thing moves in, we're done for. <PART>
+---
+You were an adventurer once, right?
+Beat him back like the good ol' days!",,1,7,79,14,,
+Townsperson,ああアンタ！ 〓〓から無事帰ってきたのかい！？〓度良い 〓行がてら化け物退治はどうかね？ <PART> なに 無理にとは言わないさだが倒してくれたら 相応の礼は…ねぇ,"You! You made it back from the ruins!?
+How about a real monster workout? <PART>
+---
+You don't have to do it, but if you do,
+I'll have a treat in store for you...",,1,8,79,12,,
+Townsperson,なあ アンタも見ただろ？森にデカイ〓が〓んでいったのを…,"You saw it, didn't you?
+The huge bird in the forest!",,1,9,79,16,,
+Townsperson,そ そんな昔の事引き合いに出されても…今のワシの〓を考えろ 死んじまうさね,"Bring up the good old days all you want,
+but at my age, forget about it!",,1,10,79,15,,
+Townsperson,まったく…この人はいざという時に役に立たないんだから <PART> 本当にありがとうね 助かったわ〓〓の森の〓しさに魔物も〓かれたのかしらね…,"Sheesh... He's never any use when
+I need him. <PART>
+---
+Thanks for helping us out! I guess the
+beautiful forest attracts even monsters.",,1,11,79,17,,
+Townsperson,ワシの〓〓者時代は いつ死んでも戦乙女に選定されるように腕を磨いていたもんだがね <PART> 今となっちゃ選定どころか目にする事すら適わないだろうねえ…,"My skills used to be so good that if I'd
+died, the valkyrie would have chosen me. <PART>
+---
+Now I can forget about being chosen.
+I'd be lucky just to see her!",,1,12,79,20,,
+Townsperson,アンタ まさか本当に魔物を退治してくれたのかい！？ ああ ありがとうありがとう <PART> なぁに 残りが小物ばかりならワシにだって何とかなるさ <PART> …とと そうだな 何かお礼しなくちゃなこんなもんで悪いね まあ気持ちが重要って事で,"Did you really take care of that monster?
+Well, thank you...thank you very much! <PART>
+---
+If the rest are just little critters,
+leave it to little ol' me! Take this <PART> ---- <PART>
+---
+a token of our gratitude... It isn't much,
+but it's the thought that counts, right?",,1,13,79,18,,
+Townsperson,そろそろヴィルノアに〓を納める時期なのだけれど〓年の事ながら 一向に連〓がないの <PART> まあ あちらは鉄〓と〓業で〓けているからこんな小さな村の〓は 必要じゃないって事ね,"It's almost time to pay taxes, but again
+this year, there's no word from Villnore. <PART>
+---
+Who needs our tax money with their
+steel industry and commerce?",,1,14,79,21,,
+Townsperson,この村の人は頼りにならなくて…誰かが退治してくれると助かるのだけど…,"Nobody in this village is of any use. It'd be
+great if someone got rid of the monsters.",,1,15,79,23,,
+Townsperson,山〓の〓〓に もう一〓男女の〓〓者が向かったようだったけれど… <PART> 何だか男の方が〓に〓かれてたわね…って あ あら 合流したのねほほほ…,"Two other adventurers were headed for
+the mountain ruins <PART> ---- <PART> a man and a woman. <PART>
+---
+She really had him totally whipped!
+Oh, you all met up? Tee-hee-hee!",,1,16,79,22,,
+Girl,何だか空気が変だと思わない？いつもよりも重いというか…変な感じ,"Do you sense something strange in the air?
+Doesn't it feel heavier than usual? Weird.",,1,17,79,24,,
+Townsperson,…うそ ディパンが？ それ本当なの？,Get outta here! Dipan? Seriously?,,1,18,79,28,,
+Townsperson,本当らしいわ 確かにディパンの方面から〓が…さっき〓父さんが山に行って確認したって…,"Smoke was rising from Dipan's direction.
+Grandpa saw it from the mountains.",,1,19,79,29,,
+Townsperson,襲撃？ まさかクレルモンフェラン…,A raid? Was it Crell Monferaigne?,,1,20,79,30,,
+Townsperson,ディパンの方角から〓が上がっているそうだアンタ 何があったか知らんかね？,"Apparently, smoke is rising from Dipan.
+Do you know what happened?",,1,21,79,32,,
+Townsperson,あああアンタ！ また退治してくれるなんてなんて〓切な人なんだ まるで女神様だよ <PART> こんなもんしかなくて本当に悪いが礼の気持ちだ 受け取ってくれ,"Thanks for handling our monster problem
+yet again! You're sweet as a goddess! <PART>
+---
+I wish I could give you more,
+but please accept my thanks...",,1,22,79,33,,
+Townsperson,ワシも もう少し若ければ魔物の一〓や二〓や三〓は…,"If I were still a whippersnapper,
+I'd bust a couple critters up myself!",,1,23,79,35,,
+Townsperson,ディパンが滅んじまったって本当かね？まさか…悪い冗談はやめとくれよ,"Is it true Dipan's been obliterated?
+Tell me it's just some cruel hoax.",,1,24,79,36,,
+Girl,大きい国が無くなっちゃったんだってそれって大変な事なんだよね？,"It's pretty bad when a big
+country disappears, right?",,1,25,79,37,,
+Adventurer,王家の秘〓通〓だったっていう所を通ってディパンに行ってみたんだが…酷いモンだったぜ,"I used the hidden royal path to go an'
+give Dipan a look-see. It ain't pretty...",,1,26,79,38,,
+Townsperson,ヴィルノアに〓を納めなきゃならねえんだ余計なモン買ってる余〓はないさね,"I have to pay taxes to Villnore, so I
+can only afford the bare essentials.",,1,27,79,39,,
+Merchant,不〓気な時代でも我ら行〓人は頑張ります！,"Even in a recession, the shop must go on!",,1,28,79,40,,
+Townsperson,ヴィルノアからの〓の取立てが急に〓しくなって… <PART> 〓業や鉄〓業にも行〓の手が〓びているらしくて軍事化のためじゃないかって噂も流れてるの <PART> 今までは自治に任されていたけれど…この村はどうなるのかしら…,"Villnore's been pushing tax collection
+enforcement all of a sudden. <PART>
+---
+The government is also messing with steel
+and commerce. Maybe they're militarizing. <PART>
+---
+We've always governed ourselves,
+but what will become of us now?",,1,29,79,41,,
+Townsperson,ディパンの崩壊が こんな形でこの村に影〓を及ぼすなんて…,"Who'd have thought the fall of Dipan
+would impact our village this way?",,1,30,79,42,,
+Townsperson,ああアンタ！ 〓〓から無事帰ってきたのかい！？〓度良い 〓行がてら化け物退治はどうかね？ <PART> 実は 近くの森に変な魔物が住み着いちまってねこんな辺境じゃ 〓備〓も無いし… <PART> なに 無理にとは言わないさだが倒してくれたら 相応の礼は…ねぇ,"You! You made it back from the ruins!?
+How about a real monster workout? <PART>
+---
+A strange monster moved into the
+nearby forest, and we have no guards... <PART>
+---
+You don't have to do it, but if you do,
+I'll have a treat in store for you...",,1,31,79,48,,
+Townsperson,どうやら 森に住み着いちまったのは〓大な〓…っぱい魔物らしいが…,"The thing in the forest looks like
+some great big bird or something.",,1,32,79,49,,
+Townsperson,ワシも 若い頃は凄かったんだよ〓り来る魔物を〓切っては投げ〓切っては投げ… <PART> ……そんな目で見ないで欲しいさね…,"I used to be something back in my day!
+I took 'em on by the thousands <PART> ---- <PART> no sweat! <PART>
+---
+Why are you looking at me like that?",,1,33,79,50,,
+Townsperson,ああアンタ！ また〓度良い時に来てくれたね実は…また森に変な奴が住み着いちまったんだ <PART> 余〓がある時でいいからさ〓非とも様子を見に行ってくれないかねえ…,"You! How nice of you to come back!
+Actually, a new monster's in the forest. <PART>
+---
+Maybe you could check it out for me
+when you have some spare time.",,1,34,79,51,,
+Merchant,おや？ 貴方も旅の方ですね！ 旅と言えば危〓がつきもの 危〓と言えば怪我がつきもの <PART> 小さな〓も〓〓の中では命取り そんな事にならないよう 〓非当〓をご利用くださいませ！ <PART> ちなみに 今は『ファルシオン』が超特〓〓品となっております <PART> 普段はお得意様にしか作りませんが…素敵な女性には特別です！,"Hey there! Traveling, eh? Travel invites
+trouble, and trouble invites injury. <PART>
+---
+A little cut can cost you your life,
+but my shop's here to prevent that! <PART>
+---
+We're having a special on falchions, but
+hurry <PART> ---- <PART> at these prices, they won't last! <PART>
+---
+They're normally only for regulars, but
+I make exceptions for pretty smiles!",,1,35,79,53,,
+Merchant,おや？ 貴方も旅の方ですね！ 旅と言えば危〓がつきもの 危〓と言えば怪我がつきもの <PART> 小さな〓も〓〓の中では命取り そんな事にならないよう 〓非当〓をご利用くださいませ！,"Hey there! Traveling, eh? Travel invites
+trouble, and trouble invites injury. <PART>
+---
+A little cut can cost you your life,
+but my shop's here to prevent that!",,1,36,79,52,,
+Merchant,いらっしゃいませ！旅から旅への行〓人でございます <PART> ただ今 『ファルシオン』が大変お買い得ですよ！魔物もビックリの超特〓！ <PART> 素材さえあれば 強い武器が貴方の物に！さあさあ 見てってくださいな,"Come one, come all!
+The traveling salesman is here to serve! <PART>
+---
+We're having a special on falchions!
+These prices have the monsters running! <PART>
+---
+You bring me materials, I make you weapons!
+What do you say? Take a peek!",,1,37,79,55,,
+Merchant,いらっしゃいませ！旅から旅への行〓人でございます,"Come one, come all!
+The traveling salesman is here to serve!",,1,38,79,54,,
+Merchant,〓が無いような廃村地〓 魔物がうろつく危〓地〓そんな場所こそ 私ら行〓人をお探しくださいませ,"They don't build shops in dangerous places,
+that's why we peddlers come in handy!",,1,39,79,56,,
+Merchant,『ファルシオン』に必要な素材さえあればすぐにでもお作りできるんですが… <PART> 確か… リビングアーマーだったかな？この辺だと キセナ草〓にいたでしょう？ <PART> 必要な素材は 全てアイツから取れるんですけどね私は戦いがからっきしダメでして <PART> 同じ〓人でも 死んだ〓父ぐらい強かったら話は違うんでしょうけどねぇ,"If I had the materials for a falchion,
+I could make you one right away! <PART>
+---
+There's a monster called a Living Armor.
+You might find it in Kythena Plains. <PART>
+---
+It'll have all the materials you need.
+I'd help, but I can't fight to save my life. <PART>
+---
+My dad was a different story, now. He
+was a merchant who knew how to fight!",,1,40,79,57,,
+Chicken,…これ モッテケ,MOOOOcher!,,1,41,79,60,81,
+Chicken,…モウナイ,No MOOOOre!,,1,42,79,62,,
+,商人,Merchant,,2,19,79,2811,99 109 143 399 1167,not displayed by the event script
+,コリアンドル村住人,Townsperson,Habitante,2,20,79,2812,81 85,not displayed by the event script
+,〓,Chicken,,2,22,79,2814,81,not displayed by the event script
