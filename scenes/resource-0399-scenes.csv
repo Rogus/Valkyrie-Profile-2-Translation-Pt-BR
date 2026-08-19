@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,399,3,1284,,,,Dipan Soldier,"Only Dallas remains by the king's side.
 He's sworn loyalty to the death. <PART>
 ---
@@ -40,7 +40,7 @@ you'd better equip yourself properly.",どさくさに〓れてディパンに�
 more important than the right equipment.",こんな時にその… 何なんですが…準備だけはしっかりした方が良いかと…,,,
 1,13,399,15,3596,,,,Dipan Soldier,"The pallbearers just took the queen's
 casket, along with the king's body...",先程…マルベス様の〓と共に王のご〓体も運ばれました…,,,
-1,14,399,16,3676,,,,Dipan Soldier,"Leave me be: I can't help you now.
+1,14,399,16,3676,,,,Dipan Soldier,"Leave me be; I can't help you now.
 What's the point in living now?",放っておいてくれ… 助かる気など〓〓無いもう生きていても…何も…,,,
 1,15,399,17,3768,,,,Gentleman,"It was wrong to oppose the gods. If we
 hadn't, it might not have come to this.",そうだ… そもそも神に逆らったのが悪いんだ…何もせずにいれば…こんな…,,,

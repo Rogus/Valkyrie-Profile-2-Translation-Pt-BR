@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,49,5,704,,,,,"
 In battle, the commander's hands hold
 both life and death.
@@ -250,9 +250,9 @@ you make it easier for us to act. <PART>
 Take your cute little sword and
 go face the gods.",貴様の剣ごときでは 天界は揺らぐまいだが天に騒乱あれば 我も動きやすいというもの <PART> せいぜい神々のノド元に そのか弱い〓を突き立てる事だ,,,duplicate
 3,38,49,2226,52268,,,,Farant,"A dream. Reality. A vision. Solidity.
-A dream is a dream: a vision is a vision. <PART>
+A dream is a dream; a vision is a vision. <PART>
 ---
-At times, a dream becomes real: a vision solidifies.
+At times, a dream becomes real; a vision solidifies.
 Hence, this new life is also a fraction of a dream.",夢か現か〓か実か所詮夢は夢であり 〓はまた〓 <PART> だが夢は時に実となり 〓はまた現となる…つまり この新たな生も夢の欠〓って事さ,,,duplicate
 3,39,49,2227,52376,,,,Xehnon,"Although I was reborn, my sins
 are still with me. <PART>
@@ -559,7 +559,7 @@ who was fond of me. <PART>
 ---
 My parents had sold me out.
 I had no escape.",生前の私にとって この街は魔物の居城にしか見えませんでした <PART> 当事の王に見初められた私は 聖女という名目でこの街につれて来られました <PART> どうせ断る事はできないのだからと〓〓が私を売ったんです,,,duplicate
-3,109,49,2297,59944,,,,Lydia,"It is said my brother Cain died of an illness:
+3,109,49,2297,59944,,,,Lydia,"It is said my brother Cain died of an illness;
 in other words, he was imprisoned for incompetence. <PART>
 ---
 I am not terribly shocked, as there had been rumors...
@@ -1532,7 +1532,7 @@ I'm doing great, as you can see.
 I feel like this town is my home now. <PART>
 ---
 There are still monsters in this area, but
-never fear! 2unde's here!",お！ アリーシャじゃないか！ <PART> 元気か？ 怪我してないか？俺の事憶えてないか？ いるよな！ <PART> 俺は見た通り 大元気だ！この村にも すっかり〓〓んだところだぜ！ <PART> 今も昔も魔物の被害は減っていないようだが俺が居るからには この村は安心だな！,,,duplicate
+never fear! Zunde's here!",お！ アリーシャじゃないか！ <PART> 元気か？ 怪我してないか？俺の事憶えてないか？ いるよな！ <PART> 俺は見た通り 大元気だ！この村にも すっかり〓〓んだところだぜ！ <PART> 今も昔も魔物の被害は減っていないようだが俺が居るからには この村は安心だな！,,,duplicate
 3,304,49,2540,81024,,,,Atrasia,"In many cases, it was beneficial for
 the gods to be the protector of humans. <PART>
 ---
@@ -1835,15 +1835,15 @@ those beside the targeted character in mind.",〓戦術指南書〓 <PART> 魔�
 4,1,49,1,,,,,,Head outside,外へ,,not displayed by the event script,duplicate
 4,2,49,2,,,,,,HRead,読む,,not displayed by the event script,primary
 4,3,49,8,,,,,,,〓戦術指南書〓,,not displayed by the event script,
-4,4,49,9,,,,,,Status Ailments,・状態異常について,,not displayed by the event script,primary
-4,5,49,10,,,,,,Casting Spells,・魔法の使い方について,,not displayed by the event script,primary
+4,4,49,9,,,,,,▪Status Ailments,・状態異常について,,not displayed by the event script,primary
+4,5,49,10,,,,,,▪Casting Spells,・魔法の使い方について,,not displayed by the event script,primary
 4,6,49,2762,,,,,,,〓戦術指南書〓,,not displayed by the event script,
-4,7,49,2763,,,,,,Changing Targets,・ターゲット変更について,,not displayed by the event script,primary
-4,8,49,2764,,,,,,Magic Attributes,・魔法の特性について,,not displayed by the event script,primary
-4,9,49,2765,,,,,,Elements,・属性について,,not displayed by the event script,primary
-4,10,49,2766,,,,,,Dashing,・ダッシュについて,,not displayed by the event script,primary
-4,11,49,2771,,,,,,Status Ailments,・状態異常について,,not displayed by the event script,duplicate
-4,12,49,2775,,,,,,Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
+4,7,49,2763,,,,,,▪Changing Targets,・ターゲット変更について,,not displayed by the event script,primary
+4,8,49,2764,,,,,,▪Magic Attributes,・魔法の特性について,,not displayed by the event script,primary
+4,9,49,2765,,,,,,▪Elements,・属性について,,not displayed by the event script,primary
+4,10,49,2766,,,,,,▪Dashing,・ダッシュについて,,not displayed by the event script,primary
+4,11,49,2771,,,,,,▪Status Ailments,・状態異常について,,not displayed by the event script,duplicate
+4,12,49,2775,,,,,,▪Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
 4,13,49,2777,,,,,,Solde,港町ゾルデ,,not displayed by the event script,duplicate
 4,14,49,2894,,,,,,Acquired <PART> Tome of Alchemy,錬金術の書 <PART> を手に入れた,,not displayed by the event script,primary
 4,15,49,2895,,,,,,Lwyn,ルイン,,not displayed by the event script,duplicate

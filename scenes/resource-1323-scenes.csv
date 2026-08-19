@@ -19,25 +19,27 @@
 becoming creator with you...",あなたと一つになって 世界の創造主になるという理想が今 <PART> ――,,,
 4,4,1323,2670,38812,690,3,,Lezard,"I'm honored you came to celebrate, but
 really, you shouldn't have...",ようこそ縁者達よ〓〓に〓けつけてくれるとは…,,,
-5,1,1323,2688,40908,,,,Lezard,Lenneth's spirit... Lenneth's soul...,レナスの心も… 魂も…,,,primary
-5,2,1323,2689,40948,,,,Lezard,It all belongs to me!,すべて私のものだ！,,,primary
-5,3,1323,2690,40988,,,,Lezard,"Now die, you damned human!",失せよ 愚かな人間ッ！,,,primary
-5,4,1323,2691,41028,,,,Valkyrie,A soul...,魂とは…,,,primary
-5,5,1323,2692,41068,,,,Valkyrie,is something no other can possess.,他者が所有できるものではない,,,primary
-5,6,1323,2693,41108,,,,Lezard,A god...,神とは…,,,primary
-5,7,1323,2694,41148,,,,Lezard,...is not as almighty as I expected.,期待していたほど〓能ではなかった,,,primary
-5,8,1323,2695,41188,,,,Valkyrie,Now you see.,その通り <PART> ――,,,primary
-5,9,1323,2696,41228,,,,Valkyrie,Nothing can rule another's heart.,心を支配できる存在など…,,,primary
-5,10,1323,2697,41268,,,,Valkyrie,Nothing.,…ない,,,primary
+5,1,1323,2688,40908,,,,Lezard,Lenneth's spirit... Lenneth's soul...,レナスの心も… 魂も…,O espírito de Lenneth... a alma de Lenneth...,,primary
+5,2,1323,2689,40948,,,,Lezard,It all belongs to me!,すべて私のものだ！,Tudo isso me pertence!,,primary
+5,3,1323,2690,40988,,,,Lezard,"Now die, you damned human!",失せよ 愚かな人間ッ！,"Agora morra, humano miserável!",,primary
+5,4,1323,2691,41028,,,,Valkyrie,A soul...,魂とは…,Uma alma...,,primary
+5,5,1323,2692,41068,,,,Valkyrie,is something no other can possess.,他者が所有できるものではない,...não pode ser possuída por ninguém.,,primary
+5,6,1323,2693,41108,,,,Lezard,A god...,神とは…,Um deus...,,primary
+5,7,1323,2694,41148,,,,Lezard,...is not as almighty as I expected.,期待していたほど〓能ではなかった,...não é tão onipotente quanto eu esperava.,,primary
+5,8,1323,2695,41188,,,,Valkyrie,Now you see.,その通り <PART> ――,Agora você vê.,,primary
+5,9,1323,2696,41228,,,,Valkyrie,Nothing can rule another's heart.,心を支配できる存在など…,Nada pode governar o coração de outrem.,,primary
+5,10,1323,2697,41268,,,,Valkyrie,Nothing.,…ない,Nada.,,primary
 5,11,1323,2698,41308,,,,Valkyrie,"You have toyed with countless souls.
 You have used Gungnir to wreak havoc and
-destruction on the world.",多くの魂を弄んだ罪神槍の力で破壊の限りを尽くした罪 <PART> ――,,,primary
-5,12,1323,2699,41348,,,,Valkyrie,"For these sins, you will pay with your soul.",魂の消滅をもって償え…,,,primary
-5,13,1323,2700,41388,,,,Lezard,I have lost...,私の負けです…,,,primary
-5,14,1323,2701,41428,,,,Rufus,Alicia...?,アリーシャ…,,,primary
-5,15,1323,2702,41468,,,,Rufus,Alicia!,アリーシャ！,,,duplicate
+destruction on the world.",多くの魂を弄んだ罪神槍の力で破壊の限りを尽くした罪 <PART> ――,"Brincou com incontáveis almas.
+Usou Gungnir para semear o caos
+e a destruição pelo mundo.",,primary
+5,12,1323,2699,41348,,,,Valkyrie,"For these sins, you will pay with your soul.",魂の消滅をもって償え…,"Por esses pecados, pagará com sua alma.",,primary
+5,13,1323,2700,41388,,,,Lezard,I have lost...,私の負けです…,Eu perdi...,,primary
+5,14,1323,2701,41428,,,,Rufus,Alicia...?,アリーシャ…,Alicia...?,,primary
+5,15,1323,2702,41468,,,,Rufus,Alicia!,アリーシャ！,Alicia!,,duplicate
 5,16,1323,2703,41508,,,,Rufus,Alicia...,アリーシャ…,,,duplicate
-5,17,1323,2704,41548,,,,Rufus,Alicia!,アリーシャ <PART> ――― <PART> ！,,,duplicate
+5,17,1323,2704,41548,,,,Rufus,Alicia!,アリーシャ <PART> ――― <PART> ！,Alicia!,,duplicate
 6,1,1323,5,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate
 6,2,1323,6,,,,,,Acquired <PART> Antique Pendant,ふるびたペンダント <PART> を手に入れた,,not displayed by the event script,duplicate
 6,3,1323,7,,,,,,Acquired <PART> Ghoul Powder,グールパウダー <PART> を手に入れた,,not displayed by the event script,duplicate

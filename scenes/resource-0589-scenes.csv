@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,589,9,9208,,,,,ERRORv,ERROR！！（v190）,,,duplicate
 1,2,589,11,9344,,,,,ERRORv,ERROR！！（v191）,,,duplicate
 1,3,589,14,42708,,,,,ERRORv,ERROR！！（v191）,,,duplicate
@@ -135,9 +135,9 @@ you make it easier for us to act. <PART>
 Take your cute little sword and
 go face the gods.",貴様の剣ごときでは 天界は揺らぐまいだが天に騒乱あれば 我も動きやすいというもの <PART> せいぜい神々のノド元に そのか弱い〓を突き立てる事だ,,,duplicate
 1,38,589,49,54496,,,,Farant,"A dream. Reality. A vision. Solidity.
-A dream is a dream: a vision is a vision. <PART>
+A dream is a dream; a vision is a vision. <PART>
 ---
-At times, a dream becomes real: a vision solidifies.
+At times, a dream becomes real; a vision solidifies.
 Hence, this new life is also a fraction of a dream.",夢か現か〓か実か所詮夢は夢であり 〓はまた〓 <PART> だが夢は時に実となり 〓はまた現となる…つまり この新たな生も夢の欠〓って事さ,,,duplicate
 1,39,589,50,54604,,,,Xehnon,"Although I was reborn, my sins
 are still with me. <PART>
@@ -444,7 +444,7 @@ who was fond of me. <PART>
 ---
 My parents had sold me out.
 I had no escape.",生前の私にとって この街は魔物の居城にしか見えませんでした <PART> 当事の王に見初められた私は 聖女という名目でこの街につれて来られました <PART> どうせ断る事はできないのだからと〓〓が私を売ったんです,,,duplicate
-1,109,589,120,62172,,,,Lydia,"It is said my brother Cain died of an illness:
+1,109,589,120,62172,,,,Lydia,"It is said my brother Cain died of an illness;
 in other words, he was imprisoned for incompetence. <PART>
 ---
 I am not terribly shocked, as there had been rumors...
@@ -1417,7 +1417,7 @@ I'm doing great, as you can see.
 I feel like this town is my home now. <PART>
 ---
 There are still monsters in this area, but
-never fear! 2unde's here!",お！ アリーシャじゃないか！ <PART> 元気か？ 怪我してないか？俺の事憶えてないか？ いるよな！ <PART> 俺は見た通り 大元気だ！この村にも すっかり〓〓んだところだぜ！ <PART> 今も昔も魔物の被害は減っていないようだが俺が居るからには この村は安心だな！,,,duplicate
+never fear! Zunde's here!",お！ アリーシャじゃないか！ <PART> 元気か？ 怪我してないか？俺の事憶えてないか？ いるよな！ <PART> 俺は見た通り 大元気だ！この村にも すっかり〓〓んだところだぜ！ <PART> 今も昔も魔物の被害は減っていないようだが俺が居るからには この村は安心だな！,,,duplicate
 1,304,589,363,83252,,,,Atrasia,"In many cases, it was beneficial for
 the gods to be the protector of humans. <PART>
 ---

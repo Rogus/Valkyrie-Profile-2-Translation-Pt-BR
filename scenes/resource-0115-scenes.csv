@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,115,2,1924,,,,Townsperson,"Well, you've quite a palm! In all my years
 of telling fortunes, this is a first! <PART>
 ---
@@ -9,7 +9,7 @@ Wait! I see a break in the current!
 This break may change the fate of the world.",へえ…アンタ面白い相をしているね長年占い師やってるけど これは初めて見たよ <PART> アンタは数〓な流れに〓き込まれてるこのままだと 流れに〓うまま生を終えるだろう <PART> でも 流れに〓びが見えるねこの〓びは…世界を変えるかもしれない…,,,
 1,2,115,3,2016,,,,Townsperson,"Your fate may be a cruel one,
 but you mustn't give up!",アンタの運命は過酷だけど最後まで〓めちゃいけないよ,,,
-1,3,115,7,2380,,,,Townsperson,"See your future! One time, 1oo OTH!
+1,3,115,7,2380,,,,Townsperson,"See your future! One time, 100 OTH!
 Not responsible for gross inaccuracies!",占いはどうだい？ 一回〓〓〓 〓〓〓だよまあ 当たるかどうかは責任持てないけど,,,
 1,4,115,11,2584,,,,Townsperson,This is the only fortune I can tell now.,悪いけど 今できる占いはこれだけだよ,,,
 1,5,115,4,2728,,,,Townsperson,"Well, may our paths cross again sometime...",そうかい それじゃまたの機会にね,,,

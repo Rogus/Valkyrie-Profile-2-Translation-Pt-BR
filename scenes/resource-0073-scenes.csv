@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,73,5,1572,,,,,There's writing on the edge of a page.,〓ーシの端に何か書いてある…,,,primary
 1,2,73,3,1628,,,,,"I <PART> n sweep the waves of the moon,
  <PART> A <PART> way flow the tides of time.
@@ -168,9 +168,9 @@ those beside the targeted character in mind.",〓戦術指南書〓 <PART> 魔�
 2,2,73,2,,,,,,HRead,読む,,not displayed by the event script,duplicate
 2,3,73,8,,,,,,HRead,読む,,not displayed by the event script,duplicate
 2,4,73,11,,,,,,,〓戦術指南書〓,,not displayed by the event script,
-2,5,73,12,,,,,,Elements,・属性について,,not displayed by the event script,duplicate
-2,6,73,13,,,,,,Dashing,・ダッシュについて,,not displayed by the event script,duplicate
-2,7,73,14,,,,,,Status Ailments,・状態異常について,,not displayed by the event script,duplicate
-2,8,73,15,,,,,,Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
+2,5,73,12,,,,,,▪Elements,・属性について,,not displayed by the event script,duplicate
+2,6,73,13,,,,,,▪Dashing,・ダッシュについて,,not displayed by the event script,duplicate
+2,7,73,14,,,,,,▪Status Ailments,・状態異常について,,not displayed by the event script,duplicate
+2,8,73,15,,,,,,▪Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
 2,9,73,50,,,,,,Dipan,ディパン城下町,,not displayed by the event script,duplicate
 2,10,73,84,,,,,,Elder,〓人,,not displayed by the event script,primary

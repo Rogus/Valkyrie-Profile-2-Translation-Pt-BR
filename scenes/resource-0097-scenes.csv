@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,97,2,1216,,,,Townsperson,"An adventurer came through here the other day
 with something from the Forest of Spirits. <PART>
 ---
@@ -229,11 +229,11 @@ those beside the targeted character in mind.",〓戦術指南書〓 <PART> 魔�
 2,2,97,10,,,,,,HCheck,調べる,,not displayed by the event script,duplicate
 2,3,97,11,,,,,,HCheck,調べる,,not displayed by the event script,duplicate
 2,4,97,12,,,,,,,〓戦術指南書〓,,not displayed by the event script,
-2,5,97,13,,,,,,Changing Targets,・ターゲット変更について,,not displayed by the event script,duplicate
-2,6,97,14,,,,,,Magic Attributes,・魔法の特性について,,not displayed by the event script,duplicate
-2,7,97,15,,,,,,Elements,・属性について,,not displayed by the event script,duplicate
-2,8,97,16,,,,,,Dashing,・ダッシュについて,,not displayed by the event script,duplicate
-2,9,97,21,,,,,,Status Ailments,・状態異常について,,not displayed by the event script,duplicate
-2,10,97,25,,,,,,Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
+2,5,97,13,,,,,,▪Changing Targets,・ターゲット変更について,,not displayed by the event script,duplicate
+2,6,97,14,,,,,,▪Magic Attributes,・魔法の特性について,,not displayed by the event script,duplicate
+2,7,97,15,,,,,,▪Elements,・属性について,,not displayed by the event script,duplicate
+2,8,97,16,,,,,,▪Dashing,・ダッシュについて,,not displayed by the event script,duplicate
+2,9,97,21,,,,,,▪Status Ailments,・状態異常について,,not displayed by the event script,duplicate
+2,10,97,25,,,,,,▪Casting Spells,・魔法の使い方について,,not displayed by the event script,duplicate
 2,11,97,143,,,,,,Villnore,ヴィルノア,,not displayed by the event script,duplicate
 2,12,97,2883,,,,,,Townsperson,ヴィルノア住人,,not displayed by the event script,duplicate

@@ -1,4 +1,4 @@
-﻿scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
+scene,scene_line,resource,message_id,script_offset,voice_scene,voice_slot,audio_id,speaker,original_en,original_jp,translated,details,copy_status
 1,1,1213,25,2048,200,0,,Lezard,"I believe we are safe now.
 Shall we adjourn here until the morrow?",もう大丈夫でしょう今日はこの辺りで〓みませんか？,,,
 1,2,1213,1,2748,200,1,,Dylan,What makes you think we're safe?,なぜ大丈夫だと言える？,,,
@@ -23,7 +23,7 @@ are inseparably bound to another life...",前世から離れられない強い�
 1,15,1213,13,10712,200,18,,Silmeria,"...or memories of someone who affected
 you deeply, then I can read those thoughts.",あなたに対して強く影〓を及ぼす他者の思念があれば 〓み取る事は可能よ,,,
 1,16,1213,14,11020,200,19,,Lezard,Is that so?,そうですか…,,,
-1,17,1213,15,11320,200,20,,Lezard,"Allow me to abstain: I would rather not
+1,17,1213,15,11320,200,20,,Lezard,"Allow me to abstain; I would rather not
 know about my other lives.",…私は前世など知りたくない遠〓しておきましょう,,,
 1,18,1213,16,11620,200,21,,Lezard,Perhaps the gentlemen would oblige?,よろしければ お二方は？,,,
 1,19,1213,17,12256,200,22,,Dylan,"I'd like to believe that in all my other
@@ -35,7 +35,7 @@ won't that other valkyrie detect us?",余計な事してると アーリィっ�
 journey. A brief respite is in order.",お二方も長旅でお疲れでしょう少し横になられてはいかがですか？,,,
 1,23,1213,21,14192,200,26,,Lezard,"I shall wake you before the sun is high.
 Naturally, I shall keep watch as you rest.",日が高くなる前に起こして差し上げますもちろん私は起きて番をしましょう,,,
-1,24,1213,23,25992,200,10,,Lezard,"I beg your forgiveness: I never intended
+1,24,1213,23,25992,200,10,,Lezard,"I beg your forgiveness; I never intended
 to insinuate such a thing.",お許しください そのようなつもりで申し上げたのではありませんが…,,,
 1,25,1213,24,28220,200,13,,Lezard,"So, can object reading be used to read
 another's mind?",…オブシェクトリーディングで人の心が〓めるという事ですか？,,,
