@@ -14,6 +14,7 @@ export default class HomeService implements IHomeService {
       { src: 'npc-dialog.png', alt: 'NPC dialog' },
       { src: 'menu.png', alt: 'Menu' },
       { src: 'character-background.png', alt: 'Character background' },
+      { src: 'him.png', alt: 'Him' },
       { src: 'final-battle.png', alt: 'Final battle' }
     ]
   }
