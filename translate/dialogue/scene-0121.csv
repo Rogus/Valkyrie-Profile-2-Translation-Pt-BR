@@ -1,110 +1,121 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 Soldier,この先は 神聖なるクレルモンフェラン城許可無き者は立ち去られよ！,"The Holy Castle of Crell Monferaigne lies
-beyond. Authorized personnel only!",,1,1,121,5,,
+beyond. Authorized personnel only!","",1,1,121,5,,
 Soldier,この先は 神聖なるクレルモンフェラン城許可無く立ちいれば その身に罰が下るであろう！,"The Holy Castle of Crell Monferaigne lies
-beyond. Trespass on pain of death!",,1,2,121,6,,
+beyond. Trespass on pain of death!","",1,2,121,6,,
 Adventurer,この付近に どうやら凄いお宝があるみたい確か…竜…宝〓…とかいうヤツ <PART> といっても 全っ然情報入ってこないんだけどね怪しい所をシラミ潰しに探すしか手は無いのかな…,"There's supposedly some great treasure
 near here. Dragon...Globe, or something. <PART>
 ---
 Not that I know or anything! You'll just have
-to go dungeon crawling yourself to find out.",,1,3,121,11,,
+to go dungeon crawling yourself to find out.","",1,3,121,11,,
 Adventurer,竜宝〓っていうくらいだからきっとドラゴンに関係する場所にあるのよね,"It's called a Dragon Globe, so it must
-be somewhere related to dragons.",,1,4,121,12,,
+be somewhere related to dragons.","",1,4,121,12,,
 Adventurer,さすがクレルモンフェランだよね〓備が〓しい〓しい <PART> 住人も 何だかお上品っぱいし…アタシら〓〓者は ちょっと場違いだね～,"No doubt we're in Crell Monferaigne.
 The guards here are mean, mean, mean... <PART>
 ---
 The citizens are too good for the likes of us.
-It's no place for adventurers.",,1,5,121,13,,
+It's no place for adventurers.","",1,5,121,13,,
 Adventurer,ディパンに関する変な噂が流れてるけどそれを一番喜んでるのはこの国なんじゃない？ <PART> ほら 何せ領土を〓大したくても ディパンががっつり〓みを〓かせてたわけだしさぁ…,"The news concerning Dipan is sad,
 but they are rejoicing about it here. <PART>
 ---
 Now they won't have Dipan looking over
-their shoulder when they want to expand.",,1,6,121,14,,
+their shoulder when they want to expand.","",1,6,121,14,,
 Townsperson,この間 〓の家の息子さんが〓兵されたのよ名〓な事だから 皆でお〓いしたのだけど… <PART> ………戦が起こらない事を祈るばかりね,"The boy next door was conscripted,
 so we all celebrated the honor, but... <PART>
 ---
 I just...
-I just pray there are no more wars.",,1,7,121,15,,
+I just pray there are no more wars.","",1,7,121,15,,
 Townsperson,私達にできるのは 〓兵された人達に神のご加護がある事を祈るだけです…,"All we can do is wish the blessings
-of the gods upon the consigned.",,1,8,121,16,,
+of the gods upon the consigned.","",1,8,121,16,,
 Townsperson,領土〓大は 私達にも〓恵をもたらしますわけれど 夫や子どもを戦場へ送り出すのは… <PART> 負けて良いから 無事で帰ってきて欲しいというのは待つ者の我〓なのでしょうか,"Expansion will bring prosperity, but if
 my husband or son were sent to battle... <PART>
 ---
 I don't care if we win or lose, I just
-want them back. Is that selfish?",,1,9,121,17,,
+want them back. Is that selfish?","",1,9,121,17,,
 Townsperson,愛する者達の無事な姿が待つ者にとっては何よりの〓〓なのですが…,"The safety of the ones you love
-is the greatest of all rewards...",,1,10,121,18,,
+is the greatest of all rewards...","",1,10,121,18,,
 Townsperson,神が住むと言われるアスガルドとはどのような世界なのでしょうね <PART> 私達の世界とは次元が異なると神学では習いましたが…,"What is it like in Asgard, the place
 the gods are said to live? <PART>
 ---
 Do the dimensions differ from our world's?
-I know what they say in theology, but...",,1,11,121,19,,
+I know what they say in theology, but...","",1,11,121,19,,
 Townsperson,戦乙女に選定された者は神の兵士として戦うと習いましたが… <PART> 神々の世界でも 争いは無くならないのですね本当の平和とは 一体どこにあるのでしょう…,"They taught us that those chosen by the
 Battle Maiden become soldiers of the gods. <PART>
 ---
 War is endless in even the gods' world,
-so where, then, can we find peace?",,1,12,121,20,,
+so where, then, can we find peace?","",1,12,121,20,,
 Soldier,我が国は 現在〓時〓戒〓勢下にある怪しき者は 城に近〓るでない！,"Our country is now on temporary alert.
-Suspicious characters keep out!",,1,13,121,21,,
+Suspicious characters keep out!","",1,13,121,21,,
 Soldier,我が国は 現在〓時〓戒〓勢下にある怪しき動きあれば神の名の下に処罰する！,"Our country is now on temporary alert.
-Suspicious characters will be speared!",,1,14,121,22,,
+Suspicious characters will be speared!","",1,14,121,22,,
 Townsperson,ディパンがどこからか襲撃を受けているとか…確かに 最近余り良い噂は聞かなかったけれど <PART> 神の怒りだと言う方もいるわそれが本当なら… 滅びは確定でしょうね,"Recently, all you hear are dire rumors
 about Dipan under attack and such. <PART>
 ---
 Some say it's the wrath of the gods.
-If that's true, they're doomed for sure.",,1,15,121,23,,
+If that's true, they're doomed for sure.","",1,15,121,23,,
 Townsperson,〓〓様は ディパンの襲撃は神の怒りだと仰っていたわ <PART> ならば この信〓〓きクレルモンフェランはその被害をこうむる事はないでしょう,"The cleric proclaimed that the attack
 on Dipan was the wrath of the gods. <PART>
 ---
 If that's the case, a pious country like
-Crell Monferaigne should be safe.",,1,16,121,24,,
+Crell Monferaigne should be safe.","",1,16,121,24,,
 Townsperson,ああ 何て恐ろしいのでしょうディパン襲撃の前に 空が光って… <PART> 〓〓様の仰る通り あれは神の怒りの火ですわディパンはおごりが過ぎたのです,"It sounds so horrible! A light flashed
 in the sky before Dipan was attacked. <PART>
 ---
 According to the cleric, it was the fire
-of the gods' anger. Dipan went too far.",,1,17,121,25,,
+of the gods' anger. Dipan went too far.","",1,17,121,25,,
 Townsperson,ディパンは神に対抗する研究をしていると〓らの噂でしたわ <PART> 人の身で大それた事を…バルバロッサ王は道を踏み外したのです,"Word has it that Dipan was researching
 a way to oppose the gods. <PART>
 ---
 King Barbarossa strayed from the path
-of humanity with his grandiose scheme.",,1,18,121,26,,
+of humanity with his grandiose scheme.","",1,18,121,26,,
 Townsperson,ディパン王処刑の際に 亡くなったはずの王女が現れたとか… <PART> 本当だとしても 哀れなものですねその王女には もう何も残されていないのですから,"The princess was alive all this time. She
 came just as the king was executed... <PART>
 ---
 If it's true, it's terribly sad. I guess
-there's nothing left for her now.",,1,19,121,27,,
+there's nothing left for her now.","",1,19,121,27,,
 Townsperson,ディパンを攻めたのは 〓黒の〓をまとった戦乙女だったそうですわ <PART> やはり ディパンは神に滅ぼされたのですね神に逆らうなど 何て愚かな事でしょう,"The one who led the raid on Dipan was
 a valkyrie clad in jet-black armor. <PART>
 ---
 So the gods really did smite Dipan.
-Opposing the gods is beyond foolish.",,1,20,121,28,,
+Opposing the gods is beyond foolish.","",1,20,121,28,,
 Adventurer,ディパンの滅びは この国にとっては甘〓というところかねぇ 皆何だかんだと楽しそうだしな <PART> まあ 軍備〓強で 俺達みたいな流れ者まで雇ってくれるんだから 〓〓は言えねぇが…,"Dipan's collapse comes at just the right
 time for people here. They're all excited. <PART>
 ---
 But hey, if a military buildup means
-a job for me, I'm not complaining!",,1,21,121,29,,
+a job for me, I'm not complaining!","",1,21,121,29,,
 Adventurer,昔 ディパンに行った事があるんだがよお〓〓で穏やかで 本当に良い国だったぜ <PART> 研究の内〓は良く知らんが ディパン王が名〓だったのは確かだと思うがねぇ,"I once traveled to Dipan, you know.
 It was a beautiful and charming place. <PART>
 ---
 I don't know about that research, but
-I remember their king was a good man.",,1,22,121,30,,
+I remember their king was a good man.","",1,22,121,30,,
 Townsperson,戦は全て 神の教えを広めるためのもの『〓神戦争』だと 王も〓〓様も言っておられます <PART> この国が大陸を統治するようになればディパンのような悲〓は もう起きないでしょう,"War is for spreading the gods' teachings.
 The king and cleric call it ""holy war."" <PART>
 ---
 If our country ruled the continent, a
-tragedy like Dipan's wouldn't happen.",,1,23,121,31,,
+tragedy like Dipan's wouldn't happen.","",1,23,121,31,,
 Townsperson,ディパンのような悲〓が二度と起きないよう神の導きあるこの国が 世界を統治すべきなのです <PART> そのために どんな犠牲が出ようと…それは…仕方の無い事なのですわ…,"So that Dipan's tragedy is never repeated,
 a pious country must rule the world. <PART>
 ---
 In times like these, we must all make our
-sacrifices.",,1,24,121,32,,
+sacrifices.","",1,24,121,32,,
 Townsperson,本〓を言えば… 夫や子どもが戦争に行くのは身を〓かれそうな思いですわ <PART> でも 神の教えを広めるのに必要な事なのならば待つ者もその辛さを〓えましょう,"The truth is, thinking about my husband
 or son going to war, I break down inside. <PART>
 ---
 But if it will spread the gods' teachings,
-it is a sacrifice I must make.",,1,25,121,33,,
+it is a sacrifice I must make.","",1,25,121,33,,
 Townsperson,神を〓い 神を愛し 神に〓怖する心を忘れてしまったから ディパンは崩壊したのです <PART> これからはディパンに代わりこの国が大陸の導き手を〓うのですわ,"Dipan collapsed because they forgot to
 worship, love, and fear the gods. <PART>
 ---
 From now on, our country will rule the
-continent in place of Dipan.",,1,26,121,34,,
+continent in place of Dipan.","",1,26,121,34,,
+,民家,House,,2,2,121,2,33 37 53 55 79 81 89 105 107 119 123,not displayed by the event script
+,宿屋,Inn,,2,3,121,3,33 53 81 89 105,not displayed by the event script
+,出口,Exit,,2,5,121,7,33 79 81 89 105 117 119 163 183 191 225 265 269 299 323 403 423 451 545 571 589 901 961 1015 1155 1157 1159 1165 1175 1191 1193,not displayed by the event script
+,クレルモンフェランから出ます,Leave Crell Monferaigne?,,2,6,121,8,119,not displayed by the event script
+,はい,Yes,,2,7,121,9,33 41 63 79 81 83 89 93 105 107 109 117 119 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,8,121,10,33 41 63 79 81 83 89 93 105 107 109 117 119 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,クレルモンフェラン <PART> 城正〓前,_ <PART> Crell Monferaigne <PART> Castle Gates,,2,9,121,35,,not displayed by the event script
+,クレルモンフェラン,Crell Monferaigne,,2,10,121,665,29 119 123 127 129 131 133 135 137 139,not displayed by the event script
+,クレルモンフェラン兵士,Soldier,,2,11,121,2825,119,not displayed by the event script
+,冒険者,Adventurer,,2,12,121,2826,41 43 45 47 65 79 81 93 95 105 109 115 127 1159,not displayed by the event script
+,クレルモンフェラン住人,Townsperson,,2,13,121,2827,119 123 127 131 133,not displayed by the event script

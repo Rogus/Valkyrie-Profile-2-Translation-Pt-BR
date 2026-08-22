@@ -86,5 +86,21 @@ Townsperson,ディパンが襲撃されているそうだぞ！相手はどこ�
 Nobody knows who's attacking, though.",,1,35,119,48,,
 Townsperson,例えどんな栄〓も 極めればそれだけで罪になるきっとディパンは神々の罰を受けたのさ,"Reveling in glory is a sin.
 Dipan has been punished by the gods.",,1,36,119,49,,
-,クレルモンフェラン住人,Townsperson,Habitante,2,15,119,2792,121 123 127 131 133,not displayed by the event script
+,酒場,Tavern,,2,1,119,1,53,not displayed by the event script
+,民家,House,,2,2,119,2,33 37 53 55 79 81 89 105 107 121 123,not displayed by the event script
+,武器防具屋,Armory,,2,3,119,3,33 53,not displayed by the event script
+,クレルモンフェラン <PART> 中〓通り,_ <PART> Crell Monferaigne <PART> Main Street,,2,6,119,6,,not displayed by the event script
+,出口,Exit,,2,7,119,7,33 79 81 89 105 117 121 163 183 191 225 265 269 299 323 403 423 451 545 571 589 901 961 1015 1155 1157 1159 1165 1175 1191 1193,not displayed by the event script
+,クレルモンフェランから出ます,Leave Crell Monferaigne?,,2,8,119,10,121,not displayed by the event script
+,はい,Yes,,2,9,119,11,33 41 63 79 81 83 89 93 105 107 109 117 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,10,119,12,33 41 63 79 81 83 89 93 105 107 109 117 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,あんた旅の人だろ？ ヴィルノアには〓ったのか？街の様子はどうだった？ <PART> 最近 〓業でかなり国力を〓えてるらしいないやまあ ヴィルノア如き恐れるに足らんが…,"Travelers, eh? Have you been to Villnore?
+What's it like over there? <PART>
+---
+Villnore has become powerful through
+trading... They're no pushovers!",,2,11,119,13,,not displayed by the event script
+,クレルモンフェラン,Crell Monferaigne,,2,12,119,630,29 121 123 127 129 131 133 135 137 139,not displayed by the event script
+,少女,Girl,,2,13,119,2790,35 47 71 79 81 89 107 399,not displayed by the event script
+,少年,Boy,,2,14,119,2791,33 35 53 89 107 403,not displayed by the event script
+,クレルモンフェラン住人,Townsperson,,2,15,119,2792,121 123 127 131 133,not displayed by the event script
 ,クレルモンフェラン兵士,Soldier,,2,16,119,2793,121,not displayed by the event script

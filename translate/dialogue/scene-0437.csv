@@ -5,7 +5,10 @@ That area has an illusory field in
 place to keep invaders out. <PART>
 ---
 Use the white flowers to find your path
-whenever you need to return here.",,1,1,437,2,,
+whenever you need to return here.","",1,1,437,2,,
 Roussalier,もう一度 ここに戻りたいのなら白い花を目印に歩きなさい,"Use the white flowers to find your path
 whenever you need to return here.",,1,2,437,3,,
+,話す,Talk,,2,2,437,4,35 41 43 63 67 77 83 95 393 399 401,not displayed by the event script
+,精霊の森,Forest of Spirits,,2,3,437,11,29 423 427 433 439 441 443 445,not displayed by the event script
+,無欠のタリスマン <PART> を手に入れた,Acquired <PART> Foolproof Talisman,,2,4,437,12,105 505 571 1003,not displayed by the event script
 ,ルザリエ,Roussalier,,2,5,437,13,1289 1291,not displayed by the event script

@@ -1,3 +1,8 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 ,〓ならぬ気配を感じる…,A deadly presence lurks ahead...,,1,1,297,2,385 1039 1051 1055 1063 1067 1083 1089 1095 1107,
 ,ここで亡くなった人の物らしい…,This belonged to one who died here...,,1,2,297,8,,
+,調べる,Check it out.,,2,2,297,3,,not displayed by the event script
+,やめる,Leave.,,2,3,297,4,161 245 303 385 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,調べる,Check,,2,5,297,6,51 63 85 97 101 103 111 113 135 139 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,お守り <PART> を手に入れた,Acquired <PART> Charm,,2,6,297,7,105,not displayed by the event script
+,スルス火山洞窟,Surts Volcano Caverns,,2,7,297,547,29 269 271 273 283 285 291 295,not displayed by the event script

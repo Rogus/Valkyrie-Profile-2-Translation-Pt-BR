@@ -12,7 +12,11 @@ she picked a great hiding place. <PART>
 ---
 Who would have ever thought
 to look for her here?",,1,2,123,4,,
-,ありがとう 大切にするわね,Thank you. I'll put it to good use.,,1,6,123,38,123,
+,〓が欲しいみたい…,Looks hungry...,,1,3,123,5,37 81 89,
+,たくさん食べてね,Eat up!,,1,4,123,10,37 81 89,
+,ごめんなさい…今 あげられる物は何も無いの,"I'm sorry...
+I don't have any food for you.",,1,5,123,11,37 81 89,
+,ありがとう 大切にするわね,Thank you. I'll put it to good use.,,1,6,123,38,,
 Matron,昔話だけどね 大陸のずっと〓の方に竜が住んでいたそうだよ <PART> 竜は人と〓するのを嫌い 神殿の奥〓で宝を守りながら〓っている…という話だったかねぇ,"There's an old tale about a dragon that
 dwelled in the east of the continent. <PART>
 ---
@@ -75,3 +79,16 @@ Dog,あ そうだ この間コレ〓ったの〓の宝物 お姉さんにあげ�
 I'll let you have my precious find.",,1,18,123,32,,
 Dog,セラフィックゲートの事はみんな知らないのご主人様にだって教えてないんだからね,"Nobody knows about Seraphic Gate.
 I haven't even told my owners!",,1,19,123,34,,
+,民家,House,,2,2,123,2,33 37 53 55 79 81 89 105 107 119 121,not displayed by the event script
+,骨付き肉をあげる,Feed it meat chops?,,2,3,123,6,89,not displayed by the event script
+,はい,Yes,,2,4,123,7,33 41 63 79 81 83 89 93 105 107 109 117 119 121 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,5,123,8,33 41 63 79 81 83 89 93 105 107 109 117 119 121 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,骨付き肉 <PART> を手に入れた,Acquired <PART> Meat Chops,,2,6,123,9,89,not displayed by the event script
+,クレルモンフェラン <PART> 〓地〓〓外,_ <PART> Crell Monferaigne <PART> Eastern outskirts,,2,7,123,23,,not displayed by the event script
+,フレアクリスタル <PART> を手に入れた,Acquired <PART> Flare Crystal,,2,8,123,24,,not displayed by the event script
+,ソロモンの指輪 <PART> を手に入れた,Acquired <PART> Solomon's Ring,,2,9,123,27,35 37 79 81 89,not displayed by the event script
+,女神の霊薬 <PART> を手に入れた,Acquired <PART> Goddess Tincture,,2,10,123,33,423 557 1023 1047 1061 1113,not displayed by the event script
+,クレルモンフェラン,Crell Monferaigne,,2,14,123,2943,29 119 121 127 129 131 133 135 137 139,not displayed by the event script
+,クレルモンフェラン住人,Townsperson,,2,15,123,2948,119 121 127 131 133,not displayed by the event script
+,〓女,Matron,,2,16,123,2949,37 75 137 143,not displayed by the event script
+,犬,Dog,,2,17,123,2950,81 89,not displayed by the event script

@@ -1,43 +1,49 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 Boy's mother,教えて下さい！ バルバロッサ様が処刑されるというのは本当なのですか！？,"I want to know the truth! Is King Barbarossa
-really going to be executed?",,1,1,143,4,,
+really going to be executed?","",1,1,143,4,,
 Dipan Soldier,…とにかく 早く地下道を通ってソルデへ逃げなさい <PART> 民が無事でいる事それが王の望みなのですよ,"...Just take the underground path
 and head for refuge in Solde! <PART>
 ---
 The king's orders are for his citizens'
-safety!",,1,2,143,5,,
+safety!","",1,2,143,5,,
 Dipan Soldier,王女を亡くされてから 王は変わった支配者たる神を厭い 人の手による楽〓を作ると… <PART> だが その想いの未〓がこれだもし今王女が居たら 何と仰るのだろうか…,"After the princess's death, the king sought
 to punish the gods and build a paradise. <PART>
 ---
 But look where that got him...
-What would the princess say?",,1,3,143,6,,
+What would the princess say?","",1,3,143,6,,
 Matron,恐ろしい…一体ワシらはどうなってしまうのじゃろう,"It's absolutely terrifying.
 What in heavens will become of us? <PART>
 ---
-",,1,4,143,7,,
+","",1,4,143,7,,
 Boy's mother,さっき聞こえたざわめき…悲〓…まさか… そんなまさか！,"I heard voices...screams...
-It can't be! It just can't be!",,1,5,143,8,,
+It can't be! It just can't be!","",1,5,143,8,,
 Dipan Soldier,…我々は 王の命〓に従い民を誘導する〓務がある…！,"We must obey the king's orders,
-and lead the people to safety!",,1,6,143,9,,
+and lead the people to safety!","",1,6,143,9,,
 Matron,王は… バルバロッサ王はどうなされたんだい？マルベス王妃は無事なのかい？,"What has happened to King Barbarossa?
-And what of Queen Malabeth?",,1,7,143,10,,
+And what of Queen Malabeth?","",1,7,143,10,,
 Merchant,またのご利用 心よりお待ち申しております！,I look forward to our next meeting!,,1,8,143,13,,
 Merchant,ディパンからは 見事に人が消えてしまいましたねこれぞ忘失都〓…と言うところですか <PART> そんな中 現れた貴方はまさに救世主！ささ どうぞ見て行って下さいな,"It's remarkable how barren it is here.
 Dipan's nothing but a lost city now. <PART>
 ---
 And you've appeared like some savior!
-Please, won't you have a look?",,1,9,143,11,,
+Please, won't you have a look?","",1,9,143,11,,
 Merchant,いらっしゃいませ！旅から旅への行〓人でごさいます,"Come one, come all!
-The traveling salesman is here to serve!",,1,10,143,12,,
+The traveling salesman is here to serve!","",1,10,143,12,,
 Boy's mother,嘘よ…こんなの信じない…悪い夢なんだわ そう！ そうに決まっ…て…,"It's not real... I'm imagining things.
-It's a nightmare... Yes, that must be it...",,1,11,143,14,,
+It's a nightmare... Yes, that must be it...","",1,11,143,14,,
 Matron,ディパンは…どうなるんだい？私達に…これからどうしろって言うんだい！,"What's going to happen to Dipan?
-What are we supposed to do now!?",,1,12,143,15,,
+What are we supposed to do now!?","",1,12,143,15,,
 Dipan Soldier,…我々は 王の望みを…民を無事誘導する事を最優先とします,"The king's orders to lead the people
-to safety are our highest priority.",,1,13,143,16,,
+to safety are our highest priority.","",1,13,143,16,,
 Dipan Soldier,これが…神に逆らった未〓か…,So this is the price for opposing the gods.,,1,14,143,17,,
 Dipan Soldier,我々は… 王の命〓によりここを離れるわけにはいきません <PART> 民の安全を確保しない限り…何があろうと 王の命に背くわけには…,"We are forbidden to leave here
 by order of the king. <PART>
 ---
 Until the safety of the people is assured,
-we must abide by the king's orders...",,1,15,143,18,,
+we must abide by the king's orders...","",1,15,143,18,,
+,ディパン城下町 <PART> 〓外,_ <PART> Dipan <PART> Outskirts,,2,3,143,3,61,not displayed by the event script
+,ディパン城下町,Dipan,,2,4,143,1601,53 55 57 59 61 63 65 67 69 71 73 75 77 141,not displayed by the event script
+,少年の母,Boy's mother,,2,5,143,2741,53,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,6,143,2742,53 57 59 141 391 393 395 399 403,not displayed by the event script
+,〓女,Matron,,2,7,143,2743,37 75 123 137,not displayed by the event script
+,商人,Merchant,,2,8,143,2744,79 99 109 399 1167,not displayed by the event script

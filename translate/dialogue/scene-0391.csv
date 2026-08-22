@@ -5,3 +5,7 @@ Dipan Soldier,…誰か…教えて……くれ… もう…目…が…バル�
 King Barbarossa...Queen Malabeth...",,1,2,391,3,,
 Dipan Soldier,誰か…… バルバロッサ様と…マルベス様を…だ…れか……たすけ…,"Please...the king and queen...
 Some...body...save...",,1,3,391,4,,
+,ディパン城,Dipan Castle,,2,1,391,23,199 203 209 211 213 215 217 219 221 393 395 397 399 401 403 409 411 413 415 417 419,not displayed by the event script
+,小人の霊薬 <PART> を手に入れた,Acquired <PART> Dwarf Tincture,,2,2,391,2741,199 229 245 259 271 319 595 599 1177,not displayed by the event script
+,ユニオンプラム <PART> を手に入れた,Acquired <PART> Union Plume,,2,3,391,2742,69 189 197 259 337 371 379 485 495 527 931 1081,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,4,391,2743,53 57 59 141 143 393 395 399 403,not displayed by the event script

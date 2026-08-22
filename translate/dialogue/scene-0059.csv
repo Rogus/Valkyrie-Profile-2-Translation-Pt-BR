@@ -2,3 +2,6 @@ speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,
 Dipan Soldier,…何だ お前達はこんな所で何をしている <PART> 城に用なら 正面に回れ,"What business have you back here? <PART>
 ---
 The entrance to the castle is in front.",,1,1,59,1,,
+,ディパン城下町 <PART> 城裏口,_ <PART> Dipan <PART> Postern Gate,,2,1,59,2,141,not displayed by the event script
+,ディパン城下町,Dipan,,2,2,59,2740,53 55 57 61 63 65 67 69 71 73 75 77 141 143,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,3,59,2741,53 57 141 143 391 393 395 399 403,not displayed by the event script

@@ -1,20 +1,23 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 Dipan Soldier,城は 神の御使いによって〓〓されてしまった都ももうすぐ…,"The gods' emissaries ravaged the castle.
-The town is soon to follow...",,1,1,141,2,,
+The town is soon to follow...","",1,1,141,2,,
 Dipan Soldier,王家の地下道が開放されているはずだ一般人は 早くソルデへ渡りなさい <PART> 神の怒りに〓れたこの国は時を置かず無くなるだろうから…,"The royal underground path should be open.
 All citizens, evacuate to Solde at once! <PART>
 ---
 This town has incurred the gods' wrath.
-There is no time to spare.",,1,2,141,3,,
+There is no time to spare.","",1,2,141,3,,
 Dipan Soldier,今更 ディパンへ来ても何もありませぬ居るのは 王の後を追った兵士ばかり… <PART> 王の『民だけは無事に』との命〓は聞きますが後を追うのは我らの自由にございます,"There is nothing for you here in Dipan now.
 Our troops follow their king to the grave. <PART>
 ---
 The king's orders were to save the people,
-but each is free to die for his king.",,1,3,141,4,,
+but each is free to die for his king.","",1,3,141,4,,
 Dipan Soldier,妙に… 静かになりましたな…,It's so strangely quiet...,,1,4,141,5,,
 Dipan Soldier,中は…どうなっているんだ…くそっ！ この足が立てば…！,"What's going on inside?
-Curses! If these legs could move...",,1,5,141,6,,
+Curses! If these legs could move...","",1,5,141,6,,
 Dipan Soldier,マルベス王妃まで亡くなったとは…ディパンはもう…終わりだ…,"With Queen Malabeth gone as well,
-the end has come for Dipan...",,1,6,141,7,,
+the end has come for Dipan...","",1,6,141,7,,
 Dipan Soldier,…なんで…なんでこんな事に…くそっ… 〓生っ…！,"...What did we do...to deserve this?
 Damn them... Damn the gods!",,1,7,141,8,,
+,ディパン城下町 <PART> 城裏口,_ <PART> Dipan <PART> Postern Gate,,2,1,141,1,59,not displayed by the event script
+,ディパン城下町,Dipan,,2,2,141,1601,53 55 57 59 61 63 65 67 69 71 73 75 77 143,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,3,141,2741,53 57 59 143 391 393 395 399 403,not displayed by the event script

@@ -1,82 +1,106 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
-Rufus,…これが ドラゴンオーブ…,This is it <PART> ---- <PART> the Dragon Orb.,Aqui está <PART> ---- <PART> o Orbe do Dragão.,1,2,1277,2,,
-Dylan,さあ…,Well...,Então...,1,3,1277,3,,
-Silmeria,…ああ,Right.,Sim.,1,4,1277,4,,
-Dylan,レオーネ！？,Leone?,Leone?,1,6,1277,6,,
-Leone,オーブはオーディン様の物 <PART> ――,The orb belongs to Odin!,O orbe pertence a Odin!,2,1,1277,43,,
-Leone,私にアリーシャを殺させないで,Don't make me kill Alicia!,Não me faça matar Alicia!,2,2,1277,7,,
-Alicia,…嘘だったんですね,So it was all a lie.,Então era tudo mentira.,2,3,1277,8,,
-Alicia,（ こういう事だったのね シルメリア… ）,"( Is this what you warned me about, Silmeria? )","( Era disso que você me avisou, Silmeria? )",2,4,1277,9,,
-Alicia,（ ごめんなさい 気づかなくて… ）,"( I'm sorry, I should have realized... )","( Desculpe, eu deveria ter percebido... )",2,5,1277,10,,
-Arngrim,貴様 どういう事だ！？,"Leone, what're you doing?","Leone, o que você está fazendo?",2,6,1277,11,,
-Dylan,…アーリィ・ヴァルキュリア！？,Hrist Valkyrie!?,Hrist Valquíria!?,2,7,1277,12,,
-Arngrim,俺を騙してたのかッ！？,So you tricked me!?,Então você estava me enganando!?,2,8,1277,13,,
+Rufus,あったぞ！,It's here.,,1,1,1277,1,1233,
+Rufus,…これが ドラゴンオーブ…,This is it <PART> ---- <PART> the Dragon Orb.,,1,2,1277,2,,
+Dylan,さあ…,Well...,,1,3,1277,3,,
+Silmeria,…ああ,Right.,,1,4,1277,4,,
+Silmeria,！,!,,1,5,1277,5,1237,
+Dylan,レオーネ！？,Leone?,,1,6,1277,6,,
+Leone,オーブはオーディン様の物 <PART> ――,The orb belongs to Odin!,,2,1,1277,43,,
+Leone,私にアリーシャを殺させないで,Don't make me kill Alicia!,,2,2,1277,7,,
+Alicia,…嘘だったんですね,So it was all a lie.,,2,3,1277,8,,
+Alicia,（ こういう事だったのね シルメリア… ）,"( Is this what you warned me about, Silmeria? )","",2,4,1277,9,,
+Alicia,（ ごめんなさい 気づかなくて… ）,"( I'm sorry, I should have realized... )","",2,5,1277,10,,
+Arngrim,貴様 どういう事だ！？,"Leone, what're you doing?","",2,6,1277,11,,
+Dylan,…アーリィ・ヴァルキュリア！？,Hrist Valkyrie!?,,2,7,1277,12,,
+Arngrim,俺を騙してたのかッ！？,So you tricked me!?,,2,8,1277,13,,
 Hrist,神の務めに同行させてやったまでだ,"Be thankful you could assist in the
-gods' plans.",Agradeça por poder ajudar nos planos dos deuses.,2,9,1277,14,,
-Arngrim,クソッ！,Thankful!?,Agradecer!?,2,10,1277,15,,
-Dylan,よせ！,Stop!,Pare!,2,11,1277,16,,
-Silmeria,早まるなッ！,"No, wait!","Não, espere!",2,12,1277,17,,
-Arngrim,…どわッ！,Uaaagh!,Uaaagh!,3,1,1277,44,,
+gods' plans.",,2,9,1277,14,,
+Arngrim,クソッ！,Thankful!?,,2,10,1277,15,,
+Dylan,よせ！,Stop!,,2,11,1277,16,,
+Silmeria,早まるなッ！,"No, wait!","",2,12,1277,17,,
+Arngrim,…どわッ！,Uaaagh!,,3,1,1277,44,,
 Arngrim,雇い主に明らかな非があれば俺は躊躇なく戒める…,"When I know my boss is gonna wrong me,
-I don't hesitate to right it!","Se meu chefe vai me passar a perna, não hesito em acertar as contas!",4,1,1277,18,,
-Arngrim,…傭兵だからな,That's the mercenary way.,O jeito do mercenário.,4,2,1277,19,,
-Hrist,アリューゼよ 共に逝くか？,"Arngrim, come with me.","Arngrim, venha comigo.",4,3,1277,20,,
-Hrist,それが私からの謝礼だ,That will be your reward.,Essa será a sua recompensa.,4,4,1277,21,,
-Arngrim,冗談じゃねぇ… 誰が貴様なんかと…,You kidding me? Why would I go with you?,Você está de brincadeira? Por que eu iria com você?,4,5,1277,22,,
-Silmeria,アリューゼは私が預かるわ,We will take Arngrim.,Vamos levar Arngrim.,4,6,1277,23,,
+I don't hesitate to right it!","",4,1,1277,18,,
+Arngrim,…傭兵だからな,That's the mercenary way.,,4,2,1277,19,,
+Hrist,アリューゼよ 共に逝くか？,"Arngrim, come with me.","",4,3,1277,20,,
+Hrist,それが私からの謝礼だ,That will be your reward.,,4,4,1277,21,,
+Arngrim,冗談じゃねぇ… 誰が貴様なんかと…,You kidding me? Why would I go with you?,,4,5,1277,22,,
+Silmeria,アリューゼは私が預かるわ,We will take Arngrim.,,4,6,1277,23,,
 Silmeria,力で肉体をねじ伏せても心を縛り続ける事はできないはずよ,"You can subdue his flesh by force, but
-you won't be able to bind his spirit.","Você pode subjugar a carne dele pela força, mas não conseguirá prender o espírito dele.",4,7,1277,24,,
+you won't be able to bind his spirit.","",4,7,1277,24,,
 Hrist,レナスならそれで納得するだろうが私はオーディン様の命を第一に考える,"Lenneth might agree to that, but I take
-my orders from Odin, and no-one else.","Lenneth poderia concordar, mas eu obedeço apenas a Odin.",4,8,1277,25,,
+my orders from Odin, and no-one else.","",4,8,1277,25,,
 Silmeria,オーディンに反逆したエインフェリアは不死者となって今も敵対していると聞くわ,"You know the einherjar who rebelled
 against Odin still opposes him as one of
-the undead.",Sabe que o einherjar que se rebelou contra Odin ainda o enfrenta como um dos mortos-vivos.,4,9,1277,26,,
+the undead.",,4,9,1277,26,,
 Hrist,お前が逃がしたからだろう シルメリア！,"Because you let him get away with it,
-Silmeria!","Porque você não o impediu, Silmeria!",4,10,1277,27,,
+Silmeria!","",4,10,1277,27,,
 Hrist,たかが傭兵一人を御せぬほど私は甘くない…,"I'm not so soft that I can't handle one
-mercenary.",Não sou tão mole a ponto de não dar conta de um mercenário.,4,11,1277,28,,
+mercenary.",,4,11,1277,28,,
 Hrist,お前もオーディン様を怒らせる前に早くヴァルハラへ戻れ,"You'd best return to Valhalla quickly,
-before you incur Odin's wrath.","Vale mais você voltar logo para Valhalla, antes de incorrer na ira de Odin.",4,12,1277,29,,
-Arngrim,やめ… ろ…,Stop it... No...!,Pare... Não...!,4,13,1277,30,,
-Rufus,…どうなってんだよ？,What the Hel just happened?,O que diabos aconteceu?,4,14,1277,31,,
-Silmeria,すまない 私が迂闊だった…,"Please, forgive me. I was reckless.","Por favor, perdoem-me. Isso foi imprudente.",4,15,1277,32,,
+before you incur Odin's wrath.","",4,12,1277,29,,
+Arngrim,やめ… ろ…,Stop it... No...!,,4,13,1277,30,,
+Rufus,…どうなってんだよ？,What the Hel just happened?,,4,14,1277,31,,
+Silmeria,すまない 私が迂闊だった…,"Please, forgive me. I was reckless.","",4,15,1277,32,,
 Silmeria,言い訳にしかならないが 肉体という足かせがあっては対等に互りあえない,"I cannot fight her on even ground, not
-while I am trapped inside this body.","Não posso lutar em igualdade com ela, não enquanto estou presa neste corpo.",4,16,1277,33,,
+while I am trapped inside this body.","",4,16,1277,33,,
 Silmeria,あいつがアーリィだとわかっていてもどうしていいかわからなかった…,"Though I knew it was Hrist all along,
-I didn't know what to do.","Embora soubesse que era Hrist o tempo todo, eu não sabia o que fazer.",4,17,1277,34,,
+I didn't know what to do.","",4,17,1277,34,,
 Silmeria,それにオーブを手にした瞬間 おそらくアリーシャの思念で心が真っ白になった…,"The moment I held the orb, my mind went
-blank <PART> ---- <PART> perhaps Alicia's thoughts took over.","No momento em que segurei o orbe, minha
-mente ficou em branco <PART> ---- <PART> talvez a mente de Alicia
-tomasse conta.",4,18,1277,35,,
+blank <PART> ---- <PART> perhaps Alicia's thoughts took over.","",4,18,1277,35,,
 Rufus,だからって オタオタしないで取り返せばよかったじゃねえか！,"You could have at least grabbed the orb
-back instead of just standing there!",Pelo menos podia ter retomado o orbe em vez de ficar aí parada!,4,19,1277,36,,
-Dylan,それは俺達も同じはずだ,There was nothing she could have done.,Não havia nada que ela pudesse fazer.,4,20,1277,37,,
+back instead of just standing there!",,4,19,1277,36,,
+Dylan,それは俺達も同じはずだ,There was nothing she could have done.,,4,20,1277,37,,
 Lezard,いざとなればオーブの力でこの場を焼き尽くす事もできたはずです…,"If she thought she had to, she would
-have set the palace aflame with the orb.","Se julgasse necessário, ela teria incendiado o palácio com o orbe.",4,21,1277,38,,
+have set the palace aflame with the orb.","",4,21,1277,38,,
 Lezard,あなたの対応は決して間違っていませんでした,"You did all you could under the
-circumstances.",Você fez tudo o que podia naquela situação.,4,22,1277,39,,
-Alicia,…ごめんなさい,I'm so sorry.,Sinto muito.,4,23,1277,53,,
-Silmeria,（ アーリィはあなたを殺さなかった… ）,( Hrist spared your life. ),( Hrist poupou a sua vida. ),4,24,1277,40,,
-Silmeria,（ …まだ打つ手はあるかもしれない ）,( There might still be hope for us yet. ),( Ainda pode haver esperança para a gente. ),4,25,1277,41,,
+circumstances.",,4,22,1277,39,,
+Alicia,…ごめんなさい,I'm so sorry.,,4,23,1277,53,,
+Silmeria,（ アーリィはあなたを殺さなかった… ）,( Hrist spared your life. ),,4,24,1277,40,,
+Silmeria,（ …まだ打つ手はあるかもしれない ）,( There might still be hope for us yet. ),,4,25,1277,41,,
 Lezard,ドラゴンオーブを奪った今こそ 神々は本気でディパンを潰しに来るはずです,"Now that they have the orb, the gods
-will soon come en masse to crush Dipan.","Agora que têm o orbe, os deuses logo virão em massa esmagar Dipan.",4,26,1277,54,,
+will soon come en masse to crush Dipan.","",4,26,1277,54,,
 Dylan,そこまで腹を括っているのなら俺は全力をかけてお供しよう,"If you're willing to take that risk, I
-will protect you with all my might.","Se você está disposta a correr esse risco, eu a protegerei com as minhas forças.",4,27,1277,49,,
-Rufus,俺も手伝うぜ！,"That goes for me, too!",O mesmo vale para mim!,4,28,1277,50,,
-Silmeria,（ 頼むわよ アリーシャ… ）,"( Have courage, Alicia. )","( Tenha coragem, Alicia. )",4,29,1277,51,,
-Alicia,…行きましょう！,Let's go.,Vamos.,4,30,1277,42,,
+will protect you with all my might.","",4,27,1277,49,,
+Rufus,俺も手伝うぜ！,"That goes for me, too!",,4,28,1277,50,,
+Silmeria,（ 頼むわよ アリーシャ… ）,"( Have courage, Alicia. )","",4,29,1277,51,,
+Alicia,…行きましょう！,Let's go.,,4,30,1277,42,,
 Rufus,…ディパンへ乗り込んで敗者復活を挑もうってのか？,"You want us to slink back to Dipan and
-just start all over?",Voltar de rabo entre as pernas para Dipan e começar tudo de novo?,4,31,1277,45,,
+just start all over?",,4,31,1277,45,,
 Lezard,それしか方法は残されていないでしょうシルメリア殿 <PART> ――,"I believe we have no other recourse.
-Lady Silmeria?",Acredito que não temos outra saída. Senhora Silmeria?,4,32,1277,46,,
+Lady Silmeria?",,4,32,1277,46,,
 Dylan,奴らはシルメリアの魂の召喚も望んでいるディパン潰しは同時に罠でもあるはずだ,"They are after Silmeria's soul. By
 attacking Dipan, they'll also be setting
-a trap.","Eles querem a sua alma. Ao atacar Dipan, estarão armando uma armadilha.",4,33,1277,47,,
-Silmeria,あえて引っかかる他あるまい…,We'll have to spring it then...,Então teremos que cair nela mesmo...,4,34,1277,48,,
+a trap.","",4,33,1277,47,,
+Silmeria,あえて引っかかる他あるまい…,We'll have to spring it then...,,4,34,1277,48,,
 Alicia,レオーネが…ヴァルキリーだったなんて…,"I can't believe it.
-Leone was a valkyrie...",Não acredito. Leone era uma valquíria...,4,35,1277,52,,
+Leone was a valkyrie...",,4,35,1277,52,,
 Leone,…人間がオーブに手を下す愚を防がねばこの先 貴様らはもっと困る事になる,"If I don't stop the orb from falling into
 the hands of fool mortals, things will be
-far worse.","Se eu não impedir que o orbe caia nas mãos de tolos mortais, as coisas serão muito piores.",4,36,1277,55,,
-Dylan,無茶しやがって…,Ever think before you act?,Você não pensa antes de agir?,4,37,1277,56,,
-Lezard,アーリィ・ヴァルキュリアは本気でした,Hrist Valkyrie was determined.,Hrist Valquíria estava determinada.,4,38,1277,57,,
+far worse.","",4,36,1277,55,,
+Dylan,無茶しやがって…,Ever think before you act?,,4,37,1277,56,,
+Lezard,アーリィ・ヴァルキュリアは本気でした,Hrist Valkyrie was determined.,,4,38,1277,57,,
+,ディラン <PART> が仲間に加わりました,Dylan <PART> has joined the party.,,5,1,1277,2760,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1345 1351 1353 1357 1387,
+,レザード <PART> が仲間に加わりました,Lezard <PART> has joined the party.,,5,2,1277,2761,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1341 1351 1353 1357 1387,
+,レオーネ <PART> が仲間に加わりました,Leone <PART> has joined the party.,,5,3,1277,2762,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1345 1351 1353 1357 1387,
+,アリューゼ <PART> が仲間に加わりました,Arngrim <PART> has joined the party.,,5,4,1277,2763,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,ミトラ <PART> が仲間に加わりました,Mithra <PART> has joined the party.,,5,5,1277,2764,81 89 109 167 173 189 233 243 253 255 273 283 313 319 339 361 371 565 579 599 1009 1155 1165 1179 1181 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,レナス <PART> が仲間に加わりました,Lenneth <PART> has joined the party.,,5,6,1277,2765,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,シルメリア <PART> が仲間に加わりました,Silmeria <PART> has joined the party.,,5,7,1277,2766,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,ブラムス <PART> が仲間に加わりました,Brahms <PART> has joined the party.,,5,8,1277,2767,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,アーリィ <PART> が仲間に加わりました,Hrist <PART> has joined the party.,,5,9,1277,2768,81 89 109 1155 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1223 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1261 1263 1269 1275 1281 1283 1285 1287 1289 1291 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,ERROR！！（v190）,ERROR!!(v190),,6,1,1277,2366,39 47 49 81 83 87 89 101 103 109 111 113 135 139 167 173 189 197 233 243 253 255 265 273 283 313 319 339 361 371 423 557 565 571 579 589 599 1009 1155 1159 1165 1179 1181 1183 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,ERROR！！（v191）,ERROR!!(v191),,6,2,1277,2367,39 47 49 81 83 87 89 101 103 109 111 113 135 139 167 173 189 197 233 243 253 255 265 273 283 313 319 339 361 371 423 557 565 571 579 589 599 1009 1155 1159 1165 1179 1181 1183 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,グールパウダー <PART> を手に入れた,Acquired <PART> Ghoul Powder,,7,1,1277,60,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,ふるびたペンダント <PART> を手に入れた,Acquired <PART> Antique Pendant,,7,2,1277,61,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,ドラゴンオーブ <PART> を手に入れた,Acquired <PART> Dragon Orb,,7,4,1277,63,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,水鏡 <PART> を手に入れた,Acquired <PART> Water Mirror,,7,5,1277,64,81 89 109 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,イベントマップ,EVENT_MAP,,7,6,1277,2372,1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1325 1335 1337 1339 1341 1343 1345 1347 1351 1353 1357 1359 1361 1363 1365 1367 1369 1371 1375 1377 1379 1387 1389,not displayed by the event script
+,ルーファス,Rufus,,7,7,1277,2752,901 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1223 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1261 1275 1281 1283 1285 1287 1289 1291 1295 1297 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1325 1335 1337 1351 1357 1359 1361 1367 1389,not displayed by the event script
+,ディラン,Dylan,,7,8,1277,2753,1199 1201 1203 1209 1213 1223 1227 1233 1235 1239 1245 1247 1251 1253 1255 1275 1281 1283 1285 1335 1337 1367,not displayed by the event script
+,シルメリア,Silmeria,,7,9,1277,2754,1195 1199 1201 1213 1217 1219 1221 1223 1227 1233 1237 1239 1247 1251 1255 1263 1275 1281 1283 1285 1317 1335 1337 1341 1389,not displayed by the event script
+,レオーネ,Leone,,7,10,1277,2755,1245 1247 1253 1255 1263 1269 1275 1335 1339,not displayed by the event script
+,アリーシャ,Alicia,,7,11,1277,2756,1149 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1227 1231 1233 1237 1239 1245 1247 1251 1253 1255 1261 1263 1269 1281 1283 1287 1289 1291 1295 1303 1305 1307 1309 1311 1313 1317 1321 1335 1339 1341 1345 1347 1357 1359 1361 1363 1365,not displayed by the event script
+,アリューゼ,Arngrim,,7,12,1277,2757,1245 1247 1253 1263 1275 1281 1283 1303 1305 1313 1317 1321 1325 1335 1363,not displayed by the event script
+,アーリィ,Hrist,,7,13,1277,2758,1237 1281 1283 1299 1301 1303 1305 1313 1315 1317 1337 1341 1351 1353 1365 1389,not displayed by the event script
+,レザード,Lezard,,7,14,1277,2759,1199 1203 1209 1213 1239 1245 1247 1251 1255 1263 1285 1305 1307 1323 1335 1337 1341 1353 1387 1389,not displayed by the event script

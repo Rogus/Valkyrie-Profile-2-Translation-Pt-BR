@@ -14,3 +14,8 @@ Dipan Soldier,何百年と続いた栄〓も 滅び去るのは一瞬だな…�
 all gone in a flash. What was this for?",,1,5,393,5,,
 Townsperson,アリーシャ王女…なのですよね？私達は…これからどうすれば良いのでしょうか…,"Say, aren't you...yes, Princess Alicia!
 Please, tell us... What should we do?",,1,6,393,11,,
+,地下へ,Go down,,2,2,393,3,201,not displayed by the event script
+,話す,Talk,,2,3,393,7,35 41 43 63 67 77 83 95 399 401 437,not displayed by the event script
+,ディパン城,Dipan Castle,,2,4,393,34,199 203 209 211 213 215 217 219 221 391 395 397 399 401 403 409 411 413 415 417 419,not displayed by the event script
+,ディパン住人,Townsperson,,2,5,393,2752,47 55 69 77 399 401,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,6,393,2753,53 57 59 141 143 391 395 399 403,not displayed by the event script

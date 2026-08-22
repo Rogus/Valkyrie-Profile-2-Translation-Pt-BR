@@ -9,7 +9,12 @@ Lord of the Undead,…港町で <PART> もじもじしながらナンパをす�
 some chicks, that will give us a new weapon.",,1,6,1375,2743,,
 Lord of the Undead,言いにくい事は <PART> 人格が入れ〓わったふりをして言えば〓良しだ！,"When there's something you're afraid to say,
  <PART> pretend like you switched personalities!",,1,7,1375,2744,,
+Dog Rufus,…そこまでしなきゃならないのか？,Are you sure that's the only way?,,1,8,1375,2745,1321,
 Lord of the Undead,お前も見ただろう！,Didn't you see for yourself?,,1,9,1375,2746,,
 Lord of the Undead,男はみんな… <PART> このフトモモに <PART> 騙されたいのだ！,"All men <PART> long to be deceived <PART>
 by those thunder thighs!",,1,10,1375,2747,,
 Lord of the Undead,今日も… <PART> また <PART> “死”を… <PART> 感じる <PART> ――,Today... <PART> I feel... <PART> mortal... <PART> Yet again.,,1,11,1375,2750,,
+,イベントマップ,EVENT_MAP,,2,1,1375,2751,1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1325 1335 1337 1339 1341 1343 1345 1347 1351 1353 1357 1359 1361 1363 1365 1367 1369 1371 1377 1379 1387 1389,not displayed by the event script
+,不死者王,Lord of the Undead,,2,2,1375,2752,1367 1371,not displayed by the event script
+,犬アリューゼ,Dog Arngrim,,2,3,1375,2753,1363 1377,not displayed by the event script
+,犬ルーファス,Dog Rufus,,2,4,1375,2754,1311 1361 1365 1367 1369 1377,not displayed by the event script

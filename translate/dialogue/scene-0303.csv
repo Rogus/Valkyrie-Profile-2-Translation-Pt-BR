@@ -1,6 +1,10 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,この先から〓ならぬ気配を感じる…,A deadly presence lurks beyond...,,1,1,303,2,263,
 ,オーブの守護者の思念を感じる…… <PART> …石……〓〓……封…印……… <PART> …記憶が〓過ぎて これ以上は〓み取れないわ,"The Orb Guardians' thoughts remain... <PART>
 ---
 ...stone...dais...seal... <PART>
 ---
 No more can be read. The memories are too old.",,1,2,303,5,,
+,先へ進む,Proceed.,,2,2,303,3,263,not displayed by the event script
+,やめる,Leave.,,2,3,303,4,161 245 297 385 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,クローサス森林遺跡,Crawsus Forest Ruins,,2,5,303,2752,29 299 301 307 311 313 315 317 319 321,not displayed by the event script

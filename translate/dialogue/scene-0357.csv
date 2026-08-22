@@ -3,3 +3,8 @@ speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,
 ---
 Sword-crush, Slingshot, or Vampire...
 Master the power of one here...",,1,1,357,2,,
+,奉竜殿,Palace of the Venerated Dragon,,2,3,357,9,29 323 327 329 331 333 335 337 339 341 345 347 351 353 355 361 365 369 371 373 375 379 381 383 385 387 389,not displayed by the event script
+,25000 OTH <PART> を手に入れた,Acquired <PART> 25000 OTH,,2,4,357,10,,not displayed by the event script
+,フレアバゼラード <PART> を手に入れた,Acquired <PART> Flare Baselard,,2,5,357,11,,not displayed by the event script
+,スペルポーシヨン <PART> を手に入れた,Acquired <PART> Spell Potion,,2,6,357,12,507,not displayed by the event script
+,ヴァローグリーブ <PART> を手に入れた,Acquired <PART> Valor Greaves,,2,7,357,13,,not displayed by the event script

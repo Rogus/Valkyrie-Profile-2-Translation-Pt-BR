@@ -9,3 +9,8 @@ They give me some liner service excuse...
 Was there an accident or something?",,1,1,55,6,,
 Townsperson,〓の値段が〓に〓ね上がるなんて…定期船に何かあったのかねぇ…,"Import prices are out of control!
 Something must be wrong with the boats.",,1,2,55,7,,
+,民家,House,,2,1,55,1,33 37 53 79 81 89 105 107 119 121 123,not displayed by the event script
+,教会,Chapel,,2,3,55,3,37,not displayed by the event script
+,ディパン城下町 <PART> 教会前広場,_ <PART> Dipan <PART> Chapel Square,,2,4,55,4,,not displayed by the event script
+,ディパン城下町,Dipan,,2,6,55,30,53 57 59 61 63 65 67 69 71 73 75 77 141 143,not displayed by the event script
+,ディパン住人,Townsperson,,2,7,55,31,47 69 77 393 399 401,not displayed by the event script

@@ -8,7 +8,11 @@ and the party when taken in hand. <PART> See <PART> Guide <PART> in the menu for
 ,この封印石を上手く活用する事が、ダンジヨン攻略の鍵となります。,"Mastering the sealstones is the key to
 dungeon strategy.
 ",,1,2,225,8,,
+,出口,Exit,,2,2,225,2,33 79 81 89 105 117 119 121 163 183 191 265 269 299 323 403 423 451 545 571 589 901 961 1015 1155 1157 1159 1165 1175 1191 1193,not displayed by the event script
 ,セルドベルグ山岳遺跡から出ます（封印石の配置は初期化されます）,"Leave Serdberg Mountain Ruins?
 (Sealstones return to original places.)",,2,3,225,3,,not displayed by the event script
+,はい,Yes,,2,4,225,4,33 41 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,5,225,5,33 41 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,セルドベルグ山岳遺跡,Serdberg Mountain Ruins,,2,6,225,7,29 227 229 233 235 237 239 243 245,not displayed by the event script
 ,セルドベルグ山岳遺跡から出ます,"Leave Serdberg Mountain Ruins?
 ",,2,7,225,9,,not displayed by the event script

@@ -1,28 +1,18 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 ,光子を撃つ <PART> で光子を発射します。この光子を当てる事で、敵を結晶の中に閉じ込める事ができます。 <PART> や <PART> を <PART> と同時に押す事で、〓め方向へと発射可能です。 <PART> 光子を撃つ <PART> 結晶化した敵に〓れても戦闘は起こりません。 <PART> 拘束が解けるまでは、押して動かしたり足場にして高い場所へジャンプする事ができます。 <PART> 交換転送  結晶に光子を当てる <PART> 光子の結晶に、更に光子を当てる事で結晶と自分の位置を入れ替える事ができます。 <PART> 遠く離れた場所や隔離された空間にも、これを使えば移動する事が可能です。 <PART> 交換転送  結晶に光子を当てる <PART> 転送直後は空中でもジャンプができます。 <PART> 転送中から <PART> 長押しでも使用可能です。 <PART> 交換転送  結晶に光子を当てる <PART> なお、敵を倒してしまうと亡〓となり動かなくなりますが、一度画面を切り替えて再び戻ってくると、敵は復活します。,"Projecting Photons <PART> Discharge photons with <PART> .
-Striking an enemy with photons will seal
-it within a crystal. <PART>
-Press <PART> or <PART> while pressing <PART> , and you
-can fire diagonally. <PART>
+Striking an enemy with photons will seal it within a crystal. <PART>
+Press <PART> or <PART> while pressing <PART> , and you can fire diagonally. <PART>
 ---
- <PART> Projecting Photons <PART> Touching a crystallized enemy will not trigger
-a battle. <PART>
-You can move enemies or use them as
-platforms until the seal breaks. <PART>
+ <PART> Projecting Photons <PART> Touching a crystallized enemy will not trigger a battle. <PART>
+You can move enemies or use them as platforms until the seal breaks. <PART>
 ---
- <PART> Teleport   Fire photons at a crystal <PART> By hitting a photon crystal with more
-photons, you will swap places with
-the crystal. <PART>
-Using this, you can reach
-faraway or secluded areas. <PART>
+ <PART> Teleport   Fire photons at a crystal <PART> By hitting a photon crystal with more photons, you will swap places with the crystal. <PART>
+Using this, you can reach faraway or secluded areas. <PART>
 ---
- <PART> Teleport  Fire photons at a crystal <PART> You can jump in mid-air after teleporting.
- <PART>
-Or, press and hold <PART> while
-teleporting. <PART>
+ <PART> Teleport  Fire photons at a crystal <PART> You can jump in mid-air after teleporting. <PART>
+Or, press and hold <PART> while teleporting. <PART>
 ---
- <PART> Teleport  Fire photons at a crystal <PART> Defeated enemies leave remnants.
-Remnants do not move, but enemies
-can be restored by switching screens
-and coming back.
-",,1,1,185,1,193,
+ <PART> Teleport  Fire photons at a crystal <PART> Defeated enemies leave remnants. Remnants do not move, but enemies can be restored by switching screens and coming back.
+","",1,1,185,1,193,
+,光子について,Photons,,2,1,185,3,193,not displayed by the event script
+,喪失の森,Lost Forest,,2,2,185,300,29 183 187 189 191 193 195 197,not displayed by the event script

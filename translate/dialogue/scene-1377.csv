@@ -5,8 +5,16 @@ Dog Rufus,御利〓バッチリだったな！,I guess I can't argue with that!,
 Dog Arngrim,完敗だ…！,I was a fool...!,,1,4,1377,2743,,
 Dog Odin,まさに四宝の名に相応しい…,"This is one of the Four Treasures, indeed.",,1,5,1377,2744,,
 Dog Odin,ひとえにそなたの働きに感謝するアーリィ・ヴァルキュリアよ！,"You have my gratitude, Hrist Valkyrie!",,1,6,1377,2746,,
+Dog Odin,かくも早くこの輝きを我が手中に収める事ができるとは…,"That I have come to possess such splendor
+so quickly owes solely to your labors.",,1,7,1377,2745,1299,
 Dog Rufus,なんて力だ,That's some power.,,1,8,1377,2747,,
 Dog Rufus,〓分と人間離れした王女だな…,I guess you're not exactly your average princess...,,1,9,1377,2748,,
 Dog Hrist,………ところで何色だった？,"By the way, what color were they?",,1,10,1377,2749,,
 Dog Lezard,〓 <PART> 白,Pure <PART> white.,,1,11,1377,2750,,
+,イベントマップ,EVENT_MAP,,2,1,1377,2751,1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1325 1335 1337 1339 1341 1343 1345 1347 1351 1353 1357 1359 1361 1363 1365 1367 1369 1371 1375 1379 1387 1389,not displayed by the event script
+,犬アーリィ,Dog Hrist,,2,2,1377,2752,1359 1367,not displayed by the event script
 ,一同,All,,2,3,1377,2753,,not displayed by the event script
+,犬ルーファス,Dog Rufus,,2,4,1377,2754,1311 1361 1365 1367 1369 1375,not displayed by the event script
+,犬アリューゼ,Dog Arngrim,,2,5,1377,2755,1363 1375,not displayed by the event script
+,犬オーディン,Dog Odin,,2,6,1377,2756,1369,not displayed by the event script
+,犬レザード,Dog Lezard,,2,7,1377,2757,1367 1369 1379,not displayed by the event script

@@ -1,80 +1,79 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
-Alicia,ここは… ソルデの港じゃない？,Is this the harbor of Solde?,Este não é o porto de Solde?,1,1,1197,1,,
+Alicia,ここは… ソルデの港じゃない？,Is this the harbor of Solde?,,1,1,1197,1,,
 Alicia,ここから船で海を渡るだけでディパンはすぐそこなのに…,"To think that Dipan is only a short
 journey across the sea from where we
-are...","E pensar que, a uma curta travessia de barco, Dipan está logo ali...",1,2,1197,2,,
-Alicia,えっ！？,What!?,O quê?,1,3,1197,3,,
+are...","",1,2,1197,2,,
+Alicia,えっ！？,What!?,,1,3,1197,3,,
 Silmeria,（ 一刻も早く国元へ戻り王に戦の仕度を進言するのよ ）,"( You must return home. We have to tell the
-king to prepare for war immediately. )",( Você deve voltar. Diga ao rei que prepare as tropas imediatamente. ),1,4,1197,33,,
-Alicia,…戦って？,War?,Guerra?,1,5,1197,34,,
-Silmeria,（ それが神の <PART> ―― <PART> ）,( That's his way <PART> ---- <PART> ),( É o jeito dos deuses <PART> ---- <PART> ),1,6,1197,36,,
-Silmeria,（ オーディンのやり方… ）,( Odin's way. ),( O jeito de Odin. ),1,7,1197,5,,
+king to prepare for war immediately. )",,1,4,1197,33,,
+Alicia,…戦って？,War?,,1,5,1197,34,,
+Silmeria,（ それが神の <PART> ―― <PART> ）,( That's his way <PART> ---- <PART> ),,1,6,1197,36,,
+Silmeria,（ オーディンのやり方… ）,( Odin's way. ),,1,7,1197,5,,
 Silmeria,ならば私が訴える！ 神々の横暴を許せぬ思いは王も同じはずよ！,"Then I'll make him listen! I won't
 tolerate the arrogance of the gods,
-let alone some king's!","Então eu o farei ouvir! Não tolerarei a arrogância dos deuses, muito menos a de um rei!",1,8,1197,6,,
+let alone some king's!","",1,8,1197,6,,
 Alicia,（ でも私はディパンヘ戻りたくないの！ ）,"( I-I really don't want to go back to
-Dipan! )",( Mas eu não quero voltar a Dipan! ),1,9,1197,26,,
+Dipan! )",,1,9,1197,26,,
 Silmeria,何を今さら…何のために城を出たの！？,"How could you say that now?
-What did we leave the castle for!?",Como pode dizer isso agora? Por que deixamos o castelo?,1,10,1197,27,,
-Alicia,（ 遠くへ逃げるためでしょ？ ）,( I thought it was to run away. ),( Eu pensei que era para fugir! ),1,11,1197,25,,
-Silmeria,どこへ？,Where?,Para onde?,1,12,1197,8,,
-Alicia,（ どこか… 遠く ）,( Someplace...far. ),( Para bem longe. ),1,13,1197,23,,
+What did we leave the castle for!?",,1,10,1197,27,,
+Alicia,（ 遠くへ逃げるためでしょ？ ）,( I thought it was to run away. ),,1,11,1197,25,,
+Silmeria,どこへ？,Where?,,1,12,1197,8,,
+Alicia,（ どこか… 遠く ）,( Someplace...far. ),,1,13,1197,23,,
 Silmeria,ミッドガルドにヴァルキリーが二体同時に存在する事は許されない,"It is forbidden for two valkyries to
-exist upon Midgard at the same time.",É proibido duas Valquírias existirem em Midgard ao mesmo tempo.,1,14,1197,9,,
+exist upon Midgard at the same time.",,1,14,1197,9,,
 Silmeria,それに転送すべきエインフェリアも大勢 連れたままだから,"And I have several einherjar with me.
-Odin would like them transferred.","Além disso, ainda tenho comigo muitos einherjar que devem ser transferidos.",1,15,1197,10,,
-Silmeria,いい加減 理解して,Remember. We are in danger.,Entenda de uma vez!,1,16,1197,11,,
-Alicia,してるわよ！,I know already!,Eu já sei disso!,1,17,1197,12,,
-Alicia,戦うなんて！,But I can't fight!,Mas eu não sei lutar!,1,18,1197,13,,
-Alicia,何度も言ったけど 私には無理…,"I told you before, it's way beyond me...","Já disse várias vezes, é impossível para mim...",1,19,1197,14,,
-Silmeria,（ だったら仲間を探しましょう ）,( Then we'd better find companions who can. ),( Então vamos procurar companheiros. ),1,20,1197,15,,
+Odin would like them transferred.","",1,15,1197,10,,
+Silmeria,いい加減 理解して,Remember. We are in danger.,,1,16,1197,11,,
+Alicia,してるわよ！,I know already!,,1,17,1197,12,,
+Alicia,戦うなんて！,But I can't fight!,,1,18,1197,13,,
+Alicia,何度も言ったけど 私には無理…,"I told you before, it's way beyond me...","",1,19,1197,14,,
+Silmeria,（ だったら仲間を探しましょう ）,( Then we'd better find companions who can. ),,1,20,1197,15,,
 Silmeria,（ いいからしばらく私の言うとおり行動しなさい ）,"( Don't worry about it <PART> ---- <PART>
-just do as I say for a while. )","( Deixe comigo <PART> ---- <PART>
-apenas faça o que eu disser por ora. )",1,21,1197,16,,
-Alicia,（ あなたも… ヴァルキリーだから？ ）,( Just because you're also a valkyrie? ),( Só porque você também é uma Valquíria? ),1,22,1197,17,,
-Silmeria,…甘いわ！,Naive.,Ingênua.,1,23,1197,19,,
-Silmeria,アーリィはどこまでも追ってくる,Hrist will follow us wherever we go.,Hrist nos seguirá aonde quer que vamos.,1,24,1197,20,,
+just do as I say for a while. )","",1,21,1197,16,,
+Alicia,（ あなたも… ヴァルキリーだから？ ）,( Just because you're also a valkyrie? ),,1,22,1197,17,,
+Silmeria,…甘いわ！,Naive.,,1,23,1197,19,,
+Silmeria,アーリィはどこまでも追ってくる,Hrist will follow us wherever we go.,,1,24,1197,20,,
 Silmeria,（ ディパンへ行く前に仕度が必要よいざとなればあなたが戦うしか <PART> ―― <PART> ）,"( We need to prepare ourselves before
 heading to Dipan. We might have fighting
-ahead of us. )","( Precisamos nos preparar antes de ir a Dipan. Se preciso, você terá de lutar. )",1,25,1197,21,,
-Alicia,…仲間？,Who?,...Companheiros?,1,26,1197,22,,
+ahead of us. )","",1,25,1197,21,,
+Alicia,…仲間？,Who?,,1,26,1197,22,,
 Silmeria,（ だから来たのよディパンへ急ぎなさい！ ）,"( That's why we're here.
-To go to Dipan. )","( Por isso viemos. Depressa, vamos a Dipan! )",1,27,1197,24,,
-Silmeria,そう <PART> ――,Yes.,Sim.,1,28,1197,28,,
+To go to Dipan. )","",1,27,1197,24,,
+Silmeria,そう <PART> ――,Yes.,,1,28,1197,28,,
 Silmeria,あなたを殺し 私の精神をヴァルハラへ召喚するために <PART> ――,"She'll kill you just to summon my spirit
-back to Valhalla.",Ela te mataria para convocar meu espírito de volta a Valhalla.,1,29,1197,29,,
+back to Valhalla.",,1,29,1197,29,,
 Silmeria,私はあなたの魂に宿る思念だけの存在だけど 神の摂理に背いている,"Even though I exist only as thoughts in
 your soul, I am violating the laws of
-the gods.","Mesmo existindo só como pensamento em sua alma, estou violando as leis dos deuses.",1,30,1197,30,,
-Alicia,私達のせいで 戦争…？,A war? Because of us?,Uma guerra? Por nossa causa?,1,31,1197,35,,
+the gods.","",1,30,1197,30,,
+Alicia,私達のせいで 戦争…？,A war? Because of us?,,1,31,1197,35,,
 Silmeria,（ 私達をおびき出すために神々はおそらくディパンへ攻め込むわ ）,"( The gods will launch an attack on
-Dipan just to lure us out. )",( Os deuses vão atacar Dipan só para nos atrair para fora. ),1,32,1197,31,,
+Dipan just to lure us out. )",,1,32,1197,31,,
 Alicia,…お父様が私の言う事を聞いてくださるはずがないわ,"But, my father will never listen to
-anything that I have to say.",Mas meu pai nunca vai ouvir nada do que eu disser.,1,33,1197,32,,
-Silmeria,（ 船着場へ急ぐのよ ）,"( Now, hurry to the docks! )","( Agora, corra para o cais! )",1,34,1197,37,,
+anything that I have to say.",,1,33,1197,32,,
+Silmeria,（ 船着場へ急ぐのよ ）,"( Now, hurry to the docks! )","",1,34,1197,37,,
 Silmeria,（ 今から『王家の地下道』へ案内するわ ）,"( I'll guide you to the Royal Underground
-Path. )",( Vou te guiar para a Passagem Subterrânea Real. ),2,1,1197,78,,
+Path. )",,2,1,1197,78,,
 Silmeria,（ 王族のあなたを部外者の私が案内するのも おかしな話ね ）,"( Funny that I, an outsider, should be
-telling you about it, Princess. )","( Engraçado eu, um forasteiro, estar te contando isso, Princesa. )",2,2,1197,79,,
-Rufus,何をブツブツ言ってる？,"Hey, who are you talking to?","Ei, o que você está resmungando?",2,3,1197,80,,
-Alicia,な …何でもありません,"Hm? Oh, nobody.",Nada... não é nada.,2,4,1197,81,,
+telling you about it, Princess. )","",2,2,1197,79,,
+Rufus,何をブツブツ言ってる？,"Hey, who are you talking to?","",2,3,1197,80,,
+Alicia,な …何でもありません,"Hm? Oh, nobody.",,2,4,1197,81,,
 Rufus,ところであんた…ディパンの王女と言ったな？,"Just curious, but you said you're the
-princess of Dipan, right?","A propósito, você... disse que é a princesa de Dipan, não foi?",2,5,1197,83,,
+princess of Dipan, right?","",2,5,1197,83,,
 Rufus,それがなぜ 一人でこんな場所にいる？,"What brings Her Majesty out here all
-alone?",Então por que está sozinha em um lugar como este?,2,6,1197,82,,
-Rufus,今までどこにいたんだ？,And where have you been all this time?,E onde esteve todo esse tempo?,2,7,1197,84,,
+alone?",,2,6,1197,82,,
+Rufus,今までどこにいたんだ？,And where have you been all this time?,,2,7,1197,84,,
 Silmeria,あなたこそ今までどこにいてディパンへ何しに行くの？,"What about you? Where have you been?
-What do you intend to do in Dipan?",E você? Onde esteve? O que pretende fazer em Dipan?,2,8,1197,86,,
-Rufus,…,...,...,2,9,1197,87,1233 1245,
+What do you intend to do in Dipan?",,2,8,1197,86,,
+Rufus,…,...,,2,9,1197,87,1233 1245,
 Silmeria,まだお名前をお聞きしていませんでしたね,"Come to think of it, you haven't even
-told me your name.","Pensando bem, nem me disse seu nome.",2,10,1197,88,,
-Rufus,…ルーファスだ,The name's Rufus.,Meu nome é Rufus.,2,11,1197,89,,
-Silmeria,よろしく ルーファス殿 <PART> ――,"A pleasure to meet you, Sir Rufus.","Prazer em conhecer, Sir Rufus.",2,12,1197,90,,
+told me your name.","",2,10,1197,88,,
+Rufus,…ルーファスだ,The name's Rufus.,,2,11,1197,89,,
+Silmeria,よろしく ルーファス殿 <PART> ――,"A pleasure to meet you, Sir Rufus.","",2,12,1197,90,,
 Silmeria,（ 森へ向かってちょうだい森の奥に地下道の入口があるの ）,"( Head to the forest. An entrance to the
-underground path lies deep within. )",( Vá para a floresta. A entrada da passagem subterrânea fica nas profundezas. ),2,13,1197,91,,
+underground path lies deep within. )",,2,13,1197,91,,
 Rufus,ディパンのバルバロッサ王の一人娘は何年か前に死んだという話を聞いた <PART> ――,"They say the only daughter of King
-Barbarossa died some years ago.",Ouvi dizer que a única filha do Rei Barbarossa de Dipan morreu há alguns anos.,2,14,1197,92,,
-Alicia,王家って ディパンの？,Royal? As in Dipan royal?,Real? Da realeza de Dipan?,2,15,1197,93,,
+Barbarossa died some years ago.",,2,14,1197,92,,
+Alicia,王家って ディパンの？,Royal? As in Dipan royal?,,2,15,1197,93,,
 ,,Dylan <PART> has joined the party.,,3,1,1197,2758,1229 1243,
 ,,Lezard <PART> has joined the party.,,3,2,1197,2759,1229 1243,
 ,,Leone <PART> has joined the party.,,3,3,1197,2760,1229 1243,
@@ -85,7 +84,12 @@ Alicia,王家って ディパンの？,Royal? As in Dipan royal?,Real? Da realez
 ,,Brahms <PART> has joined the party.,,3,8,1197,2765,1229 1243,
 ,,Hrist <PART> has joined the party.,,3,9,1197,2766,1229 1243,
 ,,ERROR!!(v190),,4,1,1197,2252,1229 1243,
-,,ERROR!!(v191),,4,2,1197,2253,1197 1229 1243,
+,,ERROR!!(v191),,4,2,1197,2253,1229 1243,
+,,Acquired <PART> Ghoul Powder,,5,1,1197,96,1229 1243,not displayed by the event script
+,,Acquired <PART> Antique Pendant,,5,2,1197,97,1229 1243,not displayed by the event script
+,,Acquired <PART> Dragon Orb,,5,4,1197,99,1229 1243,not displayed by the event script
+,,Acquired <PART> Water Mirror,,5,5,1197,100,1229 1243,not displayed by the event script
+,,EVENT_MAP,,5,6,1197,2740,1229 1243,not displayed by the event script
 ,,Alicia,,5,7,1197,2755,1229 1243,not displayed by the event script
 ,,Silmeria,,5,8,1197,2756,1243,not displayed by the event script
 ,,Rufus,,5,9,1197,2757,1229 1243,not displayed by the event script

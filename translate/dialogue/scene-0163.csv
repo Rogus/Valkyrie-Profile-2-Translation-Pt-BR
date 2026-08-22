@@ -1,3 +1,5 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 ,ディパンの兵士… 見つかれば争いになってしまう先には進めないわ,"If they see us, Dipan's guards will surely
 try to stop us. We can't go any further.",,1,1,163,1713,,
+,出口,Exit,,2,1,163,1,33 79 81 89 105 117 119 121 183 191 225 265 269 299 323 403 423 451 545 571 589 901 961 1015 1155 1157 1159 1165 1175 1191 1193,not displayed by the event script
+,王家の地下道,Royal Underground Path,,2,2,163,2,145 147 151 157 159 161 165 167 169 173 175,not displayed by the event script

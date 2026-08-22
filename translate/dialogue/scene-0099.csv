@@ -1,11 +1,11 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 Elder,なあ 魔物が街付近に現れたって本当なのか？噂じゃト〓ルゲン〓山の方から来たって…,"Is it true monsters are appearing near town?
-People say they came from Turgen Mine.",,1,1,99,3,,
+People say they came from Turgen Mine.","",1,1,99,3,,
 Merchant,ト〓ルゲン〓山ってあれだろ？ 発〓中に魔物の〓を〓り当てちまったって言う… <PART> 街付近に〓りてきた魔物って多分その時のヤツ…だよな,"Turgen Mine? That's where they discovered
 the monster lair while mining, right? <PART>
 ---
 The monsters running amok now must be
-the ones they found then...",,1,2,99,4,,
+the ones they found then...","",1,2,99,4,,
 Townsperson,危〓だからって入り口封〓してそのままだったからなあ <PART> あの時 〓山ごと〓〓でぶっ〓ばしちまえば良かったんだ まあ今言っても仕方ねえが… <PART> ぎルドに報〓金出すよう これから掛け合って来るそうすりゃ物好きな〓〓者が何とかすんだろ,"They posted warnings, closed the entrance,
 and that was that. <PART>
 ---
@@ -13,7 +13,7 @@ We probably should've blasted the whole mine
 to bits. Hindsight is 20/20. <PART>
 ---
 Our guild dues go toward a reward fund.
-Let some adventurer do the dirty work!",,1,3,99,5,,
+Let some adventurer do the dirty work!","",1,3,99,5,,
 Elder,〓山の魔物を見たヤツの話だとでっかい虫みたいな形してたってんだが… <PART> 何でも 〓や剣でぶっ〓いてもケロっとしてたらしいぜ <PART> たいまつ振り回したら追い払えたって言うから火に弱いのかねぇ…？ <PART> とにかく これ以上被害がでかくなる前に正式に退治を頼んだ方がいいかもなぁ,"One guy who saw a monster in the mines
 told me it was shaped like a giant bug! <PART>
 ---
@@ -24,44 +24,44 @@ They managed to drive it off with a torch,
 so I suppose it's vulnerable to fire. <PART>
 ---
 At any rate, we should have professionals
-eliminate them before anyone else gets hurt.",,1,4,99,6,,
+eliminate them before anyone else gets hurt.","",1,4,99,6,,
 Elder,そういやこの間 ソルデ〓由でディパンから〓分と鉄の注〓があったな <PART> 軍備〓強中のクレルモンフェランからってのはいつもの事なんだが… ディパンねえ…,"Looking back, there sure were a heck of a
 lot of steel orders to Dipan via Solde. <PART>
 ---
 It's normal for Crell Monferaigne and their
-military buildup, but unusual for Dipan...",,1,5,99,7,,
+military buildup, but unusual for Dipan...","",1,5,99,7,,
 Elder,お 報〓金貫えたかい？あのオヤシ 〓苦しいけど良いヤツだろ？,"Did you claim your reward yet? The old man
-can be overbearing, but he's a good guy.",,1,6,99,19,,
+can be overbearing, but he's a good guy.","",1,6,99,19,,
 Merchant,しかし あんな所に魔物の〓ねえ…発見当時もおかしなもんだと思ったが… <PART> 案外 誰かが仕掛けたんじゃないのか？〓〓の利権を巡るその手の話はごまんとあるしな,"I thought it strange then, and still do now <PART> ---- <PART>
 why would there be a monster lair there? <PART>
 ---
 It's as if they were put there on purpose.
-People do crazy things for mining rights...",,1,7,99,9,,
+People do crazy things for mining rights...","",1,7,99,9,,
 Merchant,ディパンからの〓出入がぱったり途絶えてね…手立てが無いんで 〓から暇つぶしってわけだ <PART> ソルデの奴等はバルバロッサ王に頼りきりで自分らで何とかしようとしねえし 困ったもんさ,"Nothing's being shipped into or out of Dipan.
 Meanwhile, I'm stuck here killing time. <PART>
 ---
 Solde's content to rely on Barbarossa,
-but they're in for a rude awakening...",,1,8,99,10,,
+but they're in for a rude awakening...","",1,8,99,10,,
 Elder,ディパンほどの大国だ 例え襲撃を受けても滅多な事じゃやられないと思うが…,"I severely doubt a country of Dipan's
-magnitude could fall to an attack.",,1,9,99,29,,
+magnitude could fall to an attack.","",1,9,99,29,,
 Merchant,行き過ぎた栄〓は滅びをもたらす…か…ディパンもおごりが過ぎたのさ,"Excessive prosperity invites destruction...
-Well, Dipan was nice while it lasted!",,1,10,99,11,,
+Well, Dipan was nice while it lasted!","",1,10,99,11,,
 Merchant,聞いた話じゃ 〓黒の〓をまとった戦乙女が兵を〓いていたそうだな,"From what I hear, a Battle Maiden in
-black is leading soldiers against them.",,1,11,99,12,,
+black is leading soldiers against them.","",1,11,99,12,,
 Elder,大きな声じゃ言えないが バルバロッサ王の処刑時に 死んだはずの王女が現れたそうだ <PART> 本物かどうかはわからねえが…お家事情ってヤツかねえ,"It's crazy, but apparently the assumed-dead
 princess turned up at the king's execution! <PART>
 ---
 I'm not sure if there's any truth to it,
-I just heard it through the grapevine.",,1,12,99,13,,
+I just heard it through the grapevine.","",1,12,99,13,,
 Elder,今回のディパン襲撃と死んだはずの王女…なんだか裏がありそうだよな,"There must be some story behind the attack
-on Dipan and the return of the dead princess.",,1,13,99,14,,
+on Dipan and the return of the dead princess.","",1,13,99,14,,
 Merchant,〓業が〓道に乗った事でここ数年 ヴィルノアは安定していたんだ <PART> 盗賊ぎルドも〓りを潜めていたのに…このままじゃどうなるかわからないぞ,"Ever since commercial business took off,
 Villnore has been pretty stable. <PART>
 ---
 They even had the thieves' guild lying low,
-but I doubt that'll last anymore...",,1,14,99,15,,
+but I doubt that'll last anymore...","",1,14,99,15,,
 Merchant,これから また戦乱の世が始まるのか…くそ 何でこんな事に…,"The world is poised for war once more...
-Why did it have to come to this?",,1,15,99,16,,
+Why did it have to come to this?","",1,15,99,16,,
 Elder,〓山の魔物倒したのってアンタかい？いやありがとう 本当に助かったよ <PART> ぎルドから報〓金が出てるよ〓山夫のオヤシが金を預かってるはずだ <PART> 〓に〓〓いて〓生やしたヤツだよ通りのどこかにいるはずなんだが…,"So you took care of our monster problem?
 We all owe you one for that! <PART>
 ---
@@ -69,13 +69,19 @@ The guild posts a reward, you know.
 You can claim it from the old man. <PART>
 ---
 You'll recognize him by his bandanna.
-He's somewhere around town...",,1,16,99,17,,
+He's somewhere around town...","",1,16,99,17,,
 Elder,〓山夫のオヤシなら街の通りのどっかで話し込んでるはずだがな,"The old man is bound to be out on
-the streets talking to somebody.",,1,17,99,18,,
+the streets talking to somebody.","",1,17,99,18,,
 Elder,〓山の魔物を見たヤツの話だとでっかい虫みたいな形してたってんだが… <PART> これ以上被害がでかくなる前に正式に退治を頼んだ方がいいかねえ,"One guy who saw a monster in the mines
 told me it was shaped like a giant bug! <PART>
 ---
 We should have professionals eliminate
-them before anyone else gets hurt.",,1,18,99,23,,
+them before anyone else gets hurt.","",1,18,99,23,,
 Elder,この国で軍事〓〓と言われても〓ンと来ないな〓兵でも始まれば現実味を〓びるんだろうが…,"I don't know Villnore's military plans,
-but if conscription begins, I'll find out.",,1,19,99,24,99,
+but if conscription begins, I'll find out.","",1,19,99,24,,
+,外へ,Head outside,,2,1,99,1,39 41 43 45 47 49 51 63 65 67 69 71 73 75 83 85 87 93 95 97 101 103 109 111 113 115 127 129 131 133 135 137 139,not displayed by the event script
+,聞く,Listen,,2,2,99,21,79 89,not displayed by the event script
+,ヴィルノア,Villnore,,2,3,99,146,29 89 93 95 97 101 103,not displayed by the event script
+,〓人,Elder,,2,4,99,2886,73 137,not displayed by the event script
+,商人,Merchant,,2,5,99,2887,79 109 143 399 1167,not displayed by the event script
+,ヴィルノア住人,Townsperson,,2,6,99,2888,89 95 97,not displayed by the event script

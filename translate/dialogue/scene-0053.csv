@@ -44,5 +44,12 @@ My mother didn't like the idea back then,
 but she smiles when she sees me now.",,1,10,53,21,,
 Dipan Soldier,剣の腕を磨く事も必要ですが この平和な時代には 〓学の方が良いかもしれませんね,"Swordsmanship is invaluable, but in these
 times of peace, one would do well to study.",,1,11,53,22,,
+,民家,House,,2,2,53,4,33 37 55 79 81 89 105 107 119 121 123,not displayed by the event script
+,酒場,Tavern,,2,3,53,5,119,not displayed by the event script
+,宿屋,Inn,,2,4,53,6,33 81 89 105 121,not displayed by the event script
+,武器防具屋,Armory,,2,5,53,7,33 119,not displayed by the event script
+,ディパン城下町 <PART> マーニ通り,_ <PART> Dipan <PART> Merney Street,,2,6,53,8,,not displayed by the event script
+,ディパン城下町,Dipan,,2,7,53,23,55 57 59 61 63 65 67 69 71 73 75 77 141 143,not displayed by the event script
 ,少年の母,Boy's mother,,2,8,53,24,143,not displayed by the event script
 ,ディパン兵士,Dipan Soldier,,2,9,53,25,57 59 141 143 391 393 395 399 403,not displayed by the event script
+,少年,Boy,,2,10,53,26,33 35 89 107 119 403,not displayed by the event script

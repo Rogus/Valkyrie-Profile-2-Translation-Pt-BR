@@ -1,14 +1,14 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 Merchant,いらっしゃいませ！ 旅は道連れ世は情け旅から旅への行〓屋でございます,"Hear ye, hear ye, o weary travelers!
-The traveling salesman is here to serve!",,1,1,109,4,,
+The traveling salesman is here to serve!","",1,1,109,4,,
 Merchant,またのご利用 心からお待ちにしております！,I look forward to our next meeting!,,1,2,109,3,,
 Owner,うーん… 〓にある火山〓〓とか？でもまだ〓〓流れてるし お〓めはできないなあ <PART> 勇〓な戦死を迎えて 戦乙女の姿を〓みたいって言うのなら話は別だけどね～,"Hmm...the volcanic caverns to the south?
 There's still magma flowing through there. <PART>
 ---
 Unless you want to die and meet a valkyrie,
-I recommend against taking the trip!",,1,3,109,5,,
+I recommend against taking the trip!","",1,3,109,5,,
 Adventurer,この辺で魔物が出そうな場所って知らない？ちょっと欲しい素材があるのよ,"Where can I find monsters around here?
-I need a certain material.",,1,4,109,6,,
+I need a certain material.","",1,4,109,6,,
 Adventurer,〓〓か… ねえ お〓の中で弓闘士とか魔術師の〓〓者とかいない？ <PART> 弓闘士と魔術師を〓めてグルー〓を構成すれば人数に関わらず〓程が最大になるし <PART> 〓い中 わざわざ〓り回らなくても戦闘を有利に進められるはずなんだけど…,"Liquid hot magma... Say, are any of
 your customers archers or sorcerers? <PART>
 ---
@@ -16,27 +16,101 @@ A group containing archers or sorcerers
 gives the best attack range. <PART>
 ---
 Not having to run around in the heat
-will be advantageous in battle.",,1,5,109,16,,
+will be advantageous in battle.","",1,5,109,16,,
 Owner,あいにく 今はお〓がいなくてね～ご期待に〓えられそうにも無いなぁ,"Sadly, there aren't many customers, and it
-doesn't look likely to change anytime soon.",,1,6,109,7,,
+doesn't look likely to change anytime soon.","",1,6,109,7,,
 Townsperson,まったく… 〓〓者ってヤツはどうして危〓に〓び込みたがるんだろうねえ <PART> この間も 宝を求めて火山〓〓に向かったヤツが居たけれど 帰っちゃこなかったよ,"I just don't understand adventurer types!
 Why must they throw themselves at danger? <PART>
 ---
 A treasure hunter went to the caverns
-the other day, but he never came back.",,1,7,109,8,,
+the other day, but he never came back.","",1,7,109,8,,
 Townsperson,宝を求めて命を捨てるハメになっちまったら元も子も無いと思うんだがねえ,"Throw your life away chasing treasure,
-and you'll be left with nothing!",,1,8,109,9,,
+and you'll be left with nothing!","",1,8,109,9,,
 Merchant,おおっと いらっしゃいませ！旅から旅への行〓人でございます！,"Look who we have here! A customer?
-The traveling salesman is here to serve!",,1,9,109,10,,
+The traveling salesman is here to serve!","",1,9,109,10,,
 Merchant,またのご利用 心からお待ちしております！,I look forward to our next meeting!,,1,10,109,11,,
 Adventurer,クレルモンフェランが傭兵を〓ってたんで参加したんだが すぐに遠〓〓練に出されてよお <PART> こんな砂漠で戦闘〓練なんざ冗談じゃねえっつーの,"Crell Monferaigne were hiring troops, so
 I signed on. The drills started right after. <PART>
 ---
 Battle drills in the middle of the
-desert are not my idea of fun.",,1,11,109,12,,
+desert are not my idea of fun.","",1,11,109,12,,
 Adventurer,適当に時間潰して〓練サ求って楽してお手当てを貫うぜ 俺は,"I'll just cut the drills, kill time, and
-take my money, thank you very much.",,1,12,109,13,,
+take my money, thank you very much.","",1,12,109,13,,
 Townsperson,なあ どっかで何かあったのか？旅人が騒いでいるんだが…,"Did something happen somewhere?
-The travelers are raising a ruckus.",,1,13,109,14,,
+The travelers are raising a ruckus.","",1,13,109,14,,
 Townsperson,ディパンって〓の方の国だろ？〓者が居るとか色々噂は聞くけどねえ…,"Dipan is that country way up north, right?
-I heard that they had mages or something...",,1,14,109,15,,
+I heard that they had mages or something...","",1,14,109,15,,
+,ディラン <PART> が仲間に加わりました,Dylan <PART> has joined the party.,,2,1,109,2861,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1345 1351 1353 1357 1387,
+,レザード <PART> が仲間に加わりました,Lezard <PART> has joined the party.,,2,2,109,2862,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1341 1351 1353 1357 1387,
+,レオーネ <PART> が仲間に加わりました,Leone <PART> has joined the party.,,2,3,109,2863,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1345 1351 1353 1357 1387,
+,アリューゼ <PART> が仲間に加わりました,Arngrim <PART> has joined the party.,,2,4,109,2864,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,ミトラ <PART> が仲間に加わりました,Mithra <PART> has joined the party.,,2,5,109,2865,81 89 167 173 189 233 243 253 255 273 283 313 319 339 361 371 565 579 599 1009 1155 1165 1179 1181 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,レナス <PART> が仲間に加わりました,Lenneth <PART> has joined the party.,,2,6,109,2866,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,シルメリア <PART> が仲間に加わりました,Silmeria <PART> has joined the party.,,2,7,109,2867,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,ブラムス <PART> が仲間に加わりました,Brahms <PART> has joined the party.,,2,8,109,2868,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,アーリィ <PART> が仲間に加わりました,Hrist <PART> has joined the party.,,2,9,109,2869,81 89 1155 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1223 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1261 1263 1269 1275 1277 1281 1283 1285 1287 1289 1291 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1351 1353 1357 1387,
+,ERROR！！（v190）,ERROR!!(v190),,3,1,109,2247,39 47 49 81 83 87 89 101 103 111 113 135 139 167 173 189 197 233 243 253 255 265 273 283 313 319 339 361 371 423 557 565 571 579 589 599 1009 1155 1159 1165 1179 1181 1183 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+,ERROR！！（v191）,ERROR!!(v191),,3,2,109,2248,39 47 49 81 83 87 89 101 103 111 113 135 139 167 173 189 197 233 243 253 255 265 273 283 313 319 339 361 371 423 557 565 571 579 589 599 1009 1155 1159 1165 1179 1181 1183 1191 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,
+Owner,〓まりかしら？〓めのいい部屋が空いてますよ,"Will you be staying?
+We have a room with a view available.","",4,1,109,2815,41 63 83 93 133,
+Owner,いらっしゃいませ お〓りですか？,Welcome. Would you like a room?,,4,2,109,2816,41 63 83 93 133,
+Owner,おっと 〓まりのお〓かな？,"Oh my, guests looking for a room?","",4,3,109,2817,41 63 83 93 133,
+Owner,旅人さんだね 〓まっていくかい？,"Yer travelers, right? Ya gonna stay?","",4,4,109,2818,41 63 83 93 133,
+Owner,いらっしゃーいええと 〓まり…よね？,"Greetings and Salutations. You look like
+you're looking for a room. Am I right?","",4,5,109,2819,41 63 83 93 133,
+Owner,ようこそお出で下さいましたお〓りでしょうか？,"It is an honor to receive your visit.
+Shall I book your room?","",4,6,109,2820,41 63 83 93 133,
+Owner,そうですか…またの機会をお待ちしてますね,"That's a shame.
+Come back if you change your mind.","",4,7,109,2821,41 63 83 93 133,
+Owner,機会がありましたら〓非当〓をご利用下さい,"Please visit us again,
+when you have the chance.","",4,8,109,2822,41 63 83 93 133,
+Owner,なんじゃ 久しぶりの〓かと思ったのにのう…,It figures. And I got all worked up.,,4,9,109,2823,41 63 83 93 133,
+Owner,おや 〓やかしは御免だよ,"Be on yer way then, no loiterin'.","",4,10,109,2824,41 63 83 93 133,
+Owner,何だ 残念～ウチはサービスいいのに,"Well, it's your loss.
+You're missing out on great service.","",4,11,109,2825,41 63 83 93 133,
+Owner,ご縁がありましたらまたいらして下さいね,"If ever the opportunity should arise,
+please pay us your custom again.","",4,12,109,2826,41 63 83 93 133,
+Owner,波の〓は〓りを誘う子守〓ごゆっくりお〓み下さい,"Let the lullaby of the waves
+be your invitation to slumber.","",4,13,109,2827,41 63 83 93 133,
+Owner,それでは どうぞごゆっくりとお〓み下さい,Please enjoy your stay.,"",4,14,109,2828,41 63 83 93 133,
+Owner,おお そうか〓まるかゆっくり〓んどくれよ,"So you're really staying?
+Take a load off!","",4,15,109,2829,41 63 83 93 133,
+Owner,シーツは洗い立てだからね気持ちよく〓れるよ！,"I just cleaned the sheets.
+Yer gonna sleep like a baby!","",4,16,109,2830,41 63 83 93 133,
+Owner,ご〓大〓りサービスするわねごゆっくり～,"Balanced breakfast on the house!
+Sleep tight.","",4,17,109,2831,41 63 83 93 133,
+Owner,お疲れでしょう？ゆっくりしていって下さいね,"You must be exhausted.
+Please make yourself comfortable.","",4,18,109,2832,41 63 83 93 133,
+Owner,いってらっしゃいませ海の女神の加護があらんことを,"Visit again soon!
+May the blessings of the sea be with you.","",4,19,109,2833,41 63 83 93 133,
+Owner,ご利用ありがとうございましたお気をつけて,"Thank you for your patronage.
+Please take care.","",4,20,109,2834,41 63 83 93 133,
+Owner,近くに来たら また〓っておくれよ,Come by any time you're in the area.,,4,21,109,2835,41 63 83 93 133,
+Owner,ぐっすり〓れたろ？気をつけていっておいで！,"Ya got a good night's rest, didn't ya?
+Watch yer back out there!","",4,22,109,2836,41 63 83 93 133,
+Owner,ふふ ゆっくり出来た？ また来てね～,"Hehe, did you sleep okay? Come again soon!","",4,23,109,2837,41 63 83 93 133,
+Owner,疲れは取れましたか？お気をつけていってらっしゃいませ,"I trust you rested well.
+We look forward to serving you again soon.","",4,24,109,2838,41 63 83 93 133,
+Owner,あら 宿〓〓がちょっと足りないみたい…,"Uh-oh, you don't have enough money.","",4,25,109,2839,41 63 83 93 133,
+Owner,宿〓〓をお支払いになれませんとお〓めする事が難しいのですが…,"I'm afraid it would be impossible to allow
+you to stay without paying the proper fee.","",4,26,109,2840,41 63 83 93 133,
+Owner,なんじゃ 金が無きゃ〓められんぞ,"Oh, this won't do. You can't afford it.","",4,27,109,2841,41 63 83 93 133,
+Owner,お金貫わなきゃ〓められないよウチも〓売だからね,"This ain't enough! Whaddaya tryna pull?
+This is a business, ya know!","",4,28,109,2842,41 63 83 93 133,
+Owner,う～ん…ちょっとお金足りないわね…〓いだらまた来てね～,"Hmm... Looks like you're a little short.
+Come back when you have the money!","",4,29,109,2843,41 63 83 93 133,
+Owner,お〓様 代金が若干足りないようですので今回はちょっと…,"I'm afraid we require full payment
+in advance in order to allocate rooms.","",4,30,109,2844,41 63 83 93 133,
+,外へ,Head outside,,5,1,109,1,39 41 43 45 47 49 51 63 65 67 69 71 73 75 83 85 87 93 95 97 99 101 103 111 113 115 127 129 131 133 135 137 139,not displayed by the event script
+,グールパウダー <PART> を手に入れた,Acquired <PART> Ghoul Powder,,5,2,109,139,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,ふるびたペンダント <PART> を手に入れた,Acquired <PART> Antique Pendant,,5,3,109,140,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,ドラゴンオーブ <PART> を手に入れた,Acquired <PART> Dragon Orb,,5,5,109,142,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,水鏡 <PART> を手に入れた,Acquired <PART> Water Mirror,,5,6,109,143,81 89 1009 1155 1165 1181 1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1353 1357 1387,not displayed by the event script
+,宿代 <PART> OTH,Room charge: <PART> OTH,,5,7,109,2812,41 63 83 93 133,not displayed by the event script
+,はい,Yes,,5,8,109,2813,33 41 63 79 81 83 89 93 105 107 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,5,9,109,2814,33 41 63 79 81 83 89 93 105 107 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,カルスタッド,Kalstad,,5,10,109,2845,29 105 107 111 113 115 117,not displayed by the event script
+,商人,Merchant,,5,11,109,2857,79 99 143 399 1167,not displayed by the event script
+,宿屋主人,Owner,,5,12,109,2858,41 63 83 93 133,not displayed by the event script
+,冒険者,Adventurer,,5,13,109,2859,41 43 45 47 65 79 81 93 95 105 115 121 127 1159,not displayed by the event script
+,カルスタッド住人,Townsperson,,5,14,109,2860,105 107 115 117,not displayed by the event script

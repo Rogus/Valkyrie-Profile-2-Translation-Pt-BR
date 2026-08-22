@@ -1,0 +1,10 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,決め技について <PART> 特定の武器を装備している時、決め技ゲージをまでためる事で決め技を使用する事ができます。 <PART> 使用可能キャラが複数いるのであれば、決め技後に別のキャラが決め技を使用する事も可能です。,"Special Attacks <PART> Special attacks can be used by building the
+special attack gauge up to 100% when certain
+weapons are equipped. <PART>
+If multiple characters are capable of special
+attacks, characters may use their special
+attacks one after another.
+",,1,1,417,5,217,
+,決め技について,Special Attacks,,2,1,417,2,217,not displayed by the event script
+,ディパン城,Dipan Castle,,2,2,417,1800,199 203 209 211 213 215 217 219 221 391 393 395 397 399 401 403 409 411 413 415 419,not displayed by the event script
