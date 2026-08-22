@@ -2,58 +2,103 @@
 
 [Showcase](https://trulio2.github.io/Valkyrie-Profile-2-Translation/)
 
-## Cutscenes
+### main story cutscenes
 
-### Container 0010
+container-0010.csv
+scene-1195.csv
+scene-1197.csv
+scene-1199.csv
+scene-1201.csv
+scene-1203.csv
+scene-1209.csv
+scene-1211.csv
+scene-1213.csv
+scene-1217.csv
+scene-1219.csv
+scene-1221.csv
+scene-1223.csv
+scene-1227.csv
+scene-1229.csv
+scene-1231.csv
+scene-1233.csv
+scene-1235.csv
+scene-1237.csv
+scene-1239.csv
+scene-1243.csv
+scene-1245.csv
+scene-1247.csv
+scene-1251.csv
+scene-1253.csv
+scene-1255.csv
+scene-1261.csv
+scene-1263.csv
+scene-1269.csv
+scene-1275.csv
+scene-1277.csv
+scene-1281.csv
+scene-1283.csv
+scene-1285.csv
+scene-1287.csv
+scene-1289.csv
+scene-1291.csv
+scene-1295.csv
+scene-1297.csv
+scene-1299.csv
+scene-1301.csv
+scene-1303.csv
+scene-1305.csv
+scene-1307.csv
+scene-1309.csv
+scene-1311.csv
+scene-1313.csv
+scene-1315.csv
+scene-1317.csv
+scene-1321.csv
+scene-1323.csv
+scene-1325.csv
+scene-1335.csv
+scene-1337.csv
+scene-1351.csv
+scene-1353.csv
+scene-1357.csv
+scene-1389.csv
 
-Title cutscene.
+### main story relevant npc and system dialogues
 
-### Resource 0029
-
-World map location title and descriptions.
-
-### Resource 0033
-
-Solde's Soul Street NPC dialogues
-
-### Resource 1195
-
-Second part of the first cutscene.
-
-### Resource 1197
-
-First cutscene.
-
-### Resource 1277
-
-Palace of the Venerated Dragon cutscene.
-
-### Resource 1283
-
-Vs Hrist cutscene.
-
-### Resource 1299
-
-Post Hrist battle cutscene.
-
-### Resource 1337
-
-Include some boss battle cutscene dialogue.
-
-## Menu
-
-### Container 0010
-
-Game boot texts.
-
-### Container 0641
-
-Shop texts.
-
-### Container 0643
-
-Menu options.
-
-### Container 0650
-
-Menu. includes character's background/profile, item/spells/attacks/skill name and descriptions.
+scene-0029.csv
+scene-0033.csv
+scene-0035.csv
+scene-0057.csv
+scene-0061.csv
+scene-0079.csv
+scene-0081.csv
+scene-0089.csv
+scene-0091.csv
+scene-0099.csv
+scene-0109.csv
+scene-0121.csv
+scene-0127.csv
+scene-0133.csv
+scene-0137.csv
+scene-0141.csv
+scene-0143.csv
+scene-0145.csv
+scene-0165.csv
+scene-0185.csv
+scene-0193.csv
+scene-0217.csv
+scene-0219.csv
+scene-0241.csv
+scene-0245.csv
+scene-0263.csv
+scene-0337.csv
+scene-0357.csv
+scene-0399.csv
+scene-0401.csv
+scene-0417.csv
+scene-0437.csv
+scene-0449.csv
+scene-0605.csv
+scene-1015.csv
+scene-1167.csv
+scene-1169.csv
