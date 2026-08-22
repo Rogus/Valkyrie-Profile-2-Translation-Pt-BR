@@ -12,10 +12,11 @@ export default class HomeService implements IHomeService {
       { src: 'first-cutscene.png', alt: 'First cutscene' },
       { src: 'world-map.png', alt: 'World map' },
       { src: 'npc-dialog.png', alt: 'NPC dialog' },
+      { src: 'inn.png', alt: 'Inn' },
       { src: 'menu.png', alt: 'Menu' },
       { src: 'character-background.png', alt: 'Character background' },
-      { src: 'him.png', alt: 'Him' },
-      { src: 'final-battle.png', alt: 'Final battle' }
+      { src: 'final-battle.png', alt: 'Final battle' },
+      { src: 'him.png', alt: 'Him' }
     ]
   }
 
