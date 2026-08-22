@@ -13,14 +13,19 @@ speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,
 切り替えてください。詳しくは御使用のテレビの
 取扱説明書をご覧ください。
 ","<8084>0Enable progressive scan?
+          Abilitar escaneamento progressivo
 <8099>7Yes (16:9)  <8099>6Yes (4:3)  <8099>5No
-<0065>
+<0065>7Sim (16:9)  <8099>6Sim (4:3)  <8099>5Não
 <808A><CCCD>k^<CCCD>k^Component AV Cable (for PlayStation<0066>2) and compatible
-(525p) television required for progressive scan.
+<808A><CCCD>k^<CCCD>k^Cabo Component AV (pro PlayStation<0066>2) e televisão
+(525p) compatível requiridas pro escaneamento progressivo.
 <0065>
 <8088>3If a progressive image does not appear after 10 seconds,
 you will be automatically returned to this menu.
- 
+
+<8088>3Se uma imagem progressiva não aparecer após 10 segundos,
+ será automaticamente retornado para este menu.
+
 Press <8099>7 to enable widescreen mode.
 Set your television to the appropriate display mode.
 Refer to your television's instruction manual for details.
@@ -28,7 +33,9 @@ Refer to your television's instruction manual for details.
 ,"プログレッシブ表示（：）に変更しました。
 この画面表示モードでゲームを開始してよろしいですか？
 はい いいえ
- 
+Aperte para permitir modo Tela Ampla
+Sete sua televisão para o modo apropriado de exibição
+
 10秒以上たっても応答がない場合は
 自動的にプログレッシブ表示切り替え画面に戻ります。
 ","<8084>0Progressive scan (16:9) enabled.
@@ -41,7 +48,8 @@ response within 10 seconds.
 ,"プログレッシブ表示（：）に変更しました。
 この画面表示モードでゲームを開始してよろしいですか？
 はい いいえ
- 
+ Escaneamento Progressivo (16:9) ativado.
+Proceder com o jogo neste modo de exibição?
 10秒以上たっても応答がない場合は
 自動的にプログレッシブ表示切り替え画面に戻ります。
 ","<8084>0Progressive display (4:3) set.
@@ -58,7 +66,15 @@ MEMORY CARD差込口に
 Valkyrie Profile 2 のゲームデータを
 セーブするにはKB以上の
 空き容量が必要です。
- 
+
+Exibição Progressiva (4:3) setado.
+Sim               Não
+Você será retornado ao menu se não houver resposta dentro de 10 segundos.
+"Cartão de Memória
+Cartão de Memória
+"Playstation 2" (8MB)
+Valkyrie Profile 2
+
 このままゲームを開始しますか？
 ","<8084>0No memory card (8MB)(for PlayStation<0066>2) inserted
 in MEMORY CARD slot 1 or MEMORY CARD slot 2.
@@ -69,7 +85,10 @@ Valkyrie Profile<0066>2 requires <8094>",,,,10,4,,
 Valkyrie Profile 2 のゲームデータを
 セーブするにはKB以上の
 空き容量が必要です。
- 
+Nenhum Cartão de Memória (8MB)(para PlayStation 2) inserido
+no slot 1 ou slot 2
+Valkyrie Profile 2 exige um Cartão de Memória do PlayStation 2 (8MB)
+
 このままゲームを開始しますか？
 ","<8084>0Insufficient free space on
 memory card (8MB)(for PlayStation<0066>2) in
@@ -81,14 +100,20 @@ MEMORY CARD差込口の
 Valkyrie Profile 2 のゲームデータを
 セーブするにはKB以上の
 空き容量が必要です。
- 
+Espaço Insuficiente disponível no Cartão de Memória (8MB)(para PlayStation 2) no
+slot de Cartão de Memória
+
 このままゲームを開始しますか？
 ","<8084>0Insufficient free space on
 memory cards (8MB)(for PlayStation<0066>2) in
 MEMORY CARD slot 1 and MEMORY CARD slot 2.
  Valkyrie Profile<0066>2 requires <8094>",,,,10,6,,
 ,"環境設定データをロードしています。
- 
+
+Espaço insuficiente disponível nos cartões de memória
+no slot 1 e no slot 2.
+Valkyrie Profile 2 exige um cartão de memória de 8MB livres.
+
 MEMORY CARD差込口の
 ”PlayStation 2”専用メモリーカード（8MB）を
 抜き差ししないでください。","<8084>0Loading settings data.
@@ -97,7 +122,11 @@ Do not remove memory card (8MB)(for PlayStation<0066>2)
 from MEMORY CARD slot <8094>0",,,,10,7,,
 ,"画面サイズを設定してください。
 ： ：
- 
+Cartão de Memória "PlayStation 2" (8MB)
+Carregando dados de configurações.
+Não remova cartão de memória (8MB)(para PlayStation 2)
+dos slots do Cartão de Memória.
+
 の場合はワイドテレビ対応になりますので、
 テレビの画面モードをフルモード（またはそれに準ずるモード）に
 切り替えてください。詳しくは御使用のテレビの
@@ -112,7 +141,12 @@ Refer to your television's instruction manual for details.
 ,"D出力対応モードに変更しました。
 このモードはD端子対応テレビのみ
 ご覧いただけます。
- 
+Selecione tamanho da tela
+16:9 4:3
+Aperte para permitir modo tela ampla.
+Sete sua televisão pro modo de exebição apropriado.
+Consulte seu manual da sua televisão para detalhes;
+
 ゲームを開始してよろしいですか？
 はい いいえ
 ","<8084>0Enable 1080i mode.
@@ -121,7 +155,13 @@ televisions that support the 1080i display mode.
 <0065>
 <808A><CCCD>k^<CCCD>k^<8088>3This mode is not supported.
 Proceed with the game at your own risk.<8089><808B>
- 
+
+Abilitar modo 1080i.
+Este modo só é compatível com televisores de alta definição
+que suportam o modo de exibição em 1080i.
+Este modo não é suportado.
+Continue o jogo a seu risco.
+
 Proceed with game?
 <8099>@Yes <8099>ANo
 ",,,,10,11,,
@@ -131,8 +171,12 @@ Proceed with game?
 を押してください。","<8084>0Could not detect DUALSHOCK<0066>2 analog controller.
 Please insert DUALSHOCK<0066>2 analog controller
 into controller port 1.
- 
-Press <8099>@ to proceed.",,,,10,90,,
+Proceder assim mesmo?
+Sim Não
+DUALSHOCK 2
+Não foi detectado DUALSHOCK 2 controle analógico.
+
+Press.Aperte <8099>@ to proceed. para prosseguir",,,,10,90,,
 ,はい,Yes,Sim,,,10,100,,
 ,いいえ,No,Não,,,10,101,,
 ,スキップしますか？,Skip this sequence?,,,,10,102,,
@@ -155,11 +199,11 @@ Press <8099>@ to proceed.",,,,10,90,,
 ,あっちだ！,Over there!,Por ali!,,,10,2014,,
 ,シルメリア 戻りなさい！,"Silmeria, return at once!","Silmeria, volte imediatamente!",,,10,2015,,
 ,私は ――,I won't...,Eu não vou...,,,10,2016,,
-,―― ヴァルハラへは戻らない！,I won't return to Valhalla!,Não vou voltar a Valhalla!,,,10,2017,,
+,―― ヴァルハラへは戻らない！,I won't return to Valhalla!,Não vou voltar à Valhalla!,,,10,2017,,
 ,あくまでオーディン様の命に背くか…,You'll disobey Odin to your last breath.,Você vai desobedecer Odin até o último suspiro.,,,10,2019,,
 ,…いいだろう,So be it.,Que assim seja.,,,10,2020,,
 ,ディパンの安全は保証しない,But be warned<808A>,Mas fique avisada<808A>,,,10,2021,,
-,,<3F80>-<808B>Dipan will not be spared.,<3F80>-<808B>Dipan não será poupado.,,,10,2021+4,,
+,,<3F80>-<808B>Dipan will not be spared.,<3F80>-<808B>Dipan não será poupada.,,,10,2021+4,,
 ,ありがとう…,Thank you.,Obrigada.,,,10,2022,,
 ,…もう後へは戻れないわ,There's no going back now.,Agora não há como voltar atrás.,,,10,2023,,
 ,そうね…,Let's go...,Vamos...,,,10,2024,,
