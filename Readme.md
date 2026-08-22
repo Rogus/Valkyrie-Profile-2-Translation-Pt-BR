@@ -160,6 +160,8 @@ scene-0145.csv
 
 scene-0165.csv
 
+scene-0167.csv
+
 scene-0185.csv
 
 scene-0193.csv
@@ -183,6 +185,8 @@ scene-0399.csv
 scene-0401.csv
 
 scene-0417.csv
+
+scene-0419.csv
 
 scene-0437.csv
 
