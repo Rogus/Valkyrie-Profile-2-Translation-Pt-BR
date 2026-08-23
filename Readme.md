@@ -220,86 +220,164 @@ scene-1167.csv
 
 scene-1169.csv
 
-### einherjar weapon
+### Einherjar Locations
 
-scene-0167.csv
+Lost Forest (0197, after cutscene 1219)
 
-scene-0173.csv
+- Mithra: (100% Skill: Break Up)
 
-scene-0189.csv
+- Released location: Lost Forest (0197)
 
-scene-0233.csv
+Royal Underground Passage (0167)
 
-scene-0243.csv
+- Jessica (25% Skill: Heat Up)
 
-scene-0253.csv
+- Richelle (25% Skill: Reflex Movement)
 
-scene-0255.csv
+- Sylphide (50% Skill: Free Item)
 
-scene-0273.csv
+- Released location: House, Coriander Village (...)
 
-scene-0283.csv
+Royal Underground Passage (0173)
 
-scene-0313.csv
+- Kraad (50% Skill: Iron Fist)
 
-scene-0319.csv
+- Roland (50% Skill: Spirit Control)
 
-scene-0339.csv
+- Released location: House, Villnore (...)
 
-scene-0361.csv
+Serdberg Mountain Ruins (0233 or 0243)
 
-scene-0371.csv
+- Celes (30% Skill: Body Passage)
 
-scene-0565.csv
+- Tyrith (70% Skill: Adversity)
 
-scene-0579.csv
+- Released location: House, Solde (...)
 
-scene-0599.csv
+Serdberg Mountain Ruins (0233 or 0243)
 
-scene-1155.csv
+- Alm (50% Skill: Overload)
 
-scene-1179.csv
+- Woltar (50% Skill: Plant Killer)
 
-scene-1191.csv
+- Released location: Chateau Obsession (0571)
 
-### einherjar dialogue
+Ancient Forest (0565)
 
-scene-0039.csv
+- Sha-Kon (90% Skill: Lost Emotion)
 
-scene-0047.csv
+- Chrystie (10% Skill: Protect Magic)
 
-scene-0049.csv
+- Released location: Kythena Plains (1159)
 
-scene-0083.csv
+Turgen Mine (0599)
 
-scene-0087.csv
+- Lylia (50% Skill: Vital Adjustment)
 
-scene-0101.csv
+- Millidia (50% Skill: Demon Slayer)
 
-scene-0103.csv
+- Released location: House, Crell Monferaigne (...)
 
-scene-0111.csv
+Audoula Temple on the Lake (0253 or 0255)
 
-scene-0113.csv
+- Phyress (90% Skill: Feint)
 
-scene-0135.csv
+- Ehrde (10% Skill: Magic Slayer)
 
-scene-0139.csv
+- Released location: Cathedral, Solde (...)
 
-scene-0197.csv
+Audoula Temple on the Lake (0253 or 0255)
 
-scene-0265.csv
+- Khanon (100% Skill: Solitary Struggle)
 
-scene-0423.csv
+- Released location: Sukavia Gorge (1183)
 
-scene-0557.csv
+Sahma Desert (1155)
 
-scene-0571.csv
+- Aaron (30% Skill: Mighty Blow)
 
-scene-0589.csv
+- Zunde (20% Skill: Giant Killer)
 
-scene-1155.csv
+- Dyn (50% Skill: Regeneration Heal)
 
-scene-1159.csv
+- Released location: Inn, Coriander (...)
 
-scene-1183.csv
+Surts Volcano Caverns (0273 or 0283)
+
+- Arcana (50% Skill: Heroism)
+
+- Sophalla (50% Skill: Cure Condition)
+
+- Released location: House, Kalstad (...)
+
+Surts Volcano Caverns (0273 or 0283)
+
+- Farant (60% Skill: Resist Magic)
+
+- Psoron (40% Skill: Mind Burst)
+
+- Released location: Turgen Mine (0589)
+
+Chateau Obsession (0579)
+
+- Seluvia (100% Skill: God Slayer)
+
+- Released location: Audoula Temple on the Lake (0265)
+
+Crawsus Forest Ruins (0313 or 0319)
+
+- Fraudir (40% Skill: Guard Motion)
+
+- Circe (40% Skill: Hard Body)
+
+- Rasheeka (20% Skill: Missile Protection)
+
+- Released location: House, Kalstad (...)
+
+Crawsus Forest Ruins (0313 or 0319)
+
+- Adonis (60% Skill: Observation)
+
+- Falx (40% Skill: Ghostbuster)
+
+- Released location: House, Villnore (...)
+
+Dragonscrypt (1179)
+
+- Lydia (50% Skill: True Seeing)
+
+- Atrasia (50% Skill: Beast Slayer)
+
+- Released location: House, Crell Monferaigne (...)
+
+Palace of the Venerated Dragon (0339 or 0361 or 0371)
+
+- Crescent (60% Skill: Guts)
+
+- Lwyn (40% Skill: Unholy Slayer)
+
+- Released location: Forest of Spirits (0423)
+
+Palace of the Venerated Dragon (0339 or 0361 or 0371)
+
+- Gerald (20% Skill: Dragon Slayer)
+
+- Guilm (50% Skill: Toughness, First Aid)
+
+- Ehlen (30% Skill: Double Edge)
+
+- Released location: Ancient Forest (0557)
+
+Palace of the Venerated Dragon (0339 or 0361 or 0371)
+
+- Xehnon (90% Skill: Magic Control)
+
+- Masato (10% Skill: Insect slayer)
+
+- Released location: Sahma Desert (1155)
+
+Sukavia Gorge (1191):
+
+- Aegis (100% Skill: Scale Slasher)
+
+- Released location: House, Solde (...)
