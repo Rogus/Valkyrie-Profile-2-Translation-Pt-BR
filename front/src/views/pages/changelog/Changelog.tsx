@@ -13,34 +13,7 @@ interface ChangelogEntry {
   items: ChangelogItem[]
 }
 
-const entries: ChangelogEntry[] = [
-  {
-    version: '0.3.0',
-    date: '2026-08-15',
-    items: [
-      { type: 'added', text: 'First cutscene English dub (proof of concept).' },
-      { type: 'changed', text: 'Reworked glyph atlas clustering.' },
-      { type: 'fixed', text: 'Line breaks in long NPC dialog.' }
-    ]
-  },
-  {
-    version: '0.2.0',
-    date: '2026-06-02',
-    items: [
-      { type: 'added', text: 'Menu and system message translations.' },
-      { type: 'added', text: 'Character background scenes.' },
-      { type: 'fixed', text: 'Cutscene text overflowing the dialog box.' }
-    ]
-  },
-  {
-    version: '0.1.0',
-    date: '2026-04-10',
-    items: [
-      { type: 'added', text: 'Initial English translation patch.' },
-      { type: 'added', text: 'Title and first cutscene translated.' }
-    ]
-  }
-]
+const entries: ChangelogEntry[] = []
 
 const tagLabel: Record<ChangeType, string> = {
   added: 'Added',
