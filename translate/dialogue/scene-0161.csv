@@ -1,2 +1,5 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 ,奥から〓ならぬ気配を感じる…,A deadly presence lurks within...,,1,1,161,1,,
+,奥へ行く,Continue.,,2,1,161,2,245,not displayed by the event script
+,やめる,Leave.,,2,2,161,3,245 297 303 385 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,王家の地下道,Royal Underground Path,,2,4,161,8,145 147 151 157 159 163 165 167 169 173 175,not displayed by the event script

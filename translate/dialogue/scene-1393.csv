@@ -1,16 +1,99 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
-Musician,1曲1000 OTH！,"1 song, 1000 OTH!","1 música, 1.000 OTH!",1,1,1393,2,,
-Musician,このドケチ！,What a tightwad!,Que pão-duro!,1,2,1393,6,,
-Musician,金ないじゃん ひやかしお断り,"If you can't pay, we don't play.","Se você não pode pagar, nós não tocamos.",1,3,1393,7,,
-Musician,リクエストは？,Any requests?,Algum pedido?,1,4,1393,8,1393,
-Talent Agent,1曲2000 OTHで御座います,We request 2000 OTH per song.,Pedimos 2.000 OTH por música.,1,5,1393,9,,
-Talent Agent,では お引取り下さい,Please take this.,"Por favor, aceite isto.",1,6,1393,13,,
+Musician,1曲1000 OTH！,"1 song, 1000 OTH!","",1,1,1393,2,,
+Musician,このドケチ！,What a tightwad!,,1,2,1393,6,,
+Musician,金ないじゃん ひやかしお断り,"If you can't pay, we don't play.","",1,3,1393,7,,
+Musician,リクエストは？,Any requests?,,1,4,1393,8,,
+Talent Agent,1曲2000 OTHで御座います,We request 2000 OTH per song.,,1,5,1393,9,,
+Talent Agent,では お引取り下さい,Please take this.,"",1,6,1393,13,,
 Talent Agent,所持金が足りないようですね持ち合わせのある時におこし下さい,"It seems you don't have enough money.
-Come when you have a rendezvous.","Parece que você não tem dinheiro suficiente.
-Volte quando tiver um compromisso agendado.",1,7,1393,14,,
-Musician,この曲は、まだ聴かせられない。,You're not ready for that song.,Você ainda não está pronta para essa música.,2,1,1393,196,,
+Come when you have a rendezvous.","",1,7,1393,14,,
+Musician,この曲は、まだ聴かせられない。,You're not ready for that song.,,2,1,1393,196,,
 Talent Agent,この曲は まだお聴かせできません別の曲をご指定下さい,"You're not ready for that song.
-Pick another one.","Você ainda não está pronta para essa música.
-Escolha outra.",2,2,1393,218,,
+Pick another one.","",2,2,1393,218,,
+,サウンド・モード,Sound Mode,,3,1,1393,1,,not displayed by the event script
+,OTH？,Pay 1000 OTH?,,3,2,1393,3,,not displayed by the event script
+,払う,Pay up.,,3,3,1393,4,,not displayed by the event script
+,払わない,Pay no mind.,,3,4,1393,5,,not displayed by the event script
+,OTH？,Pay 2000 OTH?,,3,5,1393,10,,not displayed by the event script
+,サウンドセレクト,Sound Select,,3,8,1393,16,,not displayed by the event script
+,A（～）,A (1-4),,3,9,1393,17,,not displayed by the event script
+,B（～）,B (1-20),,3,10,1393,18,,not displayed by the event script
+,C（～）,C (1-17),,3,11,1393,19,,not displayed by the event script
+,D（～）,D (1-13),,3,12,1393,20,,not displayed by the event script
+,E（～）,E (1-11),,3,13,1393,26,,not displayed by the event script
+,F（～）,F (1-6),,3,14,1393,27,,not displayed by the event script
+,A,A-1,,3,16,1393,29,,not displayed by the event script
+,A,A-2,,3,17,1393,30,,not displayed by the event script
+,A,A-3,,3,18,1393,31,,not displayed by the event script
+,A,A-4,,3,19,1393,32,,not displayed by the event script
+,B,B-1,,3,21,1393,34,,not displayed by the event script
+,B,B-2,,3,22,1393,35,,not displayed by the event script
+,B,B-3,,3,23,1393,36,,not displayed by the event script
+,B,B-4,,3,24,1393,37,,not displayed by the event script
+,B,B-5,,3,25,1393,38,,not displayed by the event script
+,B,B-6,,3,26,1393,39,,not displayed by the event script
+,B,B-7,,3,27,1393,40,,not displayed by the event script
+,次へ,Next,,3,28,1393,41,,not displayed by the event script
+,B,B-8,,3,30,1393,43,,not displayed by the event script
+,B,B-9,,3,31,1393,44,,not displayed by the event script
+,B,B-10,,3,32,1393,45,,not displayed by the event script
+,B,B-11,,3,33,1393,46,,not displayed by the event script
+,B,B-12,,3,34,1393,47,,not displayed by the event script
+,B,B-13,,3,35,1393,48,,not displayed by the event script
+,前へ,Back,,3,36,1393,49,,not displayed by the event script
+,B,B-14,,3,39,1393,52,,not displayed by the event script
+,B,B-15,,3,40,1393,53,,not displayed by the event script
+,B,B-16,,3,41,1393,54,,not displayed by the event script
+,B,B-17,,3,42,1393,55,,not displayed by the event script
+,B,B-18,,3,43,1393,56,,not displayed by the event script
+,B,B-19,,3,44,1393,57,,not displayed by the event script
+,B,B-20,,3,45,1393,58,,not displayed by the event script
+,C,C-1,,3,48,1393,61,,not displayed by the event script
+,C,C-2,,3,49,1393,62,,not displayed by the event script
+,C,C-3,,3,50,1393,63,,not displayed by the event script
+,C,C-4,,3,51,1393,64,,not displayed by the event script
+,C,C-5,,3,52,1393,65,,not displayed by the event script
+,C,C-6,,3,53,1393,66,,not displayed by the event script
+,C,C-7,,3,54,1393,67,,not displayed by the event script
+,C,C-8,,3,57,1393,70,,not displayed by the event script
+,C,C-9,,3,58,1393,71,,not displayed by the event script
+,C,C-10,,3,59,1393,72,,not displayed by the event script
+,C,C-11,,3,60,1393,73,,not displayed by the event script
+,C,C-12,,3,61,1393,74,,not displayed by the event script
+,C,C-13,,3,62,1393,75,,not displayed by the event script
+,C,C-14,,3,66,1393,79,,not displayed by the event script
+,C,C-15,,3,67,1393,80,,not displayed by the event script
+,C,C-16,,3,68,1393,81,,not displayed by the event script
+,C,C-17,,3,69,1393,82,,not displayed by the event script
+,D,D-1,,3,72,1393,88,,not displayed by the event script
+,D,D-2,,3,73,1393,89,,not displayed by the event script
+,D,D-3,,3,74,1393,90,,not displayed by the event script
+,D,D-4,,3,75,1393,91,,not displayed by the event script
+,D,D-5,,3,76,1393,92,,not displayed by the event script
+,D,D-6,,3,77,1393,93,,not displayed by the event script
+,D,D-7,,3,78,1393,94,,not displayed by the event script
+,D,D-8,,3,81,1393,97,,not displayed by the event script
+,D,D-9,,3,82,1393,98,,not displayed by the event script
+,D,D-10,,3,83,1393,99,,not displayed by the event script
+,D,D-11,,3,84,1393,100,,not displayed by the event script
+,D,D-12,,3,85,1393,101,,not displayed by the event script
+,D,D-13,,3,86,1393,102,,not displayed by the event script
+,E,E-1,,3,89,1393,106,,not displayed by the event script
+,E,E-2,,3,90,1393,107,,not displayed by the event script
+,E,E-3,,3,91,1393,108,,not displayed by the event script
+,E,E-4,,3,92,1393,109,,not displayed by the event script
+,E,E-5,,3,93,1393,110,,not displayed by the event script
+,E,E-6,,3,94,1393,111,,not displayed by the event script
+,E,E-7,,3,95,1393,112,,not displayed by the event script
+,E,E-8,,3,98,1393,115,,not displayed by the event script
+,E,E-9,,3,99,1393,116,,not displayed by the event script
+,E,E-10,,3,100,1393,117,,not displayed by the event script
+,E,E-11,,3,101,1393,118,,not displayed by the event script
+,F,F-1,,3,103,1393,124,,not displayed by the event script
+,F,F-2,,3,104,1393,125,,not displayed by the event script
+,F,F-3,,3,105,1393,126,,not displayed by the event script
+,F,F-4,,3,106,1393,127,,not displayed by the event script
+,F,F-5,,3,107,1393,172,,not displayed by the event script
+,F,F-6,,3,108,1393,173,,not displayed by the event script
 ,ミュージシャン,Musician,,3,154,1393,226,,not displayed by the event script
 ,マネージャー,Talent Agent,,3,155,1393,227,,not displayed by the event script

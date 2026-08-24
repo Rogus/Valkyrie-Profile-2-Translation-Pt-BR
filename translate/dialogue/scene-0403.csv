@@ -23,3 +23,12 @@ Boy,逃げろって言われて…でも お父さんが心配だったから…
 but I'm worried about Daddy... <PART>
 ---
 Why isn't he moving?",,1,5,403,7,,
+,識者の経験 <PART> を手に入れた,Acquired <PART> Expert's Experience,,2,2,403,3,79 87 101 947,not displayed by the event script
+,出口,Exit,,2,3,403,8,33 79 81 89 105 117 119 121 163 183 191 225 265 269 299 323 423 451 545 571 589 901 961 1015 1155 1157 1159 1165 1175 1191 1193,not displayed by the event script
+,ディパン城内から出ます（封印石の配置は初期化されます）,"Leave Dipan Castle?
+(Sealstones return to original places.)",,2,4,403,9,,not displayed by the event script
+,はい,Yes,,2,5,403,10,33 41 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,6,403,11,33 41 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,ディパン城,Dipan Castle,,2,7,403,12,199 203 209 211 213 215 217 219 221 391 393 395 397 399 401 409 411 413 415 417 419,not displayed by the event script
+,ディパン兵士,Dipan Soldier,,2,9,403,2754,53 57 59 141 143 391 393 395 399,not displayed by the event script
+,少年,Boy,,2,10,403,2755,33 35 53 89 107 119,not displayed by the event script

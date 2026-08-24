@@ -23,6 +23,29 @@ Ye who would command, know ye by
 heart these secrets... <PART>
 ---
 ",,1,6,73,9,,
+,〓戦術指南書〓 <PART> 心せよ。共に戦う仲間の生死は、指揮官たる者の実力次第であると知れ。,"
+Remember at all times:
+One's ability to command determines
+whether comrades live or die.",,1,7,73,10,49 87 97,
+,〓戦術指南書〓 <PART> 属性について <PART> 属性とは『炎』『氷』『雷』『土』という種の自然の力である。そしてこれらのつの更なる上位に『聖』と『闇』と呼ばれる属性の魔法が存在する。 <PART> 〓戦術指南書〓 <PART> 属性について <PART> 火を生み出す炎術は〓に弱い魔物を得意とし、水を操る氷術は火属性の魔物によく効くであろう。 毒を生み出す土術は生命体に絶大な効果を持ち、電撃を撃ち放つ雷術は金属〓の魔物に効果が高い。 <PART> 〓戦術指南書〓 <PART> 属性について <PART> 敵である魔物の特性を理解し、〓切な属性によって攻撃をすれば、戦闘を有利に進める事が可能となる。,"Elements <PART>
+There are four natural elements:
+fire, ice, lightning, and earth.
+Beyond these, there are also the
+magic elements, holy and dark. <PART>
+---
+ <PART> Elements <PART>
+The fire techniques are effective against
+monsters weak against heat, while ice
+works well against fire-element monsters.
+Earth techniques bearing poison are
+powerful against living organisms, while
+lightning strikes metal monsters hard. <PART>
+---
+ <PART> Elements <PART>
+Knowing the characteristics of your
+enemy, and the appropriate elements to
+attack with, can be a great advantage
+in battle.",,1,8,73,19,49 87 97,
 ,〓戦術指南書〓 <PART> ダッシュについて <PART> 素早い移動は戦闘において何よりの要となる。神速の移動、 <PART> ダッシュ <PART> を使いこなせるかどうかで、勝敗の行方は大きく変わるであろう。 ダッシュは <PART> で発動する事が可能である。 <PART> 〓戦術指南書〓 <PART> ダッシュについて <PART> ダッシュで移動できる〓離には段階ある。 <PART> を短く押せば短〓離の移動が、長く押せば長〓離の移動が、素早く回連続して押せば中〓離の移動が可能である。 <PART> 〓戦術指南書〓 <PART> ダッシュについて <PART> 更に、ダッシュの状態から止まる事なく、そのまま流れるように攻撃に移る事で、仲間が着地する際の隙を無くす事が可能となる。これを <PART> ダッシュキャンセル <PART> と呼ぶ。,"Dashing <PART>
 Swift movement is the key to combat.
 Whether or not you master <PART> dashing <PART> may decide
@@ -141,4 +164,11 @@ multiple foes at once.
 But enemies may use it as well. When
 attacked with Great Magic, keep the status of
 those beside the targeted character in mind.",,1,11,73,16,87,
+,外へ,Head outside,,2,1,73,1,39 41 43 45 47 49 51 63 65 67 69 71 75 83 85 87 93 95 97 99 101 103 109 111 113 115 127 129 131 133 135 137 139,not displayed by the event script
+,読む,Read,,2,2,73,2,43 47 49 51 75 77 87 95 129 131,not displayed by the event script
+,・属性について,▪Elements,,2,5,73,12,49 87 97,not displayed by the event script
+,・ダッシュについて,▪Dashing,,2,6,73,13,49 87 97,not displayed by the event script
+,・状態異常について,▪Status Ailments,,2,7,73,14,49 87 97,not displayed by the event script
+,・魔法の使い方について,▪Casting Spells,,2,8,73,15,49 87 97,not displayed by the event script
+,ディパン城下町,Dipan,,2,9,73,50,53 55 57 59 61 63 65 67 69 71 75 77 141 143,not displayed by the event script
 ,〓人,Elder,,2,10,73,84,99 137,not displayed by the event script

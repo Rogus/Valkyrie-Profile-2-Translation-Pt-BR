@@ -123,4 +123,16 @@ You think I'm being cold? It's only natural
 for people to look out for number one. Don't you?",,1,35,105,55,,
 Townsperson,ディパンが滅びようと何だろうと俺達の生活も砂の量も変わりはないネ,"Whatever happens to Dipan doesn't make a
 difference in our lives, or to the sand.",,1,36,105,56,,
-,カルスタッド住人,Townsperson,Habitante,2,18,105,2800,107 109 115 117,not displayed by the event script
+,宿屋,Inn,,2,3,105,3,33 53 81 89 121,not displayed by the event script
+,民家,House,,2,4,105,4,33 37 53 55 79 81 89 107 119 121 123,not displayed by the event script
+,カルスタッド,Kalstad,,2,5,105,5,29 107 109 111 113 115 117,not displayed by the event script
+,出口,Exit,,2,6,105,6,33 79 81 89 117 119 121 163 183 191 225 265 269 299 323 403 423 451 545 571 589 901 961 1015 1155 1157 1159 1165 1175 1191 1193,not displayed by the event script
+,カルスタッドから出ます,Leave Kalstad?,,2,7,105,7,117,not displayed by the event script
+,はい,Yes,,2,8,105,8,33 41 63 79 81 83 89 93 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,9,105,9,33 41 63 79 81 83 89 93 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,お守り <PART> を手に入れた,Acquired <PART> Charm,,2,10,105,26,297,not displayed by the event script
+,無欠のタリスマン <PART> を手に入れた,Acquired <PART> Foolproof Talisman,,2,11,105,29,437 505 571 1003,not displayed by the event script
+,お守りを渡す？,Hand over the charm?,,2,13,105,31,,not displayed by the event script
+,金の卵 <PART> を手に入れた,Acquired <PART> Golden Egg,,2,16,105,38,47 79 81 385 499 585 1095,not displayed by the event script
+,カルスタッド住人,Townsperson,,2,18,105,2800,107 109 115 117,not displayed by the event script
+,冒険者,Adventurer,,2,19,105,2801,41 43 45 47 65 79 81 93 95 109 115 121 127 1159,not displayed by the event script

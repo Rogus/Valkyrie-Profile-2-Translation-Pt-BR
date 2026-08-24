@@ -240,3 +240,122 @@ h1.accent {
   border-radius: 8px;
   background: var(--code-bg);
 }
+
+.changelog {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 0 48px;
+  text-align: left;
+}
+
+.changelog-sub {
+  color: var(--text);
+  margin-bottom: 32px;
+}
+
+.changelog-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 32px;
+  border-left: 2px solid var(--border);
+}
+
+.changelog-entry {
+  position: relative;
+  padding: 0 0 28px 24px;
+  margin-left: 8px;
+}
+
+.changelog-entry::before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 4px var(--bg);
+}
+
+.changelog-entry:last-child {
+  padding-bottom: 0;
+}
+
+.changelog-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.changelog-version {
+  font-family: var(--heading);
+  font-weight: 500;
+  font-size: 20px;
+  color: var(--text-h);
+}
+
+.changelog-date {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--text);
+}
+
+.changelog-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.changelog-item {
+  display: grid;
+  grid-template-columns: 80px;
+  column-gap: 12px;
+  align-items: start;
+  line-height: 1.5;
+}
+
+.changelog-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-family: var(--mono);
+  text-align: center;
+  border: 1px solid var(--accent-border);
+  background: var(--accent-bg);
+  color: var(--accent);
+}
+
+.changelog-tag-added {
+  background: rgba(34, 197, 94, 0.12);
+  border-color: rgba(34, 197, 94, 0.45);
+  color: rgb(34, 197, 94);
+}
+
+.changelog-tag-changed {
+  background: var(--accent-bg);
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+.changelog-tag-fixed {
+  background: rgba(234, 179, 8, 0.12);
+  border-color: rgba(234, 179, 8, 0.45);
+  color: rgb(234, 179, 8);
+}
+
+.changelog-text {
+  color: var(--text);
+}
+
+@media (max-width: 1024px) {
+  .changelog-item {
+    grid-template-columns: 70px;
+  }
+}

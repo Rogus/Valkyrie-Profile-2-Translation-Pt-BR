@@ -1,3 +1,5 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
-,鉱山の鍵 <PART> を手に入れた,Acquired <PART> Key to the Mines,,1,5,595,16,,
-,クリスタルチェイン <PART> を手に入れた,Acquired <PART> Crystal Chainmail,,1,6,595,17,,
+,トゥルゲン鉱山,Turgen Mine,,1,3,595,14,29 589 591 593 599 601 603,
+,小人の霊薬 <PART> を手に入れた,Acquired <PART> Dwarf Tincture,,1,4,595,15,199 229 245 259 271 319 391 599 1177,
+,鉱山の鍵 <PART> を手に入れた,Acquired <PART> Key to the Mines,,1,5,595,16,601,
+,クリスタルチェイン <PART> を手に入れた,Acquired <PART> Crystal Chainmail,,1,6,595,17,263,

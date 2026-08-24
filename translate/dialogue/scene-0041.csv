@@ -7,7 +7,7 @@ one of those supposedly immortal elves. <PART>
 But for some reason I feel really cold...
 It's not my body, it's...my soul.",,1,2,41,8,,
 Adventurer,今は話しかけないでくれ…〓心中なんだ…,"Please don't talk to me.
-I've fallen on hard times.",,1,3,41,9,41,
+I've fallen on hard times.",,1,3,41,9,,
 Owner,あ あの…そういうの ちょっと困ります,"Well, umm...
 That's kind of a problem, you see...",,1,4,41,7,,
 Adventurer,そろそろ出発しなきゃなまた魔物と闘うのはうんざりだが… <PART> 俺はまだ出会った事が無いんだけど普通の武器では〓つけられない魔物がいるそうだ <PART> そういう時はどうするかって？まぁ 手っ取り早いのは魔法だろうなぁ,"Well, I should be going soon.
@@ -89,5 +89,11 @@ Owner,う～ん…ちょっとお金足りないわね…〓いだらまた来�
 Come back when you have the money!",,1,41,41,2788,63 83 93 109 133,
 Owner,お〓様 代金が若干足りないようですので今回はちょっと…,"I'm afraid we require full payment
 in advance in order to allocate rooms.",,1,42,41,2789,63 83 93 109 133,
+,外へ,Head outside,,2,1,41,1,39 43 45 47 49 51 63 65 67 69 71 73 75 83 85 87 93 95 97 99 101 103 109 111 113 115 127 129 131 133 135 137 139,not displayed by the event script
+,話す,Talk,,2,2,41,5,35 43 63 67 77 83 95 393 399 401 437,not displayed by the event script
+,宿代 <PART> OTH,Room charge: <PART> OTH,,2,3,41,2757,63 83 93 109 133,not displayed by the event script
+,はい,Yes,,2,4,41,2758,33 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,5,41,2759,33 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 445 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,港町ゾルデ,Solde,,2,6,41,2790,29 33 35 37 39 43 45 47 49 51,not displayed by the event script
 ,冒険者,Adventurer,,2,7,41,2791,43 45 47 65 79 81 93 95 105 109 115 121 127 1159,not displayed by the event script
 ,宿屋主人,Owner,,2,8,41,2792,63 83 93 109 133,not displayed by the event script

@@ -2,8 +2,18 @@ speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,
 Townsperson,な なんですか人の家に勝手に入ってきて…ノックくらいすれば〓しいんじゃなくて！？,"What's the big idea, coming in unannounced!?
 Didn't anybody ever teach you to knock!?",,1,1,85,2,,
 Townsperson,べ 別に〓てているわけじゃありませんわ！家には何もありませんもの！ ええ！,"Nervous? Who's nervous? I'm not nervous!
-I've got nothing to hide! Nothing!",,1,2,85,3,85,
+I've got nothing to hide! Nothing!",,1,2,85,3,,
 Townsperson,ちょっと貴方！ 何勝手に家の物に〓っていらっしゃるの！？ 失礼でしょ！,"Who do you think you are?
 Get your hands off my stuff!",,1,3,85,8,,
 Townsperson,もう また貴方ですの！？勝手に家の中に入らないでくださいな！,"Well, well... Look who we have here!
 Funny, I don't recall inviting you...",,1,4,85,9,,
+,OTH <PART> を手に入れた,Acquired <PART> OTH,,1,6,85,406,39 47 49 83 87 101 103 111 113 135 139 197 265 423 557 571 589 1155 1159 1183,
+,OTH <PART> を失った,Lost <PART> OTH,,1,7,85,407,39 47 49 83 87 101 103 111 113 135 139 197 265 423 557 571 589 1155 1159 1183,
+,所持金 <PART> OTH,"Money
+ <PART> OTH",,1,8,85,408,39 47 49 83 87 101 103 111 113 135 139 197 265 423 557 571 589 1155 1159 1183,
+,外へ,Head outside,,2,1,85,1,39 41 43 45 47 49 51 63 65 67 69 71 73 75 83 87 93 95 97 99 101 103 109 111 113 115 127 129 131 133 135 137 139,not displayed by the event script
+,コアエメラルド <PART> を手に入れた,Acquired <PART> Core Emerald,,2,2,85,4,,not displayed by the event script
+,調べる,Check,,2,3,85,5,51 63 97 101 103 111 113 135 139 297 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,アースジェム <PART> を手に入れた,Acquired <PART> Earth Gem,,2,5,85,7,83 135 139,not displayed by the event script
+,コリアンドル村,Coriander,,2,6,85,411,29 79 81 83 87,not displayed by the event script
+,コリアンドル村住人,Townsperson,,2,7,85,2815,79 81,not displayed by the event script

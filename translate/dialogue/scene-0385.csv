@@ -1,0 +1,8 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,〓ならぬ気配を感じる…,A deadly presence lurks ahead...,,1,1,385,3,297 1039 1051 1055 1063 1067 1083 1089 1095 1107,
+,調べる,Check.,,2,2,385,4,,not displayed by the event script
+,やめる,Leave.,,2,3,385,5,161 245 297 303 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,奉竜殿,Palace of the Venerated Dragon,,2,4,385,11,29 323 327 329 331 333 335 337 339 341 345 347 351 353 355 357 361 365 369 371 373 375 379 381 383 387 389,not displayed by the event script
+,陽月の石 <PART> を手に入れた,Acquired <PART> Sun and Moon Stone,,2,5,385,12,,not displayed by the event script
+,金の卵 <PART> を手に入れた,Acquired <PART> Golden Egg,,2,6,385,13,47 79 81 105 499 585 1095,not displayed by the event script
+,ドラゴンアーマー <PART> を手に入れた,Acquired <PART> Dragon Armor,,2,7,385,14,,not displayed by the event script

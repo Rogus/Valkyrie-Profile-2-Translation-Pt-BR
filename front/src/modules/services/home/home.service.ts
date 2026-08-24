@@ -8,14 +8,16 @@ export default class HomeService implements IHomeService {
 
   public getImages(): Image[] {
     return [
-      { src: 'title-cutscene.png', alt: 'Title cutscene' },
-      { src: 'first-cutscene.png', alt: 'First cutscene' },
-      { src: 'world-map.png', alt: 'World map' },
-      { src: 'npc-dialog.png', alt: 'NPC dialog' },
+      { src: 'title-cutscene.png', alt: 'Title Cutscene' },
+      { src: 'first-cutscene.png', alt: 'First Cutscene' },
+      { src: 'world-map.png', alt: 'World Map' },
+      { src: 'npc-dialog.png', alt: 'NPC Dialog' },
+      { src: 'inn.png', alt: 'Inn' },
       { src: 'menu.png', alt: 'Menu' },
-      { src: 'character-background.png', alt: 'Character background' },
-      { src: 'him.png', alt: 'Him' },
-      { src: 'final-battle.png', alt: 'Final battle' }
+      { src: 'character-background.png', alt: 'Character Background' },
+      { src: 'system-message.png', alt: 'System Message' },
+      { src: 'final-battle.png', alt: 'Final Battle' },
+      { src: 'him.png', alt: 'Him' }
     ]
   }
 

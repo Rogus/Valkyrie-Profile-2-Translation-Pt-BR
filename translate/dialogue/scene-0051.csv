@@ -36,6 +36,12 @@ I have to go now and beat the rush...",,1,7,51,8,,
 ,詩文を〓えし旅人は終わりの時の <PART> 移 <PART> ろいを待ちて再び <PART> 〓処 <PART> を訪れよ,"Gather ye the words and
 come once more, when
 the end has come.",,1,11,51,17,,
-,…〓〓が変わっている,The words have changed.,,1,12,51,18,51,
+,…〓〓が変わっている,The words have changed.,,1,12,51,18,,
 ,過ぎ去りし住人の後に神の〓みは密やかに息づく,"From erstwhile friends
 come divine blessings.",,1,13,51,15,,
+,外へ,Head outside,,2,1,51,1,39 41 43 45 47 49 63 65 67 69 71 73 75 83 85 87 93 95 97 99 101 103 109 111 113 115 127 129 131 133 135 137 139,not displayed by the event script
+,読む,Read,,2,2,51,9,43 47 49 73 75 77 87 95 129 131,not displayed by the event script
+,調べる,Check,,2,3,51,10,63 85 97 101 103 111 113 135 139 297 1039 1051 1055 1063 1067 1083 1089 1095 1107,not displayed by the event script
+,トライエンブレム <PART> を手に入れた,Acquired <PART> tri-Emblem,,2,4,51,12,,not displayed by the event script
+,港町ゾルデ,Solde,,2,5,51,357,29 33 35 37 39 41 43 45 47 49,not displayed by the event script
+,ゾルデ住人,Townsperson,,2,6,51,2760,33 35,not displayed by the event script

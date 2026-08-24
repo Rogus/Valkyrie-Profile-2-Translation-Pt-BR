@@ -2,29 +2,33 @@ speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,
 Rufus,アリーシャが望む未来…,The future that Alicia wanted...,,1,1,1325,1558,,
 Rufus,世界はあまりに歪んでしまった…ほんの少しでも良い方向へ導かないと <PART> ――,"The world has become so twisted and distorted.
 It can't be left like this. Someone has to
-straighten it out.",,1,2,1325,1559,,
+straighten it out.","",1,2,1325,1559,,
 Rufus,それが… 残された俺達の使命だ,That someone is us. Who else can do it?,,1,3,1325,1560,,
 Rufus,俺はアスガルドへ行く <PART> ――,I'm going to Asgard.,,1,4,1325,1561,,
 Rufus,アスガルドを護るグングニルを戻さなきゃならない…,"Gungnir is the key. It needs to be returned
 for Asgard to be safe.",,1,5,1325,1562,,
 Brahms,お前が主神なら 我ら不死者も永遠に神々と争わずにすみそうだ,"I doubt we undead would need battle the
-gods any longer if you were their king.",,1,6,1325,1563,,
+gods any longer if you were their king.","",1,6,1325,1563,702,5
 Rufus,あのフレイってねーちゃんどんな顔するかなぁ,I wonder how old Freya will take it?,,1,7,1325,1564,,
 Brahms,…頼りにしてるぞ,"Good luck, friend.",,1,8,1325,1565,,
 Brahms,…どうやらこの世界では私は不死者でなくなってしまったらしい,"I don't know how, but in this world I'm
 no longer undead.",,1,9,1325,1582,,
 Arngrim,何だって！？,What do you mean?,,1,10,1325,1583,,
-Brahms,“死”を感じる <PART> ――,I feel mortal.,,1,11,1325,1581,,
-Brahms,大昔に一度だけ味わった記憶が蘇るようだ,It's a sensation I once felt long ago.,,1,12,1325,1569,,
+Brahms,“死”を感じる <PART> ――,I feel mortal.,"",1,11,1325,1581,,
+Brahms,大昔に一度だけ味わった記憶が蘇るようだ,It's a sensation I once felt long ago.,,1,12,1325,1569,702,11
 Brahms,…悪くない,It's not bad.,,1,13,1325,1570,,
 Brahms,いい死に場所が見つかった,This is a good place to die.,,1,14,1325,1571,,
 Rufus,ここに残る気か！？,You're going to stay here!?,,1,15,1325,1572,,
-Brahms,不死者である私に帰る場所はない,There's no other place to go for this demon.,,1,16,1325,1573,,
+Brahms,不死者である私に帰る場所はない,There's no other place to go for this demon.,,1,16,1325,1573,702,15
 Arngrim,俺も同じだ 付き合うぜ,The same goes for me. I'll join you.,,1,17,1325,1574,,
 Brahms,お断りだ,"No, you won't.",,1,18,1325,1575,,
 Brahms,人間だったお前には ミッドガルド再生という大きな仕事が残っている…,"You were once human. You have work to do.
-The task of repairing Midgard still looms.",,1,19,1325,1576,,
+The task of repairing Midgard still looms.","",1,19,1325,1576,,
 Arngrim,…俺に オーブの守護者になれってか？,What? You want me to be Guardian of the Orb?,,1,20,1325,1577,,
 Brahms,他に誰がいる？,Who else is there?,,1,21,1325,1584,,
 Brahms,皆が収まるべき場所に 収まるわけだ,We all end up where we belong.,,1,22,1325,1579,,
 Rufus,行こう,Let's go.,,1,23,1325,1580,,
+,イベントマップ,EVENT_MAP,,2,1,1325,1586,1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1339 1341 1343 1345 1347 1351 1353 1357 1359 1361 1363 1365 1367 1369 1371 1375 1377 1379 1387 1389,not displayed by the event script
+,ルーファス,Rufus,,2,2,1325,2741,901 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1223 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1261 1275 1277 1281 1283 1285 1287 1289 1291 1295 1297 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1335 1337 1351 1357 1359 1361 1367 1389,not displayed by the event script
+,ブラムス,Brahms,,2,3,1325,2742,1283 1313 1317 1321 1337 1351 1353,not displayed by the event script
+,アリューゼ,Arngrim,,2,4,1325,2743,1245 1247 1253 1263 1275 1277 1281 1283 1303 1305 1313 1317 1321 1335 1363,not displayed by the event script

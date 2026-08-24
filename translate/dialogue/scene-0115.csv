@@ -40,3 +40,10 @@ Be careful if you go into that desert. <PART>
 ---
 Don't let your guard down for a second, or
 that'll be the end of you. Take care!",,1,10,115,14,,
+,外へ,Head outside,,2,1,115,1,39 41 43 45 47 49 51 63 65 67 69 71 73 75 83 85 87 93 95 97 99 101 103 109 111 113 127 129 131 133 135 137 139,not displayed by the event script
+,微〓な〓い 100 OTH,Shady fortune telling 100 OTH,,2,2,115,8,,not displayed by the event script
+,〓う,Lay it on me.,,2,3,115,9,,not displayed by the event script
+,やめておく,Lay off of it.,,2,4,115,10,,not displayed by the event script
+,カルスタッド,Kalstad,,2,5,115,71,29 105 107 109 111 113 117,not displayed by the event script
+,カルスタッド住人,Townsperson,,2,6,115,2811,105 107 109 117,not displayed by the event script
+,冒険者,Adventurer,,2,7,115,2812,41 43 45 47 65 79 81 93 95 105 109 121 127 1159,not displayed by the event script

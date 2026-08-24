@@ -3,3 +3,7 @@ speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,
 ---
 Slash behind the statue,
 but do not be seen...",,1,1,337,5,,
+,〓0000 OTH <PART> を手に入れた,Acquired <PART> 30000 OTH,,2,1,337,1,,not displayed by the event script
+,輪光の石 <PART> を手に入れた,Acquired <PART> Halo Stone,,2,2,337,3,,not displayed by the event script
+,奉竜殿,Palace of the Venerated Dragon,,2,4,337,11,29 323 327 329 331 333 335 339 341 345 347 351 353 355 357 361 365 369 371 373 375 379 381 383 385 387 389,not displayed by the event script
+,ユニオンプラム <PART> を手に入れた,Acquired <PART> Union Plume,,2,5,337,14,69 189 197 259 371 379 391 485 495 527 931 1081,not displayed by the event script

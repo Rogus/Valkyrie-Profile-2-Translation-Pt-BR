@@ -1,3 +1,4 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 ,体力とステータス異常が回復した,Health and status ailments healed!,,1,1,449,3,,
+,ビフレスト,Bifrost,,2,1,449,1,447,not displayed by the event script
 ,虹の〓,Rainbow Spring,,2,2,449,2,,not displayed by the event script

@@ -1,2 +1,8 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 ,今の私では無理なのね…,I can't pass through yet.,,1,1,445,4,,
+,精霊の森,Forest of Spirits,,2,2,445,2,29 423 427 433 437 439 441 443,not displayed by the event script
+,狭間の洞窟へ,Ravine Caverns,,2,3,445,3,,not displayed by the event script
+,精霊の森から出ます（封印石の配置は初期化されます）,"Leave the Forest of Spirits?
+(Sealstones return to original places.)",,2,4,445,5,423,not displayed by the event script
+,はい,Yes,,2,5,445,6,33 41 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script
+,いいえ,No,,2,6,445,7,33 41 63 79 81 83 89 93 105 107 109 117 119 121 123 133 167 173 183 189 191 225 233 243 253 255 265 269 273 283 299 313 319 323 339 361 371 403 423 451 545 565 571 579 589 599 605 897 901 961 1015 1155 1157 1159 1165 1167 1175 1179 1191 1193 1217 1307 1389,not displayed by the event script

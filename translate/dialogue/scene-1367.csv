@@ -1,6 +1,7 @@
 speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
 Rufus,なんだ！？,What!?,,1,1,1367,2740,,
-Dog Hrist,不死者王！！,Lord of the Undead!,,1,3,1367,2742,1367,
+Dylan,“王呼の秘法”だッ！,The Sovereign's Rite!,,1,2,1367,2741,1283 1337,
+Dog Hrist,不死者王！！,Lord of the Undead!,,1,3,1367,2742,,
 ,不死者王！ 不死者王！,"Lord of the Undead! Lord of the
 Undead!!!",,1,5,1367,2744,,
 Dog Hrist,無茶しすぎよ！ 不死者王！！,"You've taken it too far,
@@ -21,5 +22,11 @@ You plump pickup artist!",,1,14,1367,2751,,
 Dog Rufus,まったく <PART> どいつもこいつも <PART> 隠し事ばっかりしやがって…,"Yeah... Dammit! <PART> Turns out everybody
  <PART> was hiding something...",,1,15,1367,2754,,
 Dog Lezard,…まったくですね,"Bummer, huh?",,1,16,1367,2755,,
+,イベントマップ,EVENT_MAP,,2,1,1367,2756,1195 1199 1201 1203 1205 1207 1209 1211 1213 1215 1217 1219 1221 1223 1225 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1257 1261 1263 1265 1267 1269 1271 1273 1275 1277 1279 1281 1283 1285 1287 1289 1291 1293 1295 1297 1299 1301 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1325 1335 1337 1339 1341 1343 1345 1347 1351 1353 1357 1359 1361 1363 1365 1369 1371 1375 1377 1379 1387 1389,not displayed by the event script
+,ルーファス,Rufus,,2,2,1367,2757,901 1195 1199 1201 1203 1209 1211 1213 1217 1219 1221 1223 1227 1231 1233 1235 1237 1239 1245 1247 1251 1253 1255 1261 1275 1277 1281 1283 1285 1287 1289 1291 1295 1297 1303 1305 1307 1309 1311 1313 1315 1317 1321 1323 1325 1335 1337 1351 1357 1359 1361 1389,not displayed by the event script
+,ディラン,Dylan,,2,3,1367,2758,1199 1201 1203 1209 1213 1223 1227 1233 1235 1239 1245 1247 1251 1253 1255 1275 1277 1281 1283 1285 1335 1337,not displayed by the event script
+,犬アーリィ,Dog Hrist,,2,4,1367,2759,1359 1377,not displayed by the event script
+,犬アリーシャ,Dog Alicia,,2,5,1367,2760,1311 1359 1361,not displayed by the event script
 ,不死者王,Lord of the Undead,,2,6,1367,2761,1371 1375,not displayed by the event script
+,犬ルーファス,Dog Rufus,,2,7,1367,2762,1311 1361 1365 1369 1375 1377,not displayed by the event script
 ,犬レザード,Dog Lezard,,2,8,1367,2763,1369 1377 1379,not displayed by the event script

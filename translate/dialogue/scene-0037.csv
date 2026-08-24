@@ -24,9 +24,9 @@ but now this place is like a ghost town.",,1,5,37,10,,
 ,〓が欲しいみたい…,Looks hungry...,,1,6,37,29,81 89 123,
 ,たくさん食べてね,Eat up!,,1,7,37,13,81 89 123,
 ,ごめんなさい…今 あげられる物は何も無いの,"I'm sorry...
-I don't have any food for you.",,1,8,37,30,37 81 89 123,
+I don't have any food for you.",,1,8,37,30,81 89 123,
 ,ええと…あ…ありがとう…,"Umm...
-Right... Thank you.",,1,9,37,15,37 81 89,
+Right... Thank you.",,1,9,37,15,81 89,
 Cat,にゃふん！にゃんと 〓は猫の言葉がわかるのかニャ！？ <PART> 驚きだニャー… びっくりだニャーこんな人間はじめてだニャー <PART> 最近は この街からも人が減って寂しいニャ本当は人にぐりぐりされるのが好きなのニャ <PART> 〓も取り難くなったのニャ〓 何か持ってないかニャ？,"Meowwwtstanding!
 Mew can speak cat? <PART>
 ---
@@ -48,4 +48,18 @@ Cat,血も〓も無い人間だニャ～,Mew are a coldhearted purrson!,,1,15,37
 Cat,ありがとニャ！ おいしいニャ～,This is purrfect! Thank mew!,,1,17,37,40,,
 Cat,ニャ～…お腹へったニャ～……,"Mew!
 Help meowwwt!",,1,19,37,42,,
+,教会,Chapel,,2,2,37,2,55,not displayed by the event script
+,民家,House,,2,3,37,3,33 53 55 79 81 89 105 107 119 121 123,not displayed by the event script
+,港町ゾルデ <PART> 教会前広場,_ <PART> Solde <PART> Chapel Square,,2,5,37,5,,not displayed by the event script
+,海鮮肉 <PART> を手に入れた,Acquired <PART> Seafood,,2,6,37,11,,not displayed by the event script
+,狩られたネズミ <PART> を手に入れた,Acquired <PART> Hunted Mouse,,2,8,37,14,,not displayed by the event script
+,尻尾の切れたトカゲ <PART> を手に入れた,Acquired <PART> Tailless Lizard,,2,9,37,16,,not displayed by the event script
+,不幸な青い鳥 <PART> を手に入れた,Acquired <PART> Misfortunate Bird,,2,10,37,18,,not displayed by the event script
+,ねこのふん <PART> を手に入れた,Acquired <PART> Cat Poop,,2,11,37,20,,not displayed by the event script
+,海鮮肉をあげる,Feed it seafood?,,2,12,37,22,,not displayed by the event script
+,あげる,Sure.,,2,13,37,23,81 89,not displayed by the event script
+,あげない,Nope.,,2,14,37,24,81 89,not displayed by the event script
+,ソロモンの指輪 <PART> を手に入れた,Acquired <PART> Solomon's Ring,,2,20,37,44,35 79 81 89 123,not displayed by the event script
+,港町ゾルデ,Solde,,2,22,37,384,29 33 35 39 41 43 45 47 49 51,not displayed by the event script
 ,〓女,Matron,,2,23,37,2792,75 123 137 143,not displayed by the event script
+,猫,Cat,,2,24,37,2793,35,not displayed by the event script

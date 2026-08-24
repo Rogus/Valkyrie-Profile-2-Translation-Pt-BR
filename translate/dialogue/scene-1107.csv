@@ -1,0 +1,6 @@
+speaker,original_jp,original_en,translated,scene,scene_line,resource,message_id,also_shown_in,notes
+,〓ならぬ気配を感じる…,A deadly presence lurks ahead...,,1,1,1107,2,297 385 1039 1051 1055 1063 1067 1083 1089 1095,
+,調べる,Check,,2,1,1107,1,51 63 85 97 101 103 111 113 135 139 297 1039 1051 1055 1063 1067 1083 1089 1095,not displayed by the event script
+,〓く,Inspect the area.,,2,2,1107,3,1039 1051 1055 1063 1067 1083 1089 1095,not displayed by the event script
+,やめる,Leave.,,2,3,1107,4,161 245 297 303 385 1039 1051 1055 1063 1067 1083 1089 1095,not displayed by the event script
+,セラフィックゲート,Seraphic Gate,,2,7,1107,2970,29 1015 1017 1023 1025 1027 1031 1039 1043 1047 1049 1051 1055 1057 1061 1063 1065 1067 1073 1075 1081 1083 1089 1095 1097 1101 1105 1113 1115 1119 1121 1123 1127 1129 1131 1133 1143 1145 1147 1149,not displayed by the event script
