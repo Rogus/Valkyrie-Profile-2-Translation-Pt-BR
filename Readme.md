@@ -1,5 +1,7 @@
 # Valkyrie Profile 2 - Silmeria Translation
 
+[Translation Guide](./translating.md)
+
 [Showcase](https://trulio2.github.io/Valkyrie-Profile-2-Translation/)
 
 ### main story cutscenes
